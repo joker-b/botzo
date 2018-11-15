@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Kevin Bjorke:
+  name: Kevin Bjorke
+  picture: /images/bio-photo-2.jpg
+  twitter: "@bjorke"
+  links:
+    - title: Twitter
+      url: https://twitter.com/bjorke
+      icon: fab fa-twitter-square
+
+See See:
+  name: See See
+  picture: /images/bio-photo-ss.jpg
+  twitter: seeseeloca
