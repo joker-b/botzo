@@ -21,4 +21,5 @@ There are some glimmers of hope &#151; I found a few sites worth blogrolling, a 
 
 If anyone knows of <i>any</i> 3D computer animation sites, let me know.
 
+<!--more-->
 

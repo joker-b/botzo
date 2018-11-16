@@ -7,4 +7,5 @@ Are in-camera grayscale and sepia images created directly from the sensor raw da
 
 Steinmuller's method...
 
+<!--more-->
 

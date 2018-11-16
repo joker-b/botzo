@@ -7,4 +7,5 @@ categories: [fStop]
 
 Shot-but-unprocessed backlog down to zero again, save for the two rolls currently loaded: one in the Contax and one in a Canon SLR. One of today's rolls, now hanging to dry in the shower, was deliberately shot without any light metering. As I hoped, it looks just as consistently-exposed as any of the the others.
 
+<!--more-->
 

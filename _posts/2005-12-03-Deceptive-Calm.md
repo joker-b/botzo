@@ -23,4 +23,5 @@ An hour and half later: back in the water! Still tough, a number of troubles, no
 
 Hit the pillow Sunday night like a block of granite.
 
+<!--more-->
 

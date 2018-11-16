@@ -11,4 +11,5 @@ Even better luck, I hope, on the <a href="http://www.geocities.com/ilprode/TestZ
 
 On the subject of how few <a href="http://www.contaxinfo.com/" target="linkframe">Contax users</a> there are &#151; 'twas ever thus, even in the beginning days of the Japanese Contaxes. A tragedy, really. It's not easy to find much about them on the web, either &#151; which is why I tried to pile as many links as possible into this entry. My friend <a href="http://www.skjaerven.com" target="linkframe">Knut,</a> while tossing back Tuborgs a couple of months back, opined that he was the only Contax user he knew of in Denmark.
 
+<!--more-->
 

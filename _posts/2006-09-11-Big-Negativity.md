@@ -13,4 +13,5 @@ I haven't run any color neg in quite a while, and have been slowly working-throu
 
 I think I prefer the E100 after all, but I've picked up a couple of rolls of the current Fuji 400 just in case it's better than the NPH.
 
+<!--more-->
 

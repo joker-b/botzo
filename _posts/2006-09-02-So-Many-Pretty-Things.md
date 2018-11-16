@@ -9,4 +9,5 @@ categories: [fStop]
 
 <i>Printing more, too.</i>
 
+<!--more-->
 

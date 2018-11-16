@@ -13,4 +13,5 @@ The computer may not understand the "feeling" of a "fine arts" print, but Bae's 
 
 That, combined with Rob Fergus et al's <a href="http://people.csail.mit.edu/fergus/">"Removing Camera Shake from a Single Photograph,"</a> might raise the ire of plenty cheezy ULF shooters, used to dragging their heavy tripods up the sides of Yosemite like it was their own personal Golgotha. But for the rest of us, <i>bon appetit.</i>
 
+<!--more-->
 

@@ -7,6 +7,7 @@ categories: [GearHead,Nuke Em from Orbit]
 
 <p>Current parts manifest: </p>
 
+<!--more-->
 <ul>
 <li><a href="http://www.beagleboard.org/">Beagleboard</a></li>
 <li><a href="http://sourceforge.net/projects/opencvlibrary/">OpenCV</a></li>

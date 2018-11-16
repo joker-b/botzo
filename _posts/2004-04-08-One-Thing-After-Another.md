@@ -11,4 +11,5 @@ Oh, did I say... "US-backed"? <i>What was I thinking?</i> Where the heck is this
 
 I'm starting to worry about looking at tomorrow's media, if this pattern keeps up.
 
+<!--more-->
 

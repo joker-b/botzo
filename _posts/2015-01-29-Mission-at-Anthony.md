@@ -7,4 +7,5 @@ categories: [Fujifilm,GearHead,fStop]
 
 Sadly my <a href="/blog/archives/000794.html">X100s</a> was stolen last week, but the X100T has quickly consoled me. More on the details soon.
 
+<!--more-->
 

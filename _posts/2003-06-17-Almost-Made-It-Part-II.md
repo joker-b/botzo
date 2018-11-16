@@ -9,4 +9,5 @@ Also waiting by the mailbox for the latest Contax-G <a href="http://www.contaxg.
 
 If there's any time left after that stuff and getting into the office (long day today, stretching into the evening and up to San Francisco), I hope to fix some of the whacked formatting I left behind on the site while enabling a <a href="/blog/archives.html">links and journal archive page</a> yesterday. My apologies if everything looks whacked today... totally screwing-up your site is a <i>great</i> way to learn CSS, I hear.
 
+<!--more-->
 

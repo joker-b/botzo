@@ -7,6 +7,7 @@ categories: [Wire Service]
 
 As usual for when I'm out of town one or more of the computers are running &#151; fetching mail, sometimes monitoring the house via webcam, that sort of thing. During the break a curious thing seems to have happened: the rate at which I was receiving spam actually started to exceed the rate at which Eudora could accept mail. At least the way I had Eudora set up. The result was that Eudora crashed sometime after Christmas and when I checked Botzilla again on New Year's Eve, I had close to 80,000 messages awaiting receipt.
 
+<!--more-->
 It was more than my Eudora could handle at that point, and it just croaked when trying to load that many messages. Or maybe some message was killing Eudora. Either way, I couldn't proceed and by my estimation I was receiving another message on the server every second or two. So I did two things:
 
 1. Made my mail handling on botzilla.com <i>MUCH</i> more strict about sending undefined mail into /dev/null

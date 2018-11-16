@@ -28,4 +28,5 @@ categories: [ProtoRant]
 
 Current backlog: one roll of TMax. Very little shooting this weekend, except for the garden shots that followed after <a href="/blog/archives/000037.html">the story below.</a>
 
+<!--more-->
 

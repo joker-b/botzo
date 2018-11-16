@@ -7,4 +7,5 @@ categories: [PhotoRant]
 
 I'm surprised that I haven't yet heard of a celphone manufacturer whose marketing  deliberately capitalized on the lo-fi character of cel cameras. To my eye they have a lot more potential than the standard toycams of the past 30 years (Lomo, Holga, and Diana clones of various stripes) ever had.
 
+<!--more-->
 

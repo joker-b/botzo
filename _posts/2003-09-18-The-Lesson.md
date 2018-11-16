@@ -11,4 +11,5 @@ Today, I think to leave the Contax at home... I've got my little Canonet in the 
 
 I feel an ominous trend developing.
 
+<!--more-->
 

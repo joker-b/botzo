@@ -9,4 +9,5 @@ The <a href="http://www.apug.org/" target="linkframe">APUG</a> turned one year o
 
 For the analog purist police, here's the shot data: Shot at close range on TMax 100, Contax G2, 28mm, AE f/5.6 at around 1 in the afternoon Tokyo time.
 
+<!--more-->
 

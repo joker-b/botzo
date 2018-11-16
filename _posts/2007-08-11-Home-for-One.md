@@ -9,4 +9,5 @@ categories: [The Troubles,fStop]
 
 (Afternoon postscript, yes, won & "Arsenal" were declared <a href="http://www.penaltybox.org/">league 2007 champions!</a>)
 
+<!--more-->
 

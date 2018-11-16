@@ -13,4 +13,5 @@ To match that DVD, tonight I got hold of the book of Stanley's <cite>LOOK Magazi
 
 Haven't had much chance to crack it open, however. Lots of more immediate tasks this week, switch-hitting in modeling and texturing and shader writing between Max and Maya and XSI and scripting for all and more. Both overwhelming at moments and fun throughout. A lot of work.
 
+<!--more-->
 

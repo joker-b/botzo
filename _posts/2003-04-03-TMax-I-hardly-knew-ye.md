@@ -8,4 +8,5 @@ categories: [fStop]
 No surprise, no Salon win for me. Maybe in a couple of weeks I can come up with something funny for the next topic, "Traces" selected by <a href="http://www.proofsheet.com/" target="linkframe">Michal Daniel.</a>
 <br clear="right">
 
+<!--more-->
 

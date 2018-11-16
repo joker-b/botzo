@@ -17,4 +17,5 @@ But a morning later and the meaning of my looking (and my pictures) has already 
 
 Another lesson in how photography &#151; like all observations &#151; can be so easily upended and all our intentions for it thwarted.
 
+<!--more-->
 

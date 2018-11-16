@@ -11,4 +11,5 @@ The only real problem today &#151; where to get a 48mm lens cap on short notice?
 
 The focus lever turns in the opposite direction from Leica (and my other Canon RF). There are no DoF markings. Can't have everything.....
 
+<!--more-->
 

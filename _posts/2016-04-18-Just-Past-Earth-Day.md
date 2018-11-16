@@ -7,4 +7,5 @@ categories: [The Troubles]
 
 Another sunrise commuting photo, on the way to the Financial District.
 
+<!--more-->
 

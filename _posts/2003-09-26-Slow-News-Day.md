@@ -25,4 +25,5 @@ It's grotesque. One station here in the Bay Area can't resist the lure of the bl
 
 TV has the advertising money, but they fail to get the real story. As long as this is true, there's an opportunity for PJs, whether it be on the other end of the world or their own back yards.
 
+<!--more-->
 

@@ -30,4 +30,5 @@ I wonder if anyone has yet undertaken any kind of sustained, rigourous attempt t
 
 Link for thought: <a href="http://topica.com/lists/streetphoto/read/message.html?mid=905425365" target="linkframe">an old SP post</a> by <a href="http://www.robertappleby.com/" target="linkframe">Rob Appleby.</a>
 
+<!--more-->
 

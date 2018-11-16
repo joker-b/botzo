@@ -7,4 +7,5 @@ categories: [Wire Service]
 
 <a href="http://www.lib.utexas.edu/maps/middle_east_and_asia/baghdad_nima_2003.jpg" target="linkframe">This</a> is the map you want &#151; 3Kx2K, it shows every major government ministry, hotel, major streets, and neighborhood.
 
+<!--more-->
 

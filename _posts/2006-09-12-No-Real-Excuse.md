@@ -7,4 +7,5 @@ categories: [fStop]
 
 It was late. I had some new lights. And a <a href=/blog/archives/000507.html">haircut.</a>
 
+<!--more-->
 

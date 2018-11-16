@@ -11,4 +11,5 @@ Here in the glamorous South Bay, no one I've found will do a process-only for le
 
 The first roll today is socked-in with dust &#151; not the casual sort of dust you get while handling or sleeving or scanning, but dust that's glued-onto the neg, big clumps that adhered when the negs were drying. Pec-12 and air blasts are helpless against this sort of thing. <i>*sigh*</i> No wonder I still like doing B&amp;W myself. It's just too hard to get C-41 films like XP-2 processed in a way that's as clean as my kitchen or bathroom.
 
+<!--more-->
 

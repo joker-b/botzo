@@ -19,4 +19,5 @@ The difficult truth is that shooting is a solitary activity, taking time that sh
 
 The battery died after less than an hour, anyway.
 
+<!--more-->
 

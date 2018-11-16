@@ -9,4 +9,5 @@ Yes, I should have ripped this off,... but it wasn't there to be ripped.
 
 They say that creativity is the subtle theft of <a href="http://factoryjoe.com/blog/2006/04/27/untitled-unfinished-incomplete/">others' ideas.</a>
 
+<!--more-->
 

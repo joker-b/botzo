@@ -13,4 +13,5 @@ categories: [fStop]
 
 <p>Ah well, time to stop typing & go get fixer on my fingers.</p>
 
+<!--more-->
 

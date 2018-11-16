@@ -9,4 +9,5 @@ This post expands a little on what I've written earlier about the photo gear I b
 
 How many Fujis?
 
+<!--more-->
 

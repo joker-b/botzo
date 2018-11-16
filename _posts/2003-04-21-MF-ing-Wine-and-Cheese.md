@@ -16,4 +16,5 @@ But then... aggggh! <i>Canon's designers turned off the MF lock if the LCD panel
 
 The G3 is definitely better than the G1, and its movie mode, size, and weight still make it an attractive alternative to a heavier SLR digicam like the 10D. I might trade up to one yet. But Canon still knows how to get me riled-up.
 
+<!--more-->
 

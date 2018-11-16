@@ -9,4 +9,5 @@ The state publishes a PDF containing the <a href="http://www.dot.ca.gov/hq/traff
 
 Note that the vague legacy "Share the Road" sign seems to be fading out, to be replaced by the much clearer "MAY USE FULL LANE." About time!
 
+<!--more-->
 

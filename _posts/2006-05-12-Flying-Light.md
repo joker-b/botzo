@@ -14,4 +14,5 @@ Still, a lovely camera. I just got back the color negs from February's dogsleddi
 
 <br /><br />
 
+<!--more-->
 

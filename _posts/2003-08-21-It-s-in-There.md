@@ -19,4 +19,5 @@ Today we live in a great time. We can go to <a href="http://www.nikonnet.com" ta
 
 This week the consumer world is abuzz with the advent of the latest round of digitals &#151; the Canon EOS300D/Rebel/Kiss (since as we know, SLRs are always better.... right?), and the little Sony 828 (which looks, to me, the closest yet to the Leica ideal &#151; small, flexible, fast, quiet). Dozens of emails and web postings gushing about features, but none (so far) about the photos people hope to make with these new toys.
 
+<!--more-->
 

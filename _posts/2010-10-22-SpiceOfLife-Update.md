@@ -15,4 +15,5 @@ Here's a video instead -- rather than a help screen, you'll see that <i>SoL</i> 
 
 <a href="http://www.botzilla.com/blog/archives/pix2010/SpiceOfLife.zip">Download (revised) file</a> -- this is a zip of the entire sketch, ready-to-roll as a Processing project.
 
+<!--more-->
 

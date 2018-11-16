@@ -11,4 +11,5 @@ So you needn't <a href="http://www.botzilla.com/blog/archives/000653.html">take 
 
 <blockquote><b>"The stale vogue of drowning in technique and ignoring content adds to the pestilence and has become, for many, part of today's general hysteria..."</b></blockquote>
 
+<!--more-->
 

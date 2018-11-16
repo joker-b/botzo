@@ -11,4 +11,5 @@ While these locations are dramatic in and of themselves, it's hard not to compar
 
 Today's shooters photograph with the opposite intent: the same locations precisely because they're well-known. When did this shift occur? The Kodak Brownie? <a href="http://en.wikipedia.org/wiki/Timothy_H._O'Sullivan">Timothy O'Sullivan?</a>
 
+<!--more-->
 

@@ -9,6 +9,7 @@ The word of the day (well, Sunday) is "valorize,"  rarely-seen in America these 
 
 The older passage came from <a href="http://en.wikipedia.org/wiki/Pierre_Bourdieu" target="_blank">Pierre Bourdieu</a>'s  1965 <cite>Un art moyen: essai sur les usages sociaux de la photographie</cite> whose title his American editors provocatively streamlined to <cite>Photography: A Middlebrow Art:</cite>
 
+<!--more-->
 (This section from "Professional Men or Men of Quality: Professional Photographers" was actually written by <a href="http://boltanski.chez.tiscali.fr/" target="_blank">Luc Boltanski</a> &amp; <a href="http://www.vcharite.univ-mrs.fr/shadyc/chambor.html" target="_blank">Jean-Claude Chamboredon</a>)
 
 <i>For photographers, contact with prestigious professional groups is really an opportunity to photograph valorized objects. The major specialization as defined by the importance and nobility of the object photographed; so much so that a change in status may be accomplished by a change in specialization, which, becuase it involves neither special equipoment nor a different qualification, is simply a change in object. Invited to name, from a series of possible photographic subjects, those from which a 'beautiful photograph' could be made, photographers seemed to be guided, in their choice or rejection, primarily by the prestige suggested as the subject of a photograph.</i>

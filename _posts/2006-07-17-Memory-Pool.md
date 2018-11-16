@@ -17,4 +17,5 @@ I was already interested in photography, but was distracted more by equipment th
 
 I had no idea what kind of film or equipment Smith used &#151;  to this day I don't, and don't really care.
 
+<!--more-->
 

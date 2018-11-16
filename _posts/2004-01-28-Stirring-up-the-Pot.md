@@ -9,4 +9,5 @@ So much for Canon going the EF-S or Four-Thirds route &#151; they're clearly hea
 
 This will play a bit of extra havok with the lens market, which can only sell more lenses for Canon (and a few for Sigma and friends). That 50mm is now a 65mm, getting right into Leica R "normal" territory. And the 20mm is genuinely a wide lens again. I wonder how many 16-35 and 17-40 zooms will pop up on Ebay later this year.
 
+<!--more-->
 

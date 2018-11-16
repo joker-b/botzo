@@ -9,4 +9,5 @@ Our newest computer imaging book, <a href="http://developer.nvidia.com/object/gp
 
 So now there's a bit more breathing space, at least for a couple of weeks before embarking on our next journey (to Florida and the Bahamas for some long-overdue vacation time) &#151; allowing, among other things, for a little time to spend on The Blog.
 
+<!--more-->
 

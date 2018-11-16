@@ -7,4 +7,5 @@ categories: [PhotoRant,fStop]
 
 At Art Basel with a stop at the <a href="http://www.miamistreetphotographyfestival.org/">Miami Street Photography Festival,</a> shooting both my little Fuji and a Leica Monochrom. Will write it up in due course.
 
+<!--more-->
 

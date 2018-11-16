@@ -21,4 +21,5 @@ And how come frame shops only have a tiny selection of "document" sized frames? 
 
 I blame globalization. It's gotta be.
 
+<!--more-->
 

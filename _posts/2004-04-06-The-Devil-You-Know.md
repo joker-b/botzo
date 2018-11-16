@@ -11,6 +11,7 @@ As <a href="http://www.strassmann.com/" target="linkframe">Paul Strassman</a> ha
 
 Strassman (and other economists) asked: what's the Return On Investment (ROI)? Where's the beef? As Nobel winner Robert Solow observed: "We see computers everywhere but not in the productivity statistics."
 
+<!--more-->
 Sure, <i>individuals</i> can make money from computers. Individual companies certainly can too, e.g. Microsoft or NVIDIA. Electronic media have let more money move faster (and sometimes all in one direction) than ever before. But has the economy really grown, or has the money merely shifted from one part of the economy to another?
 
 In some cases, computers drive New Things, and from those New Things, real economic growth can occur &#151; wealth can genuinely be created in a way that seems to defy thermodynamics. I think computer graphics is an example, especially real-time graphics. We did not have an art form like video games before. They produce money through a new desire from consumers, not just a shift of their time from watching TV to wiring-up the PC for a round of Unreal (though there's an element of that as well).

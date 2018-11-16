@@ -11,4 +11,5 @@ I've recently switched to a different slideshow program &#151; Mac OS X itself. 
 
 Still, it's a terrific picture frame. Tonight I've set it on a folder full of old contact sheets &#151; hundreds of photos, old shots seen again for the first time. It is captivating, nostalgic, hallucinatory.
 
+<!--more-->
 

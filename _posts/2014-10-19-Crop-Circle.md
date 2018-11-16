@@ -7,4 +7,5 @@ categories: [fStop]
 
 <p><i>P1020027, March 2009</i></p>
 
+<!--more-->
 

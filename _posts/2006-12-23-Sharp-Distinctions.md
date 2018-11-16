@@ -23,4 +23,5 @@ I also found that the wobble seemed to have no effect on the effectiveness of th
 
 The third surprise was just how well the little compact PanaLeica held up. At ISO's above 100, or in terms of instant-on accessability, the big Canon dominates &#151; but for good light, the LX1 (or LX2, which has the same Leica zoom lens) puts up a real competetive fight! Especially for a pocketable camera that costs one-fifth the Canon price (or even less: since the LX2 came out, I've seen real LX1 deals. I ran into one at Fry's last week, brand new for less than $300).
 
+<!--more-->
 

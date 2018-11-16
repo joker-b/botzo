@@ -13,4 +13,5 @@ Disneyland and Universal Studios... if the TV has taken the place of the family 
 
 Of course, when the real gods appeared at Disneyland for the premiere party of <i>Pirates of the Caribbean,</i> the faithful were shuttled to one side, allowed to cheer the gods' entrances at a distance, then expelled quickly from the park. It is not for mortals to see Darryl Hannah riding <i>Indiana Jones,</i> save through the channelling mediator of a TV camera.
 
+<!--more-->
 

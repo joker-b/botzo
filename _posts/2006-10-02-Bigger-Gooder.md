@@ -9,4 +9,5 @@ I'm incredibly enthused after printing this at 12" &#215; 18" and having each fi
 
 <i>(ISO 400, Canon 28mm &#402;/1.8 - 1/250 @ &#402;/7.1)</i>
 
+<!--more-->
 

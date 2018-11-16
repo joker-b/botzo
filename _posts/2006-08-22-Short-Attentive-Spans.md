@@ -24,4 +24,5 @@ And I understood, finally,<br />what my friend John meant,<br />twenty years ago
 And now, I'd like to learn<br />to follow light wherever it leads me,<br />never again to say to a woman, <i>YOU<br />are beautiful,</i> but rather to whisper:<br /><i>Darling, the way light fell on your hair<br />this morning when we woke &#151; God,<br />it was beautiful.</i> Because, if the light is right,<br />then the day and the body and the faint pleasures<br />waiting at the window ... they too are right.<br />All things lovely there. As that first poet wrote,<br />in his first book of poems: <i>Let there be light.</i>
 </blockqote>
 
+<!--more-->
 

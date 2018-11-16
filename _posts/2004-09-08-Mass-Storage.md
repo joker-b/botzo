@@ -7,4 +7,5 @@ categories: [fStop]
 
 The alternative, ironically, is to progress backwards and shoot film, which is easier to stock-up in bulk, doesn't need a laptop, but will require time later for processing, scanning, and potentially printing and spotting.  It's tempting to bring both Contaxes as backups/overflow for the digitals (which was absolutely necessary on my last trip to London &#151; the CF cards filled fast) &#151; even if I were willing to drop a few hundred $ on extra CF cards. So much for the cheaper digital Promised Land.
 
+<!--more-->
 

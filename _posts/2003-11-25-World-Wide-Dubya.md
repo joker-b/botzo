@@ -17,4 +17,5 @@ After September 11th, the New Bush really appeared &#151; not just the career po
 
 Forged evidence? Lack of WMDs? Really of little concern to those whose actions are driven by faith in unseen invisible string-pullers. For both Osama and Dubya, they can blithely convince themselves that they hold the moral high ground no matter how many innocents are pulverised for the sake of distant alien gods.
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [Nuke Em from Orbit]
 
 That's it! Back to Santa Clara and cats and snakes and kids. But not for long, <a href="http://www.microsoftgamefest.com/">Microsoft Gamefest</a> is only about a week away....
 
+<!--more-->
 

@@ -15,4 +15,5 @@ Robert Adams, paraphrasing D.H. Lawrence, said that there is no sensual experien
 
 This morning before we went out for the day I found my dad at my desk, watching the cycling random slideshow of photos made just a handful of hours before. I saw him smile gently when a photo of my mom appeared. I'll take that as one of my favorite reviews, ever.
 
+<!--more-->
 

@@ -15,4 +15,5 @@ Here's hoping, anyway. In three weeks I will be back in Japan, hopefully not get
 
 An hour after posting this, I ran into <a href="http://www.talk-pix.com/bluesky/121lostblonde/cornfield.html">this most unlikely newspaper photography.</a>
 
+<!--more-->
 

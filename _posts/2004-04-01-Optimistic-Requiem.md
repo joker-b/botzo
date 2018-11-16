@@ -13,4 +13,5 @@ Pye writes, in the days before lasers, desktop computers, or anyone had bothered
 
 <i>Never do we achieve a satisfactory performance. Things simply are not 'fit for their purpose.' At one time a flake of flint was fit for the purpose of surgery, and stainless steel is not fit for the purpose yet. Every thing we design and make is an improvisation, a lash-up, something inept and provisional. We live like castaways. But even at that we can be debonair and make the best of it. If we cannot have our way in performance we will have it in appearance.</i>
 
+<!--more-->
 

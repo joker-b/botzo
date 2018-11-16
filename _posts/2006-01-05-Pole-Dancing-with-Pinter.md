@@ -7,6 +7,7 @@ One of my favorite work-related blogs, one which I read very deliberately, is <a
 
 Like most people casually interested in the Nobels, I sat down and read <a href=http://nobelprize.org/literature/laureates/2005/pinter-lecture-e.html>the transcript of Pinter's lecture</a> &#151;
 
+<!--more-->
 &#151; which uses the context of his plays as a bridge through to the principles of political theatre and then into a biting and at times terrifying polemic against modern US and British foreign policies.
 
 At one point he nominates himself as a speechwriter for President Bush, and while reading one can almost hear Bush's voice in Pinter's parody:

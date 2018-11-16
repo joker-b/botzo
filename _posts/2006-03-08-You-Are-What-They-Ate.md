@@ -21,4 +21,5 @@ For myself, I'm sticking to foods not far from early man's tree &#151; at least 
 
 The net results after the past year or two of this eating philosophy: my doctor says I'm healthy, I feel great and energized, and I'm back to the clothing sizes I enjoyed in my youth &#151; quite literally, I've recently found my best source of bluejeans is Gap Kids. Thank you, Alley Oop.
 
+<!--more-->
 

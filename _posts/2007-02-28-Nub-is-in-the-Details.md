@@ -95,4 +95,5 @@ Here's a last combined-noise version with clumpy offsets, followed by a sharp ve
 
 <center><img alt="image based on original slide" src="http://www.botzilla.com/photo/Sampler/5RT.jpg" class="img-responsive"  border="0" /></center>
 
+<!--more-->
 

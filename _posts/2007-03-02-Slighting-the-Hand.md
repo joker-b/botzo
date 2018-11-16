@@ -35,4 +35,5 @@ Our hands have had just as long and illustrious evolutionary history as our brai
 
 <a name="note0302"><b>*</b></a> <i>This is the kind of assertion that drives the Peter Drucker crowd crazy. They claim that manufacturing is as important as ever, just that the <u>form</u> it takes changes due to changes in technology, transport, and communications. Drucker loves lambasting anyone who thinks that they've managed to rewrite the rules of business. I'm generally in agreement with him on this, in that there's a sort of "conservation of energy" in markets &#151; money still has to come from <u>some</u> sort of economic activity at its roots &#151; Godin's abstraction is still a worthwhile story if only because he (and many others) seem to believe it.</i>
 
+<!--more-->
 

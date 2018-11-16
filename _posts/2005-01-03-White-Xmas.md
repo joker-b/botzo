@@ -7,4 +7,5 @@ categories: [fStop]
 
 This morning saw a sudden change for Minneapolis, from bitter-cold and brown to nearly-temperate and blanketed in snow. Who's to argue with that?
 
+<!--more-->
 

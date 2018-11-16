@@ -7,6 +7,7 @@ Yes, it's happened: we've gotten the go-ahead to create and publish <cite><b>GPU
 
 <a href="http://developer.nvidia.com/object/gpu-gems-3-call-for-participation.html">Here's the official call for partipation.</a>
 
+<!--more-->
 <i>Following the success of GPU Gems and GPU Gems 2, NVIDIA has decided to produce a third GPU Gems volume to showcase the best new ideas and techniques for the latest programmable GPUs. We were honored that GPU Gems won the 2004 Game Developer Front Line Award and that GPU Gems 2 was a Finalist in the 2005 Game Developer Front Line Awards. What's more, GPU Gems and GPU Gems 2 were the best-selling books at the Game Developer Conference and SIGGRAPH in their respective years.
 
 This latest GPU Gems will, like previous volumes, be hardbound and in full color. Tentatively titled GPU Gems 3, it will be edited by Hubert Nguyen, Manager of Developer Education at NVIDIA. Nguyen contributed to previous GPU Gems volumes and brings to this role vast experience in the field of computer graphics. Section editors include a team of expert NVIDIA engineers: Cyril Zeller, Evan Hart, Ignacio Castano, Kevin Bjorke, Kevin Myers, and Nolan Goodnight.

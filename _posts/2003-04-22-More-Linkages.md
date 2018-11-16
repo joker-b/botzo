@@ -13,4 +13,5 @@ Guess Saddam couldn't stand being one-upped by <a href="http://www.writersofthef
 
 In the last few days, as the <a href="http://www.washingtonpost.com/wp-dyn/articles/A7135-2003Apr21.html" target="linkframe">Washington Post reports,</a> Iraqi artists are starting to deal with an Iraq free from government minders. No telling what has happened to <a href="http://www.webprowire.com/summaries/311155.html" target="linkframe">Salaam Abid,</a> one of Hussein's favorite full-time portraitists.
 
+<!--more-->
 

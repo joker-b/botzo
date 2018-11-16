@@ -9,4 +9,5 @@ Scanning the last round of negatives, I can see that the heavy filtration has wo
 
 Very busy these past few days &#151; still almost a dozen rolls in the "unprocessed, pending" box.
 
+<!--more-->
 

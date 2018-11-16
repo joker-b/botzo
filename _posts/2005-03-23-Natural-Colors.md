@@ -9,6 +9,7 @@ categories: [GrayScale,PhotoRant]
 
 A few weeks back, on a recommendation from <a href="http://www.moleskinerie.com/">Moleskinerie</a> (or was it <a href="http://www.43folders.com/">43 Folders</a>?), I picked up a copy of Howard & Barton's 1988 writing book, <a href="http://www.powells.com/cgi-bin/biblio?partner_id=25342&cgi=biblio&show=trade+paperback:0688077587:0688077587:4.95"><cite>Thinking on Paper.</cite></a> At its core lay three fundamental propositions about writing. I think that the use of "writing" in these propositions is easily swapped-out with just about any expressive/reflective activity: writing, painting, singing, gardening. This is PhotoRant.com after all, so let's try it:
 
+<!--more-->
 1. <i>Photography is a symbolic activity of meaning-making;</i><br />2. <i>Photography for others is a staged performance;</i> and<br />3. <i>Photography is a tool of understanding as well as of communication.</i>
 
 Works for me, especially #1, which both accepts and challenges the usual nominative function that so dominates photography (and computer graphics, an industry obsessed with "realism" &#151; though its greatest successes, such as <i>The Incredibles,</i> wisely use realism merely as a point of departure and occasional familiar grounding for their audience (<a href="http://www.syabi.com/">some folks</a> think of computer graphics as just another form of photography...)). Only photography and writing have such a broad range, from startling immediacy of its simulations to abstract aesthetics almost totally removed from their nominative subjects.

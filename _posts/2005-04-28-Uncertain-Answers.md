@@ -11,4 +11,5 @@ In </a> <a href="http://unconfirmed-reports.com/">Unconfirmed Reports</a> photog
 
 <font size="-2"><i>(Thanks to <a href="http://www.endofthetour.com/">Courtney</a> for lighting today's 30-second-exposure photo, and to <a href="http://www.inconduit.com/">hool</a> for the tip on Unconfirmed Reports)<i></font>
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [fStop,fStop]
 
 Turned over the frame counter on my <a href="/blog/archives/000794.html">X100s</a> again -- feels like it's finally getting broken-in (or I am). 
 
+<!--more-->
 

@@ -14,4 +14,5 @@ The slides representing my talks will be available in PPT/PDF form on the <a hre
 
 (Hey, wait a minute... "<i>slightly</i> imaginative"? Aww, who pays attention to these lame-assed <a href="/blog/archives/000467.html">personality quizzes,</a> anyway?)
 
+<!--more-->
 

@@ -9,4 +9,5 @@ Ran across a new resource last night: the <a href="http://www.apug.org/" target=
 
 I've been fascinated recently by the peachfuzz on the skin of kids, how it catches light in places that, if I were shading them in the computer, I might have thought was incorrect. It gives their faces an added dimensionality that adults lack, and an effect that makeup suppresses, despite its usual promises of a "youthful glow." For one moment, at least, I also remembered why I used to enjoy my fast 85mm.
 
+<!--more-->
 

@@ -15,4 +15,5 @@ To my surprise, when I awoke two hours after dozing away, the view was dazzlingl
 
 <i>What about the photographs?</i> I'll write more about them in the next entry.
 
+<!--more-->
 

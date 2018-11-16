@@ -13,4 +13,5 @@ At the time I'd never heard of Garry Winogrand. The photos came from a planet pa
 
 I wish I could say that seeing this made me rush right outdoors with my Nikon, but I was too caught up in filmmaking and theatre at the time. The camera stayed mostly on the sideline. Later on, when my shooting rose from its own slumber, this image and a thousand more like it were waiting just below the surface of my consciousness.
 
+<!--more-->
 

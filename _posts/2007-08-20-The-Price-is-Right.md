@@ -17,4 +17,5 @@ This idea of wrongly-perceived purpose opens a narrow window on a problem that s
 
 Always  the old twisting knot of intent and effect. Natchwey has said he feels compelled to make the very best photos he can, with every aesthetic tool he can muster, out of respect for the people he photographs and their situations. Salgado does the same thing and gets criticized for "aesthetic anaesthesia," that somehow presenting his subjects in a compelling way wraps them up in Too Much Art. How much is too much? Does less reduce the value to the subject? The more you wriggle, the tighter the knot gets. Andreas? Ed? Henri?
 
+<!--more-->
 

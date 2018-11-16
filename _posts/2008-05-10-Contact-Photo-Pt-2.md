@@ -9,6 +9,7 @@ For my Contact Photo weekend, I'd expected the Sunday to be the shorter of the t
 
 Of the work I saw, there were only a few standouts, but they were well worth the trouble...
 
+<!--more-->
 My vote for most under-appreciated were Wilma Needham's prints at <a href="http://www.new-gallery.ca/">New Gallery,</a> a space that was quite empty the two times I visited. The prints have a sense of disconnection and depth that, for me, made vivid  senses of physicality, of mortality, and yet from them a great, simple beauty. 
 
 I was happily surprised to find that <a href="http://www.ryokobo.com/">Ryoko Suzuki's</a> <a href="http://www.ryokobo.com/contents/anikora2.html"><i>Anikora-seifuku</i></a> prints were really as great as their size (and prices) might indicate -- a benefit of their scale is that the photographic reproduction of the small hand-painted <i>anikora</i> dolls, when on a six-foot print, give the impression that the surface of the print itself has been painted. From the catalog I noticed that a few of these prints had already been tagged "sold" -- the most conservative ones in my opinion, which gave me the impression that the buyers must have been institutions.

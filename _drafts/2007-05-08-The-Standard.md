@@ -11,4 +11,5 @@ No one talks when the TV's on.
 
 2003-05-08 06:07:09
 
+<!--more-->
 

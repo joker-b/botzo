@@ -9,4 +9,5 @@ Ah, those scamps at <a href="http://www.foto8.com/">foto8.</a> No sooner have th
 
 To turn the ironic screw just a wee bit further, the same issue of <i>EI8HT</i> contains more <a href="http://www.georgegeorgiou.net/">George Georgiou</a> photos, this time also working in color, from the streets of Kiev. "In Transit" indeed.
 
+<!--more-->
 

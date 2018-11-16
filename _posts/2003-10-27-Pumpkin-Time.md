@@ -9,4 +9,5 @@ Speaking of photoblogs, <a href="http://photoblogs.org/profile/?domain=botzilla.
 
 ...and speaking of SFMOMA,  <a href="http://www.kqed.org/programs/program-landing-local.jsp?progID=RD19" target="linkframe">KQED Forum</a> ran a program on Friday, hyping and discussing the new <a href="http://www.sfmoma.org/exhibitions/exhib_detail.asp?id=108&click=news" target="linkframe">Diane Arbus: Revelations</a> exhibit, which officially opened there on Saturday. Clicking on the Forum link above will let you listen to the entire program, with the curators of the show, a writer from <i>Vanity Fair</i> (apparently certifying Arbus's status as <a href="http://www.nytimes.com/2003/10/26/arts/design/26BELL.html" target="linkframe">a "legendary" photographer</a>), and a number of call-ins, including the lady who wanted to know why SFMOMA wastes so much time on photography.
 
+<!--more-->
 

@@ -13,4 +13,5 @@ Qusay's yacht was decorated with Babylonian motifs, mixed with a large dose of L
 
 If the Iraqi government hasn't already done so, someone should really create a catalog of Hussein art &#151; not the art <i>owned</i> by him, per se, but the art <i>of</i> him. I wonder if any of it dared have a voice of its own, or if it all was safely kitsch, like that of the great dictatorships of the 30's and 40's so admired by Saddam.
 
+<!--more-->
 

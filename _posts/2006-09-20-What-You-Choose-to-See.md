@@ -27,4 +27,5 @@ The last tool, which I haven't been able to force myself to use in any strong wa
 
 So far, I haven't been able to bring myself to follow such a one-size-fits-all strategy (though I suppose the built-in "natural" default is also a one-size choice, if you think about it). Though that has a certain appeal, my real interest is just in understanding the pictures better &#151; I'm not all that interested in being a fundamentalist.
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [fStop]
 
 Sign at the temple of Nanzen-ji, Kyoto.
 
+<!--more-->
 

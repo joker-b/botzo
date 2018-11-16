@@ -9,4 +9,5 @@ I'll be the first to say that I find most Holga/Diana-wana-be photgraphy cloying
 
 In the mean time, since I couldn't find one that entirely suited me, here are a couple of guides to the color modes (and below, frame styles) offered as presets by the Android camera-phone program <a href="http://neilandtheresa.co.uk/Android/Vignette/"><i>Vignette.</i></a> A similar chart can be found <a href="http://www.schussman.com/article/great-android-apps-vignette">here,</a> but it was missing skin tones). 
 
+<!--more-->
 <a href="http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame_Full.jpg"><img alt="Click for Larger Image" src="http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame.jpg" width="807" height="817" border="0" /></a>

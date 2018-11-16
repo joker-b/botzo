@@ -13,4 +13,5 @@ Last night Courtney & I went to see <a href="http://www.arakimentari.com/" targe
 
 Is equipment photography? No, no more than a piano is music. But each instrument has its own character, and Araki-san manages to embrace them all. This, among so many things, must be part of why <a href="http://www.moriyamadaido.com/" target="linkframe">Daido Moriyama</a> says that Araki, through his grasp of the physical aspects of picture-making, understands "the true nature" of the art.
 
+<!--more-->
 

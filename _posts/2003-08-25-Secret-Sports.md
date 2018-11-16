@@ -7,4 +7,5 @@ I planning our upcoming trip to Tokyo, I'm surprised at how little info there is
 
 If anyone has some pointers on seeing the races, please let me know!
 
+<!--more-->
 

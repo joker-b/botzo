@@ -11,4 +11,5 @@ The place has grown... a bit. Over 24,000 hotels rooms, and it's not uncommon to
 
 Rather than carry the Contax and the Canon, I alternated days. Magic Kindom Contax, MGM Studios Canon, etc. Still haven't decided if one or the other was better overall, though the Contax was far lighter than the Canon plus batteries. I also felt more compelled to be sure I got the shot, rather than just blasting and <a href="http://www.sportsshooter.com/special_feature/chimping/" target="_blank">chimping.</a>
 
+<!--more-->
 

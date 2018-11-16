@@ -28,4 +28,5 @@ categories: [PhotoRant]
 
 <p>In all cases, hire a capable assistant as quickly as possible.</p>
 
+<!--more-->
 

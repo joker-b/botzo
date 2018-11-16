@@ -11,4 +11,5 @@ You can find the flickr pool from multiple people by clicking <a href="http://ww
 
 <i>Technorati tag: <a href="http://technorati.com/tag/KRON" rel="tag">kron</a></i>
 
+<!--more-->
 

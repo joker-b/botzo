@@ -11,4 +11,5 @@ I will be gone for a few days &#151; while the technology would let me post entr
 
 If you are in southern France toward the end of next week, swing on by <a href="http://www.virtualstorytelling.com" target="linkframe">Virtual Storytelling 2003.</a>
 
+<!--more-->
 

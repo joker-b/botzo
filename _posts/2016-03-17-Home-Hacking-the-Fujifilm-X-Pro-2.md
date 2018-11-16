@@ -8,6 +8,7 @@ Why don't more industrial designers design <i>for fingertips?</i> They seem to u
 
 Over the past couple of years I've taken to hacking the mechanical controls of my cameras (and a few other items) with <a href="http://www.sugru.com/" target="_new">Sugru,</a> a quick-curing material that's a bit like a cross between modeling clay and rubber. The idea is simple: provide tactile landmarks for my fingers, so that I can use the camera's controls without needing to look at them -- either because it's raised to my eye, or even if the camera is out of sight in my bag or jacket pocket, preparing for the next shot.
 
+<!--more-->
 In this photo, the red blobs are bits of Sugru. In the past I've used black. The color is pretty unimportant, what matters is the material feel against your finger.
 
 Sugru is strong but the nubs usually wear down after a few months of daily use. They're easily replaced in about three minutes.

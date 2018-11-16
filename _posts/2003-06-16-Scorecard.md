@@ -17,4 +17,5 @@ What's happened across the net, however, is that the shots that are easiest on a
 
 The internet, I've come to realize, fuels ignorance through its very success.
 
+<!--more-->
 

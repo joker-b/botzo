@@ -11,4 +11,5 @@ I can still remember getting that first copy of NCSA Mosaic for my SGI workstati
 
 So belated cheers, <i>o-tanjobi omedeto gozaimasu,</i> and here's hoping that by the time another ten years have passed we aren't stuck with another Bush in the White House, heh.
 
+<!--more-->
 

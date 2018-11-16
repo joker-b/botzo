@@ -9,4 +9,5 @@ My guess &#151; cameras have deeply invaded the low ground, people taking snaps 
 
 Don't get me wrong here &#151; <a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=003EuS" target="linkframe">rabid anti-digital sentiments</a> found in magazines like <a href="http://www.bandwmag.com/" target="linkframe">B&amp;W</a> are comical &#151; this rise in B&W film use doesn't seem that inexplicable.
 
+<!--more-->
 

@@ -22,4 +22,5 @@ Ideas jotted into the visor at various times:
 
 Grrr. None of them seem all that satisfying, at least not at this hour. Psychics, though &#151; seeing beyond or through or past the surface of things is what they're all about, at least that's the story. And maybe that's exactly what I want to get out of these pictures &#151; a source of second sight. Or do I really want to degenerate the unseen into objects, handy little paper rectangles? Am I just looking for an excuse to objectify every experience? I'm pretty darned sure I don't want scenic vistas and adorable kitties, but I'm feeling waffly about what I <i>do</i> want today.  Ticks me off at myself.
 
+<!--more-->
 

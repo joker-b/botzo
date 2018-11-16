@@ -15,4 +15,5 @@ There has been a huge apparent ignorance of the underlying <a href="http://www.g
 
 Saddam is an intolerable beast, to be sure. But the planners in Washington and Whitehall who replaced thinking with wishes had best be prepared for a formidable backlash from the families of the soldiers whose lives have been so capriciously threatened and lost by those planners' hubris.
 
+<!--more-->
 

@@ -11,4 +11,5 @@ I've also been poking at <a href="http://www.google.com/producer/currents" targe
 
 What's a bit of a puzzle to me is how to best incorporate either of these with some of the other aspects of botzilla that I'm looking to enhance, especially heavier use of &lt;canvas&gt; tags using animation and where possible WebGL. Given that Facebook looks for static images to grab as thumbnails, and that Currents runs off of RSS, how to best show-off fun animation and interactive imaging experiments?
 
+<!--more-->
 

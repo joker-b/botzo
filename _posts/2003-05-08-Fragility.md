@@ -15,4 +15,5 @@ But I've since realized that it would be an empty gesture. Few had seen the phot
 
 The incident has, however, once again indicated to me that shared gallery sites are not always a healthy place for photos. I'd already abandoned placing photos on <a href="http://www.photo.net" target="linkframe">photo.net</a> a long while back &#151; too much emphasis on high volume and a demand for banality, photos that confirm and conform to the Kodak-brochure norms. I think from this point I should just keep my web photos on my own site, save for special situations.
 
+<!--more-->
 

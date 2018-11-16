@@ -11,4 +11,5 @@ So after <a href="/blog/archives/000302.html">much anxiety</a> in the end it'll 
 
 Off to Florida and the Caribbean for a week, then &#151; we leave the house and web in the able hands of the fantastic <a href="http://elkit.blogs.com/" target="linkframe">Elke.</a>
 
+<!--more-->
 

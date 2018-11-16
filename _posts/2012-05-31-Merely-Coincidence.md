@@ -7,4 +7,5 @@ categories: [GrayScale]
 
 That Isaac's <a href="http://www.econ.ucsb.edu/">choice of university</a> is also near one of the best skate parks.
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [GearHead,GrayScale,fStop]
 
 <i>(Gearhead notes: jpeg from LX3 "Dynamic B&W" mode)</i>
 
+<!--more-->
 

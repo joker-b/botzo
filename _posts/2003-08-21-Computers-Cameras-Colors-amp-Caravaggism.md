@@ -11,6 +11,7 @@ How can this jibe with my <a href="http://developer.nvidia.com/" target="linkfra
 
 I ask myself this regularly, and have decided that it's all about the "C" word.
 
+<!--more-->
 The "C" word is <i>Control.</i>
 
 Back when I was in school it's the same reason I gave for my interest in computer graphics, when asked about it by my review committee at <a href="http://www.calarts.edu" target="linkframe">CalArts,</a> where my official focus was not on animation but live-action filmmaking and theatre (there was no CG curriculum at that point). I said that I liked the idea of controlling every last pixel in the frame, and felt that the level of control CG promised was greater than that of movies &#151; that the computer would eventually become the ultimate movie-making tool (this was right around the time of the widely-panned and widely-hailed <i>Tron).</i>

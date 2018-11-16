@@ -11,4 +11,5 @@ It's a situation made for this sort of work &#151; no generators, no sat phones 
 
 Howe deals with both sides of the conflict, the government AUC and the FARC (which while labelled as a terrorist organization by the Bush administration, still manages to have their own slick and public <a href="http://www.farc-ep.ch/" target="linkframe">web site</a>). Among all countries in the western hemisphere, only Cuba is more oppresive to journalists, according the <a href="http://www.rsf.org/" target="linkframe">Reporters Sans Fronti&egrave;res</a> &#151; <a href="http://www.rsf.org/article.php3?id_article=5103" target="linkframe">here's</a> a telling example.
 
+<!--more-->
 

@@ -66,6 +66,7 @@ I've finally become a convert to <a href="http://www.adobe.com/products/dng/main
 
 and from there to Photoshop and an archive disk. I keep some LX1-dedicated Photoshop actions around, particularly one that labels pix with LX1-related flickr tags and copyrights, and another that can take 16::9 photos and ready-format them for the PSP.
 
+<!--more-->
 <hr align="center" width="20%">
 
 Here are some links to people I've found using the LX1:

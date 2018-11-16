@@ -9,6 +9,7 @@ Over on <a href="http://coincidences.typepad.com/" target="contax">Coincidences<
 
  
 
+<!--more-->
 ContaxG.com concentrates primarily on pictures made with equipment, rather than equipment first and picture galleries second. In this respect it's unlike other brand-centric sites like <a href="http://www.nikonians.org/" target="contax">Nikonians</a> or the Nikonian proxies <a href="http://www.canonians.com/" target="contax">Canonians</a> (which seems to function as much as a venue for the shooting of its owner as a Canon resource) or <a href="http://www.theminoltians.com/" target="contax">the Minoltians.</a> Great sites, but let's be honest &#151; they're about branding first and foremost.
 
 Part of the character of <a href="http://www.contaxg.com/" target="contax">ContaxG</a> probably comes from  the apparent reality that while <a target="contax" href="http://www.kyoceraimaging.com/product.asp?itemnum=202000">still sold by Contax,</a>  the G system is approaching obsolescence &#151; 35mm film-based and without a new item in the line since the year 2000 or so. Without a continuous stream of new products, it's immune to the usual <a href="http://www.photographyblog.com/" target="contax">flood of equipment marketing announcements with hardly any real photo content.</a>  It's all below the consumer-products radar.

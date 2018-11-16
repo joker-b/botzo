@@ -9,4 +9,5 @@ I also got comfortable with the new <a href="/photo/salon/gindex.html">street ph
 
 Hey, anything to avoid vacuuming and cleaning-out the stacks of old magazines from under my bed.
 
+<!--more-->
 

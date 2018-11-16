@@ -25,4 +25,5 @@ At least for web use, this is suggesting to me the following work approach for h
 
 I'll report on some results soon.
 
+<!--more-->
 

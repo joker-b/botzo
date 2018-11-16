@@ -21,4 +21,5 @@ Just the same: if you do wander into <a href="http://secondlife.com/">SecondLife
 
 (Or if you play <a href="http://www.eve-online.com/">EVE:</a> drop me a line either here or via eve-mail to "Fenris Chow" &#151; our <a href="http://www.eve-msyds.com/">corporation</a> is likely to open for recruitment again in the near future)
 
+<!--more-->
 

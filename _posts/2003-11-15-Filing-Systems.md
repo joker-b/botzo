@@ -9,4 +9,5 @@ Now, the camera software splits everything into days. On a busy day that can mea
 
 Suggestions?
 
+<!--more-->
 

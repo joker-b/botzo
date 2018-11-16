@@ -7,4 +7,5 @@ categories: [Fujifilm,GearHead]
 
 Today's entry is just a simple shot made from a hill near the Golden Gate Bridge, shot while cycling towards the San Francisco Financial District (distant right).  The camera's doing much of the work here.
 
+<!--more-->
 

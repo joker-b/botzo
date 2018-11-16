@@ -7,6 +7,7 @@ categories: [Fujifilm,GearHead]
 A picture is worth books full of text. Here are the various film simulation modes available on the X-Pro2, along with Adobe Camera Raw's attempt at "Auto" adjustment. New for this camera are the "Acros" B&W modes.
 
 
+<!--more-->
 Here are the same samples, repackaged in rows of four.
 
 The lens here was an old Canon FD 50mm 1.8, mounted on a Fotasy adapter.

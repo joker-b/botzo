@@ -9,4 +9,5 @@ Many of the thumbnails that appear on the sampler page a coming up as dummies cu
 
 The page contains random links to images used in blog entries. Usually they are photos, though on rare occasion you may see a chart or title card. If you don't like the selection, you can try <a href="http://www.botzilla.com/cgi-bin/buildJournalPages.pl">randomizing it yourself.</a>
 
+<!--more-->
 

@@ -11,4 +11,5 @@ On the heels of <a href="http://www.contactphoto.com/">Contact</a>, I'm heading 
 
 Isaac's birthday and graduation from Middle School are also approaching, even earlier -- and then as soon as I'm back from Spain, he's in for three weeks of rock n' roll camp while we also deal with <a href="http://www.siggraph.org/s2008/">Siggraph</a>, <a href="http://www.caextreme.org/">California Extreme</a>, <a href="http://www.airventure.org/">Oshkosh</a> (maybe), <a href="http://www.xnagamefest.com/">Gamefest</a>, and yeah, the girl on the far right of the photo above is carrying an <a href="http://www.nvision2008.com/">NVISION</a> bag, where I'll be <a href="http://speakers.nvision2008.com/agenda/index.cfm">speaking</a> about the future of real-time character animation and rendering (with special guests -- some incredible NVIDIA partners).
 
+<!--more-->
 

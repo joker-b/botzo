@@ -33,4 +33,5 @@ And that's a story whose foundations are chipped at by Platt's photo.
 
 (<a href="http://www.botzilla.com/blog/archives/000570.html">Part II here,</a> Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
 
+<!--more-->
 

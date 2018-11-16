@@ -12,4 +12,5 @@ I've considered gutting the whole thing &#151; considered adding a cool <a href=
 
 <hr width="30%" align="center">As a side note, for an extra site wing I'd love to build some day (if I thought I could withstand the liability risk): CNN reports today on the latest way that <a href="http://www.cnn.com/2003/LAW/09/24/walmart.photo.suit.ap/index.html" target="linkframe">corporations and cops are preserving photographers' right to be senselessly harassed.</a>
 
+<!--more-->
 

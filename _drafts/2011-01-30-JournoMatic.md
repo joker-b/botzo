@@ -28,4 +28,5 @@ Andy Adams http://www.andyadamsphoto.com/photo2/
 
 
 
+<!--more-->
 

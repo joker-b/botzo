@@ -7,4 +7,5 @@ Flew in yesterday, went from the airport to the hotel long enough to drop off my
 
 Saw a fair amount of lighting and motion-control equipment on the show floors too &#151; R/C chopper cams, lots of remote controls, some pretty keen little fluorescent kits from Lowell lighting, the new Panasonic handheld 25p DVX100, a fair amount of digital grading and color-correction kit, and a few familiar faces: Josh Pines, Rick Sayre, Ray Feeney, even a couple of real surprises from Square &#151; Soeda-san and Kasuya-san, who have made a happy transition to life in game and effects production in LA. Coolness all 'round.
 
+<!--more-->
 

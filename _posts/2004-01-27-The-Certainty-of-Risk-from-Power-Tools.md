@@ -13,4 +13,5 @@ The book that has struck me as most broadly-useful to the day-to-day world beyon
 
 It's ironic that within pockets of resistance to digital photography and printing, such as <a href="http://www.apug.org/" target="linkframe">APUG,</a> one of the shared myths is the notion that digital photography replaces craft with computer software. Pye's woodworker's perspectives, published in 1968, can function as a powerful broom on such mental cobwebs.
 
+<!--more-->
 

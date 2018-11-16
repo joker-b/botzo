@@ -9,6 +9,7 @@ I did have the computer around though, and between working on some 3D models I g
 
 And staffers at companies like <i>NYT,</i> who make more than freelancers, have got to be watching their backs now too. The future for them looks grim. Read <a href="http://digitaljournalist.org/issue0404/smith.html" target="linkframe">Greg Smith's core article</a> to work-out the numbers for yourself.
 
+<!--more-->
 Smith asks: "Will visual news reporting become the province of hobbyists, thrill seekers, status hounds and people who don't know how to watch out for their own interests &#151; let alone those of their readers and viewers?" This question immediately reminded me of an hour-long <a href="http://www.docenstock.com/">French documentary</a> I'd seen just a few days ago on <a href="http://www.linktv.org" target="linkframe">Link TV,</a> titled <a href="http://www.linktv.org/programming/programDescription.php4?code=good" target="linkframe"><i>Good Morning Afghanistan.</i></a>
 
 <i>Good Morning Afghanistan,</i> as the LinkTV blurb states, recounts the story of "a journalist thrown into extraordinary circumstances" &#151; basically, he and his companions were riding in a taxi that made an unscheduled stop. They heard some gunfire and stumbled into the first hours of the <a href="http://www.guardian.co.uk/flash/0,5860,607924,00.html" target="linkframe">Mazar-i-Sharif uprising.</a> At the time they were virtually the only ones there to cover what eventually became a major story &#151; including the public appearance the "American Taliban" John Walker Lindh.

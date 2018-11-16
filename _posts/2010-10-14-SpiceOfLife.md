@@ -10,4 +10,5 @@ A <a href="http://www.processing.org/">Processing</a> sketch.
 Download it <a href="http://www.botzilla.com/blog/archives/pix2010/SpiceOfLife.zip">here</a>
 
 
+<!--more-->
 

@@ -9,4 +9,5 @@ Of course the answer is no. Or is it yes?
 
 I have pictures of you. But none of them contain the true subject shared by all photographs. The true subject of all photographs is <i>today.</i> And because this photograph, the one I've yet to make, has <i>today</i> in it, those other photographs can't possibly be of you &#151; only of skins you have already shed.
 
+<!--more-->
 

@@ -39,4 +39,5 @@ If it's your website, take a chance and make it <i>yours.</i> Let the question o
 
 If you can honestly answer <i>why</i> to yourself, your photography will have improved tenfold over what it was before, because suddenly you will be free to make pictures for your own satisfaction. Even if, once you have a grasp on your own desires, they lead you directly to the purest sort of chocolate-box photography. At least it's your box. <i>Bon appetit!</i>
 
+<!--more-->
 

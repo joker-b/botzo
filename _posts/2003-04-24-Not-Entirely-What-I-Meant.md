@@ -12,4 +12,5 @@ Okay, when I asked <a href="archives/000043.html">a few days ago</a> about <i>an
 
 So <a href="http://www.popedeflash.com/blog/" target="linkframe">this</a> doesn't quite make it.
 
+<!--more-->
 

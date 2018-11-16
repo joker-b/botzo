@@ -19,4 +19,5 @@ Note to self: never shop at Stanford Mall again.
 
 <i>When people are free to do as they please, they usually imitate each other.</i> &#151; Eric Hoffer
 
+<!--more-->
 

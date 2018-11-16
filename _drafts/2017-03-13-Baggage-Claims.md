@@ -7,4 +7,5 @@ About bags large and small and jackets and why always the same is a good thing
 
 Old, new, bike-able or not
 
+<!--more-->
 

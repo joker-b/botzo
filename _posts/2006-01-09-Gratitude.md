@@ -15,4 +15,5 @@ It often seems to me that photography is a daily form of <a href="http://lifelif
 
 Thank you.
 
+<!--more-->
 

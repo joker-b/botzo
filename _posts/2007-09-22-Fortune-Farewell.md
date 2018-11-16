@@ -9,4 +9,5 @@ To my delight, I found a brand-new copy of <a href="http://www.abebooks.com/serv
 
 I'll be back the first week of October, just in time to see Kawauchi in person at SFAI.
 
+<!--more-->
 

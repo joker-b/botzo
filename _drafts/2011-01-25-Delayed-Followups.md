@@ -7,4 +7,5 @@ If it hasn't been made clear from posts like <a href="http://www.botzilla.com/bl
 
 I though I'd take this entry to link backwards to some of the graphics presentations that I created at NVIDIA, some of which were mentioned <a href="http://www.botzilla.com/blog/archives/000651.html">here</a> and elsewhere, and which can still be found on NVIDIA's developer site or the sites of trade events like XNA Gamefest and GDC (Game Developers Conference).
 
+<!--more-->
 

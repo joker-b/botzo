@@ -9,4 +9,5 @@ So I come all the way to Iceland, swing by Sirkus in search of elves Sigur Ros &
 
 Not bad for a Wednesday night in the dark and relatively touristless "quiet" season.
 
+<!--more-->
 

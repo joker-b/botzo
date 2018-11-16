@@ -57,4 +57,5 @@ When we see another person, even in a photograph, we feel a connection to them. 
 
 (Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
 
+<!--more-->
 

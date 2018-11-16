@@ -17,4 +17,5 @@ I also came to question the role the Gate has. While physically imposing, <a hre
 
 I'm still interested in the idea of this project, but even as the questions become sharper the answers recede.
 
+<!--more-->
 

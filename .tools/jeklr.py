@@ -64,6 +64,20 @@ class Jeklr:
 		bufname = re.sub('-+$','',bufname)
 		return '%04d-%02d-%02d-%s.%s'%(self.year,self.month,self.day,bufname, 'md' if self.convert else 'html')
 
+	def kramdown(self,text):
+		'convert MT-style text to kramdown, where possible'
+		p = '(?P<prior>.*)<img(\\s+('+\
+			'src="(?P<src>[^"]*)"|'+\
+			'title="(?P<title>[^"]*)"|'+\
+			'class="(?P<class>[^"]*)"'+\
+			'))+(?P<tail>[^>]*)>(?P<post>.*)'
+		imgPat = re.compile(p)
+		m = imgPat.match(text)
+		while m:
+			url = m.group('src')
+			m = imgPat.match(text)
+		return text
+
 	def write_post(self):
 		if self.content['BODY'] == '':
 			print("empty post, none written")
@@ -74,13 +88,23 @@ class Jeklr:
 		f.write('---\n')
 		f.write('layout: post\n')
 		f.write('title: "%s"\n'%(self.name))
-		if len(self.content['categories']) < 2:
+		tryTags = True
+		if tryTags:
 			f.write('categories: [%s]\n'%(self.content['category']))
+			if len(self.content['categories']) > 0:
+				f.write('tags: [%s]\n'%(','.join(self.content['categories'])))
 		else:
-			'to-do: slice out primary category FIRST'
-			f.write('categories: [%s]\n'%(','.join(self.content['categories'])))
+			if len(self.content['categories']) < 2:
+				f.write('categories: [%s]\n'%(self.content['category']))
+			else:
+				'to-do: slice out primary category FIRST'
+				f.write('categories: [%s]\n'%(','.join(self.content['categories'])))
 		f.write('---\n')
-		b = self.content['BODY'] + '\n' + self.content['EXTENDED BODY']
+		b = self.content['BODY']
+		if self.content['EXTENDED BODY'] != '':
+			b = b+ '\n<!--more-->\n' + self.content['EXTENDED BODY']
+		if self.convert:
+			b = self.kramdown(b)
 		f.write(b)
 		f.close()
 

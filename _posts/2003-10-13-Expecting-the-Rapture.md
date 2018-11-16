@@ -9,4 +9,5 @@ Before I picked a shot for submission (and frankly, nothing from recent shooting
 
 Expected images &#151; to confirm and conform &#151; are the bane of the single-shot salon, I suspect. It's hard not to end up shooting along one or two predictable axes: either the <a href="http://www.arts.ualberta.ca/~dmiall/travel/gilpine2.htm" target="linkframe">picturesque</a> or the <a href="http://www.sfmoma.org/exhibitions/exhib_detail.asp?id=108&click=news" target="linkframe">ironic</a> (and in the latter, I'd include the "surreal"). At this point in history, when even the smallest of children are bombarded with sophisticated imagery, it's hard to imagine any great value in any single image. It takes a host of them if you really are hoping to make anything but a very well-worn point.
 
+<!--more-->
 

@@ -16,4 +16,5 @@ http://www.lifewithalacrity.com/2005/02/dunbar_triage_t.html
 is flickr anti-visual?
 
 
+<!--more-->
 

@@ -7,4 +7,5 @@ So <a title="FOXNews.com" href="http://www.foxnews.com/story/0,2933,88620,00.htm
 
 Guess we can all go back thinking Keanu's an overpaid block of wood masquerading as an actor, rather than a misguided but bighearted benevolent force.
 
+<!--more-->
 

@@ -17,4 +17,5 @@ So the question is then &#151; could I have gotten the same shots with a digicam
 
 I don't think so, in the dense crowds of Tokyo. A digital compact could have gotten about 20% of the more static shots, but it wouldn't have had the quick response of my little Contax; a DSLR would have been quicker, but at three times the size and weight &#151; and still probably unable to spontaneously shoot in quick succession. The film camera was instant-on, low-profile, and I could leave it ready all day and night. Seen in that light, film shooting still seems like a bargain.
 
+<!--more-->
 

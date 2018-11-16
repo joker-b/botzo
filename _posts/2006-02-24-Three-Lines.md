@@ -9,6 +9,7 @@ In a recent post-new-year's post on <a href="http://www.4sfolders.com">43F,</a> 
 
 Like most Americans, I was given this to read and ignore when I was 14 years old. Y had been mentioning Thoreau too, just a few days ago. So the coincidence prompted me to re-read it, and I was struck by both the sentences before and after the famous line above:
 
+<!--more-->
 After: <cite>What is called resignation is confirmed desperation.</cite> What a subversive hippie, that Thoreau.
 
 But the line that hit closer to home was the one before:

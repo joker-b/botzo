@@ -13,4 +13,5 @@ I'm especially pleased at how many developers have been adopting to using GPU po
 
 I'm also excited to visit at least a small slice of China &#151; it was only a handful of years ago that the standard garb of the street was a Mao suit. Now it's the "Wild, Wild, East" and it genuinely seems a lot farther from the US than Japan or Korea &#151; even as the people there rocket themselves toward what they perceive as a western style of affluence but with their own sense of self and place. I'm really eager to see what is going on there and what the local developers are trying to accomplish with some rapidly-moving pixels of their own.
 
+<!--more-->
 

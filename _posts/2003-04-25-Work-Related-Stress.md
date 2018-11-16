@@ -9,4 +9,5 @@ But I think I'm learning to be a lot more forgiving after finding out how the Ir
 
 I don't know what the IA and SAG are saying about this sort of thing, but now a little overtime on the weekend isn't sounding too bad.
 
+<!--more-->
 

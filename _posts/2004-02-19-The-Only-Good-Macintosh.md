@@ -9,4 +9,5 @@ My last backup was at New Years, so essentailly all mail I've recevied since Dec
 
 Fortunately almost all photo stuff &#151; and all original files and/or scans &#151; were already on CD and/or on the hardy and dependable Windows machines. Never thought I'd say that.
 
+<!--more-->
 

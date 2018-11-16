@@ -27,4 +27,5 @@ In short, what many accept so readily as "real" from color photography is every 
 
 To borrow from <a href="http://www.pub.umich.edu/daily/1998/nov/11-03-98/news/news9.html" target="linkframe">Matthew Alpern:</a> "the real business of primate vision is the discrimination of features or objects based on their location; color vision is just a hobby."
 
+<!--more-->
 

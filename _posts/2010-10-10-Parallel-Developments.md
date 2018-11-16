@@ -11,4 +11,5 @@ We got the chance to look at some advance copies of the book and  also hear him 
 
 It's been several years now where I find that some of the biggest sources of information for my work in computer-graphic coloring and shading come not from computer scientists or even other people doing similar work -- instead, they come from painters. Not just realist painters, either. Gradations, highlighting, punctuation, contrast, shape -- increasingly I think of shading as a sort of painting-without-drawing.
 
+<!--more-->
 

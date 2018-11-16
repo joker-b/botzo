@@ -7,4 +7,5 @@ Now CNN is reporting it too &#151; <a href="http://www.cnn.com/2003/WORLD/meast/
 
 I'm really itching to see his record collection and game system, now.
 
+<!--more-->
 

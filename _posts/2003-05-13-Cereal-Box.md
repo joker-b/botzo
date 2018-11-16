@@ -7,4 +7,5 @@ categories: [fStop]
 
 When I arrived at home in the evening she was burning cyanotypes in the backyard. *ping*
 
+<!--more-->
 

@@ -9,6 +9,7 @@ On a busy day, it's not uncommon for me to shoot two or three hundred photos. I 
 
 Unless I shoot RAW, or use the high-quality JPEG settings. A six-roll day of RAW files is a "gig and a half day," though to tell the truth I've never had one &#151; for all their dynamic-range merits, RAW files are significantly slower to use on my camera, so most of the time I stick to JPEGs. As a bonus, a half-gig's worth of pics will all fit onto a single CD.
 
+<!--more-->
 There's a tendency, given the abilities of the digital camera, to drift towards even higher numbers of pictures. It's just storage, right? And storage keeps getting cheaper (and hopefully faster -- burning a CD and a backup usually takes about 20-30 minutes on my laptop).
 
 The real limiting factor, I'm finding, is the storage and processing capacity between my ears. Often, I find myself shooting multiple cards full of snaps, shuffling them onto the laptop, making <a href="/blog/archives/000286.html">contact sheets</a> in XnView, transfering the orignals and contacts onto CDs, filing the CDs in big 3-ring binders and deleting the directories from the PC, reformating the cards to start shooting again, and <i>never going back to look at the pics.</i>

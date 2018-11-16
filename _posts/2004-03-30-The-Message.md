@@ -25,4 +25,5 @@ I love quotes, especially when I can quote myself, from a forum post earlier tod
 
 The simple photoblog challenge, then &#151; to engage those relationships with as much passion and force as so many newly-minted digicam users put into the flowers in the backyards and the stripes on their neighborhood pavement. To squeeze in a little quality among the quantity.
 
+<!--more-->
 

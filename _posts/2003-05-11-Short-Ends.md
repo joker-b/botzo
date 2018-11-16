@@ -9,4 +9,5 @@ Scanned the rolls from yesterday. I shot a couple of rolls with the 90mm almost 
 
 Tomorrow is another Michel Daniel-adjudicated streetphoto salon, topic "Voice." Beats me what to post.
 
+<!--more-->
 

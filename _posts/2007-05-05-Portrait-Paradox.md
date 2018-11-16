@@ -12,4 +12,5 @@ I've come pretty well to the conclusion that there is no good answer. I could re
 
 The relentless landscape format of web presentation is one of those attributes that have probably had more influence than we realize, and will continue to do so. Compare it to books, whose pages are <i>usually</i> portrait format but that can be any aspect at all. Is it any surprise that the default formats for internet-based book printers like iPhoto and Lulu are landscape-format books?
 
+<!--more-->
 

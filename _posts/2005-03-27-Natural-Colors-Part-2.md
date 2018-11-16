@@ -13,6 +13,7 @@ Such "Legends" present their own paradox &#151; photographers who continue to do
 
 The problem that was picking at me in the previous entry really was: <i>where are the great new B&W photographers?</i>
 
+<!--more-->
 I admit, I'm showing some awkward bias here. Why is <i>new</i> so important? Maybe it's not. There are plenty of folks for whom pictures are pictures. The subject of my pondering is black and white work that isn't the continuation of work begun long ago, and simultaneously work that doesn't lean so heavily on nostalgia for its interest and authority. As the ever-contentious <a href="http://www.beeflowers.com/">Bee</a> pointed out, for him all B&W that he sees these days he considers "morally suspect." As much as I hate it, I'm more than a little inclined to agree with him.
 
 Years ago Walker Evans derided color, saying it "sentimentalized" images. He chose not to use it. Today, due to changing fashion, it seems like it's B&W that all too often sentimentalizes.

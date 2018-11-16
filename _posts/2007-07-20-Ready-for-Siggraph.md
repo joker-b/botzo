@@ -9,4 +9,5 @@ Here it comes! <cite>GPU Gems III</cite> will indeed be available at Siggraph 20
 
 This is the first year in a while that I won't be bogged-down with meetings and official Siggraph duties -- I'll be free to get some actual research done!
 
+<!--more-->
 

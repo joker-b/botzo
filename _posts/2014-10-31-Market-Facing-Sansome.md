@@ -7,4 +7,5 @@ categories: [fStop,fStop]
 
 <i>World Champions 2014</i>
 
+<!--more-->
 

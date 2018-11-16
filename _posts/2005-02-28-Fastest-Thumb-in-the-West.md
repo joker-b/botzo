@@ -11,6 +11,7 @@ After having to answer this over and over again, and <a href="http://www.apug.or
 
 So here goes:
 
+<!--more-->
 The trick to using a G2 quickly is to ride the AF lock button. There, that's it. Really. Treat it a bit like a good EOS (Think Custom Function #4, sorta). <i>It's all about the grip.</i>
 
 Here are the standard complaints I hear about the Contax. I hear them on the web, in emails, in person. The truth is they're pretty well dispatched as long as you know how to hold the camera.

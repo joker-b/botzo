@@ -9,4 +9,5 @@ I've been listening to session recordings from the recent <a href="http://www.si
 
 To my surprise, they have already spent some billable time on this, thinking about what to monitor: unexplained and unattributed traffic between nodes, across disks, and so forth. In fact they seem to be ready to shut it down at any time. Which implies that to Google, which is itself an entity that's already behaving according to its own logic as a rational economic being: intelligence, in a computer, is an error condition.
 
+<!--more-->
 

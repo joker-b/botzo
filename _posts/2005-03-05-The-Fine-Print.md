@@ -9,6 +9,7 @@ It's always in the details. This weekend finds me printing and reprinting compar
 
 Since the beginning of the year I've found myself increasingly dissatisfied with prints smaller than 8&#215;10", printing 11&#215;14 and preferably larger. The Epson will deliver a predictable solid 12x18 from 35mm format digi, or 12x12 from a MF negative. And even that seems small a lot of the time...
 
+<!--more-->
 Part of this inclination toward ever-larger paper came from printing the extended-family photos made at Christmas. I could print the faces at nearly life-sized, and was terribly excited by their immediacy. That immediacy, of the image and the object of the paper itself, is not something that can be carried on a smaller print or a book, much less on a web page. <a href="http://www.calypsoinc.com/">Calypso</a> will make me prints even larger, for a price (a pretty reasonable one). Thursday I was looking over some of their B&amp;W Lightjet output, and they've done a fine job at getting tones out of both the low and high ends of the scale.
 
 Last night Rebecca & I visited an <a href="http://www.modernbook.com/2x20.htm">opening reception at Modernbook</a> in Palo Alto, mostly to see <a href="http://pages.sbcglobal.net/b-evans/show/">Brad Evans</a> and his prints (Brad also introduced us to <a href="http://www.spirer.com/">Jeff Spirer,</a> who has a show in SF in the coming few weeks). At least one of the artists in the group, <a href="http://www.davidhibbard.com/">David Hibbard,</a> had printed most all of his work at Calypso.

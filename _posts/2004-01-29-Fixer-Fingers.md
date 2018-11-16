@@ -11,4 +11,5 @@ I've decided my next system expansion will be to hybridize slightly &#151; to ta
 
 There's just comething about the Zeiss lenses, whether its the design or the coating I'm unsure, but it's there &#151; I could see it just glancing at the first roll of negs when I bought my Contax. They were visibly different from Canon negs, even before they were printed. Sharp? Snappy? Sure. But it's more than the <a href="http://www.photodo.com/nav/prodindex.html" target="linkframe">photodo</a> measurements, even as high as those are. Even <a href="http://www.canon.com/technology/interview/lens/index.html" target="linkframe">Canon's own lens designers</a> have said it: <i>"Sometimes what the eye perceives is slightly different from what is expected, even if all the measurements meet the proper values. We've experienced the fact that the perceptions of an expert surpass the precision of measuring instruments."</i>
 
+<!--more-->
 

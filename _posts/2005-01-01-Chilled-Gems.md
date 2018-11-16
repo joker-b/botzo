@@ -11,4 +11,5 @@ The current issue of  <a href="http://www.bandwmag.com/" target="gems">B&W Magaz
 
 Happy holidays!
 
+<!--more-->
 

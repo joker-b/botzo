@@ -7,4 +7,5 @@ categories: [fStop]
 
 Too bad I've been locked up indoors for the last month :)
 
+<!--more-->
 

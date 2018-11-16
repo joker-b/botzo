@@ -5,6 +5,7 @@ categories: [The Open Conspiracy]
 ---
 A bit ago (actually before the recent elections) I got a call in the evening that I mistakenly thought was from one of Isaac's guitar buddies &#151; so I ignored the caller ID and picked up. Oops. Instead, it was from a political survey group. They wanted to ask my opinions about digital TV, which was just geeky enough to keep me on the phone.
 
+<!--more-->
 At first the questions were simple: did I know what digital television was, did I know what HDTV meant, etc. Then they got around to asking me about changing FCC regulations for TV and digital TV.
 
 First, the woman asked me if I was aware that the radio spectrum currently being used by analog television signals could have been available to emergency-response workers like those who had died in the 9/11 attack on the World Trade Center, and therefore would I support legislation to sell-off those frequencies and require the general public to switch over to digital frequencies so that emergency response workers could better protect us?

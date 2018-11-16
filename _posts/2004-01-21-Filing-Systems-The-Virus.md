@@ -10,4 +10,5 @@ Simplicity itself: take a typical digital-camera photo ID, like the one on my <a
 Now, just <a href="http://www.google.com/search?q=143_4354&svnum=10&hl=en&lr=&ie=UTF-8&sa=N&tab=iw" target="linkframe">poke that number into Google.</a> Chances are, it'll come up with other people's digital photos. Their personal photos, dutifully crawled and catalogued by Google's robot.
 
 
+<!--more-->
 

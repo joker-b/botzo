@@ -13,4 +13,5 @@ Dang it, out of TMax after the next roll.
 
 Checking the catalog, I realize that the <a href="http://www.library.ci.santa-clara.ca.us/" target="linkframe">local library</a> has <i>one</i> <a href="http://www.uta.edu/english/apt/collab/baudweb.html" target="linkframe">Jean Baudrillard</a> title <i>(America),</i> and 252 titles matching "Star Trek."
 
+<!--more-->
 

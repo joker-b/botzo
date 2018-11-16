@@ -17,4 +17,5 @@ My inclination is to think that humans, who evolved over most of their history i
 
 As humans, we are not perfect animals. Our inability to grasp at large-scale problems on an emotional level is, as <a href="http://www.decisionresearch.org/About/People/slovic.html">Paul Slovic</a> writes, a "deeply unsettling insight into human nature." What's positive is the notion that it <i>is</i> an insight, and that we do find it unsettling.  It means that we know we can do better. And if we know it, we can seek better-informed ways to act on that knowledge.
 
+<!--more-->
 

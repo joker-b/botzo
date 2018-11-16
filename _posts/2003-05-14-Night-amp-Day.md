@@ -9,4 +9,5 @@ I upgraded the other PC (the game machine) a few days ago to a GeForce 4400 Ti, 
 
 Rebecca was my lab rat for teaching kids animation using Maya &#151; and she's all over it! Of course, this is the girl who at four years old figured out, unattended, how to start up a nurbs modelling package and build vases and furniture.
 
+<!--more-->
 

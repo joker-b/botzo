@@ -19,4 +19,5 @@ Rehearsal is key. In the documentary <cite>Comedian,</cite> I love how Jerry Sei
 
 Some kinds of presentations, particularly super-tight performance-centric ones (e.g. Lessig style) seem to defy easy transition to a slideument. Is podcasting the best answer for these? I'm curious to try it.
 
+<!--more-->
 

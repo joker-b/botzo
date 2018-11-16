@@ -41,4 +41,5 @@ I suspect that a part of this bias comes from a sense that color is too direct, 
 
 <a href="http://politicstheoryphotography.blogspot.com/2006/08/private-33.html">Jim Johnson's "(notes)" blog has also found the same issue of PRIVATE</a> in his local shop. I consider it a good sign that he also likes it, but for rather different reasons &#151; enough in there for many people to find value. My guess is that <i>PRIVATE</i> has found a new US distributor, and hopefully we'll keep seeing it around.
 
+<!--more-->
 

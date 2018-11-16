@@ -13,4 +13,5 @@ While a few attempts have been made to <a href="http://www.hunkabutta.com/cgi_fi
 
 For all these reasons and more, I've decided to start <b><a href="http://www.botzilla.com/blog/archives/cat_photorant.html">PhotoRant.</a></b> PhotoRant will take names and taunt the guilty, with a liberal dose of praise for those who rise to deserve it. You have been warned.
 
+<!--more-->
 

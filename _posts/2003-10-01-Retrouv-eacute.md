@@ -13,4 +13,5 @@ With the rangefinder, the 90mm feels like a real tele, and it's difficult to use
 
 With the SLR, the 85mm is made for close, tight work. It handles like the 45mm on the Contax. The comfort zone is a quarter-step back but the result still feels intimate without being pushy. Combined with the crispness of Tri-X in Rodinal, it's a thing of beauty.
 
+<!--more-->
 

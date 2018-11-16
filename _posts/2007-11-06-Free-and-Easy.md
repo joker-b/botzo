@@ -11,4 +11,5 @@ With that in mind I've moved myself away from internet inputs in a formal way, a
 
 I still leave Outlook turned on all day. I still <i>compose</i> e-mails at any hour. But except during narrow windows of the morning and afternoon, I leave Outlook in the Task-list or Calendar views. As the Quebecers say, <i>je me souviens.</i> 
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [fStop,fStop]
 
 @ Oracle OpenWorld.
 
+<!--more-->
 

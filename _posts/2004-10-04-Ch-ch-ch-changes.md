@@ -13,4 +13,5 @@ The leaves drop to make way for new growth over the winter and spring. In a simi
 
 Et <i>bonne f&ecirc;te</i> y'all.
 
+<!--more-->
 

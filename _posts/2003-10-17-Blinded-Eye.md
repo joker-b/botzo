@@ -11,4 +11,5 @@ It's easy to wring one's hands over the evils of the world, or to earnestly hope
 
 People in Spain and Germany march in the street against the US coalition in Baghdad. It's certainly their prerogative &#151; it's great fun to wear a grotesque Bush mask and complain about the oil business. But why do these people say <i>nothing</i> about Grozny? Who has decided that these people, Chechens and Russians alike, are worth so little?
 
+<!--more-->
 

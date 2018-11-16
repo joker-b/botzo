@@ -7,4 +7,5 @@ categories: [fStop]
 
 As a comparison, here's a digital snap I made quickly as an exposure test before making the photos in <a href="/blog/archives/000358.html">this post.</a>
 
+<!--more-->
 

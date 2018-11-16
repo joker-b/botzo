@@ -14,4 +14,5 @@ Sadly my interest in these <a href="http://www.ted.com/tedtalks/tedtalksplayer.c
 On the plus side, it is giving me a wee boost to remember some lingering film-based projects-in-progress.
 
 
+<!--more-->
 

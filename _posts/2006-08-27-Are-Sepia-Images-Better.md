@@ -13,4 +13,5 @@ But if the conversion were more duotone-like, following curves that mapped the g
 
 Does the LX1 do this the "right" way, by converting the original 12-bit RAW signal to 12 or 16-bit grayscale and remapping those 12 or 16 bits diagonally across the colorspace before quantizing to 8-bit and building the JPG? Sadly, I don't think it does. But <i>some</i> camera might...and the idea, that this otherwise merely decorative camera mode could be the secret path to higher-quality digital B&W, is appealing.
 
+<!--more-->
 

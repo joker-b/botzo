@@ -7,6 +7,7 @@ categories: [GrayScale]
 
 <p>A couple of weeks back I made a short list of <a href="http://www.flickr.com/groups/topic/62805/">B&W-related groups on flickr.</a> Click the link for the full list, I'll mention just a couple here:</p>
 
+<!--more-->
 <ul>
 <li><a href="http://www.flickr.com/groups/newblackandwhite/">New Black and White</a> was created in reaction to some rather poor behavior from the admins of groups like "Black and White" &#151; the charter purpose is to improve the signal-to-noise ratio and present photography that's a bit more ambitious than the usual flickr free-for-all &#151; while still remaining open for public posting, images are often deleted based on purely subjective judgements.</li>
 

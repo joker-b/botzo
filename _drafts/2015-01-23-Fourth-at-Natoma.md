@@ -6,6 +6,7 @@ categories: [Fujifilm,PhotoRant,fStop]
 <img alt="bjorke_PICS0454.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0454.jpg" class="img-responsive"  border="0" />
 
 
+<!--more-->
 --
 Thanks very much Rob! Yes for "Liquidity' style pictures the camera handling boils down to practice practice practice (and to a degree, a willingness to risk occasional personal injury) -- I started making photos with a similar look back in my film days. It doesn't work for all subjects (or cameras) but it suits my current environment. Beyond that it's the usual suite of street photo considerations: looking for interesting faces, gestures, and connections.
 

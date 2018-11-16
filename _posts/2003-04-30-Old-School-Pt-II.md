@@ -7,4 +7,5 @@ categories: [fStop]
 
 Monday: <a href="/photo/salon">SP Salon</a> later today, the theme: "Power Relations." I'm thinking one of the photos from <a href="/blog/archives/000048.html">Saturday</a> might do nicely.
 
+<!--more-->
 

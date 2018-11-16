@@ -9,4 +9,5 @@ Went around with a meter and the <a href="http://myweb.tiscali.co.uk/iannorris/l
 
 NVIDIA interiors are EV 7 day and night. My dining room is EV 5, kitchen EV 6. Bedroom around EV3, depending on distance from the big paper lantern. So now I don't need a meter.... NVIDIA is three stops down from open shade which is four stops down from sunny-16. The dining room is two stops down from NVIDIA. What more could I need?
 
+<!--more-->
 

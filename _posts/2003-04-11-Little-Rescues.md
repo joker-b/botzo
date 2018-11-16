@@ -11,4 +11,5 @@ I hotsync my PDA on two different machines &#151; my work desktop at <a href="ht
 
 Next comes the tedious but welcome part &#151; flushing all the existing logs out to text files, so they can ultimately be printed and those printouts added top the binders that hold sheets of negatives. Picking through GoPix I see that it's got about 50 rolls' worth of notes.
 
+<!--more-->
 

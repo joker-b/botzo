@@ -9,6 +9,7 @@ This does seem to be the week for coincidences. Today the coincidences involve a
 
 I was browsing Lenswork's forums and came across <a href="http://www.lenswork.com/stl-web/bulletin/bb/viewtopic.php?t=41" target="_blank">this post</a> and its responses &#151; obviously made at the same time (and by the same person) as <a href="http://lists.topica.com/lists/streetphoto/read/message.html?sort=&mid=909880171&start=0" target="_blank">this post on streetphoto.</a> In both, Jason/Manic worries that if he buys a copy of <a href="http://members.iinet.net.au/~bronson1/photo/Mann.html" target="_blank">Sally Mann's</a> book <a href="www.arthistory.sbc.edu/artartists/ photosally.html" target="_blank">Immediate Family,</a> the police may show up at his door, sent by some conservative Bible-Belt neighbor, to arrest him for possesion of child pornography.
 
+<!--more-->
 This was posted a month ago, and <a href="http://lists.topica.com/lists/streetphoto/read/message.html?sort=&mid=909880569&start=0" target="_blank">my answer</a> seemed close to that of the rest of the list members:
 
 <i>"Bad enough if you shoot photographs while worrying about what other people might think.</i>

@@ -17,4 +17,5 @@ Yeah, sure, you could open all the original scans &#151; but that doesn't let yo
 
 If anyone has a better idea for how to manage the digital "contact problem," please let me know.
 
+<!--more-->
 

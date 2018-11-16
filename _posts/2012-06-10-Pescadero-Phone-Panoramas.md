@@ -11,4 +11,5 @@ categories: [GearHead,fStop]
 
 <img alt="bjorke_pesca4.jpg" src="http://www.botzilla.com/blog/archives/pix2012/bjorke_pesca4.jpg" width="807" border="0" />
 
+<!--more-->
 

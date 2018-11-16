@@ -9,6 +9,7 @@ categories: [PhotoRant]
 
 <p>A couple of nights ago I watched (again) <a href="http://www.magnumphotos.com/" target="_blank">Bruce Gilden</a> on <a href="http://www.pbs.org/wnet/egg/218/gilden/index.html" target="_blank">Egg.</a> When Gilden talks it's all about people &#151; yet he moves through the street alone, violates people's spaces, then carries on with a smile and a complement. Is it anti-social? Is it deeply social? Is it pretended intimacy, siezed before the subject can grasp what's going on, and pinned to the wall by Gilden's flash unit?</p>
 
+<!--more-->
 <p>Gilden is comfortable with what he's doing ("if I'm not comfortable, I can't shoot," he says). He follows his instincts rapidly, and to do that he is free from distractions, very present in that 1/60th second moment shared by a passerby and his Leica. He is not open to conversation, he doesn't have an assistant or a companion who need to keep up or have things explained. He does not go on vacation, he goes to various places to make photographs. They are his experience of the world.</p>
 
 <p>Other photographers who've described their encounters with him in Manhattan inevitably end their story of conversation abruptly, something like: "and then he saw something and ran off across the middle of the block." Anti-social? Hell yeah. And that's a good thing.</p>

@@ -9,4 +9,5 @@ In a compelling and grim way, without a trace of Barthes-like deconstruction or 
 
 <i>(Update only a few hours later: The site has been swamped, or somehow otherwise removed. See <a href="http://www.angelfire.com/extreme4/kiddofspeed/" target="linkframe">here</a> for the scanty details. Try <a href="http://www.geocities.com/pripyatcity/argazkiak.htm" target="linkframe">here</a> as an echo view of what has potential as the world's grimmest tourist destination)</i>
 
+<!--more-->
 

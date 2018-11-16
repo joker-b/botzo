@@ -12,4 +12,5 @@ categories: [Library,PhotoRant]
 <img alt="Instant City" src="http://www.botzilla.com/blog/archives/pix2015/bjorke_Books_BOSS8758.jpg" class="img-respsonsive" border="0" /><i>Instant City</i>
 
 
+<!--more-->
 

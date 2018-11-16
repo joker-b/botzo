@@ -15,4 +15,5 @@ It's easy to feel sympathy for these guys, who worked in slave-labor-like condit
 
 And I wonder if. fifty or sixty years from this evening, we will see clusters of aging Iraqis and Americans shaking tired fists at the offices of American oil companies, at Bechtel, at Halliburton. What will our children say to them?
 
+<!--more-->
 

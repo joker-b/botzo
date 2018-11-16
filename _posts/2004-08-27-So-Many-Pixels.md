@@ -15,4 +15,5 @@ In a related note I'll be proctoring <a href="http://www.siggraph.org/s2004/conf
 
 This year I'm bringing along a pedometer. If it's anything like last year, I'll be running up those daily 10,000 steps before lunch time all week.
 
+<!--more-->
 

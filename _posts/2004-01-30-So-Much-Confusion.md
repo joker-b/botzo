@@ -29,4 +29,5 @@ Canon (and Contax and Kodak), in the meantime, has started making full-frame dig
 
 My hunch &#151; Canon will be pushing full-frame cameras down into the lower tiers of the DSLR line. My guess is a camera between the 10D and 1D, with a full-frame sensor, in the $3000 range, late this year.
 
+<!--more-->
 

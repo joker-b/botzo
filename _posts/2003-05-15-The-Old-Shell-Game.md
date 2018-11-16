@@ -27,4 +27,5 @@ While the thought immediately struck me that I should layer it onto another phot
 
 So with a slightly less-than-knee-jerk response, I've placed my submission <a href="/photo/journal/IMG_8184.html" title="IMG_8184.jpg">here.</a>
 
+<!--more-->
 

@@ -11,4 +11,5 @@ And so I will be returning -- touring from mid-December until mid-January, enter
 
 A challenge this time will be to maintain my "one <a href="http://www.ccoutdoorstore.com/osprey-waypoint-80-men-s.html">bag</a> that you can easily carry for long distances" rule, this time for a trip more than three times as long as the last one (but that length makes the rule all the more important!). Fortunately I can carry less than <a href="http://npac.ca/smf/index.php?topic=173.0">Louie Palu</a> (I think I'll skip the second hard drive and the Kevlar helmet),  though a bit more than <a href="http://www.fourhourworkweek.com/blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/#more-91">Tim Ferriss</a> (mostly because I have a larger laptop and camera).
 
+<!--more-->
 

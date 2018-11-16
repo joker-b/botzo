@@ -28,4 +28,5 @@ Conclusions? None. Then again, I prefer photos that are questions.
 <center><img title="(C)2007" src="http://www.botzilla.com/blog/pix2007/IMG_0581.jpg" class="img-responsive" border="0" /></center>
 
 
+<!--more-->
 

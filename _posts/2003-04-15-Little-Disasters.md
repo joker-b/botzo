@@ -25,4 +25,5 @@ This happened once before &#151; the buffer apparently overflowed with active da
 
 I don't even know at this point what the labels of those other TMax rolls are, still soaking in the final wash. One of them I know was from April, but the other? What about the roll in the Contax right now? Did I tag it Apr03e? Apr03f? Grrrr.
 
+<!--more-->
 

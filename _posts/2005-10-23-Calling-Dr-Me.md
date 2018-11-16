@@ -9,4 +9,5 @@ Oddly, my acceptance letter came addressed to "Dr. Kevin Bjorke." Never knew it 
 
 I'll also be a speaker at <a href="http://www.gdconf.com/homepage.htm">GDC</a> in March &#151; giving a production-centered presentation titled "When Shaders and Textures Collide."
 
+<!--more-->
 

@@ -7,4 +7,5 @@ categories: [GrayScale,PhotoRant,fStop]
 
 <a href="https://www.flickr.com/photos/bjorke/16175252482/">Mono version.</a>
 
+<!--more-->
 

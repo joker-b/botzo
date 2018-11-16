@@ -7,4 +7,5 @@ categories: [fStop]
 
 One subtle advantage of digital &#151; no dumbass can come along and mistake one green film can for another green film can, mislabel them all as Neopan 1600, and underdevelop the results by a half-stop. Now I'm not naming names, but....
 
+<!--more-->
 

@@ -13,4 +13,5 @@ To my surprise, shooting time for ten "high quality" JPEG images remained about 
 
 <i>Addendum #2: And on the heels of <b>that,</b> another review lamenting the DP-1's lack of speed, this time by Edward Taylor on <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2008/05/sigma-dp1-updat.html">The Online Photographer</a> -- "My main complaint about the camera then was that it was painfully slow. It was and it is...." Hmmm.</i>
 
+<!--more-->
 

@@ -8,6 +8,7 @@ categories: [GrayScale,The Open Conspiracy]
 It strikes me that designers themselves provide ample evidence that "Intelligent Design" is a fundamentally flawed idea.
 
 
+<!--more-->
 "I.D." has at its core the same premise as Paley's <a href="http://en.wikipedia.org/wiki/Watchmaker_analogy">"watchmaker thesis"</a> as presented in his 1802 <i>Natural Theology:</i>
 
 <blockquote><i>In crossing a heath, suppose I pitched my foot against a stone, and were asked how the stone came to be there; I might possibly answer, that, for anything I knew to the contrary, it had lain there forever: nor would it perhaps be very easy to show the absurdity of this answer. But suppose I had found a watch upon the ground, and it should be inquired how the watch happened to be in that place; I should hardly think of the answer I had before given, that for anything I knew, the watch might have always been there. (...) There must have existed, at some time, and at some place or other, an artificer or artificers, who formed [the watch] for the purpose which we find it actually to answer; who comprehended its construction, and designed its use. (...) Every indication of contrivance, every manifestation of design, which existed in the watch, exists in the works of nature; with the difference, on the side of nature, of being greater or more, and that in a degree which exceeds all computation.</i></blockquote>

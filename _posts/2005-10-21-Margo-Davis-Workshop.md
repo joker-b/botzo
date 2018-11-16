@@ -13,4 +13,5 @@ I was happy with the experience because I learned a lot of things that I wasn't 
 
 I'll try to post some other photos from the workshop to <a href="http://www.flickr.com/">flickr</a> in coming days, under the shared tag <a href="http://www.flickr.com/photos/tags/margodavis/">margo_davis.</a>
 
+<!--more-->
 

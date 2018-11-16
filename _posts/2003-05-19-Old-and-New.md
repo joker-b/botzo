@@ -13,4 +13,5 @@ First, the camera case has apparently been used as a humidor. The whole kit smel
 
 The second issue I didn't notice at first, but there appears to be play in the lens mount. This roll of TMax will tell the tale, once dried and scanned, but I'd hate to find out the camera was unable to focus. Grrr.
 
+<!--more-->
 

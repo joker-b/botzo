@@ -7,4 +7,5 @@ categories: [The Troubles]
 
 I'm sure <a href="http://www.geekycheck.net/" target="linkframe">Courtney</a> will recap the highlights of the friends we visited, the foods consumed, the shows seen. She probably won't mention the copy of <a href="http://www.thescreamonline.com/photo/photo06-01/mortensen/index.html" target="linkframe">William Mortenson's</a> 1934 <i>Projection Control</i> that I found on Irving Street, or the Huizinga 1938 <a href="http://www.io.tudelft.nl/research/dic/Paper_pdfs/Coyne.pdf" target="linkframe"><i>Homo Ludens,</i></a> or that I finally re-finished Barthes's <a href="http://wwwmcc.murdoch.edu.au/ReadingRoom/6.2/Burnett.html" target="linkframe"><i>Camera Lucida,</i></a> which I'd slept through at CalArts. All good stuff &#151; even brilliant, but in the end, the image I'll carry inside me from the weekend will just be playing cards with Courtney & the kids while we awaited our plate of <a href="http://www.newkrungthai.com" target=linkframe">pad thai</a> for dinner. A little slice of happy connectedness, ephemeral and yet the most lasting father's day gift I could hope for.
 
+<!--more-->
 

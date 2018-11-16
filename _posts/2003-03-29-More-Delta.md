@@ -9,4 +9,5 @@ Took me until tonight to even begin to look in detail at the first of the rolls 
 
 On the way back from errands <a href="http://www.geekychick.net" target="linkframe">Courtney</a> &amp; I stopped at Kamera Korner in SJ and bought some Dektol. Looks like the darkroom is poised to rise again, after a long hiatus...
 
+<!--more-->
 

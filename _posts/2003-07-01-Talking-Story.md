@@ -7,4 +7,5 @@ Nothing Hawaiian this time: I'll be giving a keynote lecture at the <a href="htt
 
 The conference is neatly-tucked between November Comdex and the Thanksgiving holiday...
 
+<!--more-->
 

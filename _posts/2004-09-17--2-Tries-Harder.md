@@ -7,6 +7,7 @@ categories: [PhotoRant]
 
 With three hours to kill between afternoon presentations at <a href="http://www.kogakuin.ac.jp/english/" target="try">Kogakuin University,</a> I took a three-block walk, first across the street to the Mitsui Building, where I failed to find either the <a href="http://www.pentax.co.jp/forum/" target="try">the Pentax Forum Gallery</a> or Epson's <a href="http://epsite.epson.co.jp/home.html" target="try">epSite.</a> Then around the corner past Subaru to the <a href="http://www.nikon-image.com/jpn/service/salon/index.htm" target="try">Nikon Salon and Salon 21bis,</a> tucked-away on the 28th floor of the Shinjuku L Tower.
 
+<!--more-->
 As expected, the galleries were tucked behind a bright and shiny general product showroom and the service departments. I was somewhat leery, expecting to see the sorts of pix that photo marketeers know amateurs want to make with their gear: bright balloons, clowns and children, sunsets and vividly exotic birds. I was very happy to discover that I was totally wrong, and the the galleries at Nikon were full of good photos. The 21bis show was particularly good, <a href="http://www.nikon-image.com/jpn/service/salon/exhibition/08_bis-1.htm" target="try">[LANDSCAPER]</a> by <a href="http://homepage.mac.com/shunsuketamura/" target="try">Shunsuke Tamura.</a>
 
 Better yet, the shows changed rapidly &#151; I could come back the next evening to see two completely new sets.

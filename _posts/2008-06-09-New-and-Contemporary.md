@@ -13,6 +13,7 @@ Edited those down to a few dozen, watched it fill up quickly again. Eventually t
 
 Rather than even try to deal with all that, I started another group, <a href="http://www.flickr.com/groups/contemporarybw/">Contemporary Black and White,</a> and invited a few select members. I thought: at least I don't need to edit them (and I don't -- they've been contributing good stuff). But then I started wondering about the old one.....
 
+<!--more-->
 ...<i>could</i> I realistically edit-down the 50,000+ photos to a little kernel, throwing away <a href="http://en.wikipedia.org/wiki/Sturgeon's_law">90%</a> or more of them? Only one way to find out....
 
 So I did. It took time, it took <a href="http://bighugelabs.com/flickr/poolcleaner.php">special tools,</a> it took regular attacks. I worked in blocks of from 1000 to 3000 photos. As time passed, it was quick enough to see how many really endlessly-repeating tropes there were, each trotted out over and again and usually accompanied by plenty of enthusiastic flickr badges and boosting comments (especially if the photo involved a pretty girl).

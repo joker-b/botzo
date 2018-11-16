@@ -81,4 +81,5 @@ And these from Luis:
 
 &#151; Alfred Stieglitz  "Four Happenings", <u>Twice-a-Year</u>, edited by Dorothy Norman, No. 8/9, pp 135.
 
+<!--more-->
 

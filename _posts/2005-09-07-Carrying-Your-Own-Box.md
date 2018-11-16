@@ -7,6 +7,7 @@ categories: [fStop]
 
 <p>You do what you set out to do. Even if you fail, it's normal to frame the failure in terms of the original goal. Goals can be useful and powerful motivators, but they can also restrict. A common tragedy, told many times, is of a protagonist who pursues a goal only to find, as he approaches it, that it wasn't what he thought &#151; everything looked perfect, from far away.</p>
 
+<!--more-->
 <p>Goals can be lofty, but sometimes the most banal ones can have the greatest power over us. They are so easy to accomplish, they give us a little pat on the head each time. A thousand daily "atta boys" can be more compelling than a single house full of applause once every three years. </p>
 
 <p>And those "atta boys" can be limiting, if after each little reward, each little and repetetive goal, we just stop. Good enough for today. Start over tomorrow. Never get much farther.</p>

@@ -13,4 +13,5 @@ It still felt good to be out by myself and shoot. Two rolls later I was back hom
 
 I won a little stuffed doggie. Five bull's eyes.
 
+<!--more-->
 

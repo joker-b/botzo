@@ -42,4 +42,5 @@ The answer should be: <i>nothing.</i> I'm appalled at recent statements by his p
 WWJD? Can a corporation be ordained, or not?
 
 
+<!--more-->
 

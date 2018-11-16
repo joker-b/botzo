@@ -31,4 +31,5 @@ Also in my bookstack is a non-photography book, <a href="http://old.siggraph.org
 
 <img alt="P1010543.jpg" src="http://www.botzilla.com/blog/pix2006/P1010543.jpg" width="807" height="454" border="0" />
 
+<!--more-->
 

@@ -11,4 +11,5 @@ Almost.
 
 It's also a valid <a href="http://www.apug.org/forums/showthread.php?t=5903" target="mole">log book</a> for shooting &#151; not a log of the state of my camera settings, which I dutifully record using <a href="http://www.netacc.net/~rlmsmw/gpx_overview.htm" target="mole">GoPix.</a> Instead, I can use it to log something more durably important &#151; the state of my self.
 
+<!--more-->
 

@@ -13,4 +13,5 @@ Not just in color, either -- strobe is clear in Diane Arbus, Bruce Gilden, and J
 
 A collision of "what I saw" and "what I made" is at the heart of its charm, no doubt.
 
+<!--more-->
 

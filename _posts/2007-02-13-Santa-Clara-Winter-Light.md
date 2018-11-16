@@ -11,4 +11,5 @@ In the evenings, the cloud cover cracks against the Santa Cruz mountains to the 
 
 Low, direct sunlight, shining on an otherwise overcast day. You couldn't buy this kind of light, and it's here <a href="http://www.flickr.com/photos/bjorke/sets/356507/show/">every year.</a>
 
+<!--more-->
 

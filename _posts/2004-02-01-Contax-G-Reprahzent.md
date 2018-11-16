@@ -15,4 +15,5 @@ Best of all, the photos are terrific.
 
 On the other side of the planet is our own Contax homie <a href="http://contaxg.com/user.php?id=1023" target="linkframe" rel="colleague">Eddie Ng,</a> whose <a href="http://www.walkeast.com/" target="linkframe">website</a> I've just found featured in the December issue of the UK <a href="http://www.gmcmags.com/bw/index.html" target=linkframe">Black and White Magazine.</a> I've known enough to mark his site (even without an RSS feed) on the PhotoRant <a href="/blog/archives.html">blogroll</a> for a long time.
 
+<!--more-->
 

@@ -11,4 +11,5 @@ Most-lamented missed shot, or maybe just most memorable scene: two heavyset olde
 
 Perhaps what appeals to me about Las Vegas was how many people look completely lost.
 
+<!--more-->
 

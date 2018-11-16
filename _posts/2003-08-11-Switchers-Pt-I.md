@@ -9,4 +9,5 @@ Beats me where the Vuescan "B/W Curve" pulldown went, though. You mean... I'll h
 
 Zealous Mac switchers (and you know who you are) needn't be too alarmed, however &#151; the Mac is still running Photoshop, and it's about to be swapped-out for a dual-head G4 of more recent vintage. Moving the scanner just frees-up the Macs for more-productive tasks.
 
+<!--more-->
 

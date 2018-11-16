@@ -24,4 +24,5 @@ During this I'd seen only three other people, though I was within sight of the h
 Five minutes more and I was in traffic, negotiating my way over highway 237, dodging pickup trucks and VTA trains. It was all good riding, but only one part of it touched the sky.
 
 
+<!--more-->
 

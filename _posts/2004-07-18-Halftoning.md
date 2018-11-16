@@ -11,4 +11,5 @@ But don't worry, our <a href="http://www.madison.com/captimes/news/stories/74526
 
 Now you may say, I'm just a big crab. Or a worthless commie Al-Quaeda-loving treasonous wrong-question-asking meanie. The US is still near the best part of the scale in the <a href="http://www.rsf.org/rubrique.php3?id_rubrique=20" target="_blank">RSF's Hall of Shame.</a> Still, it's more and more obvious that everyone's camera kit needs a <a href="http://www.krages.com/phoright.htm" target="_blank">bust card</a> just as surely as they need fresh batteries.
 
+<!--more-->
 

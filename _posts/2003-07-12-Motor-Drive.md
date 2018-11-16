@@ -9,4 +9,5 @@ The past two or three weeks have been motor-driven to an astonishing degree. So 
 
 Rather than photograph, I made myself some notes for future photos. And made a <i>few</i> shots &#151; mostly 6x6 slides, trying to finish-off my supply of E100VS.
 
+<!--more-->
 

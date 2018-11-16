@@ -15,4 +15,5 @@ The ongoing household purge, emptying another massive bag of trash from the shel
 
 A phonecall from one of my heroes, <a href="http://www.brooklynrail.org/spotlight/may04/bergman.html" target="bergman">Robert Bergman,</a> in response to <a href="http://www.apug.org/forums/showthread.php?t=3834&page=7&pp=7&highlight=robert+bergman" target="bergman">an APUG post.</a> When Bergman's book <a href="http://www.randomhouse.com/catalog/display.pperl?isbn=0-679-44257-X"><cite>A Kind of Rapture</cite></a> appeared back in '98, it caught many (me, at least) offguard, as if it had dropped from a comet &#151; his call was just as surprising and full of its own light &#151; a very welcome message from the outer cosmic reaches of Minnesota.
 
+<!--more-->
 

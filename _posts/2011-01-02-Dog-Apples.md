@@ -17,6 +17,7 @@ I think parts of an answer can be found in the closing chapter of the new Gerry 
 
 <i>Due diligence declaration: I do really love the work of all the photographers cited below. Okay, maybe not Richard Prince...</i>
 
+<!--more-->
 The Minnesotan, of course, is our old Stanford buddy <a href="http://en.wikipedia.org/wiki/Thorstein_Veblen">Thorstein Veblen,</a> best known for two simple alliterative words: <i>conspicuous consumption.</i>
 
 An item that is to be conspicuously consumed for purposes of status is best consumed for that purpose <i>only</i> -- that is, as an item which exists most completely to waste resources in a way that can be seen and appreciated by... well, people whose appreciation you desire. In the most desire-inducing scenarios, the item to be consumed should be unique as well. If you have the Rubens... well, no one else does. And a prominent-enough purchase can itself create Artistic Validity&trade;

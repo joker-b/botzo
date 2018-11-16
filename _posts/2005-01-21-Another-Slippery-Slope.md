@@ -11,6 +11,7 @@ I have to admit that I'd been stalling on processing these rolls, dreading them 
 
 <i>What had I been I thinking?</i> The negs are exactly what I could have hoped for &#151; well-toned, sharp, snappy, clean. Chalk my anxiety up to an infinite fickleness and an easily-suggestible nature.
 
+<!--more-->
 I keep grasing at a better definition of <i>why,</i> but in the end I still really love the way black and white film looks, and no digital sensor has yet to match its properties, particularly in tonal range (detail and smoothness, yes &#151; and then some). The whole package: light weight, durable cameras, the feel and smell of it with the fixer on your fingers, the latitude and the grain and the direct physicality of it &#151; it still calls to me in a way that newer media, lovely though they may be, have not yet called.
 
 With that in mind I stocked up this morning on a wee bit of Neopan 1600 for <a href="http://neekole.com/" target="nb">Nicole</a> and <a href="http://thegeekout.com/" target="nb">Brandon</a>'s upcoming <a href="http://neekole.com/archives/category/wedding-plans/" target="nb">wedding,</a> in February. <a href="http://blog.geekychick.net/" target="nb">Courtney</a> & I will be shooting photos of the event, I'm starting to work-through the initial various bits of typical logistical planning: when, where, indoor, outdoor, who is who, what kind of ceremony, which relatives need to be seen, staging areas, electrical power, the whole usual list.

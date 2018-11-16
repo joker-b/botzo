@@ -29,4 +29,5 @@ Remember, these aren't just common &#151; they are the <i>most-viewed photos on 
 
 Think about that, next time someone yells at you while you're shooting because photographers are all a bunch of pervs. According to yahoo, they're right.
 
+<!--more-->
 

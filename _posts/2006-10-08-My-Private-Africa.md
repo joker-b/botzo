@@ -17,4 +17,5 @@ Unlike the previous <a href="http://www.botzilla.com/blog/archives/000503.html">
 
 It is difficult at moments to reconcile the vibrant, imaginative, and wholly contemporary art found in <cite>Snap Judgements</cite> and the strong PJ images that give the impression of a continent populated with victims. Yet to confront the reality of both is inescapable and important. Enwezor deliberately excluded such imagery of Africa from his book because it invites easy and dismissive interpretation of the broader African experience. He is right to an extent but in doing so he himself also as easily dismisses the real and difficult situations of that subset of Africa depicted in photos like those from Panos. A subset, to be sure, that may get more press and by extension mis-represent the lives of post-colonial Africans elsewhere. But that subset, like all of Africa, is populated by very real people. <cite>Snap Judgements,</cite> even without including such journalism, helps us to remember and value the identity and story of each face in every photograph.
 
+<!--more-->
 

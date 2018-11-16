@@ -7,4 +7,5 @@ categories: [GrayScale,PhotoRant]
 
 <div class="well"><i>"Photography has no rules. It is not a sport"</i> - Bill Brandt</div>
 
+<!--more-->
 

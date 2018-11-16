@@ -9,4 +9,5 @@ She checked-out Reed & Webb's <a href="http://www.bhphotovideo.com/product/21602
 
 We've noticed similar behavior on some other library photo books recently &#151; she acquired a stack of beautiful <a href="http://www.martinparr.com" target="linkframe">Martin Parr</a> books via loan from a library in San Diego, and their stamps showed they'd not been checked out for years. Tsk!
 
+<!--more-->
 

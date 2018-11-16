@@ -9,4 +9,5 @@ This was the first day I really started feeling comfortable with the 5D &#151; t
 
 I'm also delighted to be able to get a <a href="/blog/archives/000378.html">proper AF lock</a> via <a href="http://photography-on-the.net/forum/showthread.php?t=46965">CFn4-1,</a> just like my film EOS (but unlike the 300D). It is a beautiful, beautiful thing.
 
+<!--more-->
 

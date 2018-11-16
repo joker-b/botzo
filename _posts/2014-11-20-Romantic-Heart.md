@@ -7,4 +7,5 @@ categories: [Wire Service]
 
 <i>December 2010</i>
 
+<!--more-->
 

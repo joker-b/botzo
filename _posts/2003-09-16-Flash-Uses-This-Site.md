@@ -11,4 +11,5 @@ I've thought about further-automating the input process, but fear that it would 
 
 What's wrong with this, you might ask? Well, for one, it's dishonest &#151; the robot never really looks at the site, it's just prowling for web forms that follow a known pattern of controls. Second, and more importantly, those little compliments are loaded-up with advertising URLs for German car-financing companies. <i>Feh.</i> So I've had to run around cleaning up those cheery little turds, too &#151; and re-writing my guestbook scripts to deter the robots.
 
+<!--more-->
 

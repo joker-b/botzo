@@ -9,4 +9,5 @@ Sorry for the interuption in service for the past several days, and the lack of 
 
 Not eveything is functional just yet &#151; I'd appreciate any problem reports.
 
+<!--more-->
 

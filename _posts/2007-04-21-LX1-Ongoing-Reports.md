@@ -17,4 +17,5 @@ And then yesterday, I finally got to reading <a href="http://www.reidreviews.com
 
 <img alt="LX1-P1070212.jpg" src="http://www.botzilla.com/blog/pix2007/LX1-P1070212.jpg" width="807" height="387" border="0" />
 
+<!--more-->
 

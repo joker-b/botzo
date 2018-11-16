@@ -15,4 +15,5 @@ Reeves intends to make life more fair by spontaneous redistribution, but there w
 
 Such gestures, while "cool" at a superficial level, often collapse into a morass of conflicted values and contrary notions of entitlement. The people who worked on the <i>Matrix</i> films did so voluntarily, and with a known set of goals (including their paychecks). By dropping &pound;1,750,000 checques onto the heads of a few, a cycle of finger-pointing and resentment over "undeserved" gains and/or slights is the likely result. A few will escape happily, I hope.
 
+<!--more-->
 

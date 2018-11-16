@@ -11,6 +11,7 @@ Tonight I'm brewing up a five-liter batch of Xtol for a couple of rolls shot  a 
 
 I have to admit that in general, I'm deeply disinterested in concert photography. Not only does it seem completely inappropriate for the core material &#151; a musical performance &#151; to be locked down into a motionless silent rectangle, but the creative options feel near-nil, you're stuck with the light the designer gives you, the constrained persectives. During the DCFC show there was a fellow lurking just offstage and between the Marshall stacks, snapping and winding his Leica. Looked like he was using a 50mm or 35mm, never closer than ten feet from anyone in the band. No doubt his shots would be technically polished but ultimately impersonal. As I expect mine will be.
 
+<!--more-->
 <i>They Might Be Giants</i> had some sense &#151; John Linnell kept snapping away himself during their last San Francisco show, grabbing a compact digi between songs. At least he put the camera on stage, among the band, where there's some hope of getting something other than another blue and red blurred tele shot of some sweaty guy with a guitar.
 
 This afternoon I saw a wall full of generic and awkward color concert snaps posted on the wall of a caf&eacute;, along with a sign advertising the shooter's services for hire. I'm sure the phone is ringing off the hook.

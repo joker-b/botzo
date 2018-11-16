@@ -10,4 +10,5 @@ categories: [fStop]
 Somewhere in Osaka Prefecture, 1 Oct 2007
 
 
+<!--more-->
 

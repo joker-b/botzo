@@ -17,4 +17,5 @@ So too tone. Whether black and white, full color, false color &#151; the tonal r
 
 <img title="Salt Lake City, Feb 2007 (C) K Bjorke" src="http://www.botzilla.com/blog/pix2007/P1060865.jpg" width="807" height="320" border="0" />
 
+<!--more-->
 

@@ -15,4 +15,5 @@ One thing that's missing is depth-of-field indicators. By my estimation, &#131;/
 
 (PS: This <a href="/blog/archives/000282.html">later entry</a> gives more detail on DoF for digital cameras. I realized I was slightly wrong &#151; the markers would need to be closer-together)
 
+<!--more-->
 
