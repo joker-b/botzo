@@ -1,0 +1,161 @@
+---
+layout: post
+title: "HTML5 (& JQuery) vs Moveable Type, Part 2"
+categories: [Nuke Em from Orbit,Wire Service]
+---
+<canvas id="c789" width=800 height=250></canvas>
+
+<P>Following up on the <A href="/blog/archives/000738.html">previous post,</a> here are the details on a simple way to add multiple dynamic scripts to a Moveable Type index page.</P>
+
+<P>Like the previous post, try using your mouse on this one! Can you slow down the particles?</p>
+
+<P>Basically, we just need to add an (initially empty) array of function references to the page templates, which we'll use to capture each blog entry's unique scripts (rather than letting them launch themselves), and then iterate on that array for the entire page, once it's loaded and ready.<p>
+
+<script type="text/javascript">
+var mX739 = 400;
+var mY739 = 100;
+var gNParts739 = 22;
+gPart739 = new Array();
+
+function setup_parts(W,H) {
+	var nc;
+	for (var i=0; i<gNParts739; i++) {
+	   var x = Math.random()*W;
+	   var y = Math.random()*H;
+	   var dx = 2.0-Math.random()*4.0;
+	   var dy = 2.0-Math.random()*4.0;
+	   gPart739.push(new Array(x,y,dx,dy));
+	}
+	// document.write("made "+gNParts739+" particles.");
+}
+
+function advance(Ar,W,H) {
+   // simple bouncing motion for now
+   var x = Ar[0];
+   var y = Ar[1];
+   var dx = Ar[2];
+   var dy = Ar[3];
+	var ddx = (x-mX739)/5;
+	var ddy = (y-mY739)/5;
+	var s = ddx*ddx+ddy*ddy;
+	var n = Math.sqrt(s);
+	ddx /= n;
+	ddy /= n;
+	dx += ddx/s;
+	dy += ddy/s;
+   x += dx;
+   y += dy;
+   if (x<0) {
+	x = -x;
+	dx = -dx;
+   } else if (x>W) {
+	x = 2*W-x;
+	dx = -dx;
+   }
+   if (y<0) {
+	y = -y;
+	dy = -dy;
+   } else if (y>H) {
+	y = 2*H-y;
+	dy = -dy;
+   }
+   return new Array(x,y,dx,dy);
+}
+
+var gCv = undefined;
+
+var gCount = 0;
+
+function draw_canv739() {
+	if (gCv == undefined)
+		gCv = document.getElementById('c789');
+	//if (gCv) {
+		if (gCv.getContext) {
+			var ctx = gCv.getContext('2d');
+			var w = gCv.width; // 500.0;
+			var h = gCv.height; // 300.0;
+			// ctx.fillStyle = "rgb(90,10,0);";
+			ctx.fillStyle = "rgba(255,255,255,0.95);";
+			ctx.fillRect(0,0,w,h);
+			ctx.fillStyle = "rgb(0,0,0);";
+			ctx.fillText("frame "+gCount,20,20);
+			gCount += 1;
+			if (gPart739.length < 1) {
+				setup_parts(w,h);
+			}
+			ctx.strokeStyle = "rgba(20,20,20,.5);";
+			ctx.lineWidth=1.0;
+			var i;
+			var j;
+			for (i=0; i<gNParts739; i++) {
+				ctx.beginPath();
+				ctx.arc(gPart739[i][0],gPart739[i][1],3.0,0,6.2831,false);
+				ctx.stroke();
+			}
+			for (i=0; i<(gNParts739-1); i++) {
+				for (j=i+1; j<gNParts739; j++) {
+					var dx = gPart739[i][0] - gPart739[j][0];
+					var dy = gPart739[i][1] - gPart739[j][1];
+					var nsq = dx*dx + dy*dy;
+					if (nsq<4000) {
+						var v = (nsq-500)/3500;
+						var v = Math.floor(v*255);
+						ctx.strokeStyle = "rgb("+v+","+v+","+v+");";
+						ctx.beginPath();
+						ctx.moveTo(gPart739[i][0],gPart739[i][1]);
+						ctx.lineTo(gPart739[j][0],gPart739[j][1]);
+						ctx.stroke();
+					}
+				}
+			}
+			for (i=0; i<gNParts739; i++) {
+				gPart739[i] = advance(gPart739[i],w,h);
+			}
+		}
+	// } else {
+		// document.write("no canvas?");
+	//}
+}
+// $(document).ready(function() {
+gRActions.push(function() {
+    draw_canv739();
+	$("#c789").mousemove(function(e) {
+	    mX739 = e.pageX-this.offsetLeft;
+	    mY739 = e.pageY-this.offsetTop;
+	});
+    setInterval(draw_canv739,30);
+});
+</script>
+
+<p>I'm using jquery, so I declare the array and my <tt>$(document).ready()</tt> function like so:</P>
+
+<pre>
+var gRActions = new Array(); // initially empty array of functions...
+
+$(document).ready(function() {
+  for (var a=0; a&lt;gRActions.length; a++) {
+	gRActions[a]();
+  }
+});
+</pre>
+
+<P>Then in each blog entry, I write the same anonymous javascript function as I might write for
+<tt>$(document).ready()</tt>, but instead I just push it into <tt>gRActions:</tt></p>
+
+<PRE>
+gRActions.push(function() {
+   draw_canv739();
+   setInterval(draw_canv739,30);
+});
+</PRE>
+
+<P>Now the page, regardless of how many blog entries it might contain, will include all of them in its page initialization. Remember also to make sure that any "global" javascript values (including function names!) in this entry, and all HTML elements like &lt;canvas&gt;, have unique names so that they won't collide with other blog entries, should they for some reason both be presented on the same HTML index page someday.</P>
+
+<P>Also, as we've learned from the previous post: put some human-readbale text into the post <I>before</I> the scripting portion of the post, otherwise Facebook becomes confused.</p>
+
+
+
+<!-- <IMG SRC="/photo/journal//may03e-15.jpg" STYLE="display: none;" /> -->
+
+
+

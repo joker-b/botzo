@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Four Friends with Funny Frame Rates"
+categories: [Nuke Em from Orbit]
+---
+<script src="js/three.js"></script>
+<div id="container741" style="margin-left: 0em;">Update your browser please</div>
+
+<P>WebGL</P>
+
+<script type="text/javascript">
+    var camOrtho, scene, quadMesh, mat, rend, cont, pass0;
+    var hw, hh;
+    var width = 806;
+    var height = 300;
+    hw = width / 2.0;
+    hh = height / 2.0;
+    var spinMat = new THREE.Matrix4();
+    spinMat.makeRotationZ(0.01);
+    init();
+    animate();
+    function init() {
+	camOrtho = new THREE.OrthographicCamera(-hw,hw,hh,-hh, -100,100);
+	camOrtho.position.z = 10;
+	scene = new THREE.Scene();
+	mat = new THREE.MeshBasicMaterial( {color: 0xff4455, depthTest: false} );
+	quadMesh = new THREE.Mesh(new THREE.PlaneGeometry(1,1), mat);
+	scene.add(quadMesh);
+	scene.add(camOrtho);
+	rend = new THREE.WebGLRenderer();
+	rend.setSize(width,height);
+	rend.setClearColorHex(0x00, 1);
+	rend.autoClear = false;
+	cont = document.getElementById('container741');
+	cont.appendChild(rend.domElement);
+	// window.addEventListener('resize', onWindowResize, false);
+    }
+    // function onWindowResize() {
+    // }
+    function animate() {
+	requestAnimationFrame(animate);
+	render();
+    }
+    function render() {
+	var time = Date.now() * 0.001;
+	var cx = Math.cos(time)*0.1+0.9;
+	cx = cx*cx*0.5+0.5;
+	quadMesh.applyMatrix(spinMat);
+	quadMesh.scale.set(width,height,1);
+	rend.setViewport(0,0,width,height);
+	rend.clear();
+	rend.render(scene,camOrtho); // ??
+    }
+
+</script>
+
+<P>After script</P>
+
+
+
+
+
+

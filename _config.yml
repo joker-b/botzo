@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Photorant is a Botzlla Blog
+title: PhotoRant, a Botzilla Blog
 email: bjorke@botzilla.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You're now viewing the 2018 redesigned of PhotoRant on Botzilla.com.
+  You're now viewing the 2018 redesign of PhotoRant.
   As usual topics here include photography, art history, Contax, Leica,
   Fujifilm and Canon, Deep Learning, 3D Game Design, Computer Graphics,
   and a variety of pet conspiracy theories (is there another kind?).
@@ -24,7 +24,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.botzilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bjorke
 github_username:  joker-b
-logo: /images/botzilla-fix-me.jpg
+logo: /assets/botz_dag.jpg
+# logo: /images/botzilla-fix-me.jpg
 read_time: true
 google_fonts:
   - name: "Source Sans Pro"
@@ -34,7 +35,7 @@ google_fonts:
 
 # Build settings
 markdown: kramdown
-theme: jeyll-theme-so-simple
+theme: jekyll-theme-so-simple
 pagination: 4
 paginate_path: /page:num/
 search_full_content: true

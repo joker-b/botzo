@@ -1,0 +1,205 @@
+---
+layout: post
+title: "Rethinking Gorman"
+categories: [GearHead,GrayScale,Nuke Em from Orbit,fStop]
+---
+<p><img src="http://www.botzilla.com/blog/pix2008/GormanLayers.jpg" width=233 height=262 border=0 hspace=8 vspace=4 align="right" />It's been a couple of years now since I wrote <a
+    href="http://www.botzilla.com/blog/archives/000552.html">this entry on
+    digital Black and White conversions.</a>  I'm still using a variation of
+    the Caponigro conversion described there. What prompted me here was a
+    combination of events, including reconciling the many scripts and actions I
+    had on several different Photoshop-equipped computers, each of which had
+    diverged from ts brethren; meeting Bob Carnie at <a
+    href="http://www.elevatordigital.ca/">Elevator Digital</a> in Toronto,
+    thanks to <a href="http://www.apug.org/forums/members/dinesh/">Dinesh</a>;
+    <a href="http://www.apug.org/forums/forum47/50493-b-w-film-shots-compared-b-w-digital-shots.html">this
+    APUG thread</a>, which also included more info from Bob; and the latest
+    edition of <a href="http://www.digitalphotopro.com/"><i>Digital Photo
+    Pro</i></a> magazine, which has run B&W articles as its cover story quite a
+    lot over the last year or two, and this one was no exception. What
+    surprised me was that <i>DPP</i> were freshly touting the old <a
+    href="http://www.gormanphotography.com/gorman.html">Gorman</a>/<a
+    href="http://www.johnpaulcaponigro.com/lib/artists/holbert.php">Holbert</a>
+    method (aka <a
+    href="http://www.gormanphotography.com/bw_conversion.pdf">the Gorman
+    Method</a>). </p>
+
+
+<br clear="all" /><center><p>
+<img src="http://www.botzilla.com/blog/pix2008/start.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/bwG.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/bwGcurve.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p><img src="http://www.botzilla.com/blog/pix2008/GormanAction.jpg" width=179 height=326 border=0 hspace=8 vspace=4 align="right" />I've tried the Gorman method a few times in the past, stored actions for it
+like many other people have no doubt, and... it puzzles me. It puzzles me because:</p>
+
+<ul><li>It uses layers, but it's destructive -- you can't got back to the original
+	unaltered picture, so you'd better be careful not to hit "Save" unless you're really
+	certain that you're 100% done with the pic.</li>
+    <li>It's not really a black and white conversion method! It's three different effects,
+	one of which is a black and white conversion -- and a very plain-vanilla conversion,
+	at that. The three (sub-)effects are:<ol>
+	<li><b>Black and White Conversion.</b> The Gorman method uses a unadorned Lab conversion,
+	    then propogates the "L" result t all channels before converting back to 
+	    a full-color RGB image. That is, grab the "L" channel and that's
+	    your monochrome image. What's puzzling about this is that "L" is essentially
+	    a <a href="http://en.wikipedia.org/wiki/Lab_color_space">straight
+	    linear conversion.</a> If you work out the math and remember that
+	    Photoshop locks the CIE illuminant term to "D50" (so all those
+	    spooky cube roots are really just constants), then "L" is just 
+           a weighted sum of the RGB channels:
+	    more or less (depending on the color space of the original
+	    image) 20% red, 70% green, and 10% blue. No contrast control
+          just a simple straight conversion.</li>
+	<li><b>Color toning.</b> Using the inverted image as a solid-color layer mask is a cute
+	    idea for prepping the image for printing or other distribution, and I like
+	    the suggestion to keep favorite tones in a palette. An odd part of the
+	    <i>DPP</i> article is that Gorman is quoted as talking about
+           using a completely
+	    different method of selecting tones for printing -- implying perhaps that
+	    this method is only useful for web presentations?</li>
+	<li>A <b>high-pass overlay layer,</b> based on the resultant B&W image. Not a bad idea,
+	    though the exact sizing of the effect's radius should be
+          dependent upon the input size, rather
+	    than a fixed value as written in the PDF.
+          I also like how the blend has been
+	    altered and feathered so that potential "halo" artifacts will be isolated to the
+	    midtones, so that they won't appear in the most potentially troublesome parts
+	    of the image -- you won't get light halos in black areas or dark halos in
+	    highlight areas.</li>
+	</ol></li>
+    <li>It makes reference to adding curves or levels layers, but doesn't actually describe
+	where they would be placed or how they would be used. In fact, since some of the
+	scheme is destructive, you can't entirely be sure that the layers adjustments
+	will entirely let you do what you desire, without having to repeat the later steps (which
+	sadly is a limitation of Photoshop itself, which I'll describe later).</li>
+</ul>
+
+<center><p>
+<img src="http://www.botzilla.com/blog/pix2008/start.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/startL.jpg" width=200 height=324 border=0 hspace=8 vspace=4 /> <br />
+<img src="http://www.botzilla.com/blog/pix2008/startR.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/startG.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/startB.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p>As an <i>Action</i> the method makes sense to some degree -- I can imagine applying it to
+    whole directories of pictures at a time. What it lacks in control it  might make up for in
+    volume, though you could say that about <i>any</i> Photoshop/Bridge/Lightroom action.</p>
+
+<p>There's also the proof pudding -- Gorman's published shots. They genuinely
+    look great, but... is it really the conversion, or the practiced studio photographer?
+    If he really uses this method, my guess is that he's learned how to nail
+    his desired B&W results time after time by rigid adherence until it has become
+    very natural to use and light for this scheme.</p>
+
+<P>Bob likes Lab too, according to the APUG thread. I'm still scratching my head, though I suppose
+    that the same "use what works for you" logic could be behind his comments (and I have no
+    argument with that line of reasoning, believe me). It's also true that using a combination of
+    all three colors, regardless of just what that composition might be, has the potential to give
+    you really smooth and gorgeous floating-point-precision gradients even without resorting
+    to Dark Side trickery like HDR.</p>
+
+<p><img src="http://www.botzilla.com/blog/pix2008/kbBW-layers.jpg" width=228 height=385 border=0 hspace=8 vspace=4 align="right" />Still, I like the <a
+    href="http://www.botzilla.com/blog/archives/000552.html">Caponigro
+    method,</a> and have adjusted it slightly since the previous entry. I don't
+    try to put the color toning into the same operation, and I put all the
+    adjustments into a folder, so I can turn them of and on as a group (or fade
+    them by adjusting the opacity of the entire layer group at once).</p>
+    
+<p>I've also added a blank layer I label "burn" to the folder, and set its
+    blend mode to "multiply." Anything I paint into this layer will essentially
+    burn-down (darken) the corresponding areas of the final B&W image, and it
+    too can ave varying opacity in case I get a little too heavy-handed wit the
+    brush (which happens a fair bit). The illustration shows a complete
+    "Modified Caponigro Method" folder.</p>
+
+<p><i>What about that undisplayed "Layer 2" above the folder?</i></p>
+
+<!-- <center><p><img src="http://www.botzilla.com/blog/pix2008/ContrastCurves.jpg" width=364 height=426 border=0 hspace=8 vspace=4 /></p></center> -->
+
+<p>It's the result of my very favorite Photoshop key commands, a trick I've only heard verbally
+    described as <i>"The Move."</i> It's <b>"ctrl-option-shift-E"</b> and does in one step what the
+    Gorman method does in two -- it merges all visible layers into a new layer at the top
+    of the stack (in the Gorman method, this is done by creating a blank layer and then running
+    "merge visible" on that layer -- exactly the same result).</p>
+
+<p>That "Layer 2" is just such a layer, which has then been hidden for later use (as we'll see).</p>
+
+<p>A problem with (pre-CS4) Photoshop is that it doesn't let you specify arbitrary blend operations (or
+    filters) on a folder. So the only way to use those sorts of effects are to do a "move," create
+    that new layer, and then execute whatever on that layers pixels. That's what the Gorman method
+    does for its high-pass layer, and how I use it will be described below.</p>
+
+<p>These "merged" layers are great, but do remember -- if you edit any of the underlying Hue,
+    Curves, etc layers, those changes will <i>not</i> automatically appear in the merged layer.
+    Instead, you'll need to hide or delete the old merge and make a new one (clicking the little
+    visibility icons then makes A/B comparisons pretty easy too, btw).</p>
+
+<p>Recently, I've been experimenting with using these merge B&W layers to manipulate <i>color</i>
+    images:</p>
+
+<ol><li>Work out the B&W conversion using a folder, as described above.</li>
+    <li>Create a merged layer using "The Move."</li>
+    <li><i>Hide</i> the entire conversion folder by clicking on its little eye icon.</li>
+    <li>Set the blend mode of the merge layer to "Luminance."</li>
+    <li>Adjust opacity of the merged luminance layer to taste.</li>
+</ol>
+
+<p>Here are some pics: the first is an un-modified original, followed by two possible B&W
+    conversions, and then the color result of applying those conversions back to the original
+    color image. In the first, darker one, I liked the somewhat bad-color-printing appearance
+    it had. In the second, which also washed-out a lot of the detail in the freckles, the color
+    becomes very soft, looking almost like hand coloring. The last in this group uses the same
+    brght luminance source, but the effect is faded back by reducing the luminance layer's
+    opacity.</p>
+
+<center><p>
+<img src="http://www.botzilla.com/blog/pix2008/start.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/bw1.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/bw2.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<br />
+<img src="http://www.botzilla.com/blog/pix2008/ikoV1.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/ikoV2b.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/ikoV2.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p>As long as we're in Photoshop, it's hard to resist trying near-useless tricks, too. Here's
+    a completely negative luminance applied to the original colors, and its
+    inverse (which gives positive luminance to negative colors).</p>
+
+<center><p>
+<img src="http://www.botzilla.com/blog/pix2008/neg.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/negCP.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/negC.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p>These samples use a different blend mode: the "lighter color" mode. The result (which looks
+    best, IMO, when slightly faded back) gives slight variations in the overall color saturation
+    according to the overall luminance -- another rather film-like effect and one I really like.</p>
+
+<center><p>
+<img src="http://www.botzilla.com/blog/pix2008/lighterC.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/lighterChalf.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p>Finally, why not blend components of techniques for something new? The pics below show the
+    high-pass layer from the Gorman technique, applied via "overlay" to the original color
+    image.</p>
+
+<center><p>
+<img src="http://www.botzilla.com/blog/pix2008/start.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/bwGoverlay.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+<img src="http://www.botzilla.com/blog/pix2008/iko_overlay.jpg" width=200 height=324 border=0 hspace=8 vspace=4 />
+</p></center>
+
+<p><b>So what about video games?</b><i>I would be remiss not to mention that
+    <b>all</b> of these methods, except for the high-pass filter, can be
+    executed in a <b>single unified pass</b> in hardware shaders, thus also
+    making them appropriate for using in video games (the high-pass filter would
+    require an additional render-to-texture pass). If you've been
+    paying attention to <a href="http://blogs.adobe.com/jnack/2008/05/adobe_hydra_now.html">John Nack's blog,</a> you may also know that such effects
+    will eventually be available in real time for Photoshop and Flash via
+    "Pixel Bender" shaders.<i></p>
+

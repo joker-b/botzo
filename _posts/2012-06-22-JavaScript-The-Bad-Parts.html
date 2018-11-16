@@ -1,0 +1,54 @@
+---
+layout: post
+title: "JavaScript: The Bad Parts"
+categories: [Wire Service]
+---
+<H3>Web Geek Warning</H3>
+<P>Last night I headed over to the Paypal/EBay offices to see a presentation by <a HREF="http://crockford.com/">Douglas Crockford,</A> titled <a href="http://www.meetup.com/TechXploration/events/65087252/">Programming Styles and Your Brain</a></P>
+
+
+<P>I'll admit that I was a little bit skeptical about coming away with much useful information (a general rule: be cautious around tech companies that have had near-zero evolution since, oh, 1995), but in fact the debugging bits were pretty illuminating. Here are some sketchy notes:</P>
+
+<H3>Your Brain</H3>
+
+<P>Crockford's lecture had about five introductory minutes of broad speculation (he's earned the right!) mixed with notes cribbed from <a href="http://www.nobelprize.org/nobel_prizes/economics/laureates/2002/kahneman-autobio.html" TARGET="new">Daniel Kahneman</A>&hellip;</P>
+
+<UL>
+<LI>Computer programs are the most complicated things humans make</LI>
+<LI>Humans suck at making such things</LI>
+<LI>They make mistakes</LI>
+<LI>They confuse &quot;hardly ever happens&quot; with &quot;never happens&quot;</LI>
+<LI>They confuse reading two threads on a  jquery forum with an education</LI>
+<LI>They write in C++ when the language is not C++ (or Java, HLSL, python, Mel, Fortran&hellip;)</LI>
+<LI>They mistake complex obscurantist  &quot;cool&quot; with professional &quot;clear&quot; coding</LI>
+<LI>The human is almost always the limiting factor in software</LI>
+<LI>Being consistent in style is the easiest way to avoid common errors (especially forms that are difficult to distinguish rom errors, which in JS are many)</LI>
+<LI>Anyone can program, few can debug</LI>
+</UL>
+
+<H3>JavaScript</H3>
+<P>This was the expected real bulk of the presentation, a longer not-veiled pitch for <A HREF="http://www.jslint.com/" TARGET="new">JSLint</A> and his book <A HREF="http://www.amazon.com/exec/obidos/ASIN/0596517742/wrrrldwideweb" TARGET="new">&quot;Javascript: the Good Parts&quot;</a> -- especially about how to avoid the bad parts:</P>
+
+<UL>
+<LI><I>Auto-semicolon closure.</I> This burns people so, so, much, and is one reason where it really does make a difference (for polyglot programmers) to get in the habit of putting the curly open-brace to the right of the if() clause on the same line, rather than on the line below &mdash; just like K&R intended.</LI>
+<LI>Stupid multi-line strings that use &quot;\&quot; at line breaks because the parsers don't recognize trailing spaces and the editors don't show them.</LI>
+<LI>Mistaking the scope of &quot;var&quot; to be block scope (like C, python, etc) &mdash; it's function scope, so avoid declaration-inside-the-block constructions like <TT>for (var i=0;&hellip;) { &hellip; }</TT> because it won't get declared where you think it is. I know I make this error a fair bit.</LI>
+<LI>Make global variables <TT>REALLY_OBVIOUS</TT>. Since there are no macros in JS, <TT>THIS_IN_ONE_WAY</TT> (clearer than, say, Hungarian). In general avoid globals, except that you can't because that's how modules link (no linker). </LI>
+<LI>If using immediate-invocation functions, put the final () inside the encapsulating () parens &mdash; e.g. <TT>(function() {&hellip;}());</TT> not <TT>(function() { })();</TT> &mdash; the latter wrong construction he called &quot;dangling dog balls style.&quot;</LI>
+<LI>Avoid &quot;==&quot; because it does type conversion and different interpreters convert differently! Is (''==0) true or false? Use &quot;===&quot; instead, for a direct comparison.</LI>
+<LI>Avoid the &quot;switch&quot; statement or at least be obsessively diligent about having break statement in every clause -- and having a default case.</LI>
+<LI>Avoid the &quot;with&quot; construct. Consider: <TT>with (o) { foo=koda; }</TT><br /> does it mean:<UL><LI><TT>foo=koda;</TT></LI><LI><TT>o.foo = koda;</TT></LI><LI><TT>foo = o.koda;</TT></LI><LI><TT>o.foo = o.koda;</TT></LI></UL>??? Different interpreters DO give different results!</LI>
+<LI><TT>var a = b = 0;</TT> in JS is the same as <TT>/*global */ b = 0; /*local */ var a = b;</TT> -- NOT like C.</LI>
+<LI>Not only are &quot;var&quot; declarations hoisted to the top of the function scope, so are function declarations. So beware dependencies that are not resolved! NO ERROR WILL PRINT. Better to just put the var and function declarations at the top of the enclosing function</LI>
+<LI>Avoid the &quot;new&quot; pseudo-class construct, not because it doesn't work but because people often forget to write &quot;new&quot; and then they may accidentally trash that global class-like definition and you are hosed. Just use simple {objects}</LI>
+<LI>If you have constructor functions indicate them &quot;LikeThis()&quot; to distinguish them from &quot;all_other_functions()&quot;</LI>
+<LI>Avoid &quot;++&quot; which is a leftover from pointer arithmetic days. Just use &quot;+=1&quot; it's just one more character to type, using &quot;++&quot; doesn't make you more efficient, it makes you sloppy (especially when few people remember that <TT>i+=1;</TT> is not <TT>i++</TT>  -- it's <TT>++i;</TT>)</LI>
+</UL>
+
+<H3>The Bad Parts?</H3>
+
+<P>So how does the Javascript on Botzilla stack up? Let's just say, it's an ongoing learning process!</P>
+
+<P>In scanning the scripts here (and at <A HREF="http://www.trionworlds.com" TARGET="new">Trion</A>), there appear to really only be a couple of idoms that I need to stamp out from my code to make the analyzer happy. What's yet to be determined is if Javascript's scoping rules will ever really make sense...</p>
+
+
