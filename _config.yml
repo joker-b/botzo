@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+theme: jekyll-theme-so-simple
 title: PhotoRant, a Botzilla Blog
 email: bjorke@botzilla.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You're now viewing the 2018 redesign of PhotoRant.
-  As usual topics here include photography, art history, Contax, Leica,
-  Fujifilm and Canon, Deep Learning, 3D Game Design, Computer Graphics,
-  and a variety of pet conspiracy theories (is there another kind?).
+  A newer, lighter, PhotoRant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.botzilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bjorke
@@ -32,20 +30,78 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+google_analytics: "UA-4450500-3" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+
+# Liquid
+liquid:
+  error_mode: strict
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-so-simple
+paginate: 3
 pagination: 4
 paginate_path: /page:num/
-search_full_content: true
+search_full_content: false
+
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 copyright: "All site content ©1997-2018 by Kevin Bjorke"
 
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
+# Site Author
+author:
+  name: Kevin Bjorke 
+  picture: /assets/botz_dag.jpg
+  email:
+  twitter: bjorke
+  links:
+    - title: Twitter
+      url: https://twitter.com/bjorke
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/kevin_bjorke
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/joker-b
+      icon: fab fa-github-square
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/bjorke
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/kevin_bjorke
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/joker-b
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
