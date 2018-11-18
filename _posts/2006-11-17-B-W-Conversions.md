@@ -7,7 +7,6 @@ categories: [GearHead]
 
 ![bwConvIz.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwConvIz.jpg' | absolute_url }})
 
-
 While my iTunes subscribes to it, I have to say that I'm not a huge fan of <a href="http://www.photoshopuser.com/">NAPP's</a> "Photoshop TV" video podcast. I subscribe in the hope that some of the tips on the show will be useful. At the same time I dread having to wade through the hosts' gossipy and self-congratulatory prattle. It's better to watch on iTunes than the iPod, mostly because it's easier to fast-forward and skip those sections on the PC. 
 
 Another gripe: often the latest episode sometimes takes an hour to download on a broadband connection. Ugh.

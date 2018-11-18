@@ -2,9 +2,8 @@
 layout: post
 title: "Computers, Cameras, Colors, &amp; Caravaggism"
 categories: [Nuke Em from Orbit]
-tags: [3D,Digital]
+tags: [3D,Digital,Movies,Games]
 ---
-
 
 ![Santa Clara, 2002 (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/sep02l-37b.jpg' | absolute_url }}){: .align-right}
 Okay, so if I'm so hot on <a href="http://www.cgshaders.org/">digital imaging,</a> why do I still lunk-around a film-based camera? What? No <i>color?</i>

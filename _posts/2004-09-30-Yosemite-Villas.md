@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Yosemite Villas"
-categories: [Wire Service]
+categories: [The Open Conspiracy]
 tags: [China]
 ---
-
 
 ![Shanghai (C)2004 K. Bjorke]({{ 'http://www.botzilla.com/pix2004/Yosemite.jpg' | absolute_url }})
 

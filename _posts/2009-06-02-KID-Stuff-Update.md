@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KID Stuff Update"
-categories: [GearHead]
+categories: [Botzilla]
 ---
 
 

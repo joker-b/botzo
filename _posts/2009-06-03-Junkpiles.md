@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Junkpiles"
-categories: [GearHead]
+categories: [Botzilla]
 tags: [Lumix]
 ---
 

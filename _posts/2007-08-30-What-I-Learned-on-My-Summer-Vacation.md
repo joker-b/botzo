@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I Learned on My Summer Vacation"
-categories: [PhotRant]
+categories: [PhotoRant]
 tags: [Lumix,Digital]
 ---
 ![San Jse Station]({{ 'http://www.botzilla.com/blog/pix2007/station-P1070937.jpg' | absolute_url }})

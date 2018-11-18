@@ -4,8 +4,8 @@ title: "Optimistic Requiem"
 categories: [Nuke Em from Orbit]
 ---
 
-
 ![]({{ 'http://www.botzilla.com/bpix/mem_mori.jpg' | absolute_url }}){: .align-right}
+
 Some time ago I'd mentioned David Pye's <a href="http://wingide.com/pipermail/py-design-forum/2003-September/000188.html">The Nature and Art of Workmanship,</a> a book recommended to me w.r.t. photography but which I felt has far-reaching consequences throughout all creative, information-intensive endeavors. It's actually a follow-on to a 1964 book titled <a href="http://www.art-omma.org/issue8/text/JanMichl.htm">The Nature of Design</a> (in fact in it he hints at the later book to come, writing in the final pages: "there is no space here to write what needs writing about workmanship...").
 
 Today we've been discussing upgrades and rewrites and redesigns, the advent of the next generation of graphics hardware, algortihms, and paradigms. Great, amazing stuff, to follow (and eventually bury) the great, amazing stuff that's already been accomplished. We collect our facts, our task plans, our AI's and PORs; scratch our heads wondering "how will we ever get this finished?" But really, is it <i>ever</i> finished? Has software ever <i>been</i> finished?

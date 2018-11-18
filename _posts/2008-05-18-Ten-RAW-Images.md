@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ten RAW Images"
-categories: [Cameras]
+categories: [GearHead]
 tags: [Lumix]
 ---
 

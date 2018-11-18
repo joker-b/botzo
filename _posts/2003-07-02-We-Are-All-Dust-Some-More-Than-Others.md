@@ -2,7 +2,7 @@
 layout: post
 title: "We Are All Dust... Some More Than Others"
 categories: [fStop]
-tags: [Analog]
+tags: [Analog, Darkroom]
 ---
 
 

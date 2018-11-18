@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Old Ho's Last Laugh"
-categories: [Wire Service]
+categories: [The Open Conspiracy]
 ---
 Back in the 1960's, there was an episode when Lyndon Johnson suggested offering North Vietnam a large dose of western-style incentive, as a deal to secure the peace. Cash and know-how to build hydroelectic power reservoirs in Vietnam, thinking it would transform the region into Tennessee-on-the-Mekong.
 

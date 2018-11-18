@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "None of These Mean: &quot;Bikes Out of My Way!&quot;"
-categories: [The Open Conspiracy]
+categories: [Bike]
+tags: [Bike]
 ---
 <a href="/blog/archives/pix2012/CA-BikeSafe-2012-15-med.jpg" target="new">
 

@@ -2,26 +2,26 @@
 layout: post
 title: "Twitchy Eyeballs"
 categories: [PhotoRant]
-tags: [3D,Digital,Books]
+tags: [3D,Digital,Books,China]
 ---
-<img src="http://www.botzilla.com/pix2004/twitchy.jpg" height=99 width=807 border=0>
+![twitch]({{ 'http://www.botzilla.com/pix2004/twitchy.jpg' | absolute_url }})
 
-<p>It's been many days again since I've written here (though I have written a few short entries for <a href="http://www.photopermit.org/">PhotoPermit.Org</a>), a good chunk of them consumed
+It's been many days again since I've written here (though I have written a few short entries for <a href="http://www.photopermit.org/">PhotoPermit.Org</a>), a good chunk of them consumed
 by reading. I feel like I've had some growth and change in the
 way I approach picture books. And that's separate from doing a
 perhaps nutty thing with photo books: trying to view them through
 a camera viewfinder, to get a better grasp on what might have
 been seen by the original shooter (something worth doing once, but if it's persistent,
-call a doctor).</p>
+call a doctor).
 
-<p>No, but I think my new plateau comes from a similar leap of imagination, of having a stronger sense of what was in the maker's mind for each image: where to stand with the camera, when to press the shutter; how to lay down the colors broadly and then to refine them with each successive stroke of the brush. The reading is slower but the enjoyment deeper.</p>
+No, but I think my new plateau comes from a similar leap of imagination, of having a stronger sense of what was in the maker's mind for each image: where to stand with the camera, when to press the shutter; how to lay down the colors broadly and then to refine them with each successive stroke of the brush. The reading is slower but the enjoyment deeper.
 
-<p>Since <cite>Red Color News Soldier,</cite> which I'd <a href="/blog/archives/000338.html">written
-about earlier</a>, I've managed to make it through these books:</p>
+Since <cite>Red Color News Soldier,</cite> which I'd <a href="/blog/archives/000338.html">written
+about earlier</a>, I've managed to make it through these books:
 
 
 <!--more-->
-<p>Picture Books &#151; most new, and a few old friends from the bookshelf: </p>
+Picture Books &#151; most new, and a few old friends from the bookshelf: 
 
 <table border=0>
 <tr><td align="right"><cite>Flamingo</cite></td><td>Robert Frank</td></tr>
@@ -42,7 +42,7 @@ about earlier</a>, I've managed to make it through these books:</p>
 <tr><td align="right"><cite>Revelations</cite></td><td>Diane Arbus et al</td></tr>
 </table>
 
-<p>Not-so-many-pictures Books:</p>
+Not-so-many-pictures Books:
 
 <table border=0>
 <tr><td align="right"><cite>Emotions Revealed</cite></td><td>Paul Ekman</td></tr>
@@ -56,7 +56,7 @@ about earlier</a>, I've managed to make it through these books:</p>
 <tr><td align="right"><cite>Ways of Seeing</cite></td><td>John Berger</td></tr>
 </table>
 
-<p>And many others I'm trying to get traction on, reading a page here or there at a time:</p>
+And many others I'm trying to get traction on, reading a page here or there at a time:
 
 <table border=0>
 <tr><td align="right"><cite>Stop Staring</cite></td><td>Jason Osipa</td></tr>
@@ -66,11 +66,11 @@ about earlier</a>, I've managed to make it through these books:</p>
 <tr><td align="right"><cite>A Man with a Camera</cite></td><td>Nestor Alemendros<td></tr>
 <tr><td align="right">Last half of the <cite>Journal</cite></td><td>Eugene Delacroix<td></tr></table>
 
-<p>...plus the usual array of photo magazines, computer rags,
+...plus the usual array of photo magazines, computer rags,
 <cite>Game Developer,</cite> ornery web forum postings, travel to
 Las Vegas and Seattle, and a big batch of work to push forward
 at the office, including multiple tradeshows and an upcoming
 journey to Europe plus writing on the next book, <cite>GPU Gems
 2,</cite> and most-recently a good number of hours spent judging
-a contest for <a href="http://www.deviantart.com">DeviantArt.</a> Oh yeah, and an election.</p>
+a contest for <a href="http://www.deviantart.com">DeviantArt.</a> Oh yeah, and an election.
 

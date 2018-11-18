@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "My Portable Office"
-categories: [GearHead]
+categories: [Bike]
+tags: [Bike]
 ---
 
 

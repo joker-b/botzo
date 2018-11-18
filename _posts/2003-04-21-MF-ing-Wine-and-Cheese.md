@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MF'ing Wine and Cheese"
-categories: [Wire Service]
+categories: [GearHead]
 tags: [Canon,Contax,3D]
 ---
 Okay, so Saturday night.

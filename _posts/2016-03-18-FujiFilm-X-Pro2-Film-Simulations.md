@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FujiFilm X-Pro2 Film Simulations"
-categories: [Cameras]
+categories: [GearHead]
 tags: [Canon,Fujifilm]
 ---
 

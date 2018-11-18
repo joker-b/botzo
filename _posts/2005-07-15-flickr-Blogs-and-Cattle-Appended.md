@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "flickr, Blogs, and Cattle (Appended)"
-categories: [Wire Service]
+categories: [PhotoRant]
 ---
 
 
@@ -12,9 +12,10 @@ While the flow of published entries on photorant has been slow for the past few 
 
 You may consider it incoherent babble, that's fine. Feel free to tell me so.
 
+<!--more-->
+
 A perennial topic on flickr forums (and other community sites, like <a href="http://www.contaxg.com/" target="_blank">contaxg.com</a>) is the question of "how do you choose what to post?" a question which seems to inevitably lead to a split of the participants into two camps: those who wish everyone would post far less, and those who claim that the internet is a free medium, it's a free country, and doggone it they paid their $40 to have the right to upload as much as they darned well please. Both sides have a point, and they are both arguing from a stance of self-interest. Which makes me think of flickr etc. in economic terms, very much like a farming-town commons, as in Gerald Hardin's well-known theorem: <a href="http://www.sciencemag.org/cgi/content/full/162/3859/1243" target="_blank">"the tragedy of the commons."</a>
 
-<!--more-->
 <i>(The short version of the theorem: the "tragedy of the commons" is a description of what might happen to a village which operates a communal pasture or "commons." If each villager acts entirely out of self-interest, those who raise the most cattle on the land will gain the most, even though the village as a whole manages the pasture. There is an incentive to consume more than "your fair share." If the pasture is overgrazed by too many cattle, then the entire commons may become useless &#151; everyone suffers a long-term harm for the sake of the short-term gain of a few, whose greed destroyed a shared and finite resource)</i>
 
 The growth of technology makes it easy to ignore the principles of Hardin's tragedy. Bandwidth keeps increasing; the ability to export text, images, videos, and more becomes simpler; the disk space to store it all expands faster than it can be filled. If the resource grows faster than it's consumed, then the tragedy can't take hold (in fact, the "tragedy of the anticommons" is an expression used when resources are mistakenly under-utilized).

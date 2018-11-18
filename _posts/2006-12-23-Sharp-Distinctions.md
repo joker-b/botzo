@@ -5,7 +5,6 @@ categories: [GearHead]
 tags: [Canon,Leica,Lumix,Contax]
 ---
 
-
 ![SharpDistinct.jpg]({{ 'http://www.botzilla.com/blog/pix2006/SharpDistinct.jpg' | absolute_url }})
 
 

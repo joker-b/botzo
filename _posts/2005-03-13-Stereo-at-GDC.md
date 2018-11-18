@@ -2,7 +2,7 @@
 layout: post
 title: "Stereo at GDC"
 categories: [Nuke Em from Orbit]
-tags: [3D]
+tags: [3D,Stereo]
 ---
 
 

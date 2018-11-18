@@ -4,7 +4,6 @@ title: "Three Lines"
 categories: [Wire Service]
 ---
 
-
 ![Three Lines]({{ 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg' | absolute_url }}){: .align-right}
 Another ten-day delay. Like everything, I can find a reason.
 
