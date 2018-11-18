@@ -4,7 +4,7 @@ title: " No Real Secret"
 categories: [PhotoRant]
 tags: [Analog]
 ---
-![Secret]( {{ http://www.botzilla.com/pix2005/secret.jpg | absolute_url }})
+![Secret]( {{ 'http://www.botzilla.com/pix2005/secret.jpg' | absolute_url }})
 
 _Three rolls of Tri-X rated ISO 3200 in Xtol 1+1; two rolls of Portra 400UC._
 

@@ -16,8 +16,8 @@
 theme: jekyll-theme-so-simple
 title: PhotoRant, a Botzilla Blog
 email: bjorke@botzilla.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A newer, lighter, PhotoRant.
+# description: >- # this means to ignore newlines until "baseurl:"
+#  A newer, lighter, PhotoRant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.botzilla.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bjorke
