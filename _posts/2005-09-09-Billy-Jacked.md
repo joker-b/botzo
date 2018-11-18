@@ -2,7 +2,7 @@
 layout: post
 title: "Billy Jacked"
 categories: [fStop]
-tags: [Analog]
+tags: [Analog,Darkroom,Books]
 ---
 
 

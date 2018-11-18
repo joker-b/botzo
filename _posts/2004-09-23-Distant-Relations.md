@@ -2,7 +2,7 @@
 layout: post
 title: "Distant Relations"
 categories: [fStop]
-tags: [Canon,Contax]
+tags: [Canon,Contax,Japan]
 ---
 
 

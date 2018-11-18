@@ -2,7 +2,7 @@
 layout: post
 title: "The Lesson"
 categories: [fStop]
-tags: [Canon,Contax]
+tags: [Canon,Contax,Japan]
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Photo Pompier"
 categories: [PhotoRant]
+tags: [Books,Analog,Darkroom]
 ---
 
 

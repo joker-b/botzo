@@ -2,7 +2,7 @@
 layout: post
 title: "58 Years @ the Same Crossroads"
 categories: [PhotoRant]
-tags: [Digital]
+tags: [Digital,Books]
 ---
 
 

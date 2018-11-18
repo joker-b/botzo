@@ -5,7 +5,9 @@ categories: [PhotoRant]
 ---
 I've been in Seattle for the past couple of days, attending and speaking at the <a href="http://www.ogdc2007.com/">Online Games Developer Conference.</a>
 
-(This post is part of a series which can be found  through these links: <a href="http://www.botzilla.com/blog/archives/000565.html">Part I</a> and <a href="http://www.botzilla.com/blog/archives/000570.html">Part II.</a>)
+<i>This post is part of a series which can be found  through these links:
+ [Part I.]({{ site.baseurl }}{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %})
+ [Part II.]({{ site.baseurl }}{% post_url 2007-02-25-Is-Photography-Inherently-Humanizing-II %})</i>
 
 Yesterday morning, I found in the <cite>New York Times</cite> an editorial by <a href="http://select.nytimes.com/2007/05/10/opinion/10kristof.html?hp=&pagewanted=print">Nick Kristof</a> which has been widely copied to other locations such as <a href="http://coalitionfordarfur.blogspot.com/">this one</a> &#151; the article, "Save the Darfur Puppy," tries to grasp at some of the issues revealed by psychological research and "the implication of a series of studies by psychologists trying to understand why people &#151; good, conscientious people &#151; aren't moved by genocide or famines."
 

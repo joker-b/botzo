@@ -2,7 +2,7 @@
 layout: post
 title: "Little Disasters"
 categories: [fStop]
-tags: [Analog,Contax,Fujifilm]
+tags: [Analog,Contax,Fujifilm,Darkroom]
 ---
 
 

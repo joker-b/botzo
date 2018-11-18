@@ -2,6 +2,7 @@
 layout: post
 title: "Future Nostalgias"
 categories: [GrayScale]
+tags: [Books]
 ---
 
 

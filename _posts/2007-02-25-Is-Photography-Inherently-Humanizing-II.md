@@ -2,12 +2,12 @@
 layout: post
 title: "Is Photography Inherently Humanizing? (II)"
 categories: [PhotoRant]
+tags: [Korea]
 ---
 
+![Closed railway gate into North Korea, 2003]({{ 'http://www.botzilla.com/blog/pix2007/Aug03r-08.jpg' | absolute_url }}){: .align-right}
 
-![Closed railway gate into North Korea, 2003]({{ '/blog/pix2007/Aug03r-08.jpg' }}){: .align-right}
-
-<b>Part 2</b> (<a href="http://www.botzilla.com/blog/archives/000565.html">Part I here</a>)
+<b>Part 2</b> Part I is [here.]({{ site.baseurl }}{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %})
 
 <a href="http://en.wikipedia.org/wiki/Marc_Hauser">Marc Hauser</a> is a professor at Harvard's Deptartment of Cognitive Evolution (a fully different person from <a href="http://www.modamag.com/marc.htm">photographer Marc Hauser</a>), and his recent book <cite>Moral Minds</cite> is chock full of <a href="http://moral.wjh.harvard.edu/">morality tests.</a> These tests take the form of little thought experiments, similar to those math "word problems" of trains leaving Chicago and Philadelpha at the same time at such-and-such a speed. Unlike the meeting of two fixed-speed trains, however, these problems don't have fixed answers &#151; rather, they are presented as a means for the person taking the test to shine some light into the internal nature of their own moral sense.
 

@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Second Off Mission"
+image:
+  path: http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
+  thumbnail: http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
 categories: [GrayScale]
+tags: [Liquidity, LiquiditySF]
 ---
 
 
-![bjorke_DSCF4651.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg' | absolute_url }})
 
 
 (see color version below...)

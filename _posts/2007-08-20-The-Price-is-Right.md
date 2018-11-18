@@ -2,7 +2,7 @@
 layout: post
 title: "The Price is Right"
 categories: [PhotoRant]
-tags: [Lumix,3D]
+tags: [3D,Books]
 ---
 
 

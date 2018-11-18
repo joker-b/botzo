@@ -2,7 +2,7 @@
 layout: post
 title: "GPU Gems 3 - It's Here!"
 categories: [Nuke Em from Orbit]
-tags: [3D,Lumix,Digital]
+tags: [3D,Digital,Books]
 ---
 
 

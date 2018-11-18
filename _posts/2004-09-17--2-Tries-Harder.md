@@ -2,7 +2,7 @@
 layout: post
 title: "#2 Tries Harder"
 categories: [PhotoRant]
-tags: [Analog,Leica,Canon,Contax,Fujifilm]
+tags: [Analog,Leica,Canon,Contax,Fujifilm,Japan,Books]
 ---
 
 

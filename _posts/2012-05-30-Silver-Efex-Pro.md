@@ -2,7 +2,7 @@
 layout: post
 title: "Silver Efex Pro"
 categories: [GrayScale]
-tags: [Lumix]
+tags: [Lumix,Darkroom]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Pixels in Flight"
 categories: [Nuke Em from Orbit]
-tags: [3D,Digital]
+tags: [3D,Digital,China,Japan,Korea]
 ---
 
 

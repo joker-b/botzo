@@ -2,7 +2,7 @@
 layout: post
 title: "Eliminate the Negative"
 categories: [fStop]
-tags: [Analog]
+tags: [Analog,Darkroom]
 ---
 <i>Two rolls Kodak 100 dropped at the lab. Start to cut one up for scanning when I realize that I'm <b>in</b> the shot... hey, this is Kodak 200! <a href="http://www.geekychick.net">Courtney....!</a> Ah, she's got the right one.</i>
 
