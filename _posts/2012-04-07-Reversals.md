@@ -6,7 +6,7 @@ tags: [Lumix,Bike]
 ---
 
 
-![Reversals]({{ '/blog/pix2012/bjorke_P1130581.jpg' }}){: .align-right}
+![Reversals]({{ 'http://www.botzilla.com/blog/pix2012/bjorke_P1130581.jpg' }}){: .align-right}
 
 This morning I decided to go for a bike ride. Dragged out a map, looked at some of my favorite recent destinations for riding that were at about what I felt was an appropriate distance for the amount of time I had; then drew a circle roughly around my location to fit their range. I noticed that they all tended to cluster to the north and west, to Palo Alto, Los Altos, and the hills near them.
 

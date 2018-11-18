@@ -54,6 +54,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  liquiditysf:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Post defaults
