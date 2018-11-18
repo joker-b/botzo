@@ -18,15 +18,15 @@ Of course a new under-$400 Chromebook is no match for a full-powered $2000+ lapt
 
 This article presents a little guide for how you can use a modern Chromebook with your Fuji (and other) digital cameras, and a comparison against a common alternative: a Mac laptop. It's an ongoing project, and several people have already chipped-in valuable advice.
 
-The illustration above shows the _many_ &quot;picture flow&quot; possibilities of using Fujifilm X-Series cameras and a Chromebook. You probably only need coose a couple to be hudely productive. The green-shaded nodes in this chart represent places I think of as &quot;end points&quot; in the workflow-- where photos are either stored or shared. Photos flow from the camera to one or more of these end points (or into the trash!).
+The illustration above shows the _many_ &quot;picture flow&quot; possibilities for using Fujifilm X-Series cameras and a Chromebook. You probably only need choose a couple to be hugely productive. The green-shaded nodes in this chart represent places I think of as &quot;end points&quot; in the workflow-- where photos are either stored or shared. Photos flow from the camera to one or more of these end points (or into the trash!).
 
 The blue arrows and blue-bordered boxes show parts of the process where we can exploit Chrome's new Android apps, while the orange arrows show connections via Chrome web browser.
 
-I'll go through workflow options in more detail later on. It might look a bit complex, but compare to trying to post photos from your Mac directory onto an Instagram story...
+I'll go through workflow options in more detail later on. It might look a bit complex, but in practice usually simple: compare to trying to post photos from your Mac directory onto an **Instagram** story -- with Chromebook, you just run Instagram. For Mac... _esta complicado._
 
 > ## Executive Summary
 > 
-> The Chromebook can do a mostly-functional job as a cheap travel companion computer, as long as you're not needing high-volume processing (in other words, I wouldn't edit wedding shoots on it). The Chromebook can run native Android apps, which allows you to use all the features of mobile-centric services like Instagram Stories or WeChat Memories, services that are _otherwise unavailable_ on a Mac or PC; this includes Fujifilm Camera Remote and Instax printing, right from the laptop. It can control your PC at home remotely. Some models also have a built-in high-quality stylus. These can be worthy trade-offs to a traditional laptop's speedier CPU.
+> The Chromebook can do a mostly-functional job as a light &amp; cheap knockaround/travel computer, as long as you're not needing high-volume processing (in other words, I wouldn't edit wedding shoots on it). The Chromebook can run native Android apps, which allows you to use all the features of mobile-centric services like Instagram Stories or WeChat Memories, services that are _otherwise unavailable_ on a Mac or PC; this includes Fujifilm Camera Remote and Instax printing, right from the laptop. It can control your PC at home remotely. Some models also have a built-in high-quality stylus. These can be worthy trade-offs to a traditional laptop's speedier CPU.
  
 ## The $350 Challenger
  
@@ -176,7 +176,7 @@ These notes describe my Chromebook-based process using Fuji cameras, but there a
 
 <img alt="FujiX-OSX.jpg" src="http://www.botzilla.com/blog/archives/pix2017/Fuji-Mac.jpg" class="img-responsive" border="0" />
 
-Recasting the diagram above for Mac shows a simpler, but narrower network of possibilities. The Mac gains in directness and hard-wired speed, at the expense of losing the Chromebook's wireless applications and destinations (especially Instagram, whose web-based version is rather poor compared to the mobile-only Real Thing).
+Recasting the diagram above for Mac shows a simpler, but narrower network of possibilities. The Mac gains in directness and hard-wired speed, at the expense of losing the Chromebook's wireless applications and destinations (especially Instagram &amp; WeChat, whose web-based versions are rather poor compared to the mobile-only Real Thing).
  
 ## Chromebook Software Tools I Use
 
