@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sepia Blues"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Lumix]
 ---
 
@@ -9,7 +9,7 @@ tags: [Lumix]
 ![Sepia Image + 3 component channels]({{ 'http://www.botzilla.com/blog/pix2008/SepiaWai.jpg' | absolute_url }})
 
 
-<a href="/blog/archives/000504.html">Almost two years ago</a> I wrote an entry about in-camera sepia, wondering if in fact a sepia transofrmation could provide a photo with more tonalities than a tyical 8-bit black and white.
+[Almost two years ago]({{ site.baseurl }}{% post_url 2006-08-27-Are-Sepia-Images-Better %}) I wrote an entry about in-camera sepia, wondering if in fact a sepia transformation could provide a photo with more tonalities than a tyical 8-bit black and white.
 
 
 <!--more-->

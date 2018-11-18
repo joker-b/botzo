@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "_MG_4504, US-101 North of Google"
-categories: [fStop]
+categories: [PhotoRant]
 ---
 
 

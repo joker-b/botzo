@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Picture"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Analog]
 ---
 

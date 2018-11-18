@@ -6,7 +6,8 @@ tags: [Canon,Contax]
 ---
 <p>
 
-![Ministry of Sound, London (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/feb03i-30.jpg' | absolute_url }}){: .align-right}
+![Ministry of Sound, London]({{ http://www.botzilla.com/bpix/feb03i-30.jpg | absolute_url }}){: .align-right}
+
 Folks are occasionally surprised to hear that I acquired my 35mm <a href="http://contaxg.com/user.php?id=1678">Contax G</a> in early 2002, a year <i>after</i> my digital <a href="/photo/G1links.html">Canon G.</a> I got the digital in the hope of supplanting my 35mm SLRs, but instead found it in turn supplanted by a 35mm rangefinder.</p>
 
 <p>I tried to carry the digital every day &#151; every day I found myself losing shots. Now I carry the Contax every day, and the sense of lost shots is far more rare.  It's simply more capable: instant-on, predictable focus, dependable, fast.</p>

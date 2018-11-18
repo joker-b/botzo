@@ -13,10 +13,11 @@ This morning I decided to go for a bike ride. Dragged out a map, looked at some 
 There's an old photographer's maxim: if the view is interesting in a particular direction, there's a good chance that the view will be interesting in the opposite direction, too. This is one of those little guidelines that encourage the thing I most like about the process of photography, and that I like most about cycling: <i>it demands that you pay attention.</i>
 
 
-<!--more-->
 So I chose <a href="http://www.endomondo.com/workouts/lDaOUxVS4gM">a different route,</a> and a path less traveled, which has made all the difference.
 
 The photograph at right was made along a path that I hesitated before -- gravel, long, no easy turning back. Little sign of popularity, not even a guarantee that I'd not get to the far side and reach some impasse that would send me back the way I'd come.
+
+<!--more-->
 
 Five minutes along, and the path was now just a dry berm, rising from water on both sides. No one about, no sound but the roll of tires on dry mud. To my left, a gull came alongside, and another, and then more to the right, and all around, at eye level and skimming the still, sky-colored water below, criss-crossing alongside of me before taking a group arc off towards better fishing.
 

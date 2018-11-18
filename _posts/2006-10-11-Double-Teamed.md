@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Double Teamed"
-categories: [fStop]
-tags: [3D,Lumix,Digital]
+categories: [PhotoRant]
+tags: [3D,Lumix,Digital,Books]
 ---
 
 
 ![P1040574.jpg]({{ 'http://www.botzilla.com/blog/pix2006/P1040574.jpg' | absolute_url }})
-
 
 I had hoped to write a review of <cite>William Eggleston in the Real World</cite> this past weekend, but the DVD proved to be deeply forgettable &#151; so I forgot. I also watched, for about the eighth time, <a href="http://www.photoeye.com/templates/mShowDetailsbycat.cfm?Catalog=FT023"><cite>War Photographer.</cite></a> I keep playing the same silly game with it as I did in the first viewing &#151; comparing when I would have hit the shutter to when Natchwey does. A silly game, but &#151; one that reflects back on the purpose for his presence in the first place... which are the strongest pictures? (Maybe I should do this while viewing through my camera... I recall a thread a year or two back on ShortsShooter where someone was suggesting, as an exercise, going through POY and other news shots this way. His theory being &#151; and for some it might work &#151; that viewing in this way would give student photographers a better sense of the physical experience of the original photographer when they made the shot)
 
