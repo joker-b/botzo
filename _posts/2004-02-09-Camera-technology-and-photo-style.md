@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Camera technology and photo style"
-categories: [Library,PhotoRant]
+categories: [PhotoRant]
 ---
 In reading Bill Jay's and David Hurn's <a href="http://www.lenswork.com/obp.htm" target="rantframe"><i>On Being a Photographer,</i></a> I was struck by Hurn's comments about shooting many photos of a <i>static</i> subject, but fewer of a moving one, which was much harder to get balanced and well-formed for the camera.
 
 Static subjects with lots of subtle variation &#151; perfect for consumer digicams with their low cost-per-frame and inability to react quickly.
 
+
+<!--more-->
 For moving, living subjects, regardless of the camera type, very often you get <i>one shot</i> and after that forget it. Frustratingly, consumer digicams are crappy at exactly this situation. In stead of <i>one</i> shot, you get <i>zero</i> shots. The solution? <i>Pretend the problem doesn't exist.</i>
 
 There's even a tacit admission of this notion in a recent Olympus digicam advert, showing a shot from <i>A Day in the Life of Africa</i> and the photgrapher being quoted "please just stay right were you are for another second...."
@@ -38,6 +40,4 @@ If you are not a professional, and don't harbor fantasies of using your web site
 If it's your website, take a chance and make it <i>yours.</i> Let the question of <i>why</i> be one that you can answer from the heart, not from emulation of something you saw in a magazine or at a camera club.
 
 If you can honestly answer <i>why</i> to yourself, your photography will have improved tenfold over what it was before, because suddenly you will be free to make pictures for your own satisfaction. Even if, once you have a grasp on your own desires, they lead you directly to the purest sort of chocolate-box photography. At least it's your box. <i>Bon appetit!</i>
-
-<!--more-->
 

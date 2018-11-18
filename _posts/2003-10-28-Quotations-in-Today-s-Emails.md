@@ -2,10 +2,14 @@
 layout: post
 title: "Quotations in Today's Emails"
 categories: [PhotoRant]
+tags: [Analog]
 ---
-<a href="/photo/journal/103_0319.html"><img src="http://www.botzilla.com/bpix/103_0319.jpg" width=300 height=400 hspace=8 vspace=6 border=0 align="right" title="(C)2003 K Bjorke"></a>Such a literate bunch today.
 
-&#149; Street Photography is <a href="http://www.googlism.com/index.htm?ism=street+photography&type=2" target="linkframe">Link Number One</a>
+
+![(C)2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/103_0319.jpg' | absolute_url }}){: .align-right}
+Such a literate bunch today.
+
+&#149; Street Photography is <a href="http://www.googlism.com/index.htm?ism=street+photography&type=2">Link Number One</a>
 
 &#149; <i>"To photograph is to hold one's breath, when all faculties converge to  capture fleeting reality. It's at that precise moment that mastering an  image becomes a great physical and intellectual joy."
  
@@ -14,6 +18,10 @@ categories: [PhotoRant]
 "Photography appears to be an easy activity; in fact it is a varied andambiguous process in which the only common denominator among its  practitioners is in the instrument."
  
 "Photographers deal in things which are continually vanishing and when  they have vanished there is no contrivance on earth which can make them come back again."
+
+...
+
+<!--more-->
 
 "Reality offers us such wealth that we must cut some of it out on the spot, simplify. The question is, do we always cut out what we should?  While we're working, we must be conscious of what we're doing. Sometimes we have the feeling that we've taken a great photo, and yet we continue to unfold. We must avoid however, snapping away, shooting quickly and without thought, overloading ourselves with unnecessary images that clutter our memory and diminish the clarity of the whole."
 
@@ -43,11 +51,11 @@ categories: [PhotoRant]
 
 "Sharpness is a bourgeois concept."</i>
 
-&nbsp;&nbsp;&nbsp;&#151; Henri Cartier-Bresson via <a href="http://www.640x480.net/" target="linkframe">Michal Daniel</a>
+&nbsp;&nbsp;&nbsp;&#151; Henri Cartier-Bresson via <a href="http://www.640x480.net/">Michal Daniel</a>
 
 &#149; <i>"Whatever I say about photograhy is in relation to my photography, I'm not talking about photography in general." &#151; HCB
 
-Or, to put it another way, there's an awful lot of bullshit which you can safely ignore.</i> &#151; <a href="http://www.cupidity.f9.co.uk/Photos/" target="linkframe">Jawed Ashraf</a>
+Or, to put it another way, there's an awful lot of bullshit which you can safely ignore.</i> &#151; <a href="http://www.cupidity.f9.co.uk/Photos/">Jawed Ashraf</a>
 
 And these from Luis:
 
@@ -80,6 +88,4 @@ And these from Luis:
   I was tempted to buy it. It looked so handsome, and how ridiculously low the price. I remembered that I was living on fifty cents a day for food and that four dollars meant eight days' food. Did I have a right to buy my own picture under such conditions ?</i>
 
 &#151; Alfred Stieglitz  "Four Happenings", <u>Twice-a-Year</u>, edited by Dorothy Norman, No. 8/9, pp 135.
-
-<!--more-->
 

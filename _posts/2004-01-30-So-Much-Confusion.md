@@ -1,12 +1,18 @@
 ---
 layout: post
 title: "So Much Confusion"
-categories: [Canon,GearHead]
+categories: [GearHead]
+tags: [Analog,Leica,Canon,Contax,Fujifilm]
 ---
-<a href="/photo/journal/sharp04.html"><img src="http://www.botzilla.com/bpix/sharp04.jpg" width=267 height=400 hspace=8 vspace=6 border=0 align="right" title="f/22, San Jose 2004"></a>(This entry has nothing to do with <a href="http://circles-of-confusion.com/" target="linkframe">John Matturi.</a>)
 
-As a followup to the <a href="/blog/archives/000280.html">lens hack</a> of a few days ago, for laughs I thought I'd poke the Canon sensor into <a href="http://www.davideubank.com/" target="linkframe">David Eubank's PCam</a> as a custom film format, to give myself some extra guidance on demand about technical details like Depth of Field. 22.7mm&#215;15.1 mm, 3072&#215;2048 pixels... so what should I choose as a <a href="http://tangentsoft.net/fcalc/help/CoC.htm" target="linkframe">Circle of Confusion size?</a>
 
+![f/22, San Jose 2004]({{ 'http://www.botzilla.com/bpix/sharp04.jpg' | absolute_url }}){: .align-right}
+(This entry has nothing to do with <a href="http://circles-of-confusion.com/">John Matturi.</a>)
+
+As a followup to the <a href="/blog/archives/000280.html">lens hack</a> of a few days ago, for laughs I thought I'd poke the Canon sensor into <a href="http://www.davideubank.com/">David Eubank's PCam</a> as a custom film format, to give myself some extra guidance on demand about technical details like Depth of Field. 22.7mm&#215;15.1 mm, 3072&#215;2048 pixels... so what should I choose as a <a href="http://tangentsoft.net/fcalc/help/CoC.htm">Circle of Confusion size?</a>
+
+
+<!--more-->
 For 35mm, typically the CoC value is around 20-25 microns (0.02-0.025mm). Chances are that Canon (like most lens makers, save Contax and Leica, which are stricter) uses 25&#181; to calculate the Depth of Field markings on EOS lenses. CoC is a rather slippery number, based on subjective evaluations of 8&#215;10 prints viewd from two or three feet away, which is why lens DoF markings for medium format cameras use a much larger CoC value &#151; typically around 50&#181 &#151;  which is proportional to the larger negative size (which will in turn be enlarged less when printed to 8&#215;10. In signal-processing terms, they are trading some spatial frequency for dynamic range, which is why MF prints have their characteristic "richness" in comparison to a same-size print from 35mm).
 
 So for a sensor that's 1.6&#215; smaller, the CoC should be... around 15-16&#181 (Zeiss formula give 15.75&#181;). And the DoF markings on EOS lenses should be closer-together, too. But can the sensor get to that precision? And what about the change in field-of-view for smaller sensors? Don't small sensors give you <i>greater</i> DoF?
@@ -28,6 +34,4 @@ There are a few ways to go on this. One, taken by Olympus on the four-thirds sys
 Canon (and Contax and Kodak), in the meantime, has started making full-frame digital SLRs. They've made one digi-specific SLR lens, the 18-55 EF-S. It's rumoured that they don't intend on making any others. It has no DoF markers. There's a prominent gap in the Canon lens lineup &#151; no rectilinear primes between 20mm and 14mm, which is <i>exactly</i> the length you'd want if you were trying to use a full-frame 24mm/28mm view angle on a small-sensor camera like the 300D. There are some zoom lenses in that range, but they're huge, heavy, expensive, slow, less sharp than a prime, and of course the DoF markers are wrong.
 
 My hunch &#151; Canon will be pushing full-frame cameras down into the lower tiers of the DSLR line. My guess is a camera between the 10D and 1D, with a full-frame sensor, in the $3000 range, late this year.
-
-<!--more-->
 

@@ -1,13 +1,19 @@
 ---
 layout: post
 title: "Second Off Mission"
-categories: [GearHead,GrayScale,fStop]
+categories: [GrayScale]
 ---
-<img alt="bjorke_DSCF4651.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg" class="img-responsive" border="0" />
+
+
+![bjorke_DSCF4651.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg' | absolute_url }})
+
 
 (see color version below...)
 
 
 
 <!--more-->
-<img alt="bjorke_DSCF4651c.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651c.jpg" class="img-responsive" border="0" />
+
+
+![bjorke_DSCF4651c.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651c.jpg' | absolute_url }})
+

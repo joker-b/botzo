@@ -3,7 +3,10 @@ layout: post
 title: "Why I started this blog"
 categories: [PhotoRant]
 ---
-<img src="http://www.botzilla.com/bpix/opp.jpg" width=807 height=313 border=0 title="(C) 2004 K. Bjorke">
+
+
+![(C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/opp.jpg' | absolute_url }})
+
 
 On the <a href="/blog/archives.html">BotzBlog link page,</a> in the blog roll, you'll find the Three C's: <a href="http://www.jmcolberg.com/weblog/" target="_blank">Conscientious,</a> <a href="http://consumptive.org/weblog/blog.html" target="_blank">Consumptive,</a> and <a href="http://coincidences.typepad.com/" target="_blank">Coincidences;</a> run by Joerg Colberg, James Luckett, and the slightly reclusive Robert Mirani respectively. They are the leaders in a form (also followed by some sites like Luis Forrolas's <a href="http://farrolas.typepad.com/" target="_blank">flux+mutability</a>) that presents an alternative to sites about photo equipment &#151; they are sites about Other People's Pictures. All of these sites have great photos &#151; I mean <i>great</i> &#151; every single day. Because they're OPP.
 

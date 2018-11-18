@@ -3,7 +3,10 @@ layout: post
 title: "Winter Harvest"
 categories: [fStop]
 ---
-<img src="/pix2005/harvest.jpg" width=807 height=590 border=0>
+
+
+![Winter Harvest]({{ 'http://www.botzilla.com/pix2005/harvest.jpg' | absolute_url }})
+
 
 Somewhat as a by-product of my filing system and just due to the nature of the season, I spend a good deal of January picking through all the files on my various computers, burning many CDs, collating pages of negative sleeves, and reviewing proof sheets by the dozen.
 

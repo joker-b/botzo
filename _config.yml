@@ -40,8 +40,8 @@ liquid:
 
 # Build settings
 markdown: kramdown
-paginate: 3
-pagination: 4
+paginate: 5
+pagination: 5
 paginate_path: /page:num/
 search_full_content: false
 

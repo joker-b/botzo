@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Correspondances Japonaises"
-categories: [Library,PhotoRant]
+categories: [PhotoRant]
 ---
-<img title="Akasaka, 2006 (C) 2006-2007 K Bjorke" src="http://www.botzilla.com/blog/pix2007/japan-IMG_7752-2006.jpg" width="807" height="412" border="0" />
+
+
+![Akasaka, 2006 (C) 2006-2007 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/japan-IMG_7752-2006.jpg' | absolute_url }})
+
 
 I've been squinting through the details of <a href="http://www.foto8.com/reviews/V4N3/tata.htm">Things As They Are: Photojournalism in Context Since 1955,</a> another of those books I've been procrastinating at cracking. While uncredited to him, in a way this book was one of the last to fall under the shadow of <a href="http://www.photokaboom.com/photography/pdfs/John_Szarkowski.pdf">John Szarkowski,</a> who challenged the editors: "I share your hope... that your exhibition and book will be more than one more fat compendium of the pictures that editors expect photographers to make." I think they've had some really admirable success in this book.
 
@@ -14,6 +17,3 @@ Here's hoping, anyway. In three weeks I will be back in Japan, hopefully not get
 <hr align="center" width="20%">
 
 An hour after posting this, I ran into <a href="http://www.talk-pix.com/bluesky/121lostblonde/cornfield.html">this most unlikely newspaper photography.</a>
-
-<!--more-->
-

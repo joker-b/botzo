@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Problems Remain"
-categories: [Library,PhotoRant]
+categories: [PhotoRant]
 ---
-<img src="http://www.botzilla.com/bpix/bathProb.jpg" width=807 height=258 border=0 title="(C) 1994, 2004 K. Bjorke">
+
+
+![(C) 1994, 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/bathProb.jpg' | absolute_url }})
+
 
 This does seem to be the week for coincidences. Today the coincidences involve a collision between the recent entry <a href="/blog/archives/000316.html">Family, Immediate,</a> and <a href="http://www.lenswork.com/" target="_blank">Lenswork</a> magazine's site.
 
@@ -26,7 +29,7 @@ Now a photo of a scowl is quite a ways from a bookful of nude children, but it w
 
 I was unaware of Sally Mann's work until it was pointed out to me about a decade ago, in comparison to shots I was making (like the one on the front page of <a href="/index.html">Botzilla</a>) of my own children. I was instantly in awe of her photos and could only feel that Mann had a great love for her children. I felt that she, like I, felt a large measure of awe herself &#151; awe at the world that children inhabit, the freshness and tactility of it, the processes of discovery and fantasy and growth. These are themes that I find it hard to believe she would be connected to at the expense of her children &#151; rather, they are shared.
 
-<a href=http://www.aperture.org/magazines_details.php?magazine_id=17" target="_blank">Aperture</a> in fact interviewed Mann's daughter Jessie, now grown, on this topic.
+<a href="http://www.aperture.org/magazines_details.php?magazine_id=17" target="_blank">Aperture</a> in fact interviewed Mann's daughter Jessie, now grown, on this topic.
 
 I was also surprised at Brooks's question: "What else do Sally Mann and Jock Sturges photograph other than naked children?" When in fact neither of them are very active in that direction at this point. Sally Mann, as documented <a href="http://www.pbs.org/art21/artists/mann/index.html" target="_blank">here</a> and <a href="http://www.pbs.org/wnet/egg/genre_photography.html" target="_blank">here</a> and <a href="http://www.pbs.org/wnet/egg/301/mann/index.html" target="_blank">here</a> on PBS, has moved on to other, though similarly lyrical, subjects &#151; most recently in her book and show, <a href="http://www.tfaoi.com/aa/4aa/4aa339.htm" target="_blank">What Remains.</a>
 

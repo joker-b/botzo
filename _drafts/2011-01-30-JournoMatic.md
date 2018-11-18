@@ -2,6 +2,7 @@
 layout: post
 title: "JournoMatic"
 categories: [PhotoRant]
+tags: [Leica,Canon]
 ---
 Ben Lowy: http://benlowy.tumblr.com/archive
 
@@ -26,7 +27,4 @@ http://tomasvanhoutryve.wordpress.com/2011/01/23/new-funding-models-part-iv-%E2%
 
 Andy Adams http://www.andyadamsphoto.com/photo2/
 
-
-
-<!--more-->
 

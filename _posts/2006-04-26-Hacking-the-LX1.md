@@ -1,28 +1,40 @@
 ---
 layout: post
 title: "Hacking the LX1"
-categories: [GearHead,Leicasonic]
+categories: [GearHead]
+tags: [Canon,Leica,Lumix]
 ---
-<img alt="P1000976.jpg" src="http://www.botzilla.com/blog/archives/pix2006/P1000976.jpg" class="img-responsive" border="0" />
+
+
+![P1000976.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2006/P1000976.jpg' | absolute_url }})
+
 
 After some time using it daily, I can recognize my own way of working with the LX1, so it seems time to share some rambling notes. Operationally, electrically, and optically the camera is identical to the Leica D-Lux2 &#151; these notes apply equally well to both cameras.
 
 Let me start why saying why I bought the LX1. I knew that it would be slower to use than a DSLR, but I wanted a high-quality compact. A friend at work was raving about his DLux2, and I checked out the Panasonic alternative but wasn't feeling a need to buy anything at the time. A couple of weeks later, I saw a very cool camera at Fry's and realized that this was the same camera I'd been web-browsing. Besides the pleasant feel of the camera in my hand, it had an actually-wide wide-angle (28mm equivalent) and native 16::9 aspect ratio.
 
+
+<!--more-->
 16::9 aspect exactly matches the format of newer widescreen movies and the Sony PSP, which I'd found to be an excellent venue for showing short video clips and lots of widescreen photos during the previous week's <a href="http://www.gdconf.com/">Game Developer's Conference</a> (where I'd been toting my Canon SLR) (weird trivia &#151; the camera itself is  16::9-shaped , which can be useful for thinking about composition even with the camera turned off (hold it up in front of you for a sec) &#151; and the camera is almost exactly the same size as the PSP screen). I read all the reviews I could find, looked at photos made by it, and then bought it. I have been happy.
 
 This is the first non-phone camera I've had without an optical viewfinder. I know that <a href="http://www.leica-camera.com/discus_e/messages/3/197381.html?1140805022">some folks</a> have gone ahead and superglued a <a href="http://www.cameraquest.com/voigtacc.htm">28mm Voigtlander Minifinder</a> to the top of their DLux2 &#151; I understand it, that desire to raise the camera to your eye is a basic one. The camera is, after all, an extension of your eye...
 
 Yet as much as I enjoy <a href="http://www.flickr.com/groups/camerahacks/">camera hacks,</a> this seems overboard. I like the LCD, though it is not nearly as immediate as a eye-level finder. Responding quickly to what's in front of the camera can be tricky &#151; it takes time for your eye to shift back and forth from the scene and the finder LCD, racking your internal focus back and forth as you do it. It can be a sort of barrier, and I'll mention how to help that further on.
 
-<a href="http://www.flickr.com/photos/bjorke/133979298/" title="Gaff1"><img src="http://static.flickr.com/55/133979298_919e8b0753_m.jpg"  alt="LX1 Hack #1 - Tape Controls" class="img-responsive pull-right" vspace=4 hspace=8 border=0 /></a>
+<a href="http://www.flickr.com/photos/bjorke/133979298/" title="Gaff1">
+
+![LX1 Hack #1 - Tape Controls]({{ 'http://static.flickr.com/55/133979298_919e8b0753_m.jpg' | absolute_url }})
+</a>
 I <i>have</i> gently hacked my own camera, using about $0.05 worth of gaffer tape (you knew I would get here eventually, right?). <a href="http://www.botzilla.com/blog/archives/000392.html">Gaffer tape</a> can definitely help the LX1, even if you get the camera in the svelte and low-visibility pewter. The first illustration shows two key aspects of the camera that can be enhanced by a little of the old G.T.
 
 At the back, there's a triangle of black tape placed overlapping and below the little "grip nubs" that Panasonic has already provided for your thumb. The fabric of the tape is <i>much</i> better to grip, and it doesn't shift around so much when you're also trying to use your thumb on the controls. It's an improvmenet for two-handed and one-handed operation &#151; in fact the camera is almost too slippery for one-handed operation without this enhancement.
 
 At the top, I've added a tiny strip of tape to the mode-select dial, laid in the blank space. It's directly opposite the "P," so when the camera is in "P" mode you can feel the line of tape squarely under your index finger. This makes it straightforward to set the camera not only to "P" mode but to <i>any</i> mode, once you're used to the order of the neighboring symbols. With the tape, modes can be selected purely by touch &#151; no looking at the dial or the LCD. This is invaluable for use in quick-paced or darkened situations. 
 
-<a href="http://www.flickr.com/photos/bjorke/133979299/" title="Photo Sharing"><img src="http://static.flickr.com/49/133979299_874942d174_m.jpg"  alt="LX1 Hack #2 - Tape Grip" class="img-responsive pull-left"  vspace=4 hspace=8 border=0 /></a>The front of the camera can likewise use a little grip improvement &#151; placing two narrow pieces of tape as shown here improves the purchase of your middle finger when gripping. The difference in finger-slippage is really dramatic, compared to the smooth plastic surface under the tape. Remember, the LX1 is a very light camera &#151; it's easy for it to shift around in your hand without a good grip (unlike big metal 35mm's of old).
+<a href="http://www.flickr.com/photos/bjorke/133979299/" title="Photo Sharing">
+
+![LX1 Hack #2 - Tape Grip]({{ 'http://static.flickr.com/49/133979299_874942d174_m.jpg' | absolute_url }})
+</a>The front of the camera can likewise use a little grip improvement &#151; placing two narrow pieces of tape as shown here improves the purchase of your middle finger when gripping. The difference in finger-slippage is really dramatic, compared to the smooth plastic surface under the tape. Remember, the LX1 is a very light camera &#151; it's easy for it to shift around in your hand without a good grip (unlike big metal 35mm's of old).
 
 I got <a href="http://www.kbcamera.com/leicashop/catalog/product_info.php?cPath=73_3_394&products_id=2309&osCsid=d3868b2c332d0d8d9527171b0cc8887f">a great deal on a red Leica-badged Crumpler case</a>, which is sturdy nylon/cordura and has a wee pouch in front for carrying an extra battery and/or SD card. It can be carried on a shoulder strap (it's almost too light for that), on your belt, or the camera strap can stick out and you can just carry it as a "loose" case. The Crumpler is similar to the  <a href="http://www.lowepro.com/Products/Camera_Pouches/designed_digital/Ridge_30.aspx">Lowepro Ridge 30</a>, which is somewhat generic.
 
@@ -62,11 +74,9 @@ Beats me why the camera only supports USB 1.1 output. Ooops. I use an external U
 
 I've finally become a convert to <a href="http://www.adobe.com/products/dng/main.html">Adobe DNG</a> &#151; it makes life simpler for people with multiple cameras to keep all the files in the same format. So the LX1 RAW files, the CRWs from the G5 or the DSLR, all can live together in peace. My digital workflow goes:
 
-<center>Card Reader &#151;&raquo; hard disk &#151;&raquo; DNG Convert &#151;&raquo; Adobe Bridge</center>
+Card Reader &#151;&raquo; hard disk &#151;&raquo; DNG Convert &#151;&raquo; Adobe Bridge
 
 and from there to Photoshop and an archive disk. I keep some LX1-dedicated Photoshop actions around, particularly one that labels pix with LX1-related flickr tags and copyrights, and another that can take 16::9 photos and ready-format them for the PSP.
-
-<!--more-->
 <hr align="center" width="20%">
 
 Here are some links to people I've found using the LX1:

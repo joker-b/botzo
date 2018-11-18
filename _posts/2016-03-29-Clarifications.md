@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Clarifications"
-categories: [Nuke Em from Orbit,PhotoRant,Wire Service]
+categories: [PhotoRant]
 ---
-<img alt="bjorke_clarifications.jpg" src="http://www.botzilla.com/blog/archives/pix2016/bjorke_clarifications.jpg" class="img-responsive" border="0" />
 
 
-<!--more-->
+![bjorke_clarifications.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2016/bjorke_clarifications.jpg' | absolute_url }})
+
 

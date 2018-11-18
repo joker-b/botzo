@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Junkpiles"
-categories: [GearHead,GrayScale,Unfinished, In Progress]
+categories: [GearHead]
+tags: [Lumix]
 ---
-<img alt="bjorke-P1040880.jpg" src="http://www.botzilla.com/blog/pix2009/bjorke-P1040880.jpg" width="807" height="454" border="0" />
+
+
+![bjorke-P1040880.jpg]({{ 'http://www.botzilla.com/blog/pix2009/bjorke-P1040880.jpg' | absolute_url }})
+
 
 
 What a difference a day makes as I start assembling all the real components and trying to sort them out -- even doubling the size of the chassis the whole thing seems... smaller. And it's definitely slower. And I still haven't added the USB router or the <i>second</i> power supply for the linux portion. Or the lasers.

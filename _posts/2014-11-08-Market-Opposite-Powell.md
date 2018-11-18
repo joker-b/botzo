@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Market Opposite Powell"
-categories: [GrayScale,fStop]
+categories: [GrayScale]
 ---
-<img alt="bjorke_PICS1672.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1672.jpg" class="img-responsive" border="0" />
 
 
-<!--more-->
+![bjorke_PICS1672.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1672.jpg' | absolute_url }})
+
 

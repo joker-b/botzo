@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Clever Spammers"
-categories: []
+categories: [general]
 ---
-
-
-<!--more-->
 

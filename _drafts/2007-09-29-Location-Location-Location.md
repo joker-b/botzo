@@ -9,6 +9,3 @@ can it work across variable density?
 
 what graphics components?
 
-
-<!--more-->
-

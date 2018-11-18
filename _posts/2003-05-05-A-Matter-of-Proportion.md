@@ -1,11 +1,15 @@
 ---
 layout: post
 title: "A Matter of Proportion"
-categories: [ProtoRant]
+categories: [PhotoRant]
+tags: [Analog]
 ---
 How has Kodak managed to sell 8x10" paper, 5x7" paper, and 11x14" paper, for year upon year upon year, and none of them have the same aspect ratio? 8x10 at least matches the aspect ratio of a 4x5 camera, but none of them match the aspect ratio of 35mm, 6x7, 6x6, 6x9.... then digicams come along and almost all of them are the aspect ratio of a video camera, 4::3, and digital printers come along and expect everyone to switch from 8x10" to 8.5x11", or 13x17", with each printer having a slightly-different printable area within those fields. Only the humble 4x6" quickie print actually gets the aspect-ratio game under control.
 
-<img src="http://www.botzilla.com/bpix/FrameWaste2.jpg" width=237 height=387 border=0 title="Printing to the edge of the paper from a 35mm full frame, you lose either paper or picture" align="right" hspace=8 vspace=6>It ticks me off.
+
+
+![Printing to the edge of the paper from a 35mm full frame, you lose either paper or picture]({{ 'http://www.botzilla.com/bpix/FrameWaste2.jpg' | absolute_url }}){: .align-right}
+It ticks me off.
 
 Pretty much, you're guaranteed not to be able to use some significant portion of the expensive paper you've purchased, or some significant portion of your (probably more-important) photograph is going to get cropped. Paper waste: borders to adjust, or chunks trimmed-off, or both.
 
@@ -20,6 +24,3 @@ A 7x6 neg sheet, proofed on 8.5x11" photo paper (which was already hard to get b
 And how come frame shops only have a tiny selection of "document" sized frames? Or if you want to matte your document-sized photo to 11x14, forget about finding a precut matte.
 
 I blame globalization. It's gotta be.
-
-<!--more-->
-

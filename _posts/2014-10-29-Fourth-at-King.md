@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Fourth at King"
-categories: [fStop,fStop]
+categories: [fStop]
 ---
-<img alt="bjorke_PICS1848_848.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1848_848.jpg" class="img-responsive" border="0" />
+
+
+![bjorke_PICS1848_848.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1848_848.jpg' | absolute_url }})
+
 
 <i>World Series, Game Seven</i>
-
-<!--more-->
-

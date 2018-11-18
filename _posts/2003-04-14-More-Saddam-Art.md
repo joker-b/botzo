@@ -3,9 +3,6 @@ layout: post
 title: "More Saddam Art"
 categories: [The Open Conspiracy]
 ---
-Now CNN is reporting it too &#151; <a href="http://www.cnn.com/2003/WORLD/meast/04/14/sprj.irq.saddam.hideaway/index.html" target="linkframe">the taste of the Hussein family for fantasy art.</a>
+Now CNN is reporting it too &#151; <a href="http://www.cnn.com/2003/WORLD/meast/04/14/sprj.irq.saddam.hideaway/index.html">the taste of the Hussein family for fantasy art.</a>
 
 I'm really itching to see his record collection and game system, now.
-
-<!--more-->
-

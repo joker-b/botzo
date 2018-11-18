@@ -2,8 +2,12 @@
 layout: post
 title: "A Different Storm"
 categories: [The Troubles]
+tags: [Digital]
 ---
-<img src="/pix2005/websat.jpg" width=807 height=125 border=0 title="Satellite Image &copy;2005 Google">
+
+
+![Satellite Image &copy;2005 Google]({{ 'http://www.botzilla.com/pix2005/websat.jpg' | absolute_url }})
+
 
 I mentioned a few organizational changes <a href="/blog/archives/000413.html">a few days ago.</a> While I <i>have</i> changed the <a href="/blog/archives.html">Links+Archives</a> page layout somewhat, that's not it. The changes are in the organization of my life.
 

@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Home-Hacking the Fujifilm X-Pro-2"
-categories: [Fujifilm,GearHead,Leicasonic]
+categories: [GearHead]
+tags: [Lumix,Fujifilm]
 ---
-<img alt="bjorke_sugru_P1080793c.jpg" src="http://www.botzilla.com/blog/archives/pix2016/bjorke_sugru_P1080793c.jpg" class="img-responsive" border="0" />
+
+
+![bjorke_sugru_P1080793c.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2016/bjorke_sugru_P1080793c.jpg' | absolute_url }})
+
 Why don't more industrial designers design <i>for fingertips?</i> They seem to understand grip, but sensation... less.
 
 Over the past couple of years I've taken to hacking the mechanical controls of my cameras (and a few other items) with <a href="http://www.sugru.com/" target="_new">Sugru,</a> a quick-curing material that's a bit like a cross between modeling clay and rubber. The idea is simple: provide tactile landmarks for my fingers, so that I can use the camera's controls without needing to look at them -- either because it's raised to my eye, or even if the camera is out of sight in my bag or jacket pocket, preparing for the next shot.

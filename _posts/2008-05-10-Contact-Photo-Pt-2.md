@@ -3,7 +3,10 @@ layout: post
 title: "Contact Photo, Pt 2"
 categories: [PhotoRant]
 ---
-<img alt="Toronto_MG_1104cr.jpg" src="http://www.botzilla.com/blog/pix2008/Toronto_MG_1104cr.jpg" width="807" height="384" border="0" />
+
+
+![Toronto_MG_1104cr.jpg]({{ 'http://www.botzilla.com/blog/pix2008/Toronto_MG_1104cr.jpg' | absolute_url }})
+
 
 For my Contact Photo weekend, I'd expected the Sunday to be the shorter of the two -- instead under the bright sun I was able to visit <a href="http://www.mocca.toronto.on.ca/">MOCCA,</a> the remaining Queen Street galleries, the <a href="http://www.gladstonehotel.com/exhibitions.cfm">Gladstone,</a> the <a href="http://www.thedrakehotel.ca/">Drake,</a> drive across town to the <a href="http://www.corkingallery.com/">Corkin,</a> and still take a leisurely pace back to the airport.
 

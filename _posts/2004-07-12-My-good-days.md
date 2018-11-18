@@ -2,8 +2,12 @@
 layout: post
 title: "My good days..."
 categories: [Nuke Em from Orbit]
+tags: [3D,Digital]
 ---
-<img src="http://www.botzilla.com/bpix/good_day.jpg" width=807 border=0 height=395 title="11 June 2004 (C) 2004">
+
+
+![11 June 2004 (C) 2004]({{ 'http://www.botzilla.com/bpix/good_day.jpg' | absolute_url }})
+
 
 This past Friday was a good example of the sort of day I enjoy most at NVIDIA &#151; spending it both creating fun cool stuff with the latest hardware and more importantly getting a chance to talk to artists and programmers on lots of different cool projects, finding out what they're doing, getting excited by their ideas, and hopefully playing a helpful role with ideas of my own. It's one of those jobs where the most productive days are also the most exhilarating and thought provoking; Friday was just such a day.
 

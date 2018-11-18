@@ -1,11 +1,15 @@
 ---
 layout: post
 title: "Crunch Mope"
-categories: [Nuke Em from Orbit,The Open Conspiracy,Unfinished, In Progress]
+categories: [Nuke Em from Orbit]
+tags: [Lumix,3D]
 ---
 <i>This is one of those never-quite-finished entries that's been long-lingering due to lack of time and attention &#151; in this case it's been months (there are some that are older... what can I say?) &#151; the original save date was early 2005, and it's lingered in "draft mode" ever since.</i>
 
-<img alt="P1000609.jpg" src="http://www.botzilla.com/blog/archives/P1000609.jpg" width="807" height="454" border="0" />
+
+
+![P1000609.jpg]({{ 'http://www.botzilla.com/blog/archives/P1000609.jpg' | absolute_url }})
+
 
 I was digging around on <a href="http://del.icio.us/bjorke/">del.icio.us</a> one afternoon and saw that after a lot of web traffic and game-industry furor back in November 2004, <a href="http://www.livejournal.com/users/ea_spouse/">ea_spouse</a> was still drawing hits from across the del.icio.us spectrum.
 
@@ -17,7 +21,7 @@ http://www.igda.org/articles/erobinson_crunch.php">article on IGDA</a> purportin
 I don't think this is really an EA issue at its core &#151; maybe "ea_spouse" hails from there, but EA is just a big, easy target for journalists. Rather, it's an industry-wide issue. There are many other companies, better and worse alike...
 
 <!--more-->
-<center>(Cartoon aside: <a href="http://www.vgcats.com/comics/?strip_id=132">VG Cats</a>)</center>
+(Cartoon aside: <a href="http://www.vgcats.com/comics/?strip_id=132">VG Cats</a>)
 
 The games industry, spawned from the general computer graphics and animation industries, is by its nature dynamic and changeable. More than that &#151; at least in its earlier days, it was <i>mutable.</i> It was really possible for a very small number of people &#151; sometimes just one dedicated and brilliant person &#151; to create things that would radically change the industry or create whole new genres. When Carmack & co made the Doom engine, that small group changed everything. When Blinn simplified the Cooke-Torrance illumination model, it changed everything. <cite>Toy Story</cite>? Photoshop? GeForce 256? <cite>Jurassic Park</cite>? Every one a work created by some small group of smart dynamos that blew-open the prevailing notions about what was possible.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ellis  Off Cyril Magnin"
-categories: [fStop,fStop]
+categories: [fStop]
 ---
-<img alt="bjorke_DSCF4712.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4712.jpg" class="img-responsive"  border="0" />
+
+
+![bjorke_DSCF4712.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4712.jpg' | absolute_url }})
+
 
 <i>World Series Game Six</i>
-
-<!--more-->
-

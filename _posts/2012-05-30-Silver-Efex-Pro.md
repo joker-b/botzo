@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Silver Efex Pro"
-categories: []
+categories: [general]
+tags: [Lumix]
 ---
-<img alt="bjorke_P1060066.jpg" src="http://www.botzilla.com/blog/archives/pix2012/bjorke_P1060066.jpg" width="807" height="454" border="0" />
+
+
+![bjorke_P1060066.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2012/bjorke_P1060066.jpg' | absolute_url }})
+
 
 Hard to look at B&amp;W photos these days without suspecting the hand of Nik Software behind the curtain.
-
-<img src="http://www.botzilla.com/blog/archives/pix2012/bjorke_P1060066_thm.jpg" STYLE="display: none;"  />
-
-<!--more-->
 

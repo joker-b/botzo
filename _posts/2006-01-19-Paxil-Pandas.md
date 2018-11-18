@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paxil & Pandas"
-categories: [Library,The Open Conspiracy,fStop]
+categories: [The Open Conspiracy]
 ---
 I got the new <a href="http://www.nationalgeographic.com/">National Geographic</a> yesterday and the lead article was simply banner-titled: "Love." The text was about the neurochemistry of attraction and attachment, with connecting photos by <a href="http://pdngallery.com/cobrand/nikonnet/masters/jodi_cobb/">Jodi Cobb.</a> I have to admit that I was a bit puzzled on (a) what made this a <i>NatGeo</i> story (yeah, yeah, an easy one: to sell magazines. But why <i>NatGeo</i> instead of <i>Cosmo</i> then? Where's the market differentation?), and (b) why they sent Cobb out on this one, since the resultant photos of affection are, well, charming but hard to point as particularly specific to the topics in the article, and why would you need to fly around the world to get them? Anyway, to the Real Meat of this entry:
  

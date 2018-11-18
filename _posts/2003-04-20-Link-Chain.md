@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Link Chain"
-categories: [ProtoRant]
+categories: [PhotoRant]
+tags: [Analog]
 ---
-<img src="http://www.botzilla.com/bpix/apr03c-28.jpg" align="right" width=223 height=333 hspace=8 vspace=6 title="Las Vegas (C) 2003 Kevin Bjorke">Thought I'd paste-together a list of URLs that have had important influences on my thinking over the past few months. YMMV.
+
+
+![Las Vegas (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/apr03c-28.jpg' | absolute_url }}){: .align-right}
+Thought I'd paste-together a list of URLs that have had important influences on my thinking over the past few months. YMMV.
 
 <ul>
 <li><a href="http://www.luminous-landscape.com/tutorials/auteur.shtml">Michael Johnson</a> on why some photos are better than others</li>
@@ -27,6 +31,3 @@ categories: [ProtoRant]
 </ul>
 
 Current backlog: one roll of TMax. Very little shooting this weekend, except for the garden shots that followed after <a href="/blog/archives/000037.html">the story below.</a>
-
-<!--more-->
-

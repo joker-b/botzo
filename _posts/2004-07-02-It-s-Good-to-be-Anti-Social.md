@@ -2,8 +2,12 @@
 layout: post
 title: "It's Good to be Anti-Social"
 categories: [PhotoRant]
+tags: [Leica]
 ---
-<p><a href="/photo/journal/anti.html"><img src="http://www.botzilla.com/bpix/bjorke_anti.jpg" width=807 border=0 height=294 title="(C)2004"></a></p>
+<p>
+
+![(C)2004]({{ 'http://www.botzilla.com/bpix/bjorke_anti.jpg' | absolute_url }})
+</p>
 
 <p>I'm hardly the first person to observe the irony that novellists, whose stock in trade are observations of human behavior and character, work almost always alone (not counting corporate potboiler writers and their assistants, whom I'm reluctant to label "novelists"). So too street photographers of the portraiture variety.</p>
 

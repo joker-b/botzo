@@ -2,10 +2,11 @@
 layout: post
 title: "Buddha Says"
 categories: [fStop]
+tags: [Lumix]
 ---
-<img alt="P1080612.jpg" src="http://www.botzilla.com/blog/pix2007/P1080612.jpg" width="807" height="192" border="0" />
+
+
+![P1080612.jpg]({{ 'http://www.botzilla.com/blog/pix2007/P1080612.jpg' | absolute_url }})
+
 
 Sign at the temple of Nanzen-ji, Kyoto.
-
-<!--more-->
-

@@ -2,10 +2,11 @@
 layout: post
 title: "Crop Circle"
 categories: [fStop]
+tags: [Lumix]
 ---
-<p><img alt="P1020027.jpg" src="http://www.botzilla.com/blog/pix2009/P1020027.jpg" class="img-responsive" border="0" /></p>
+
+
+![P1020027.jpg]({{ 'http://www.botzilla.com/blog/pix2009/P1020027.jpg' | absolute_url }})
+
 
 <p><i>P1020027, March 2009</i></p>
-
-<!--more-->
-

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Market and Annie"
-categories: [GrayScale,fStop]
+categories: [GrayScale]
 ---
-<img alt="bjorke_PICS1772.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1772.jpg" class="img-responsive" border="0" />
 
 
-<!--more-->
+![bjorke_PICS1772.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1772.jpg' | absolute_url }})
+
 

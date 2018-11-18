@@ -2,8 +2,12 @@
 layout: post
 title: "Toronto Contact Photo 2008"
 categories: [PhotoRant]
+tags: [Canon,Analog]
 ---
-<img alt="_MG_1095cr2_807.jpg" src="http://www.botzilla.com/blog/pix2008/_MG_1095cr2_807.jpg" width="807" height="443" border="0" />
+
+
+![_MG_1095cr2_807.jpg]({{ 'http://www.botzilla.com/blog/pix2008/_MG_1095cr2_807.jpg' | absolute_url }})
+
 
 Spent most of the day running back and forth through the rain to see as much of <a href="http://www.contactphoto.org/">Contact Photo</a> as the rain would allow, and last night chasing around the Lanch Event. Tomorrow I'll hit the MOCCA portion before returning home. Fell asleep -- coffee in hand -- just as the early-evening weather outside my hotel room was surging past the drizzly form shown here into a real driving storm.
 
@@ -14,6 +18,3 @@ I also got a glimpse at the results from the Canon imagePROGRAF iPF9100 60" prin
 To my surprise, when I awoke two hours after dozing away, the view was dazzlingly different: the towers lit by an orange sunset and framed by a deep blue sky. Surprising what a couple of hours can do if you'll just willing to stay put (sleeping helps).
 
 <i>What about the photographs?</i> I'll write more about them in the next entry.
-
-<!--more-->
-

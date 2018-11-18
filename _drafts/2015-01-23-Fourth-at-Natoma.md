@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Fourth at Natoma"
-categories: [Fujifilm,PhotoRant,fStop]
+categories: [PhotoRant]
+tags: [Analog]
 ---
-<img alt="bjorke_PICS0454.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0454.jpg" class="img-responsive"  border="0" />
+
+
+![bjorke_PICS0454.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0454.jpg' | absolute_url }})
+
 
 
 <!--more-->

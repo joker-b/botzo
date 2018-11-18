@@ -3,12 +3,17 @@ layout: post
 title: "Flick flake"
 categories: [PhotoRant]
 ---
-<img alt="flickflake.jpg" src="http://www.botzilla.com/blog/archives/pix2006/flickflake.jpg" width="807" height="531" border="0" />
+
+
+![flickflake.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2006/flickflake.jpg' | absolute_url }})
+
 
 Over the past month or two I've pretty-well given up on trying to make any sense of my <a href="http://www.flickr.com/people/bjorke/contacts/">flickr contacts list.</a> Too many people listing me, too many people whose photos I want to see.
 
 I'd previously made some progress by using <a href="http://www.flickr.com/people/bap/">robots</a> &#151; fake user accounts &#151; to sort things. In the end simplicity wins out, so now  people and tags and topics all just get fed into <a href="http://www.bloglines.com/public/bjorke">my bloglines account</a> same as everything else (or for the RSS-less, into <a href="http://del.icio.us/bjorke/photography">del.icio.us</a>).
 
+
+<!--more-->
 A definite advantage to this is that  RSS feeds make it easier to keep track of photos posted to flickr <a href="http://www.flickr.com/groups/mfstreet/">group pools,</a> since the official "your groups" page flags updates to the discussions in those groups but not the picture pools &#151; even though the most interesting groups (visually) often have <i>empty</i> discussions.
 
 Digging around I came across some groups that I shouldn't have been surprised to find &#151; lots of groups based on numbers games, such as groups racing to create the largest group pools in the shortest time (e.g., photos = noise. LOTS of noise), or have the most members, etc. The internet way, as ever (as was the TV way before it) is to emphasize volume over critical judgement, a trend that's been well-recognized since at least the industrial revolution.
@@ -28,6 +33,4 @@ Obviously, attractive women were expected, and generally they have <a href="http
 Remember, these aren't just common &#151; they are the <i>most-viewed photos on the entire system.</i> 
 
 Think about that, next time someone yells at you while you're shooting because photographers are all a bunch of pervs. According to yahoo, they're right.
-
-<!--more-->
 

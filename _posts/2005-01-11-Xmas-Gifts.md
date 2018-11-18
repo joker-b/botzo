@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Xmas Gifts"
-categories: [Library,PhotoRant]
+categories: [PhotoRant]
+tags: [Analog,Fujifilm]
 ---
-<img src="/pix2005/xmas.jpg" width=807 height=825 border=0>
+
+
+![Xmas Gifts]({{ 'http://www.botzilla.com/pix2005/xmas.jpg' | absolute_url }})
+
 
 <i>Four 220 rolls of TXP, two 120 rolls of Neopan 400, two 120 rolls of TX400 (sometimes you use what yuou can find, on the road...). All in Xtol 1+1.</i>
 

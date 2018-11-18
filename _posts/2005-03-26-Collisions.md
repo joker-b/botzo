@@ -3,7 +3,10 @@ layout: post
 title: "Collisions"
 categories: [PhotoRant]
 ---
-<img src="/pix2005/collisions.jpg" width=808 height=546 border=0 title="Mall, Los Angeles, 2003 (c) K Bjorke">
+
+
+![Mall, Los Angeles, 2003 (c) K Bjorke]({{ 'http://www.botzilla.com/pix2005/collisions.jpg' | absolute_url }})
+
 
 Funny how ideas can collide, if you're in the right frame of mind to be aware of them. Our brains are such <a href="http://www.csicop.org/si/9809/coincidence.html">coincidence machines.</a> That's how I felt when, only hours after posting <a href="/blog/archives/000391.html">the previous entry,</a> I discovered the work of the Swiss/Italian/German/Japanese (!) artist <a href="http://www.marioa.com/">Mario A.</a>
 

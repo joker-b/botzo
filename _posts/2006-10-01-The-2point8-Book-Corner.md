@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "The 2point8 Book Corner"
-categories: [Library,Nuke Em from Orbit,PhotoRant]
+categories: [PhotoRant]
+tags: [Leica,Lumix,Analog]
 ---
-<img alt="(C)2006" src="http://www.botzilla.com/blog/pix2006/559_5957.jpg" width="807" height="538" border="0" />
+
+
+![(C)2006]({{ 'http://www.botzilla.com/blog/pix2006/559_5957.jpg' | absolute_url }})
+
 
 A couple of weeks ago I was reading <a href="http://en.wikipedia.org/wiki/Michael_David_Murphy">Michael David Murphy</a>'s <a href="http://2point8.whileseated.org/">2point8</a> and started clicking the "previous entry" lin ks&#151; eventually, over the course of a few hours, I worked my way back through the entire history of the blog, mostly in a straight line backwards but with a few <i>Memento-</i>like sidebars of reversed reverse time. Regardless of direction the time was well-spent (later I tried the same thing with this blog, and frankly Botzilla doesn't bear extended reading nearly as well, with its many random discursions and distracted tone. You do what you can).
 
 Since Michael reviews many books in his blog I thought I'd dig some of them up. In my <a href="http://www.apug.org/forums/showthread.php?p=370380#post370380">current large bedside (and bedtop!) stack of readables,</a> then, are two streetphoto books from the 2point8 book club: <a href="http://www.rosalindsolomon.com/">Rosalind Solomon</a>'s <a href="http://www.artbook.com/3882438770.html"><cite>Chapalingas</cite></a> and <a href="http://en.wikipedia.org/wiki/Gary_Stochl">Gary Stochl</a>'s <a href="http://www.americanplaces.org/CAPgallery/gary/garyindex.html"><cite>On City Streets.</cite></a> I've had to wait for <a href="http://www.guspowell.com/">Gus Powell</a>'s <a href="http://www.guspowell.com/gp_books_strangers.htm"><cite>The Company of Strangers,</cite></a> though Powell's website and his <a href="http://www.in-public.com/GusPowell">gallery on in-public.com</a> provide a lot of material for "casual reading" of his work.
 
+
+<!--more-->
 <cite>Chapalingas</cite> has been a difficult book for me to approach, starting with its size &#151; seven pounds, 460+ oversized pages. Enough material for a number of smaller books, and to a degree I feel that <a href="http://alecsoth.com/blog/2006/09/26/bowing-to-the-elders-especially-friedlander/">what Alec Soth blogged recently</a> &#151; that a gallery show, even a great one, may become just a blur when there are more than about sixty images &#151; applies similarly to books. <cite>Chapalingas</cite> is so sprawling that it <i>requires</i> repeated return viewing, at some pace of the viewer that's seperate from the book's own sequence of pages. Perhaps Solomon realized this in her arrangements of photos: chapters connected loosely by themes like "Holds: Grasps, Ties, Clutches, Grips, Bars" or "Heads: Hats, Hair, Hoods" that can be more easily consumed as mini-books by themselves.
 
 Solomon is clearly a product of her interactions as a student of Lisette Model, and like other Model prodigies (most famously Dianne Arbus), she has set herself that classic task that is so simple, yet so infuriatingly and breaktakingly difficult: "I wanted to take portraits of people that showed them as real human beings, no matter where they were or what their background was."
@@ -29,7 +35,8 @@ The newest entry at 2point8 is <a href="http://2point8.whileseated.org/?p=84">th
 
 Also in my bookstack is a non-photography book, <a href="http://old.siggraph.org/publications/seminal-graphics.shtml"><cite>Seminal Graphics,</cite></a> a collection of older graphics-research papers including "An Image Sythesizer" by <a href="http://en.wikipedia.org/wiki/Ken_Perlin">Ken Perlin.</a> That's a no-flash Ken on the left, alongside our mutual buddy <a href="http://brainwagon.org/">Mark V.</a>
 
-<img alt="P1010543.jpg" src="http://www.botzilla.com/blog/pix2006/P1010543.jpg" width="807" height="454" border="0" />
 
-<!--more-->
+
+![P1010543.jpg]({{ 'http://www.botzilla.com/blog/pix2006/P1010543.jpg' | absolute_url }})
+
 

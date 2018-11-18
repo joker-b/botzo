@@ -1,12 +1,18 @@
 ---
 layout: post
 title: "Sepia Blues"
-categories: [GearHead,GrayScale,Leicasonic,fStop]
+categories: [fStop]
+tags: [Lumix]
 ---
-<img src="http://www.botzilla.com/blog/pix2008/SepiaWai.jpg" alt="Sepia Image + 3 component channels" title="Sepia Image + 3 component channels" width="807" height="355" border="0" />
+
+
+![Sepia Image + 3 component channels]({{ 'http://www.botzilla.com/blog/pix2008/SepiaWai.jpg' | absolute_url }})
+
 
 <a href="/blog/archives/000504.html">Almost two years ago</a> I wrote an entry about in-camera sepia, wondering if in fact a sepia transofrmation could provide a photo with more tonalities than a tyical 8-bit black and white.
 
+
+<!--more-->
 At the time, I assumed that the crucial yes or no part of that answer would involve the B&W conversion -- if it was done before the sepia rotation of the color space, or after -- that is, if the # of B&W values was fixed to 256 and <i>then</i> rotated, or if it was in a higher precision RAW format, rotated, and then quantized to eight bit. In the latter case, you'd have more tones.
 
 I was half right, and it was the poor half. Looking closely at LX2 sepia images like the one above, it's become clear that the B&W is converted and quantized first. And the part I was wrong about I didn't expect -- that the LX2 creates sepia images not through a matrix transform in RGB color space, but simply by adding a color to the B&W image. The color appears to be (+30R,-18G,-38B). That is, raise red, and drop green and blue, by a simple addition.
@@ -24,6 +30,4 @@ At least for web use, this is suggesting to me the following work approach for h
 &bull; with this in mind, set the camera to a low-contrast image, to compact as much of the original RAW range into the 8-bit jpeg, and then feel free to beat on it using levels and curves later on -- knowing that even if precision is lost per-pixel, a lot of it will be made up in the size reduction step.
 
 I'll report on some results soon.
-
-<!--more-->
 

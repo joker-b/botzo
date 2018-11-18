@@ -3,7 +3,10 @@ layout: post
 title: "Headlights"
 categories: [fStop]
 ---
-<img src="http://www.botzilla.com/bpix/headlights.jpg" width=807 height=129 border=0 title="San Francisco, 2004">
+
+
+![San Francisco, 2004]({{ 'http://www.botzilla.com/bpix/headlights.jpg' | absolute_url }})
+
 
 I've been using strobe more and more. Outdoors in daylight especially.
 
@@ -12,6 +15,3 @@ Looking at <a href="http://www.brianfinke.com/">Briank Finke's</a> website (than
 Not just in color, either -- strobe is clear in Diane Arbus, Bruce Gilden, and Jeff Mermelstein.... strobe is like no other light. You <i>can</i> make it look "natural," sure. Should you?
 
 A collision of "what I saw" and "what I made" is at the heart of its charm, no doubt.
-
-<!--more-->
-

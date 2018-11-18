@@ -2,8 +2,12 @@
 layout: post
 title: "The Fine Print"
 categories: [fStop]
+tags: [Analog,Canon,Contax,Fujifilm]
 ---
-<img src="/pix2005/fineprint.jpg" width=807 height=807 border=0 title="(C) 2005">
+
+
+![(C) 2005]({{ 'http://www.botzilla.com/pix2005/fineprint.jpg' | absolute_url }})
+
 
 It's always in the details. This weekend finds me printing and reprinting comparison pix, looking at differences between methods: between digital and medium format film cameras, and between different ways to print their results.
 

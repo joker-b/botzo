@@ -11,11 +11,27 @@ EXPORT_DIR = os.path.join(os.environ['HOME'],'botzilla-zip')
 MT_SRC = os.path.join(EXPORT_DIR, 'mt-exported-june2018.txt')
 
 class Jeklr:
+	tagTest = False
+	useAutoTags = True
+	autoTags = { # tags plus potential regexes
+		'Fujifilm' : ['Fuji','X100','X-?Pro','Acros\b','Neopan'],
+		'Canon' : ['Canon','5D','1D','Rebel','F-?1','AE-?1', 'Cantax','EOS'],
+		'Contax' : ['Contax', 'Cantax'],
+		'Leica' : ['Leica', 'Leitz', 'HEGR', 'D-?Lux'],
+		'Lumix' : ['Panasonic', 'Lumix', 'LX-?\d', 'P1\d+.jpg'],
+		'Books' : ['ibrary', '\b[bB]ooks?\b'],
+		'3D' : ['NVIDIA', 'nvidia', 'GPU', 'Direct-?X', 'Open\s?GL','e.orce', 'Pixar', 'Trion', 'Square', 'Final Fantasy', 'shader', 'Maya'],
+		'Analog' : ['arkroom', 'ektol', 'gfa', 'odinal', 'TMax', 'Tri-?X', 'eopan', 'Xtol', 'Ilford', 'Kodak'],
+		'Digital': ['hromebook','GPU','hader','\b[VAX]R\b', 'Facebook', 'Google', 'Instagram', '\bPDA\b']
+	}
+	cAutoT = {}
 	def __init__(self, Sourcefilename=MT_SRC):
 		self.src = Sourcefilename
 		self.content = {}
 		self.init_keys()
 		self.blank()
+		for t in self.autoTags:
+			self.cAutoT[t] = [re.compile(p) for p in self.autoTags[t]]
 
 	def init_keys(self):
 		self.pat = {}
@@ -41,6 +57,21 @@ class Jeklr:
 		self.pat['break'] = re.compile('^--------$')
 		self.pat['empty'] = re.compile('^\s*$')
 
+	def autotag(self,text):
+		n = 0
+		for t in self.cAutoT:
+			# print(t)
+			if self.content['tags'].get(t):
+				print('skip')
+				continue
+			for p in self.cAutoT[t]:
+				if p.search(text):
+					self.content['tags'][t] = True
+					n = n + 1
+					break
+		#if n > 1:
+		#	print("found %d tags: (%s) in <%s>"%(n,','.join(self.content['tags']),self.name))
+
 	def blank(self):
 		'we reset these for each post'
 		self.year = 0
@@ -57,6 +88,7 @@ class Jeklr:
 		self.content['KEYWORDS'] = ''
 		self.content['category'] = ''
 		self.content['categories'] = []
+		self.content['tags'] = {}
 		self.accumulate = ''
 
 	def post_name(self):
@@ -69,30 +101,89 @@ class Jeklr:
 		p = '(?P<prior>.*)<img(\\s+('+\
 			'src="(?P<src>[^"]*)"|'+\
 			'title="(?P<title>[^"]*)"|'+\
+			'alt="(?P<alt>[^"]*)"|'+\
+			'align="(?P<align>[^"]*)"|'+\
+			'width="?(?P<width>\d+)"?|'+\
+			'height="?(?P<height>\d+)"?|'+\
+			'hspace="?(?P<hspace>\d+)"?|'+\
+			'vspace="?(?P<vspace>\d+)"?|'+\
+			'border="?(?P<border>\d+)"?|'+\
 			'class="(?P<class>[^"]*)"'+\
-			'))+(?P<tail>[^>]*)>(?P<post>.*)'
+			')'+\
+			')+(?P<tail>[^>]*)>(?P<post>.*)'
 		imgPat = re.compile(p)
-		m = imgPat.match(text)
+		text = re.sub('<!--\s.*\s-->','',text)
+		q = text
+		m = imgPat.search(text)
+		ps = 1
 		while m:
+			if ps > 1:
+				print("%d: text '%s'\nbecame\n'%s'"%(ps,q,text))
+				if ps>8:
+					break
+			if m.group('src') is None:
+				print("woah, empty image source")
+				break
 			url = m.group('src')
-			m = imgPat.match(text)
+			extra = ' | absolute_url' if re.search('http',url) else ''
+			# print("%s -> {%s}"%(url,extra))
+			text = ''
+			if m.group('prior') is not None:
+				text = text + m.group('prior') + '\n'
+			text = text + '\n!'
+			if m.group('title') is not None:
+				text = text+'['+m.group('title')+']'
+			elif m.group('alt') is not None:
+				text = text+'['+m.group('alt')+']'
+			else:
+				text = text + '['+self.name+']'
+			if m.group('align') is None:
+				text = text + "({{ '%s'%s }})"%(url,extra)
+			elif m.group('align') == 'right':
+				text = text + "({{ '%s'%s }}){: .align-right}"%(url,extra)
+			elif m.group('align') == 'left':
+				text = text + "({{ '%s'%s }}){: .align-left}"%(url,extra)
+			elif m.group('align') == 'center':
+				text = text + "({{ '%s'%s }}){: .align-center}"%(url,extra)
+			else:
+				print("align was <%s>?"%(m.group('align')))
+			if m.group('post') is not None:
+				text = text + '\n' + m.group('post')
+			text = text+'\n'
+			# if re.match('Fran',text):
+			# 	print(text)
+			# 	exit()
+			ps = ps + 1
+			m = imgPat.search(text)
 		return text
 
 	def write_post(self):
 		if self.content['BODY'] == '':
 			print("empty post, none written")
 			return
+		# prepare text formattng and tagging
+		b = self.content['BODY']
+		if re.sub('\s+','',self.content['EXTENDED BODY']) != '':
+			b = b+ '\n<!--more-->\n' + self.content['EXTENDED BODY']
+		if self.convert:
+			b = self.kramdown(b)
+		self.autotag(b)
+		# now we can write
 		destFolder = '_posts' if self.publish else '_drafts'
 		postPath = os.path.join(destFolder,self.post_name())
 		f = open(postPath,'w')
 		f.write('---\n')
 		f.write('layout: post\n')
 		f.write('title: "%s"\n'%(self.name))
-		tryTags = True
-		if tryTags:
+		if self.tagTest:
 			f.write('categories: [%s]\n'%(self.content['category']))
 			if len(self.content['categories']) > 0:
 				f.write('tags: [%s]\n'%(','.join(self.content['categories'])))
+		elif self.useAutoTags:
+			cat = self.content['category'] if self.content['category'] != '' else 'general'
+			f.write('categories: [%s]\n'%(cat))
+			if len(self.content['tags']) > 0:
+				f.write('tags: [%s]\n'%(','.join(list(self.content['tags'].keys()))))
 		else:
 			if len(self.content['categories']) < 2:
 				f.write('categories: [%s]\n'%(self.content['category']))
@@ -100,11 +191,6 @@ class Jeklr:
 				'to-do: slice out primary category FIRST'
 				f.write('categories: [%s]\n'%(','.join(self.content['categories'])))
 		f.write('---\n')
-		b = self.content['BODY']
-		if self.content['EXTENDED BODY'] != '':
-			b = b+ '\n<!--more-->\n' + self.content['EXTENDED BODY']
-		if self.convert:
-			b = self.kramdown(b)
 		f.write(b)
 		f.close()
 
@@ -122,12 +208,14 @@ class Jeklr:
 		b = re.sub('\x96',"&mdash;",b)
 		b = re.sub('\x97'," ",b)
 		b = re.sub('"/bpix','"http://www.botzilla.com/bpix',b)
+		b = re.sub('"/pix20','"http://www.botzilla.com/pix20',b)
 		try:
 			b = b.encode('utf8')
 		except:
 			# print("Woah, '%s'"%(b))
-			print("Unexpected error in %s:"%(self.name), sys.exc_info())
-		return b
+			if self.publish:
+				print("Unexpected error in %s:"%(self.name), sys.exc_info())
+		return b if not self.convert else self.kramdown(b)
 
 	def extract_posts(self):
 		self.blank()
@@ -158,7 +246,7 @@ class Jeklr:
 				continue
 			m = self.pat['convert'].match(ln)
 			if m:
-				self.convert = m.groups()[0] == '__default__'
+				self.convert = 'default' in m.groups()[0]
 				continue
 			m = self.pat['pings'].match(ln)
 			if m:

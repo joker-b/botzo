@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Who Watches the Watchmakers?"
-categories: [GrayScale,The Open Conspiracy]
+categories: [The Open Conspiracy]
+tags: [Lumix]
 ---
-<img alt="P1040773.jpg" src="http://www.botzilla.com/blog/pix2009/P1040773.jpg" width="807" height="454" border="0" />
+
+
+![P1040773.jpg]({{ 'http://www.botzilla.com/blog/pix2009/P1040773.jpg' | absolute_url }})
+
 
 It strikes me that designers themselves provide ample evidence that "Intelligent Design" is a fundamentally flawed idea.
 

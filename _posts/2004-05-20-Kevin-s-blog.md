@@ -3,7 +3,10 @@ layout: post
 title: "Kevin's blog"
 categories: [PhotoRant]
 ---
-<img src="http://www.botzilla.com/bpix/an_a.jpg" width=807 height=248 border=0 title="(C) 2004 K Bjorke">
+
+
+![(C) 2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/an_a.jpg' | absolute_url }})
+
 
 Coupla days ago I was pointed at <a href="http://www.photogs.com/bwworld/xtol1.html" target="_blank">this old link on B&W World,</a> in which Mason Resnick writes his recollections of a 1970's class with Garry Winogrand. A key lesson: "He told us that the most successful art is almost on the verge of failure." Not that anyone was asking me, but I couldn't agree more.
 

@@ -2,13 +2,14 @@
 layout: post
 title: "ChartThrob: A Tool for Printing Digital Negatives"
 categories: [GearHead]
+tags: [Digital]
 ---
 <div>
 	<p><img title="ChartThrob (C)2006 K Bjorke" src="http://www.botzilla.com/blog/pix2007/CT107.jpg" width="50%" height="50%" border="0" class="pull-right img-responsive"  hspace="12" vspace="7" />A few months back at a <a href="http://www.pacificartleague.org/members/phig/phig.html">PHIG</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process for making <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a> I figured this could be automated, so: I automated it, and made a program called <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside Adobe Photoshop. I let a few folks on <a href="http://www.apug.org/">APUG</a> and now <a href="http://www.hybridphoto.com/">HybridPhoto</a> try it out, and after a few unexpected glitches (who knew Photoshop could have fractional pixels?), it was ready for public, free-for-everyone <s>ab</s>use.</p>
 
 	<p class="lead"><strong><em>ChartThrob</em></strong> is a a JSX-format javascript for <a href="http://www.adobe.com/">Adobe Photoshop.</a> It works with all versions of Photoshop since Photoshop CS2. It works for both Windows and Mac versions of Photoshop. Since 2006 thousands of photgraphers have used ChartThrob to make terrific prints. It's used in college photo curricula and can even be used to optimize picture quality in self-published photo books through services like Blurb and Lulu. And: It's free.</p>
 
-	<p></p<strong>ChartThrob</strong> creates profiles for <strong>your</strong> process, for <strong>your</strong> printer, and lets you create consistently-beautiful digital negatives from <strong>your</strong> pictures &#151; every single time.</em></p>
+	<p><strong>ChartThrob</strong> creates profiles for <strong>your</strong> process, for <strong>your</strong> printer, and lets you create consistently-beautiful digital negatives from <strong>your</strong> pictures &#151; every single time.</em></p>
 </div>
 
 
@@ -57,11 +58,11 @@ categories: [GearHead]
 
 <p>From any Photoshop session, you can start-up <em>ChartThrob</em> by selecting "File&#8212;>Scripts&#8212;>ChartThrob."</p>
 
-<p><center><img alt="ctCreate106.jpg" src="http://www.botzilla.com/blog/pix2006/ctCreate106.jpg" class="img-responsive" border="0" vspace=6 hspace=10  /></center></p>
+<img alt="ctCreate106.jpg" src="http://www.botzilla.com/blog/pix2006/ctCreate106.jpg" class="img-responsive" border="0"  />
 
 <p>If you have no documents open and call <em>ChartThrob,</em> you should see a dialog box similar to the one above (if you have documents open, the dialog will be more complex, but will still contain this info) (The illustrations in this doc page show both Windows and Mac examples). Pressing <strong>"Help"</strong> will provide you with step-by-step instructions, or pressing <strong>"Build New Chart Now"</strong> will do exactly that &#151; it will create a new document and start filling it with profiling information. Photoshop draws very quickly, but this will typically take several seconds &#151; especially if you have the 'Numbers' option checked. The result will look like the picture below (with or without the numeric labels).</p>
 
-<p><center><img alt="ChartThrobTemp.jpg" vspace=6 hspace=10 src="http://www.botzilla.com/blog/pix2006/ChartThrobTemp.jpg" class="img-responsive" border="0"/></center></p>
+<img alt="ChartThrobTemp.jpg" src="http://www.botzilla.com/blog/pix2006/ChartThrobTemp.jpg" class="img-responsive" border="0"/>
 
 <p>This is a <em>positive</em> chart &#151; that is, you'll either have to invert it when you print it to a negative, or before (depending on your printer). The text at the bottom reads: <strong>"THIS IS A POSITIVE IMAGE WITH DARK TEXT ON WHITE."</strong> Keep that in mind, because <em>ChartThrob</em> creates and analyzes <em>positive</em> images.</p>
 
@@ -81,15 +82,15 @@ categories: [GearHead]
 
 <p>Back in Photoshop with yur scan, crop the scan back to the boundaries of the chart, and you'll have something perhaps like the image here. </p>
 
-<p><center><img alt="ChartThrobScan.jpg" vspace=6 hspace=10 src="http://www.botzilla.com/blog/pix2006/ChartThrobScan.jpg" class="img-responsive" border="0" /></center></p>
+<img alt="ChartThrobScan.jpg" src="http://www.botzilla.com/blog/pix2006/ChartThrobScan.jpg" class="img-responsive" border="0" />
 
 <h4>Analyze</h4>
 
 <p>With this new scanned print loaded, call <em>ChartThrob</em> again. The dialog box will still let you create a new chart if you want one, but now it also contains options for analysing a scanned printed chart.</p>
 
-<p><img alt="ctScanDialog.gif" vspace=6 hspace=10 src="http://www.botzilla.com/blog/archives/ctScanDialog.gif" class="img-responsive pull-left" border="0" />If we hit <strong>&lt;return&gt;</strong> or press <strong>"Analyze,"</strong> that's exactly what <em>ChartThrob</em> will do: analyze the scanned chart, adjusting for paper tone and process color and evaluating every patch. When done, it will display a brief report telling you everything's okay, and will add a new curves layer to your scanned chart document, called "Print Curve."</p>
+<p><img alt="ctScanDialog.gif" src="http://www.botzilla.com/blog/archives/ctScanDialog.gif" class="img-responsive pull-left" border="0" />If we hit <strong>&lt;return&gt;</strong> or press <strong>"Analyze,"</strong> that's exactly what <em>ChartThrob</em> will do: analyze the scanned chart, adjusting for paper tone and process color and evaluating every patch. When done, it will display a brief report telling you everything's okay, and will add a new curves layer to your scanned chart document, called "Print Curve."</p>
 
-<p><img alt="ctCurve.gif" vspace=6 hspace=10 src="http://www.botzilla.com/blog/pix2006/ctCurve.gif" class="img-responsive pull-right" border="0" align="right" />If we double-click the "Print Curve" in the Photoshop layers palette to view the resultant curve, it would look like the one shown here (we're just showing the curve rather than the whole dialog, to save web-page space).</p>
+<p><img alt="ctCurve.gif" src="http://www.botzilla.com/blog/pix2006/ctCurve.gif" class="img-responsive pull-right" border="0" align="right" />If we double-click the "Print Curve" in the Photoshop layers palette to view the resultant curve, it would look like the one shown here (we're just showing the curve rather than the whole dialog, to save web-page space).</p>
 
 <p>The new curve layer is hidden, because the curve isn't meant for adjusting the scan itself &#151; instead, it's for adjusting <em>other</em> B&W images so that they can be printed using the same process that you used to create the scan.</p>
 
@@ -99,7 +100,7 @@ categories: [GearHead]
 
 <p>You can apply the curve to other images either by saving & loading it as a Photoshop .csv file, or just drag the curves layer from the layers palette onto another picture if it's opened in Photoshop.</p>
 
-<center><img alt="IMG_7240-180x120-trio.jpg" src="http://www.botzilla.com/blog/pix2006/IMG_7240-180x120-trio.jpg" class="img-responsive" border="0" /></center>
+<img alt="IMG_7240-180x120-trio.jpg" src="http://www.botzilla.com/blog/pix2006/IMG_7240-180x120-trio.jpg" class="img-responsive" border="0" />
 
 <p>With the curve applied, the original image may look dull and washed out on the monitor, but those tones are what's needed to hit the darkest blacks and whitest whites that the particular printing process can handle &#151;  at least the tones that were in the printed chart. If the chart is strongly over or under exposed, <em>ChartThrob</em> will still make a curve, though it will tell you if the midtones seem to be strongly skewed.<p>
 
@@ -150,7 +151,7 @@ categories: [GearHead]
    <dd>You can use Photoshop's 'Image Size' command for now. I'm considering adding more print-size options, though they will make the dialog box more complicated.</dd>
 
 <dt>Should I be setting stuff up using "Relative Colormetric" in the print dialog? What color space should I use?</dt>
-   <dd>It doesn't really matter what your print settings are, as long as they are always the same each time you make a printing negative. In general, try to avoid anything in your printing or scanning processes described as "automatic," since such functions may be changing stuff behind your back &#151; and be sure that your scan is in the same color space (particularly w.r.t. gamma) as the B&W images you plan to print.<br />&nbsp;<br />Be sure that your scan covers the full print range from darkest to lightest within the <em>straight-line portion</em> of the scan. Some scanners will "roll-off" the shadows and/or highlights. This sort of compression of the original print values will give <em>ChartThrob</em> a distorted input.<br /><center><img alt="ChartScan-WrongRight.jpg" src="http://www.botzilla.com/blog/pix2006/ChartScan-WrongRight.jpg" class="img-responsive" border="0" vspace=6 /><br /><em><small>You want the <strong>full range</strong> when scanning. These dialogs from EpsonScan&#8482;<br />show that the Automatic exposure of a printed ChartThrob chart<br />distorts the grayscale values. Instead, <strong>manually</strong> set the max and min pointers <br />to beyond the brightest and darkest vales, &amp; <strong>set the gamma to 1.00.</strong><br />Note that the entire grayscale will thus be linear: the "shoulder" &amp; "toe" buttons will be ignored.<br />&nbsp;</small></em></center></dd>
+   <dd>It doesn't really matter what your print settings are, as long as they are always the same each time you make a printing negative. In general, try to avoid anything in your printing or scanning processes described as "automatic," since such functions may be changing stuff behind your back &#151; and be sure that your scan is in the same color space (particularly w.r.t. gamma) as the B&W images you plan to print.<br />&nbsp;<br />Be sure that your scan covers the full print range from darkest to lightest within the <em>straight-line portion</em> of the scan. Some scanners will "roll-off" the shadows and/or highlights. This sort of compression of the original print values will give <em>ChartThrob</em> a distorted input.<br /><img alt="ChartScan-WrongRight.jpg" src="http://www.botzilla.com/blog/pix2006/ChartScan-WrongRight.jpg" class="img-responsive" border="0" /><br /><em><small>You want the <strong>full range</strong> when scanning. These dialogs from EpsonScan&#8482;<br />show that the Automatic exposure of a printed ChartThrob chart<br />distorts the grayscale values. Instead, <strong>manually</strong> set the max and min pointers <br />to beyond the brightest and darkest vales, &amp; <strong>set the gamma to 1.00.</strong><br />Note that the entire grayscale will thus be linear: the "shoulder" &amp; "toe" buttons will be ignored.<br />&nbsp;</small></em></dd>
 
 <dt>I have a fax scanner and the quality is not so great. I'm losing light (or dark) tones in the printed chart! I can see them, but my scanner can't</dt>
 <dd>Either get a better scanner, borrow a better scanner, or try creating a "camera scan" &#151; take a glare-free, evenly-lit photo of the printed chart using a good-quality digital camera &#151; this may also be a solution for printing materials where the dark tones are more reflective than the light tones, thus "fooling" the scanner and not scanning well.</dd>

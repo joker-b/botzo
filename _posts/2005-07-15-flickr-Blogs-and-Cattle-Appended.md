@@ -3,7 +3,10 @@ layout: post
 title: "flickr, Blogs, and Cattle (Appended)"
 categories: [Wire Service]
 ---
-<img src="/pix2005/cattle.jpg" width=807 height=265 border=0 title="(C)2005 K Bjorke">
+
+
+![(C)2005 K Bjorke]({{ 'http://www.botzilla.com/pix2005/cattle.jpg' | absolute_url }})
+
 
 While the flow of published entries on photorant has been slow for the past few weeks, there's still been some writing going on &#151; writing that has stayed in draft form until either the ideas shape up or I have the time to beat the shape into them. This is one of a couple of rambles that arc tangentially off group discussions from <a href="http://www.flickr.com/" target="_blank">flickr.</a>
 
@@ -28,7 +31,7 @@ Yet even as users spend more time posting more material, they are reducing their
 
 Now this is old territory for regular photorant readers &#151; the armchair analysis of web-value economics has been mentioned in posts like <a href="/blog/archives/000375.html">this one.</a> But if we accept an analysis in "tragedy" terms, is it possible that solutions to the problems it creates might likewise be similar? Because many solutions to the "tragedy" problem exist.
 
-An obvious solution is to restrict access. In the specific case of flickr, groups can be invite-only or may otherwise restrict membership &#151; and a group may not accept posts (or even sometimes be viewed) without such <i>a priori</i> vetting. This method tries to improve the signal-to-noise ration through elitism &#151; decried as snobbery by some but applauded as forward-thinking protection of long-term communal interest by others. Such restrictions can likewise be created among blogs via blogrings and other associations; or simply through obscurity, e.g. such under-populated but content-richer flickr groups like <a href=http://www.flickr.com/groups/stagedportraiture/" target="_blank">staged portratiture</a> or <a href="http://www.flickr.com/groups/selfdrawings/" target="_blank">painted self-portraits.</a> In such groups the barriers to conceptual entry are high enough to stave-off casual abusers.
+An obvious solution is to restrict access. In the specific case of flickr, groups can be invite-only or may otherwise restrict membership &#151; and a group may not accept posts (or even sometimes be viewed) without such <i>a priori</i> vetting. This method tries to improve the signal-to-noise ration through elitism &#151; decried as snobbery by some but applauded as forward-thinking protection of long-term communal interest by others. Such restrictions can likewise be created among blogs via blogrings and other associations; or simply through obscurity, e.g. such under-populated but content-richer flickr groups like <a href="http://www.flickr.com/groups/stagedportraiture/" target="_blank">staged portratiture</a> or <a href="http://www.flickr.com/groups/selfdrawings/" target="_blank">painted self-portraits.</a> In such groups the barriers to conceptual entry are high enough to stave-off casual abusers.
 
 Rules can be instituted, either informally (as on flickr groups whose admins may ask members not to post more than, say, three or four images a day) or formally (as on contaxg, where the software can actually enforce such a restriction). Exclusionary tactics work to a degree, but they do flow against the "something for everyone" promise of the web and the "personal publishing revolution" we keep hearing about.
 

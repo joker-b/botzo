@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Natural Colors Part 2"
-categories: [GrayScale,PhotoRant]
+categories: [PhotoRant]
+tags: [Leica,Analog]
 ---
-<img src="/pix2005/nats2.jpg" width=807 height=477 border=0>
+
+
+![Natural Colors Part 2]({{ 'http://www.botzilla.com/pix2005/nats2.jpg' | absolute_url }})
+
 
 While I was typing <a href="/blog/archives/000390.html">Pt I</a> (without even thinking that it would become Pt I), part of the paradox vexing me was there on the desk, staring intently from the cover of the January <a href="http://www.pdnonline.com/"><cite>PDN</cite></a> in the form of Jude Law, shot in classicly-crisp B&W by <a href="www.davidbaileyphotography.com/">David Bailey,</a> with the tag: "The Legends Issue." So here we have Jude Law, promoting <cite>Alfie</cite> and dressed-up in 60's Saville Row. Knockout pic, but &#151; part of The Problem of B&W Nostalgia, right?
 
@@ -28,7 +32,7 @@ In the same magazine rack beneath the <cite>PDN</cite> were a few recent issues 
 
 The new self-portrait issue (87) is no exception, including not only <a href="http://pdngallery.com/gallery/pdns30/2005/index.htm">PDN's 30</a> winner (for color!) <a href="http://www.cigharvey.com/">Cig Harvey</a> but innovative B&W champs like <a href="http://www.arnorafaelminkkinen.org/">Arno Rafael Minkkinen</a> (if you can, check out Arno's <a href="http://www.pbs.org/wnet/egg/index.html">Egg</a> episode, too).
 
-(and on the subject of the PDN 30, I was remiss not to post links to the three B&W portfolios: <a href="http://www.dbanderson.com/">Dave Anderson</a> (also interviewed in <cite>Shots 85</cite>), journalist <a href=" http://www.casperdalhoff.com">Casper Dalhoff</a> and editorial shooter <a href=" http://www.matthewpillsbury.com">Matthew Pillsbury</a>)
+(and on the subject of the PDN 30, I was remiss not to post links to the three B&W portfolios: <a href="http://www.dbanderson.com/">Dave Anderson</a> (also interviewed in <cite>Shots 85</cite>), journalist <a href="http://www.casperdalhoff.com">Casper Dalhoff</a> and editorial shooter <a href="http://www.matthewpillsbury.com">Matthew Pillsbury</a>)
 
 The toy-cam and "Antiquarian Avant-Garde" revival movements (often falling into nostalgic traps, but not universally) sometimes show up in <cite>Shots</cite> too: an older issue interviewed <a href="http://www.eyecaramba.com">Gordon Stettinus</a> and of course who can forget the "new dags" crowd, most-famously <a href="http://www.newdags.com/jerry.html">Jerry Spagnoli,</a> who was working hard at alternative process long <a href="http://www.iphotocentral.com/news/issue_view.php/24/26">before</a> his famous 9/11 photo (and its impressive auction price).
 

@@ -2,8 +2,12 @@
 layout: post
 title: "The Picture"
 categories: [fStop]
+tags: [Analog]
 ---
-<img src="http://www.botzilla.com/bpix/thePicture.jpg" align="center" width=807 height=538 border=0 title="(C)2004 K Bjorke">
+
+
+![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/thePicture.jpg' | absolute_url }}){: .align-center}
+
 
 <i>Six rolls Tri-X, Rodinal 1+50 13 minutes.</i>
 

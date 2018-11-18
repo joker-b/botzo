@@ -3,10 +3,16 @@ layout: post
 title: "Is Photography Inherently Humanizing? (II)"
 categories: [PhotoRant]
 ---
-<img src="/blog/pix2007/Aug03r-08.jpg" align="right" title="Closed railway gate into North Korea, (C)2003 K Bjorke" hspace=12 vspace=6 ><b>Part 2</b> (<a href="http://www.botzilla.com/blog/archives/000565.html">Part I here</a>)
+
+
+![Closed railway gate into North Korea, 2003]({{ '/blog/pix2007/Aug03r-08.jpg' }}){: .align-right}
+
+<b>Part 2</b> (<a href="http://www.botzilla.com/blog/archives/000565.html">Part I here</a>)
 
 <a href="http://en.wikipedia.org/wiki/Marc_Hauser">Marc Hauser</a> is a professor at Harvard's Deptartment of Cognitive Evolution (a fully different person from <a href="http://www.modamag.com/marc.htm">photographer Marc Hauser</a>), and his recent book <cite>Moral Minds</cite> is chock full of <a href="http://moral.wjh.harvard.edu/">morality tests.</a> These tests take the form of little thought experiments, similar to those math "word problems" of trains leaving Chicago and Philadelpha at the same time at such-and-such a speed. Unlike the meeting of two fixed-speed trains, however, these problems don't have fixed answers &#151; rather, they are presented as a means for the person taking the test to shine some light into the internal nature of their own moral sense.
 
+
+<!--more-->
 <blockquote><i>Standing on a footbridge spanning the railroad tracks, Frank sees an empty, out-of-control boxcar about to hit five people. Frank's leg is stuck in the railing, but next to Frank is one person who he can push, causing the one person to fall off the footbridge and onto the main track where he will be hit by the boxcar. The boxcar will slow down because of the one person, therefore preventing the five from being hit....</i></blockquote>
 
 The accumulated responses to these questions about fictional Franks, Roberts, Donnas and so forth, answered repeatedly by many different people with widely varying backgrounds, have come to reveal certain broad truths held in common by people everywhere &#151; that is, a common core of human moral response.
@@ -56,6 +62,4 @@ As Hauser has said, he doesn't advocate any specific moral, polical, religious, 
 When we see another person, even in a photograph, we feel a connection to them. Hauser's work hints at deep reasons why this is so. When photography's power is used to incite not horror but compassion, that power is at its zenith, and most-capable of expanding our moral circle. It does not seem capable of doing otherwise.
 
 (Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
-
-<!--more-->
 

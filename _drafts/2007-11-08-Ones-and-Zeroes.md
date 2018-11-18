@@ -14,6 +14,3 @@ Little content, much hand-wringing
 Blogercon -- "linking up the tree" -- but then who is the root?
 2004-11-08 01:38:46
 
-
-<!--more-->
-

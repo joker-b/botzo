@@ -3,7 +3,10 @@ layout: post
 title: "Gratitude"
 categories: [fStop]
 ---
-<img src="http://www.botzilla.com/blog/pix2005/899_9992.jpg" width="256" height="384" border="0" align="right" vspace=6 hspace=8 /><a href="http://www.lulu.com/content/102432">Phil Perkis writes</a> of photography:
+
+
+![Gratitude]({{ 'http://www.botzilla.com/blog/pix2005/899_9992.jpg' | absolute_url }}){: .align-right}
+<a href="http://www.lulu.com/content/102432">Phil Perkis writes</a> of photography:
 
 <blockquote><i>To experience the meaning of what is. To stay with it for even a few seconds is no small task. The sound of voice without language, a musical line, a ceramic vessel, a non-objective painting. The presence of it, the weight of it, the miracle of its existence, of my existence. The mystery of the fact itself.</i></blockquote>
 
@@ -14,6 +17,3 @@ And <a href="http://www.43folders.com/">Merlin</a> found this comment from <a hr
 It often seems to me that photography is a daily form of <a href="http://lifeliftcoach.com/content/view/15/32/">gratitude.</a>
 
 Thank you.
-
-<!--more-->
-

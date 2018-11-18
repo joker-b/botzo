@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Cantax Part 2"
-categories: [Canon,Contax,GearHead]
+categories: [GearHead]
+tags: [Canon,Contax]
 ---
-<img src="/pix2005/cantax2.jpg" class="img-responsive"  border=0>
+
+
+![Cantax Part 2]({{ 'http://www.botzilla.com/pix2005/cantax2.jpg' | absolute_url }})
+
 
 A few months ago I wrapped up my Digital Rebel/300D <a href="/blog/archives/000292.html">"Cantax"</a> in black gaffer tape. At first it was just a few pieces of tape on the large curved surfaces, then more, then pretty much everywhere that I could fit it that wouldn't cause operational trouble. Why so much tape? Is it useful, or just some dopey affectation (declared another shooter: "it's so, like, <i>ghetto</i>")?
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Third Before Brannan"
-categories: [GrayScale,fStop]
+categories: [GrayScale]
 ---
-<img alt="bjorke_PICS1742.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1742.jpg" class="img-responsive" border="0" />
 
 
-<!--more-->
+![bjorke_PICS1742.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1742.jpg' | absolute_url }})
+
 

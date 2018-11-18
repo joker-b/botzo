@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Worst Places to Drive"
-categories: []
+categories: [general]
 ---
-
-
-<!--more-->
 

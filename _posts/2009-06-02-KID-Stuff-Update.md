@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "KID Stuff Update"
-categories: [GearHead,GearHead,GrayScale,Nuke Em from Orbit]
+categories: [GearHead]
 ---
-<img alt="P1040847 copy.jpg" src="http://www.botzilla.com/blog/pix2009/P1040847 copy.jpg" width="807" height="454" border="0" />
+
+
+![P1040847 copy.jpg]({{ 'http://www.botzilla.com/blog/pix2009/P1040847 copy.jpg' | absolute_url }})
+
 
 Sadly, the <a href="http://botzilla.sourceforge.net/">Botzilla Name has been hijacked</a> -- <a href="http://botzilla.free.fr/">repeatedly</a> -- so the name I'm using for <a href="http://www.botzilla.com/blog/archives/000692.html">this little project</a> is <b>KID</b> (botzilla): <b>K</b>evin's <b>I</b>llmatic <b>D</b>istraction. Or idiotic. Or intrepid. Or infantile. Indescribable. idk.
 

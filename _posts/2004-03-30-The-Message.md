@@ -3,11 +3,16 @@ layout: post
 title: "The Message"
 categories: [PhotoRant]
 ---
-<a href="/photo/journal/artista.html"><img src="http://www.botzilla.com/bpix/artista.jpg" width=400 height=267 border=0 hspace=8 vspace=6 align="right" title="Unapologetic (C) 2004 K. Bjorke"></a>Emese asks: <a title="Is photoblogging good for photography?" href="http://www.sciencemeetsart.com/emese/blog/archives/000492.html" target="linkframe">"Is photoblogging good for photography?"</a> Though it's not clear if she means <i>her</i> photography or the general world of all photography (or more likely, some particular slice of it, like advertising photography).
 
-Here on PhotoRant, <a href="http://www.unicircuits.com/" rel="acquaintance">Dirk</a> asks: <a href="/blog/archives/000270.html" target="linkframe">Is the chef with three Michelin stars getting upset about people cooking their daily meals?</a>
 
-These two questions are facets of the same stone and at the heart of why photorant exists. Joerg over at Conscientious writes about a similar trend in this short <a href="http://www.jmcolberg.com/weblog/archives/000857.html">essay on digital photography</a> (and he mentions a trend toward <a href="http://www.mono211.com/h0liday/" target="linkframe"> digital toy camera photography</a> &#151; though I'm not sure what to make of it. Does it really make you a more free photographer, or is it, like "lomography," simply a different brand of equipment fetish?)
+![Unapologetic (C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/artista.jpg' | absolute_url }}){: .align-right}
+Emese asks: <a title="Is photoblogging good for photography?" href="http://www.sciencemeetsart.com/emese/blog/archives/000492.html">"Is photoblogging good for photography?"</a> Though it's not clear if she means <i>her</i> photography or the general world of all photography (or more likely, some particular slice of it, like advertising photography).
+
+Here on PhotoRant, <a href="http://www.unicircuits.com/" rel="acquaintance">Dirk</a> asks: <a href="/blog/archives/000270.html">Is the chef with three Michelin stars getting upset about people cooking their daily meals?</a>
+
+
+<!--more-->
+These two questions are facets of the same stone and at the heart of why photorant exists. Joerg over at Conscientious writes about a similar trend in this short <a href="http://www.jmcolberg.com/weblog/archives/000857.html">essay on digital photography</a> (and he mentions a trend toward <a href="http://www.mono211.com/h0liday/"> digital toy camera photography</a> &#151; though I'm not sure what to make of it. Does it really make you a more free photographer, or is it, like "lomography," simply a different brand of equipment fetish?)
 
 All of the links above are filled with pertinent, and timely, crosslinks. Perhaps it's their timeliness that bothers me most. Why must the opinions of some random BBC reporter be considered heavier, than, say, those of the Victorian John Ruskin: <i>"If colour does not give you intense pleasure, let it alone; depend upon it, you are only tormenting the eyes and sense of people who feel colour, whenever you touch it; and that is unkind and improper."</i> Just because yor new digicam can stamp out "automatically balanced" color doesn't make its results superior to those from any other process. The recent Beeb report proclaiming digital superiority for all, given its provenance and short life, should surely be considered capricious noise until proven otherwise. Yet I've seen it posted and crossposted everywhere over recent weeks, even on <a href="http://www.apug.org/">APUG.</a>
 
@@ -24,6 +29,4 @@ I love quotes, especially when I can quote myself, from a forum post earlier tod
 <i>Some years ago I heard or read the comment "every great photograph is about a relationship." That relationship can occur within the frame or back and forth between the image and the viewer, the photographer and the subject.</i>
 
 The simple photoblog challenge, then &#151; to engage those relationships with as much passion and force as so many newly-minted digicam users put into the flowers in the backyards and the stripes on their neighborhood pavement. To squeeze in a little quality among the quantity.
-
-<!--more-->
 

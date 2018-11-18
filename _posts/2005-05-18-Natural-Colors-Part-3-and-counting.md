@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Natural Colors Part 3 (and counting)"
-categories: [GrayScale,PhotoRant]
+categories: [PhotoRant]
+tags: [Leica,Analog]
 ---
-<img src="/pix2005/nat3.jpg" border=0 width=807 height=807>
+
+
+![Natural Colors Part 3 (and counting)]({{ 'http://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }})
+
 
 <i>Two rolls of TXP 220, Xtol 1+1.</i>
 

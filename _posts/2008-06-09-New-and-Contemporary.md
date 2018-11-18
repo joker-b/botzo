@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "New and Contemporary"
-categories: [GrayScale,Library,PhotoRant,Wire Service]
+categories: [GrayScale]
+tags: [Lumix]
 ---
-<img alt="P1000352.jpg" src="http://www.botzilla.com/blog/pix2008/P1000352.jpg" width="807" height="454" border="0" />
+
+
+![P1000352.jpg]({{ 'http://www.botzilla.com/blog/pix2008/P1000352.jpg' | absolute_url }})
+
 
 There is little that can lead you to treasure good photography than to look at a lot of bad photography, interspersed with an occasional gem. Which is exactly what I was doing a few weeks ago on (where else?) flickr, where I was editing group pools.
 

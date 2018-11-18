@@ -2,8 +2,12 @@
 layout: post
 title: "Take Pictures"
 categories: [PhotoRant]
+tags: [Books,Analog]
 ---
-<img src="/pix2005/take.jpg" width=807 height=398 border=0 title="(C)2005">
+
+
+![(C)2005]({{ 'http://www.botzilla.com/pix2005/take.jpg' | absolute_url }})
+
 
 Two strong recommendations today for excellent but almost unknown photoblogs:
 

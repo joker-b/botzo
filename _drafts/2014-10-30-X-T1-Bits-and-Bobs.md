@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "X-T1: Bits and Bobs"
-categories: [Contax,Fujifilm,GearHead]
+categories: [GearHead]
 ---
 Yes.
 
@@ -15,7 +15,4 @@ Lens choice
 
 Instax
 Batteries
-
-
-<!--more-->
 

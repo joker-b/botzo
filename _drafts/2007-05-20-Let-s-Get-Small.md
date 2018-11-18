@@ -2,6 +2,7 @@
 layout: post
 title: "Let's Get Small"
 categories: [Nuke Em from Orbit]
+tags: [3D,Digital]
 ---
 <i>(A few years ago, I wrote a number of internal documents for <a href="http://www.squaresoft.com/" target="_blank">Square,</a> describing important aspects of digital imaging and production for the crew of <a href="http://www.imdb.com/title/tt0173840/" target="_blank"><u>Final Fantasy: The Spirits Within</u></a> and the <a href="http://www.intothematrix.com/" target="_blank"><u>Animatrix.</u></a> After Square closed their Hawaii production operations, those documents disappeared &#151; for fun, I'll be revisiting the ideas from some of them. Wish I could find the originals...)</i>
 

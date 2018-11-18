@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Fastest Thumb in the West"
-categories: [Contax,GearHead]
+categories: [GearHead]
+tags: [Leica,Canon,Contax,Digital]
 ---
-<img src="/pix2005/thumb.jpg" class="img-responsive"  border=0 title="Contax G2 the RIGHT way">
+
+
+![Contax G2 the RIGHT way]({{ 'http://www.botzilla.com/pix2005/thumb.jpg' | absolute_url }})
+
 
 AF, MF, VF, SAF.
 
@@ -46,7 +50,10 @@ In the first example, the focus is on the ceiling in the back. That's what you g
 
 If instead you ride the AF lock, you would focus on the face to one side, lock the focus in place, and re-compose. In other words, <i>exactly the same sequence that you'd follow using the RF patch in a Leica.</i>
 
-<img src="/pix2005/thumb2.jpg" class="img-responsive"  border=0 title="Lock then re-compose -- just like Leica">
+
+
+![Lock then re-compose -- just like Leica]({{ 'http://www.botzilla.com/pix2005/thumb2.jpg' | absolute_url }})
+
 
 Of course, there are a few differences:
 

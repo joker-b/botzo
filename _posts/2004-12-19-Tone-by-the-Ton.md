@@ -3,7 +3,10 @@ layout: post
 title: "Tone by the Ton"
 categories: [fStop]
 ---
-<img src="/pix2004/tones.jpg" width=807 height=857 border=0 title="(C) 2004">
+
+
+![(C) 2004]({{ 'http://www.botzilla.com/pix2004/tones.jpg' | absolute_url }})
+
 
 In preparation for the holidays I've been printing. It started with a few small prints, then I selected some wintery shots for printing at 12"x18", to be on the walls during the holidays and an upcoming holiday party. Then opened the cabinet to find some old prints, and.. at least five shopping trips for frames later, I'm still left with far more prints than frames, and even then more frames than wall space on which to hang them.
 

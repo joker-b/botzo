@@ -1,0 +1,110 @@
+---
+layout: post
+title: "HTML5 Canvas vs Moveable Type"
+categories: [Nuke Em from Orbit]
+tags: [Digital]
+---
+<script type="text/javascript">
+
+
+var mX = 0;
+var mY = 0;
+var gSpreed = 2;
+var gScroll = 0;
+
+var sino = function(V,W,H)
+{
+	var f = 0.8*Math.sin(V/W);
+	var hh = H/2.0;
+	var y = hh + hh*f;
+	return y;
+}
+
+function next_loc(X,Scroll,W,H,Freq,Scale)
+{
+	var y = sino(Freq*(Scroll+X),W,H);
+	var dx = (X-mX)/Scale;
+	var dy = (y-mY)/Scale;
+	var s = dx*dx+dy*dy;
+	var n = Math.sqrt(s);
+	dx /= n;
+	dy /= n;
+	var x = X+dx/s;
+	y = y+dy/s;
+	return new Array(x,y);
+}
+
+gFreqs = new Array(19,20,17,50,3,10,18,19.1);
+gScales = new Array(340,100,80,250,50,102,44,400);
+gColors = new Array();
+gScroll = new Array();
+gSpeeds = new Array();
+
+function r255() { return Math.floor(Math.random()*255); }
+function r255q() { return Math.floor(Math.random()*Math.random()*255); } // cauchy
+
+function setup_colors() {
+	var nc;
+	for (var i=0; i<gFreqs.length; i++) {
+		nc = "rgba("+r255q()+","+r255q()+","+r255q()+",0.5)";
+		gColors.push(nc);
+		gScroll.push(0.0);
+		gSpeeds.push(1.0+Math.random()*2.0);
+	}
+}
+
+function draw_c1() {
+	var cv = document.getElementById('c1');
+	if (cv.getContext) {
+		var w = cv.width; // 500.0;
+		var h = cv.height; // 300.0;
+		var ctx = cv.getContext('2d');
+		// ctx.fillStyle = "rgb(90,10,0);";
+		ctx.fillStyle = "rgba(240,240,240,0.95);";
+		ctx.fillRect(0,0,w,h);
+		if (gColors.length < 1) { setup_colors(); }
+		var i;
+		for (i=0; i<gFreqs.length; i++) {
+			// ctx.strokeStyle = "rgba(255,255,190,.5);";
+			ctx.strokeStyle = gColors[i];
+			ctx.lineWidth=(1.0+(399.0/gScales[i]));
+			ctx.beginPath();
+			var a = next_loc(0,gScroll[i],w,h,gFreqs[i],gScales[i]);
+			ctx.moveTo(a[0],a[1]);
+			for (var x=1; x<w; x+=2) {
+				a = next_loc(x,gScroll[i],w,h,gFreqs[i],gScales[i]);
+				ctx.lineTo(a[0],a[1]);
+			}
+			ctx.stroke();
+		        gScroll[i] += gSpeeds[i];
+		}
+	}
+}
+
+// add to page init list
+gRActions.push(function() {
+   draw_c1();
+   $("#c1").mousemove(function(e) {
+	    mX = e.pageX-this.offsetLeft;
+	    mY = e.pageY-this.offsetTop;
+	    //$('#mousy').html(mX+'/'+mY);
+   });
+   setInterval(draw_c1,30);
+});
+
+</script>
+<canvas id="c1" width=800 height=250></canvas>
+
+<P>With a little fiddling it's easy enough to use <tt>&lt;CANVAS&gt;</tt> (and <a HREF="http://jquery.com/" TARGET="new">jquery</a>) in tandem with Botzilla's somewhat elderly (and modified) installation of <a href="http://www.movabletype.org/" target="new">Moveable Type.</a></P>
+
+<P>Minor tricks:<UL>
+<LI>Remember to suppress Text Formatting -- no automatic <tt>&lt;P&gt;</tt> tags</LI>
+<LI>Between different blog entries, don't reuse variable names, or element names, if you think you might ever need to have multiple canvases on the same page (say, in index or search pages). You will disappear into the fourth circle of scoping hell.</lI>
+<LI>Likewise, if you think that multiple canvases per page is a real possibility, then put each canvas's prep and render code into a distinct function, so that you can move your <tt>onload()</tt> or <tt>$(document.ready()</tt> functions into the header template, not the body of the entry itself. In the header, declare an initially-empty array of functions, and have your <tt>ready()</tt> function iterate through them. <BR />Then in each scripted entry, add your entry-specific render function(s) to that array. This way, the <tt>ready()</tt> function can just know what's needing to be set up for the specific page, regardless of which entries are being displayed and the # of visible canvases (A perusal of the initial state of this entry will show that I don't always follow my own advice. But adding that feature to Botzilla is one of my next steps). Be sure to put that array and calling function into <I>all</I> of your index and entry templates!</LI>
+<LI>Linked sites like Facebook won't show <tt>&lt;Canvas&gt;</tt> or other animating elements, so if you want a good thumbnail, try adding a hidden image like so: <tt>&lt;IMG SRC="/photo/journal//may03e-15.jpg" STYLE="display: none;" /&gt;</tt></LI>
+<LI>MT's preview page doesn't have all this extra js etc built-in. I suppose you can add it, and I probably will over time --  but as a quick workaround, to get a preview, I save my entry, press "Publish," then immediately look at the front index page -- if there's anything wrong, immediately change the entry state back to "Draft" and save again. This will remove the entry from the front page and the RSS feed, but: the "permalink" actual page file (in this case, "/blog/archives/000738.html") will still be there on the server! Download it and debug locally, then transport your changes back into MT. A bit of a shuffle but it's a workflow that <i>can</i> get you from points A to B.</LI>
+<LI>Beware trying to test-post to Facebook, changing the contents of the blog entry (even for typos) and trying to post it to FB again -- FB caches everything the first time, so... if you want a change that will appear there, you need to make a new copy of your entire post, publish <i>that,</i> and hide the old one (how do I know this?).</LI>
+<LI>Google+ is smart enough to recognize the difference between javascript blocks and actual human-readable body text. <i>Facebook is not,</i> and may just insert blocks of random code onto any FB link you create pointing to your entry. Maybe they will learn.</LI>
+</UL></P>
+
+<IMG SRC="/photo/journal//may03e-15.jpg" STYLE="display: none;" />

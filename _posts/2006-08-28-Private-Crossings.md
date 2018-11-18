@@ -1,14 +1,19 @@
 ---
 layout: post
 title: "Private Crossings"
-categories: [GrayScale,Library,PhotoRant]
+categories: [GrayScale]
 ---
-<img alt="jul06d-01c.jpg" src="http://www.botzilla.com/blog/pix2006/jul06d-01c.jpg" width="807" height="219" border="0" />
+
+
+![jul06d-01c.jpg]({{ 'http://www.botzilla.com/blog/pix2006/jul06d-01c.jpg' | absolute_url }})
+
 
 Just before Siggraph I ran across an imported, ad-free, all-black-and-white magazine that hadn't been in my local store before: <a href="http://www.privatephotoreview.com/"><i>PRIVATE.</i></a> Issue #33 bears what I consider to be an rather classic-looking (almost clich&eacute;d) image for its "East Europe" issue: a <a href="http://www.georgegeorgiou.net/">George Georgiou</a> cover <a href="http://www.georgegeorgiou.net/serbia/georgegeorgioupo.html">shot</a> of Serbian workers in front of a heavy, rust-era-looking pipeline &#151; a bit grainy, contrasty, and one assumes that other than a slight shift in the fashions of their coats, these fellows coud have been working on the same heavy-industry line in 1980 or 1950 or 1930.
 
 On this surface we can see reflected a great difficulty in the "timeless" character of black and white &#151; its very timelessness reveals its disconnection from immediate reality. For example, the image above could have been made twenty years ago, or yesterday &#151;  only subtle clues can let you determine which.
 
+
+<!--more-->
 A notion regularly nagging at me over the past couple of years has been the non-mirroring aspects of photography. When Winogrand said he wanted to know how things looked when photographed, he was hinting at the truth that what a photograph reveals is not a reflection of reality but a reality from some other universe well-beyond Alice's Looking Glass, one with physical laws and causalities all its own.
 
 Just this past week I  read a quote (I think it was Harry Callahan?) describing the photographs he made as "messages from another world."
@@ -40,6 +45,4 @@ I suspect that a part of this bias comes from a sense that color is too direct, 
 <b>Postscript:</b> The cover images (and some of the others) don't just look like the sorts of shots one came to expect from Eastern Europe just after the collapse of the USSR &#151; in fact they <i>are,</i> quite often, dated from that period.
 
 <a href="http://politicstheoryphotography.blogspot.com/2006/08/private-33.html">Jim Johnson's "(notes)" blog has also found the same issue of PRIVATE</a> in his local shop. I consider it a good sign that he also likes it, but for rather different reasons &#151; enough in there for many people to find value. My guess is that <i>PRIVATE</i> has found a new US distributor, and hopefully we'll keep seeing it around.
-
-<!--more-->
 

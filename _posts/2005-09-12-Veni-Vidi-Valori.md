@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Veni, Vidi, Valori"
-categories: [Library,PhotoRant]
+categories: [PhotoRant]
 ---
-<img src="/pix2005/vvalor.jpg" width=807 height=380 border=0 title="Randomly seen on my bookshelf this afternoon">
+
+
+![Randomly seen on my bookshelf this afternoon]({{ 'http://www.botzilla.com/pix2005/vvalor.jpg' | absolute_url }})
+
 
 The word of the day (well, Sunday) is "valorize,"  rarely-seen in America these days and which I encountered twice in the same morning's reading, in two different (non-American, ahem) texts on related issues, each written some forty years apart.
 

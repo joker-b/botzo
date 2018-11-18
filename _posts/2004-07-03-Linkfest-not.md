@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Linkfest... not"
-categories: [ProtoRant]
+categories: [PhotoRant]
 ---
-<a href="/photo/journal/Oops_0082.html"><img src="http://www.botzilla.com/bpix/Oops_0082.jpg" width=200 height=200 hspace=8 vspace=6 align="right" title="Fake lomo, Helsinki (C)2002 Kevin Bjorke. Yeah, I know it's too sharp" border=0></a>I spent a good chunk of today letting search engines search. I was looking for blog sites that seemed interesting to me, and sad to say there was a lot more searching than finding.
+
+
+![Fake lomo, Helsinki (C)2002 Kevin Bjorke. Yeah, I know it's too sharp]({{ 'http://www.botzilla.com/bpix/Oops_0082.jpg' | absolute_url }}){: .align-right}
+I spent a good chunk of today letting search engines search. I was looking for blog sites that seemed interesting to me, and sad to say there was a lot more searching than finding.
 
 Lots of typical sites &#151; meg upon meg of toycam and pencam and pincam photos, lots of grinning heads, brightly-colored market stalls, pigeons and rainy windowsills. But little &#151; very little &#151; of work and thought that seemed as if someone had worked or thought very hard.
 
@@ -15,11 +18,8 @@ If it floats your boat, great. But among those 780 photos are the three amazing 
 
 That's a lot of googling.
 
-Remember <i>The Treasure of Sierra Madre,</i> the explanation that gold's value lies not in its inherent qualities but in the <a href="http://www.whysanity.net/monos/treasure.html" target="linkframe">thousands of wasted hours</a> spent looking for each tiny nugget?
+Remember <i>The Treasure of Sierra Madre,</i> the explanation that gold's value lies not in its inherent qualities but in the <a href="http://www.whysanity.net/monos/treasure.html">thousands of wasted hours</a> spent looking for each tiny nugget?
 
 There are some glimmers of hope &#151; I found a few sites worth blogrolling, a few veins that might be worth tapping. I'm not entirely discouraged yet.
 
 If anyone knows of <i>any</i> 3D computer animation sites, let me know.
-
-<!--more-->
-

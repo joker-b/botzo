@@ -2,8 +2,12 @@
 layout: post
 title: "So Many Pixels"
 categories: [Nuke Em from Orbit]
+tags: [3D,Digital]
 ---
-<img src="http://www.botzilla.com/bpix/manyPixel.jpg" width=807 height=135 title="FX Composer image - VBOMB">
+
+
+![FX Composer image - VBOMB]({{ 'http://www.botzilla.com/bpix/manyPixel.jpg' | absolute_url }})
+
 
 It's time again for... <a href="http://www.siggraph.org/s2004/" target="sig">Siggraph!</a> This year Siggraph is in L.A., just a short 50-minute commuter flight from SJC.
 
@@ -14,6 +18,3 @@ On Monday, Wednesday, and Thursday, I'll be lecturing in a sponsored session: <a
 In a related note I'll be proctoring <a href="http://www.siggraph.org/s2004/conference/exhibitor/index.php?pageID=conference" target="sig">Microsoft's HLSL Shader Workshops,</a> which occur from Monday through Thursday &#151; not really the lecturer this time, I'll just stand alongside the door with a spear, raise it and shout "Hail, Mighty Caesar!" at the appropriate moments, or prod students along when they have difficulties.
 
 This year I'm bringing along a pedometer. If it's anything like last year, I'll be running up those daily 10,000 steps before lunch time all week.
-
-<!--more-->
-

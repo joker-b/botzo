@@ -2,8 +2,12 @@
 layout: post
 title: "Negativity"
 categories: [fStop]
+tags: [Canon,Contax,Analog]
 ---
-<img src="/pix2004/negativity.jpg" width=807 height=207 border=0 title="(C) 2004 K. Bjorke">
+
+
+![(C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/pix2004/negativity.jpg' | absolute_url }})
+
 
 <i>Four rolls of Tri-X, two rolls of Pan-F</i>
 

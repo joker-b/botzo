@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Natural Colors"
-categories: [GrayScale,PhotoRant]
+categories: [PhotoRant]
+tags: [Leica,Analog]
 ---
-<img src="/pix2005/natural.jpg" width=807 height=463 border=0 title="San Francisco, 2005">
+
+
+![San Francisco, 2005]({{ 'http://www.botzilla.com/pix2005/natural.jpg' | absolute_url }})
+
 
 <i>Three rolls HP5+, Xtol 1+1</i>
 

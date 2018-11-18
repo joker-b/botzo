@@ -3,7 +3,10 @@ layout: post
 title: "Photography Made Difficult"
 categories: [PhotoRant]
 ---
-<img src="/pix2005/difficult.jpg" width=807 height=538 border=0 title="Santa Clara 2005">
+
+
+![Santa Clara 2005]({{ 'http://www.botzilla.com/pix2005/difficult.jpg' | absolute_url }})
+
 
 Jealousy, it's pure and simple jealousy.
 

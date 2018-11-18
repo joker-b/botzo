@@ -3,7 +3,10 @@ layout: post
 title: "Making Tracks"
 categories: [fStop]
 ---
-<img src="/pix2004/tracks.jpg" width=807 height=832 border=0 title="(C)2004 K Bjorke">
+
+
+![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/pix2004/tracks.jpg' | absolute_url }})
+
 
 Saturday morning will see me off again, this time to Sweden &#151; followed by a zigzagging journey to Copenhagen via Oslo, a day of meetings in Copenhagen, then back to SFO at dinner time via London with a <i>fourteen hour</i> layover at LHR. Total travel time there and back: five days, including the 40 hours or so of flying and the infamous long night-time layover. Almost half of the time in airplanes and airports, heh.
 

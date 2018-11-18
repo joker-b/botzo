@@ -3,12 +3,17 @@ layout: post
 title: "Is Photography Inherently Humanizing? (I)"
 categories: [PhotoRant]
 ---
-<img alt="IMG_0354.psd" src="http://www.botzilla.com/blog/pix2007/IMG_0354.jpg" width="267" height="400" border="0" align="right" vspace=6 hspace=8 ><b>Part 1</b>
+
+
+![IMG_0354.psd]({{ 'http://www.botzilla.com/blog/pix2007/IMG_0354.jpg' | absolute_url }}){: .align-right}
+<b>Part 1</b>
 
 One of the most difficult aspects surrounding the practice of war photography (and other "socially concerned" photography, as exemplified by, say, Salgado's gold miner photos) is that almost universally, the stated aim of photgraphers who pursue that vocation is that they desire an end to war &#151; a specific war, or all wars. As has been pointed out my a number of detractors, most prominently Susan Sontag, there's little evidence to show that photography has done much of anything to stop wars.
 
 The 2007 <a href="http://www.worldpressphoto.com/">World Press Photo</a> awards have been in announced in the past couple of days, and it's no surprise that the dominant award winners &#151; especially in "singles" &#151; are of combat and its aftermath. The World Press Photo of the Year itself is one: Spencer Platt's celebrated shot of a group of well-heeled and comopolitan young Lebanese cruising through post-airstrike destruction in their red convertible, one of them sourly fiddling with her celphone camera.
 
+
+<!--more-->
 It's a disturbing image for its collapsing effect &#151; this clutch of handsome consumers, viewing firsthand the sorts of things that consumers should expect not in their surroundings but on TV, <i>in pictures.</i> One young woman guards her nose with a cloth and a disdainful look. And they themselves seem torn from a BMW ad, as if somehow the evening news has mistakenly intruded into the commercial time.
 
 It's a picture about looking. These people are looking at the destruction, and a bystander, apparently part of the bombed neighborhood, likewise looks at them &#151; and of course <i>we</i> are looking at all of them through the borrowed eye of the photographer. It's also a photo about connections &#151; no less than three celphones are in use in this shot.
@@ -32,6 +37,4 @@ I don't think the story is inherently partisan, <i>&aacute; la</i> Fox. Rather, 
 And that's a story whose foundations are chipped at by Platt's photo. 
 
 (<a href="http://www.botzilla.com/blog/archives/000570.html">Part II here,</a> Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
-
-<!--more-->
 

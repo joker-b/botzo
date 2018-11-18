@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "The Monster"
-categories: [Canon,GearHead]
+categories: [GearHead]
+tags: [Contax,Analog]
 ---
-<img src="http://www.botzilla.com/bpix/monster.jpg" width=807 height=190 border=0 title="12mm, Subaru">
+
+
+![12mm, Subaru]({{ 'http://www.botzilla.com/bpix/monster.jpg' | absolute_url }})
+
 
 ...has arrived, the big "popeye" <a href="http://www.sigmaphoto.com/html/zoom_intro.htm" target="_blank">Sigma 12-24mm zoom.</a> It's a full-frame 35mm lens, though on my digi its range is 19-38mm. Ran a bunch of shots through it right away, anxious about reports that some copies were soft in the corners. Not this one! It performed well for every aperture, with a minimum of barrel distortion too.
 

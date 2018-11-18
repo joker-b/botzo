@@ -2,9 +2,10 @@
 layout: post
 title: "Local Improvements"
 categories: [fStop]
+tags: [Lumix]
 ---
-<img alt="P1150216.jpg" src="http://www.botzilla.com/blog/archives/2014/P1150216.jpg" width="807" height="454" border="0" />
 
 
-<!--more-->
+![P1150216.jpg]({{ 'http://www.botzilla.com/blog/archives/2014/P1150216.jpg' | absolute_url }})
+
 

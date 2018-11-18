@@ -1,12 +1,19 @@
 ---
 layout: post
 title: "Reversals"
-categories: [Unfinished, In Progress]
+categories: [PhotoRant]
+tags: [Lumix]
 ---
-<img src="/blog/pix2012/bjorke_P1130581.jpg" width=394 height=700 align="right" hspace=8>This morning I decided to go for a bike ride. Dragged out a map, looked at some of my favorite recent destinations for riding that were at about what I felt was an appropriate distance for the amount of time I had; then drew a circle roughly around my location to fit their range. I noticed that they all tended to cluster to the north and west, to Palo Alto, Los Altos, and the hills near them.
+
+
+![Reversals]({{ '/blog/pix2012/bjorke_P1130581.jpg' }}){: .align-right}
+
+This morning I decided to go for a bike ride. Dragged out a map, looked at some of my favorite recent destinations for riding that were at about what I felt was an appropriate distance for the amount of time I had; then drew a circle roughly around my location to fit their range. I noticed that they all tended to cluster to the north and west, to Palo Alto, Los Altos, and the hills near them.
 
 There's an old photographer's maxim: if the view is interesting in a particular direction, there's a good chance that the view will be interesting in the opposite direction, too. This is one of those little guidelines that encourage the thing I most like about the process of photography, and that I like most about cycling: <i>it demands that you pay attention.</i>
 
+
+<!--more-->
 So I chose <a href="http://www.endomondo.com/workouts/lDaOUxVS4gM">a different route,</a> and a path less traveled, which has made all the difference.
 
 The photograph at right was made along a path that I hesitated before -- gravel, long, no easy turning back. Little sign of popularity, not even a guarantee that I'd not get to the far side and reach some impasse that would send me back the way I'd come.
@@ -23,6 +30,4 @@ During this I'd seen only three other people, though I was within sight of the h
 
 Five minutes more and I was in traffic, negotiating my way over highway 237, dodging pickup trucks and VTA trains. It was all good riding, but only one part of it touched the sky.
 
-
-<!--more-->
 

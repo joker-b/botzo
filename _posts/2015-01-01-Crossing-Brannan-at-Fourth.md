@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Crossing Brannan at Fourth"
-categories: [GrayScale,fStop]
+categories: [GrayScale]
 ---
-<img alt="bjorke_PIC22295.jpg" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC22295.jpg" class="img-responsive" border="0" />
 
 
-<!--more-->
+![bjorke_PIC22295.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC22295.jpg' | absolute_url }})
+
 

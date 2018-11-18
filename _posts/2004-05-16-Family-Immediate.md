@@ -2,8 +2,12 @@
 layout: post
 title: "Family, Immediate"
 categories: [fStop]
+tags: [Canon]
 ---
-<img src="http://www.botzilla.com/bpix/famImm.jpg" width=807 height=538 border=0 title="(C)2004 K Bjorke">
+
+
+![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/famImm.jpg' | absolute_url }})
+
 
 <i>Many, many snaps. Many CDs + duplicates.</i>
 
@@ -14,6 +18,3 @@ The bright sunlight compelled me to use strobe for fill quite a bit &#151; Canon
 Robert Adams, paraphrasing D.H. Lawrence, said that there is no sensual experience stronger than one in which we feel we are experiencing the truth. I often suspect the opposite is really the case &#151; that our personal sensual experiences are satisfying because they are as True as we can possibly perceive them. Editing can destroy as well as enhance. In these hundreds of photos, cycling as a slideshow on my laptop, it seems so clear to me that the strongest ones are those where I just charged in and made the shot, without concern for formalities like graphic impact or interesting composition, nor worries about making sure everyone was looking forward or smiling. They are direct and impulsive, an impulse fueled by love of subject.
 
 This morning before we went out for the day I found my dad at my desk, watching the cycling random slideshow of photos made just a handful of hours before. I saw him smile gently when a photo of my mom appeared. I'll take that as one of my favorite reviews, ever.
-
-<!--more-->
-

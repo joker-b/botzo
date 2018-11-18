@@ -2,8 +2,12 @@
 layout: post
 title: "Dog Apples"
 categories: [PhotoRant]
+tags: [3D,Canon,Digital]
 ---
-<img alt="bjorke_P1110968cr.jpg" src="http://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg" width="807" height="442" border="0" />
+
+
+![bjorke_P1110968cr.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg' | absolute_url }})
+
 
 <a href="http://www.paulgrahamarchive.com/writings_by.html">Paul Graham</a> was kind enough not to name the unthinking reviewer who he says doesn't "get" photography -- which is odd, because you'd think he'd want to protect others from the potentially-insulting opinions he cites in <a href="http://www.artinfo.com/news/story/33711/beyond-a-snapshot/">this one-paragraph Jeff Wall book blurb by Carnelia Garcia</a> in ArtInfo's February <a href="http://www.artinfo.com/artandauction/f">ART+AUCTION</a> (Garcia claims to be a museum "PR Associate" according to her LinkedIn profile -- I won't speculate further).
 
@@ -28,8 +32,7 @@ In some quarters, such consumption is believed to be an <a href="http://en.wikip
 
 (A poor man's acquisition method -- <i>mea culpa</i> -- is to exert control via critique, heh)
 
-(& I'll ignore the $1.5M paid for a <a href=" 
-http://translate.google.com/translate?hl=en&sl=ru&tl=en&u=http%3A%2F%2Flenta.ru%2Fnews%2F2010%2F01%2F18%2Fphoto%2F">snap by Russian politician</a> as revealing more about the Russian art market than about photographic standards.)
+(& I'll ignore the $1.5M paid for a <a href="http://translate.google.com/translate?hl=en&sl=ru&tl=en&u=http%3A%2F%2Flenta.ru%2Fnews%2F2010%2F01%2F18%2Fphoto%2F">snap by Russian politician</a> as revealing more about the Russian art market than about photographic standards.)
 
 To the dismay of the usual photo website crowd, conspicuous consumption of this sort does not include consumption of camera gear, elaborate chemical formulas, new versions of Adobe Lightroom, aspect ratios, or even long-winded arguments about the "truth" of a photo, because "truth" -- like moral convictions and even beauty -- are ultimately <i>utility</i> functions of a picture, and the stronger the force of the image, separate from its market value, well... the more that market value may decline.
 

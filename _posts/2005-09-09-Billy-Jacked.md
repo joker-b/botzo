@@ -2,8 +2,12 @@
 layout: post
 title: "Billy Jacked"
 categories: [fStop]
+tags: [Analog]
 ---
-<img src="/pix2005/jacked.jpg" width=807 height=166 border=0 title="Mortenson-style testing">
+
+
+![Mortenson-style testing]({{ 'http://www.botzilla.com/pix2005/jacked.jpg' | absolute_url }})
+
 
 A couple of years or so back I was browsing at a San Francisco bookstore and came across a book called "Projection Control" by <a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=005fZU" target="_blank">William Mortensen</a> whom I had previously known only as an antagonist to the old f/64 group back in the 1930's. His pictures seemed oddly modern however, so I read further and found that he was an advocate of what we might think of as a ridiculous method. He developed his film not for minutes but for <i>hours.</i>
 
@@ -20,4 +24,7 @@ The strip above shows the frames at one-stop intevals around "normal" (marked wi
 
 Does it look unusual, different from "normal" agitated development? Yeah, take a look: the local exhaustion effects, to my eyes, look a wee bit like stepping on the "unsharp mask" a little too hard. I like it.
 
-<center><a href="http://www.flickr.com/photos/bjorke/41284993/" title="Flickr Page"><img src="http://static.flickr.com/33/41284993_095f70247a_o.jpg" width="769" height="1024" border=0 alt="Minus one" /></a></center>
+<a href="http://www.flickr.com/photos/bjorke/41284993/" title="Flickr Page">
+
+![Minus one]({{ 'http://static.flickr.com/33/41284993_095f70247a_o.jpg' | absolute_url }})
+</a>

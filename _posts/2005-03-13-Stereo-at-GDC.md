@@ -2,10 +2,14 @@
 layout: post
 title: "Stereo at GDC"
 categories: [Nuke Em from Orbit]
+tags: [3D]
 ---
-<img src="/pix2005/st_gdc.jpg" width=807 height=272 border=0>
 
-GDC 2005 was in San Francisco this year, and it was the first GDC where we were able to get a good showing, out on the Expo floor, of the NVIDIA Stereo Driver. This came with the advent of two great display partners: the <a href="http://www.dep3d.com/">dep3d rear-projection display</a> that you can see clearly here, and (where the knot of people behind the Dep3D are looking) a <a href=" http://www.planar.com/Advantages/Innovation/docs/ds-planar-stereo-mirror.pdf">Planar SD1300 stereo display.</a>
+
+![Stereo at GDC]({{ 'http://www.botzilla.com/pix2005/st_gdc.jpg' | absolute_url }})
+
+
+GDC 2005 was in San Francisco this year, and it was the first GDC where we were able to get a good showing, out on the Expo floor, of the NVIDIA Stereo Driver. This came with the advent of two great display partners: the <a href="http://www.dep3d.com/">dep3d rear-projection display</a> that you can see clearly here, and (where the knot of people behind the Dep3D are looking) a <a href="http://www.planar.com/Advantages/Innovation/docs/ds-planar-stereo-mirror.pdf">Planar SD1300 stereo display.</a>
 
 <!--more-->
 Both of these displays allow large-screen stereo, in color, with simple passive polarized glasses. The glasses are even comfortable. The Planar display is smaller, a desktop-sized device composed of two precision LCD monitors and a half-silvered mirror.

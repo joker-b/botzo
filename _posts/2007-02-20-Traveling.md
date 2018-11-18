@@ -2,10 +2,11 @@
 layout: post
 title: "Traveling"
 categories: [fStop]
+tags: [Lumix]
 ---
-<img title="Julia's demonstration" src="http://www.botzilla.com/blog/pix2007/P1060403.jpg" width="807" height="454" border="0" />
+
+
+![Julia's demonstration]({{ 'http://www.botzilla.com/blog/pix2007/P1060403.jpg' | absolute_url }})
+
 
 I will return some time on Thursday or so.
-
-<!--more-->
-

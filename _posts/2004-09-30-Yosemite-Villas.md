@@ -3,7 +3,10 @@ layout: post
 title: "Yosemite Villas"
 categories: [Wire Service]
 ---
-<img src="/pix2004/Yosemite.jpg" width=807 height=229 border=0 title="Shanghai (C)2004 K. Bjorke">
+
+
+![Shanghai (C)2004 K. Bjorke]({{ 'http://www.botzilla.com/pix2004/Yosemite.jpg' | absolute_url }})
+
 
 <i>"Ladies and Gentlemen, please welcome to an area of turbulence"</i> announced the hostess, just a few seconds <i>after</i> the Air China 777 had lurched and shuddered, prompting gasps and exclamations from around the plane. Enroute from Shanghai to Beijing, sitting next to a 40-something woman in ocelot-patterned tights, her eyes closed as she was lost in the synthpop from her MP3 player, the hostess's sentiment seemed perfectly apt.
 

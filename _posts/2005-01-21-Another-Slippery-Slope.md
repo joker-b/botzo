@@ -2,8 +2,12 @@
 layout: post
 title: "Another Slippery Slope"
 categories: [fStop]
+tags: [Analog,Fujifilm]
 ---
-<img src="/pix2005/slippery.jpg" width=807 height=535 border=0 title="Mpls, 2004">
+
+
+![Mpls, 2004]({{ 'http://www.botzilla.com/pix2005/slippery.jpg' | absolute_url }})
+
 
 <i>Six rolls of 35mm Tri-X, Xtol 1+1.</i>
 

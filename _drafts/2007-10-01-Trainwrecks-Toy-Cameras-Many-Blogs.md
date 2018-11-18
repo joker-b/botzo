@@ -8,6 +8,3 @@ categories: [PhotoRant]
 <a href="http://wardomatic.blogspot.com/2004/12/polar-express-virtual-train-wreck_18.html">Polar Express: Virtual Train Wreck</a>
 
 (almost a year old)
-
-<!--more-->
-

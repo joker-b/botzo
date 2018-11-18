@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "More on Presentations, GDC, PDF, PPT"
-categories: [Nuke Em from Orbit,Wire Service]
+categories: [Nuke Em from Orbit]
+tags: [3D]
 ---
 Garr's <a href="http://presentationzen.blogs.com/presentationzen/2006/04/slideuments_and.html">recent post on slideuments</a> got me thinking about my current Powerpoint method.
 
@@ -18,6 +19,3 @@ If a conference administration wants slides well in advance for printed conferen
 Rehearsal is key. In the documentary <cite>Comedian,</cite> I love how Jerry Seinfeld is rehearsing standup-routine lines all day, chattering them at people in elevators and so forth, working the lines into his daily routines. I wish I could be 2% as prepared. Every minute spent rehearsing always &#151; always &#151; pays off in comfort level when presenting. And ensures that the slideument is a valid representation of the actual delivery.
 
 Some kinds of presentations, particularly super-tight performance-centric ones (e.g. Lessig style) seem to defy easy transition to a slideument. Is podcasting the best answer for these? I'm curious to try it.
-
-<!--more-->
-

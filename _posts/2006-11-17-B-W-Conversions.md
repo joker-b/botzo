@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "B&W Conversions"
-categories: [GearHead,GrayScale,fStop]
+categories: [GearHead]
 ---
-<img alt="bwConvIz.jpg" src="http://www.botzilla.com/blog/pix2006/bwConvIz.jpg" class="img-responsive"" border="0" />
+
+
+![bwConvIz.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwConvIz.jpg' | absolute_url }})
+
 
 While my iTunes subscribes to it, I have to say that I'm not a huge fan of <a href="http://www.photoshopuser.com/">NAPP's</a> "Photoshop TV" video podcast. I subscribe in the hope that some of the tips on the show will be useful. At the same time I dread having to wade through the hosts' gossipy and self-congratulatory prattle. It's better to watch on iTunes than the iPod, mostly because it's easier to fast-forward and skip those sections on the PC. 
 
@@ -18,9 +21,15 @@ Caponigro's method depends on the "channel mixer," but he uses <i>two</i> layers
 
 A big <i>Duh!</i> moment for me. This method is <i>so</i> much more fluid to use, lots of variations can be developed just by dragging around that single slider.
 
-<img alt="bwHueVars.jpg" src="http://www.botzilla.com/blog/pix2006/bwHueVars.jpg" class="img-responsive" border="0"/>
 
-<img alt="bwLimits.jpg" src="http://www.botzilla.com/blog/pix2006/bwLimits.jpg"  border="0" class="pull-left"  hspace=8 />
+
+![bwHueVars.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwHueVars.jpg' | absolute_url }})
+
+
+
+
+![bwLimits.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwLimits.jpg' | absolute_url }}){: .align-left}
+
 I think I'd seen an article describing his method before, but the video really made it come alive for me &#151; and I realized it wasn't just useful for the landscapes typically used as examples.
 
 The pic above shows a range of variations that can gained just from sliding "Hue" back and forth &#151; some cartoonish, some pretty standard and some Just Right.
@@ -31,7 +40,10 @@ The conversion happens independently from the two top Curve layers, which are op
 
 In the pic at left you can see the "bwLimits" layer editor, which shows the "S" pretty clearly. It's not a <i>strong</i> "S" &#151; but it's there just the same, and the high and low points of the histogram are deliberately brought-in a little to give a full range between pure black and pure white.
 
-<img alt="bwTone.jpg" src="http://www.botzilla.com/blog/pix2006/bwTone.jpg"  border="0" class="pullright"  hspace=8 />
+
+
+![bwTone.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwTone.jpg' | absolute_url }}){: .align-right}
+
 Below that we see the "toneCurves" editor, which is only applied to the blue channel to create that warm/cool effect (for a color image, as on the web. When printing B&W I currently prefer to use Roy Harrington's <a href="http://www.harrington.com/">Quadtone RIP,</a> which has its own warm/cool print style).
 
 (Photoshop experts may point out that I could have done the work of <i>both</i> curves layers in a single layer. They're technically correct, though I prefer using two layers to do two different jobs)

@@ -2,8 +2,12 @@
 layout: post
 title: "Motion Blur"
 categories: [fStop]
+tags: [Canon,Contax,Analog]
 ---
-<img src="http://www.botzilla.com/bpix/motionBlur.jpg" height=538 width=807 border=0 title="Shinjuku, 4 Sep 2004 (C) 2004 K. Bjorke">
+
+
+![Shinjuku, 4 Sep 2004 (C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/motionBlur.jpg' | absolute_url }})
+
 
 Four airports in the past five days &#151; a busy trip. Currently Sunday morning (I think) in Tokyo.
 

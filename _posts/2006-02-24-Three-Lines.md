@@ -3,7 +3,10 @@ layout: post
 title: "Three Lines"
 categories: [Wire Service]
 ---
-<img src="http://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg" border=0 align="right" vspace=6 hpace=8>Another ten-day delay. Like everything, I can find a reason.
+
+
+![Three Lines]({{ 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg' | absolute_url }}){: .align-right}
+Another ten-day delay. Like everything, I can find a reason.
 
 In a recent post-new-year's post on <a href="http://www.4sfolders.com">43F,</a> Merlin linked to <a href="http://en.wikisource.org/wiki/Walden_-_Economy">Thoreau's <cite>Walden,</cite></a> which to my (not great) surprise exists in its entirety on Wikisource. The section Merlin was quoting from is the introductory chapter, "Economy," which in turn contains the famous line: <cite>Most men lead lives of quiet desperation.</cite>
 

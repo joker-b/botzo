@@ -2,8 +2,12 @@
 layout: post
 title: "saturated"
 categories: [PhotoRant]
+tags: [Analog]
 ---
-<img src="http://www.botzilla.com/bpix/saturated.jpg" width=807 height=140 border=0 title="Los Angeles, August 2004 (C) K. Bjorke">
+
+
+![Los Angeles, August 2004 (C) K. Bjorke]({{ 'http://www.botzilla.com/bpix/saturated.jpg' | absolute_url }})
+
 
 On a busy day, it's not uncommon for me to shoot two or three hundred photos. I used to gauge this as a "six roll day" and now think of it usually as a "half gig day" for the amount of space used by digi-cam JPEGs.
 

@@ -8,6 +8,3 @@ categories: [Wire Service]
 746
 739
 738
-
-<!--more-->
-
