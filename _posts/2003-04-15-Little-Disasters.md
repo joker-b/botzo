@@ -12,6 +12,7 @@ tags: [Analog,Contax,Fujifilm,Darkroom]
 So the backlog is dropping &#151; tonight's trio leaves only a couple of C-41 rolls in the "pending" box, and both of those were shot by Rebecca &#151; not me. I think.
 
 I fished out three white-labelled DX-coded-for-ISO-100 rolls from the box, grabbed the changing bag and tall tank, threaded them up. Pulled out the snips of leader and.... they didn't match. Two were the expected pinkish TMax 100 color, but one of the snipped leaders was gray. Huh? I turned on the <a href="http://www.handspring.com/products/visorplatinum/index.jhtml?sub_nav_section=Overview&prod_cat_name=Plat">PDA,</a> checked the <a href="http://frontiernet.net/~rlmsmw/gpx_overview.htm">GoPix</a> log. <i>Roll "G100," Apr03b, TMax 100, Stevens Creek landscape photos.</i> Hmmm.
+<!--more-->
 
 It wasn't TMax, that was certain. I guessed Delta 400. Checked <a href="http://www.digitaltruth.com/">DigitalTruth.com</a> and their big dev chart. It recommends 9.75 mins for Delta400@ISO200 in Xtol 1::1, and I was going to run the TMax for 9.5 minutes anyway, so... let them all run at 9.5mins and sort it out later.
 

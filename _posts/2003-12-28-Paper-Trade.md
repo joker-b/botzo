@@ -4,11 +4,9 @@ title: "Paper Trade"
 categories: [PhotoRant]
 tags: [Books,Cuba]
 ---
-See the many nice things I do for you. I have given you many
-hours of wonder, and a reason to visit your library many times
-over. Here's a list compiled by folks on the <a
-href="http://topica.com/lists/streetphoto/read?sort=d"
-target="linkframe">StreetPhoto mailing list:</a>
+See the many nice things I do for you. I have given you many hours of wonder, and a reason to visit your library many times over. Here's a book list compiled by folks on the <a href="http://topica.com/lists/streetphoto/read?sort=d" target="linkframe">StreetPhoto mailing list:</a>
+
+<!--more-->
 
  - <a href="http://www.profotos.com/education/referencedesk/masters/masters/robertadams/robertadams.shtml">Robert
 		Adams</a> : <a href="http://www.artbook.com/3883754617.html">The New West</a>

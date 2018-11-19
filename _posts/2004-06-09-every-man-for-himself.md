@@ -10,7 +10,7 @@ A few years back (okay, a bunch of years back), I attended a session at the <a h
 
 Afterwards, we went for drinks Herzog. The topic of the <a href="http://www.brasscheck.com/jonestown/" target="_blank">Jonestown</a> <a href="http://www.rickross.com/groups/jonestown.html" target="_blank">People's Temple</a> mass suicide came up.The Jonestown Massacre. It was still very much in the press. What did Herzog think?
 
-_"I think that's great, 900 fewer assholes in the world."_
+__"I think that's great, 900 fewer assholes in the world."__
 
 <!--more-->
 <i>Ka-ching!</i> Another one of those bang-on quotes that has resonated for many, many years.

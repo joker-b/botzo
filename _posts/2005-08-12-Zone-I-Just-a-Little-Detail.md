@@ -4,16 +4,17 @@ title: "Zone I - Just a Little Detail"
 categories: [GrayScale]
 tags: [Books]
 ---
-<img src="http://www.botzilla.com/pix2005/zonei.jpg" width=807 height=559 border=0">
+![ZI]({{ 'http://www.botzilla.com/pix2005/zonei.jpg' | absolute_url }})
 
-<p>Afer a few pokes at this particular issue, I've added a <a href="/blog/archives/cat_grayscale.html">filing category</a> to this journal, specific to the question: <i>where can I find great new black and white photography?</i></p>
-
-<p>The addition was spurred a bit by <a href="http://www.apug.org/forums/showthread.php?t=18215&highlight=magazine">this post</a> from Fred on <a href="http://www.apug.org/">APUG.</a> It reminded me that I've been keeping some lists, piles of bookmarks in various browsers on different machines &#151; and that one of my monthly chores (though hardly a chore!) has been to pick-through the link references in magazine like <a href="http://www.bandwmag.com"><cite>B&W,</cite></a> <a href="http:/www.gmcpubs.com/"><cite>Black and White Photography,</cite></a> and <a href="http:/www.shotsmag.com/"><cite>Shots</cite></a>. I could just cross-reference  them via <a href="http://del.icio.us/bjorke/B%26W">del.io.us</a> (and maybe I will!), but why not here too?</p>
+Afer a few pokes at this particular issue, I've added a <a href="/blog/archives/cat_grayscale.html">filing category</a> to this journal, specific to the question: <i>where can I find great new black and white photography?</i>
 
 <!--more-->
-<p>So as a tip of the karmic kap to Fred, here are the links he mentioned, all coming from the most recent issue of <a href="http://www.bandwmag.com"><cite>B&W.</cite></a></p>
 
-<p>For those who want a fast browse, I've marked favorites with &rArr; and &rarr; characters.</p>
+The addition was spurred a bit by <a href="http://www.apug.org/forums/showthread.php?t=18215&highlight=magazine">this post</a> from Fred on <a href="http://www.apug.org/">APUG.</a> It reminded me that I've been keeping some lists, piles of bookmarks in various browsers on different machines &#151; and that one of my monthly chores (though hardly a chore!) has been to pick-through the link references in magazine like <a href="http://www.bandwmag.com"><cite>B&W,</cite></a> <a href="http:/www.gmcpubs.com/"><cite>Black and White Photography,</cite></a> and <a href="http:/www.shotsmag.com/"><cite>Shots</cite></a>. I could just cross-reference  them via <a href="http://del.icio.us/bjorke/B%26W">del.io.us</a> (and maybe I will!), but why not here too?
+
+So as a tip of the karmic kap to Fred, here are the links he mentioned, all coming from the most recent issue of <a href="http://www.bandwmag.com"><cite>B&W.</cite></a>
+
+For those who want a fast browse, I've marked favorites with &rArr; and &rarr; characters.
 
 <dl>
 <dt><a href="http://www.paulkozal.com/landscapes.htm">Paul Kozal</a></dt>

@@ -7,35 +7,37 @@ markdown: kramdown
 ---
 ![The ChartThrob Chart]({{ 'http://www.botzilla.com/blog/pix2007/CT107.jpg' | absolute_url }}){: .align-center }
 
-A few months back at a <a href="http://www.pacificartleague.org/members/phig/phig.html">PHIG</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process for making <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a>
+_Updated Nov 2018_
 
-I figured this labor-intensive process could be automated, so: I automated it, and made a tool called <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's now ready for public, free-for-everyone <s>ab</s>use.
+A few months back at a <a href="http://www.pacificartleague.org/members/phig/phig.html">PHIG</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process to make <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a>
 
-<strong><em>ChartThrob</em></strong> is a a JSX-format javascript for <a href="http://www.adobe.com/">Adobe Photoshop.</a> It works with all versions of Photoshop since Photoshop CS2. It works for both Windows and Mac versions of Photoshop. Since 2006 thousands of photgraphers have used ChartThrob to make terrific prints. It's used in college photo curricula and can even be used to optimize picture quality in self-published photo books through services like Blurb and Lulu. And: It's free.
-
-<strong>ChartThrob</strong> creates profiles for <strong>your</strong> process, for <strong>your</strong> printer, and lets you create consistently-beautiful digital negatives from <strong>your</strong> pictures &#151; every single time.</em>
+I figured this labor-intensive process could be automated, so: I automated it, and made a tool called <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's now available for public, free-for-everyone <s>ab</s>use.
 
 <!--more-->
 
 <h3>Version: 1.14 &mdash; April 2016 </h3>
 
+<strong><em>ChartThrob</em></strong> is a a JSX-format javascript for <a href="http://www.adobe.com/">Adobe Photoshop.</a> It works with all versions of Photoshop since Photoshop CS2. It works for both Windows and Mac versions of Photoshop. Since 2006 thousands of photgraphers have used ChartThrob to make terrific prints. It's used in college photo curricula and can even be used to optimize picture quality in self-published photo books through services like Blurb and Lulu. And: It's free.
+
+<strong>ChartThrob</strong> creates profiles for <strong>your</strong> process, for <strong>your</strong> printer, and lets you create consistently-beautiful digital negatives from <strong>your</strong> pictures &#151; every single time.
+
+<h3>Downloading and Installing <em>ChartThrob</em></h3>
+
 <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong>Right-Mouse-Click and Select "Save Link As..." Here for the Current Version of <em>ChartThrob.</em></strong></a>
 
-Typically, "Save As..." this (for Windows - Mac is similar):<br />&nbsp;&nbsp;<strong><tt>C:\Program Files\Adobe\Adobe Photoshop CS4\Presets\Scripts\ChartThrob.jsx</tt></strong>
+Typically, "Save As..." this (for Windows - Mac is similar):<br /><tt>C:\Program Files\Adobe\\[Current_Photoshop\]\Presets\Scripts\ChartThrob.jsx</tt><br />where "Current_Photoshop" is any installed version from CS2 to the latest CC 2019.
 
-<em>The very latest ChartThrob and updates are <a href="https://github.com/joker-b/ChartThrob">also available on GitHub.</a></em> The version here should be current, but you may also find more info and alternative branches there.
+_That's it!_ The next time you start Photoshop, <em>ChartThrob</em> will appear as an option under Photoshop's "File&#8212;>Scripts" menu.
 
-<h3>Installing <em>ChartThrob</em> </h3>
+<em>The very latest ChartThrob and updates are <a href="https://github.com/joker-b/ChartThrob">also available on GitHub.</a></em> The version here on Botzlla should be current with the GitHub master branch. You may also find more info and alternative branches on the git repo, if you are wise in the ways of git..
 
-To install it, click "Save As..." on <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx">this link.</a> Save the file as "ChartThrob.jsx" in your Photoshop scripts directory, which will typically be something like "Adobe Photoshop CS2/Presets/Scripts" (the location within the Photoshop directory is the same for both Windows and Macintosh)
-
-That's it! The next time you start Photoshop, <em>ChartThrob</em> will appear as an option under Photoshop's "File&#8212;>Scripts" menu.
+(Tiny aside: if you update to a new version of Photoshop, you'll need to move the ChartThrob.jsx to your new application)
 
 <h3>Using <em>ChartThrob</em> </h3>
 
-<em>ChartThrob</em> is really two scripts in one: First, it's a script for creating grayscale calibration charts. Second, it's a tool for automatically evaluating scanned prints of those charts and setting up appropriate profiles depending on the nature of your printing process.
+<em>ChartThrob</em> is really two scripts in one: First, it's a script for creating grayscale calibration charts, which you can print using amost any grayscale process. Second, it's a tool for automatically evaluating scanned prints of those charts and setting up appropriate profiles depending on the nature of your printing process.
 
-The <em>ChartThrob</em> workflow has a few basic steps:
+The <em>ChartThrob</em> workflow for digital negatives has a few basic steps:
 
   - <strong>Create</strong> a Grayscale chart in <em>ChartThrob.</em>
   - <strong>Print</strong> a digtial negative from that chart (on Pictorico material etc).
@@ -161,11 +163,11 @@ If things have gone well, you can take your original chart (as created by <em>Ch
 <dt>Why isn't the generated chart a negative, since I'll be printing it as a negative? It hurts my hand to have to press &lt;Ctrl-I&gt; to invert the chart before printing.</dt>
    <dd>Get a better grip on your printing! Some people print directly from a positive image to a negative and let their print driver do the inversion for them. Others need to print from an inverted image. <em>ChartThrob</em> can't know if you are a negative person or a positive person. So it looks on the bright side and assumes that everyone is positive.</dd>
 
-<dt>Why does <em>ChartThrob</em> use the font 'Myriad Pro,' which I don't have? I have to click lots of stupid 'okay' dialog boxes when I generate a new chart.<</dt>
-   <dd>First: <em>Upgrade your version of (free) ChartThrob and/or (not free but worth it) Photoshop.</em> <em>ChartThrob</em> doesn't actually use "Myriad" &#151; it only uses "Arial." I'm told it's "an Adobe Thing" which was also updated in Photoshop CS3. <em>IFF</em> you get those (annoying but harmless) "font not found" messages: Just upgrade to V1.06 or later. <em>Or,</em> if you're insanely determined to use an old version, install 'Myriad' and those dialog boxes will vanish forever.</dd>
+<dt>Why does <em>ChartThrob</em> use the font 'Myriad Pro,' which I don't have? I have to click lots of stupid 'okay' dialog boxes when I generate a new chart.</dt>
+   <dd>First: <em>Upgrade your version of (free) ChartThrob and/or (not free but worth it) Photoshop.</em> <em>ChartThrob</em> doesn't actually use "Myriad" &#151; it only uses "Arial." I'm told it's "an Adobe Thing" which was also updated in Photoshop CS3. That was a _long_ time ago! <em>IFF</em> you get those (annoying but harmless) "font not found" messages: Just upgrade to V1.06 or later. <em>Or,</em> if you're insanely determined to use an old version, install 'Myriad' and those dialog boxes will vanish forever.</dd>
 
 <dt>Where can I find out more about <em>ChartThrob,</em> and compare results with other users?</dt>
-   <dd>See <a href="http://www.hybridphoto.com/forums/showthread.php?t=36">this discussion thread</a> at HybridPhoto.com. In addition, check out this page by Michael Koch-Schulte, who has done additional work in understanding how to get the most out of the varying color sensitivities of different alt-process materials: <a href="http://www.inkjetnegative.com/images/RNP/quick_guide_to_making_digital_ne.htm"><em>A Quick Guide to Making Digital Negatives with RNP-Arrays and ChartThrob.</em></a> Or just poke it into Google &#151; it's been encouraging to see <em>ChartThrob</em> users have cropped up all over the net.</dd>
+   <dd>See <a href="http://www.hybridphoto.com/forums/showthread.php?t=36">this discussion thread</a> at HybridPhoto.com. In addition, check out this page by Michael Koch-Schulte, who has done additional work in understanding how to get the most out of the varying color sensitivities of different alt-process materials: <a href="http://www.inkjetnegative.com/images/RNP/quick_guide_to_making_digital_ne.htm"><em>A Quick Guide to Making Digital Negatives with RNP-Arrays and ChartThrob.</em></a> Or just poke it into Google &#151; it's been encouraging to see that <em>ChartThrob</em> users have cropped up all over the net.</dd>
 
 <dt>Sometimes <em>ChartThrob</em> seems to take a long time to run. How do I know that it's working at all?</dt>
    <dd>Leave the 'Histogram,' 'History,' or 'Info' panels open, and you'll see just how fast and furious <em>ChartThrob's</em> drawing and analysis really is. It's edu-taining!</dd>

@@ -8,6 +8,7 @@ Social scientists, take note:
 
 King Lear had three daughters. Nothing but trouble.
 
+<!--more-->
 Now Keanu Reeves has reportedly Lear'd the special effects business: <a href="http://www.hellomagazine.com/2003/05/28/keanureeves/"><i>Hello</i> magazine reports</a> that he's giving away &pound;50 million of his reported &pound;70million take on the two <i>Matrix</i> sequels, by redistributing the 50,000 large to "29 whiz-kids" in the effects and costume departments.
 
 The recently-deceased <a href="http://www.econlib.org/library/Enc/UnintendedConsequences.html">Robert K. Merton</a> wrote a great deal about <a href="http://www.unintendedconsequences.com">unintended consequences</a> and their causes. I'd put Keanu as a mix of causes #1 and #3 &#151; mostly #3, the "imperious immediacy of interest."

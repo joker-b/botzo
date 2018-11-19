@@ -2,7 +2,7 @@
 layout: post
 title: "Computers, Cameras, Colors, &amp; Caravaggism"
 categories: [Nuke Em from Orbit]
-tags: [3D,Digital,Movies,Games]
+tags: [3D,Digital,Movies,Games,Painting]
 ---
 
 ![Santa Clara, 2002 (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/sep02l-37b.jpg' | absolute_url }}){: .align-right}

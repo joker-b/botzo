@@ -10,6 +10,7 @@ tags: [Books]
 
 
 Right on the heels of the <a href="http://www.botzilla.com/blog/archives/000579.html">Conscientiously Gray</a> list, both <a href="http://www.jmcolberg.com/">J&ouml;rg</a> and <a href="http://photo-muse.blogspot.com/">Tim Atherton</a> have cited this <a href="http://www.tipofthetongue.org/main.html?id=5">Charlotte Cotton essay on contemporary B&W photography,</a> which in turn contains a fair number of interesting B&W links &#151; and some great comments in the short but dense forum discussion on the right side of the page.
+<!--more-->
 
 I'm struck by Cotton's (qualified) emphasis on B&W as being inevitably nostalgic. I continue to disagree, given that <a href="http://www.botzilla.com/blog/archives/000225.html">B&W is a portion of human vision</a> and <a href="http://www.botzilla.com/blog/archives/000570.html">evolution always wins.</a> She is right, though, in recognizing that B&W photo isn't going away, but will remain as part of the visual spectrum.
 

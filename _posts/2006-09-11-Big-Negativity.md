@@ -2,7 +2,7 @@
 layout: post
 title: "Big Negativity"
 categories: [fStop]
-tags: [Fujifilm]
+tags: [Fujifilm,Bronica]
 ---
 
 

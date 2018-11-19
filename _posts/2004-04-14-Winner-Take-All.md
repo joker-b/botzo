@@ -2,7 +2,7 @@
 layout: post
 title: "Winner Take All"
 categories: [PhotoRant]
-tags: [Analog,Digital]
+tags: [Analog,Digital,Painting]
 ---
 
 

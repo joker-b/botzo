@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Light"
 categories: [fStop]
-tags: [Canon,Lumix]
+tags: [Canon,Lumix,Bronica]
 ---
 
 

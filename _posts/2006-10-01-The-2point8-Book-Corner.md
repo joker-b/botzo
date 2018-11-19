@@ -2,7 +2,7 @@
 layout: post
 title: "The 2point8 Book Corner"
 categories: [PhotoRant]
-tags: [Leica,Lumix,Analog,Books]
+tags: [Leica,Lumix,Analog,Books,Painting]
 ---
 
 

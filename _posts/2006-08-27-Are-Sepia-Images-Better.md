@@ -5,11 +5,10 @@ categories: [GearHead]
 tags: [Lumix]
 ---
 
-
 ![P1040795.jpg]({{ 'http://www.botzilla.com/blog/pix2006/P1040795.jpg' | absolute_url }})
 
-
 As I may have mentioned before, one feature of the LX1 that I like is the ability to simultaneously store both a RAW file and a full-sized JPEG image, complete with whatever imaging mode is currently active: particularly grayscale and/or sepia toning.
+<!--more-->
 
 Exactly what a camera does to the image to produce a sepia-toned image can vary. If the image is converted to 8-bit gray scale and then the processor just replaces the gradient of white to black with a gradient from light brown to the same darkened brown, then... well, you haven't gained much. In fact you've compressed the number of gray tones.
 

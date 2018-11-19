@@ -11,6 +11,7 @@ A few days ago, documentary photographer <a href="http://www.robertappleby.com/"
 Personally, I think there's rarely such a thing as a truly dead form, not in a general sense. Individual veins may tap out, but the mine stays open.
 
 Sch&ouml;nberg commented, even as he developed his own tonal scale, that there were still many masterpieces yet to be written in the key of C major &#151;  what's true for piano works is surely also true for image-making. A form may feel exhausted to individual practitioners, or perhaps has grown tired from extended rehashing of its own best successes &#151; but there is always the potential for something new, fresh, and meaningful to be drawn from existing forms.
+<!--more-->
 
 I thought about replying to him with a pointer to the work of shooters like <a href="http://www.gregwilliamsphotography.com/index.flash.asp">Simon Roberts</a> or <a href="http://www.growbag.net/photographers/simonnorfolk/">Simon Norfolk</a> &#151; imagine my dismay when I discovered that despite their apparent successes (even in black &amp; white!), their shared agency,  <a href="http://www.growbag.net/">growbag,</a> is closing. I'd like to think it's closing because its members have grown <i>too</i> successful &#151; please tell me it's so!
 

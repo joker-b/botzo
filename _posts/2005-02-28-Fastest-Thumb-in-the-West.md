@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West"
 categories: [GearHead]
-tags: [Leica,Canon,Contax,Digital]
+tags: [Leica,Contax,Analog]
 ---
 
 

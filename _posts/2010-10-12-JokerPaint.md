@@ -2,7 +2,7 @@
 layout: post
 title: "JokerPaint"
 categories: [Nuke Em from Orbit]
-tags: [Books]
+tags: [Books,Painting]
 ---
 
 

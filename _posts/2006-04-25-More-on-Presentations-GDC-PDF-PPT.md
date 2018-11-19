@@ -7,6 +7,7 @@ tags: [3D]
 Garr's <a href="http://presentationzen.blogs.com/presentationzen/2006/04/slideuments_and.html">recent post on slideuments</a> got me thinking about my current Powerpoint method.
 
 I sometimes do fall into the "write the presentation on the plane while traveling to the conference" method, but after taking it in the face a few times I've tried to avoid it. It's worth thinking on your feet though &#151; a couple of years back I traveled some 14 hours to give a presentation to a group, only to discover that just before we began they had "warmed up" by watching one of my presentations on video: <i>the same one I was about to give.</i> Fast backtrack! Happily I had colleagues and enough extra material to come up with a useful session on the spot (and spend part of the time provoking audience response and asking <i>them</i> a lot of questions).
+<!--more-->
 
 Being the lazy sort, I use one set of slides for as long as possible while preparing a presentation, rather than separate stage and "slideument" versions &#151; my current method is to make the slides and write all of my expected verbal presentation in the notes, jokes and all &#151; I use the notes as my script for all rehearsals, and so after the presentation, a PDF of the PPT notes pages usually makes for a reasonably representative slideument.
 
