@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Calling Names"
-categories: [PhotoRant]
-tags: [Web]
+categories: [Botzilla]
+tags: [Botzilla]
 ---
 
 ![Photo by REBECCA BJORKE WWW.THEBEKKAFFECT.COM]({{ 'http://www.thebekkaffect.com/wp-content/uploads/2018/10/sm4_davidhorse.jpg'' | absolute_url }})
+
 _This photo by **Rebecca Bjorke** -- contact her at [The Bekkaffect](http://www.thebekkaffect.com/)_
 
 Everyone knows the internet was designed as a new way to call names.
