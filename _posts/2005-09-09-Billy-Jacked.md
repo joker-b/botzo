@@ -27,4 +27,3 @@ Does it look unusual, different from "normal" agitated development? Yeah, take a
 <a href="http://www.flickr.com/photos/bjorke/41284993/" title="Flickr Page">
 
 ![Minus one]({{ 'http://static.flickr.com/33/41284993_095f70247a_o.jpg' | absolute_url }})
-</a>

@@ -8,7 +8,9 @@ tags: [Books,Fujifilm,Digital]
 
 _(Updated November 2018)_
 
-Unlike their predecessors, the current Chromebooks can also run Android apps, placing Chromebooks somewhere between a "regular" laptop and a phone or tablet in functionality &mdash; opening up the possibilities of using a light, inexpensive device in place of (or alongside) a larger, pricey one.
+Can a Chromebook be your photo-production machine?
+
+While the first Chromebooks could basically just run a browser, current Chromebooks can also run Android apps, placing Chromebooks somewhere between a "regular" laptop and a phone or tablet in functionality &mdash; opening up the possibilities of using a light, inexpensive device in place of (or alongside) a larger, pricey one.
 
 Of course a new under-$400 Chromebook is no match for a full-powered $2000+ laptop as a photo workflow machine... right?
 
