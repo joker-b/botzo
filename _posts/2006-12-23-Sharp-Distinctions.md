@@ -14,7 +14,7 @@ If results can be shown in ad hoc, half-baked test situations, then they're more
 
 
 <!--more-->
-I was concerned about some wobble in the focusing elements of my Canon 50mm &#402;/1.4 lens. I figured I should compare it to my corresponding rock-solid Contax-Zeiss 50, that I can mount to the 5D via a <a href="http://www.botzilla.com/blog/archives/000392.html">"Cantax"</a> adapter. And since I was shooting at ISO 100 anyway, why not do a quick comparison against my compact <a href="http://www.botzilla.com/blog/archives/000479.html">LX1</a>?
+I was concerned about some wobble in the focusing elements of my Canon 50mm &#402;/1.4 lens. I figured I should compare it to my corresponding rock-solid Contax-Zeiss 50, that I can mount to the 5D via a <a href="{{ site.baseurl }}{% post_url 2005-03-25-Cantax-Part-2 %}">"Cantax"</a> adapter. And since I was shooting at ISO 100 anyway, why not do a quick comparison against my compact <a href="http://www.botzilla.com/blog/archives/000479.html">LX1</a>?
 
 What you see above are pixel-to-pixel crops from the centers of three photos. The white-balance was set to "auto" for all, so the color shifts are not significant.
 

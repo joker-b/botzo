@@ -9,7 +9,7 @@ tags: [Leica,Analog]
 ![Natural Colors Part 2]({{ 'http://www.botzilla.com/pix2005/nats2.jpg' | absolute_url }})
 
 
-While I was typing <a href="/blog/archives/000390.html">Pt I</a> (without even thinking that it would become Pt I), part of the paradox vexing me was there on the desk, staring intently from the cover of the January <a href="http://www.pdnonline.com/"><cite>PDN</cite></a> in the form of Jude Law, shot in classicly-crisp B&W by <a href="www.davidbaileyphotography.com/">David Bailey,</a> with the tag: "The Legends Issue." So here we have Jude Law, promoting <cite>Alfie</cite> and dressed-up in 60's Saville Row. Knockout pic, but &#151; part of The Problem of B&W Nostalgia, right?
+While I was typing <a href="{{ site.baseurl }}{% post_url 2005-03-23-Natural-Colors %}">Pt I</a> (without even thinking that it would become Pt I), part of the paradox vexing me was there on the desk, staring intently from the cover of the January <a href="http://www.pdnonline.com/"><cite>PDN</cite></a> in the form of Jude Law, shot in classicly-crisp B&W by <a href="www.davidbaileyphotography.com/">David Bailey,</a> with the tag: "The Legends Issue." So here we have Jude Law, promoting <cite>Alfie</cite> and dressed-up in 60's Saville Row. Knockout pic, but &#151; part of The Problem of B&W Nostalgia, right?
 
 The "Legends" in PDN have a little gallery <a href="http://www.pdnonline.com/photodistrictnews/feature/article_display.jsp?vnu_content_id=1000768964">here</a> &#151; Bailey, <a href="http://digitaljournalist.org/issue0205/donna_intro.htm">Donna Ferrato</a>, <a href="http://www.brown.edu/Facilities/David_Winton_Bell_Gallery/lyon.html">Danny Lyon</a>, and <a href="http://www.junebateman.com/artists/plachy/abt.html">Sylvia Plachy.</a> Last year's Legends Issue included <a href="http://www.terra.com.br/sebastiaosalgado/">Sebastaio Salgado</a>, who was mentioned on the last post's comments. 
 
@@ -51,4 +51,4 @@ For Toy Cameras I'd go with <a href="http://gordisdead.blogspot.com/">Gord Is De
 Not that anyone in that voting crowd's listening to me.
 
 
-<i>(Link to <a href="/blog/archives/000400.html">Natural Colors Part 3</a>)</i>
+<i>(Link to <a href="{{ site.baseurl }}{% post_url 2005-05-18-Natural-Colors-Part-3-and-counting %}">Natural Colors Part 3</a>)</i>

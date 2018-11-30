@@ -74,7 +74,7 @@ Like many people, I shoot <b>JPEG</b> a lot, though given some extreme lighting 
 
 <h4>Exposure & the ND Filter</h4>
 
-I love the 3-stop <b>ND filter,</b> for the same reason I love it on the <a href="/blog/archives/000796.html">LX7</a> -- instant sunny-vs-shady control when using manual exposure. The ND wins over ISO for its place on the <b>top-deck <kbd>Fn</kbd> button.</b>
+I love the 3-stop <b>ND filter,</b> for the same reason I love it on the <a href="{{ site.baseurl }}{% post_url 2014-09-22-LX7-with-a-little-LX5 %}">LX7</a> -- instant sunny-vs-shady control when using manual exposure. The ND wins over ISO for its place on the <b>top-deck <kbd>Fn</kbd> button.</b>
 
 The <b>shutter speed dial</b> only goes down to <b>1/4 second.</b> Likewise the Aperture-priority AE. Lower speeds are possible via the <kbd>T</kbd> setting, but since they're tied to the <b>rear dial</b> they're easily jostled around and changed. Annoying.
 

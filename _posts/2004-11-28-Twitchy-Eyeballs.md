@@ -16,7 +16,7 @@ call a doctor).
 
 No, but I think my new plateau comes from a similar leap of imagination, of having a stronger sense of what was in the maker's mind for each image: where to stand with the camera, when to press the shutter; how to lay down the colors broadly and then to refine them with each successive stroke of the brush. The reading is slower but the enjoyment deeper.
 
-Since <cite>Red Color News Soldier,</cite> which I'd <a href="/blog/archives/000338.html">written
+Since <cite>Red Color News Soldier,</cite> which I'd <a href="{{ site.baseurl }}{% post_url 2004-09-25-My-China %}">written
 about earlier</a>, I've managed to make it through these books:
 
 

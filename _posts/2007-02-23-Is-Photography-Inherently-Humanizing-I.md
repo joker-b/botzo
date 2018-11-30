@@ -36,5 +36,5 @@ I don't think the story is inherently partisan, <i>&aacute; la</i> Fox. Rather, 
 
 And that's a story whose foundations are chipped at by Platt's photo. 
 
-(<a href="http://www.botzilla.com/blog/archives/000570.html">Part II here,</a> Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
+(<a href="{{ site.baseurl }}{% post_url 2007-02-25-Is-Photography-Inherently-Humanizing-II %}">Part II here,</a> Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
 

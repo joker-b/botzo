@@ -9,7 +9,7 @@ tags: [Analog,Leica,Canon,Contax,Fujifilm]
 ![f/22, San Jose 2004]({{ 'http://www.botzilla.com/bpix/sharp04.jpg' | absolute_url }}){: .align-right}
 (This entry has nothing to do with <a href="http://circles-of-confusion.com/">John Matturi.</a>)
 
-As a followup to the <a href="/blog/archives/000280.html">lens hack</a> of a few days ago, for laughs I thought I'd poke the Canon sensor into <a href="http://www.davideubank.com/">David Eubank's PCam</a> as a custom film format, to give myself some extra guidance on demand about technical details like Depth of Field. 22.7mm&#215;15.1 mm, 3072&#215;2048 pixels... so what should I choose as a <a href="http://tangentsoft.net/fcalc/help/CoC.htm">Circle of Confusion size?</a>
+As a followup to the <a href="{{ site.baseurl }}{% post_url 2004-02-10-Hacking-the-EOS %}">lens hack</a> of a few days ago, for laughs I thought I'd poke the Canon sensor into <a href="http://www.davideubank.com/">David Eubank's PCam</a> as a custom film format, to give myself some extra guidance on demand about technical details like Depth of Field. 22.7mm&#215;15.1 mm, 3072&#215;2048 pixels... so what should I choose as a <a href="http://tangentsoft.net/fcalc/help/CoC.htm">Circle of Confusion size?</a>
 
 
 <!--more-->

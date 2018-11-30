@@ -8,7 +8,7 @@ tags: [Analog,Books]
 
 _Three rolls of Tri-X rated ISO 3200 in Xtol 1+1; two rolls of Portra 400UC._
 
-I keep wanting to stop mentioning <a href="/blog/archives/000359.html">Henry Rankin Poore</a> so here's a last (?) chance to diss his opinions just a little more (not that he deserves it in general).
+I keep wanting to stop mentioning <a href="{{ site.baseurl }}{% post_url 2005-01-11-AMOT-SL %}">Henry Rankin Poore</a> so here's a last (?) chance to diss his opinions just a little more (not that he deserves it in general).
 
 In Poore's later books he keeps hammering on his own little drum "art is thought passed through emotion and frozen into form." As opposed to emotion passed through thought and frozen into form, or most any other handy definition.
 

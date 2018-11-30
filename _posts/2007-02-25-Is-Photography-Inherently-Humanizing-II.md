@@ -55,11 +55,11 @@ If Gene Smith was unable to change the surety of armed conflict, where <i>were</
 
 Where his compassion was unbound, free from horror. As examples, consider his work on <a href="http://blog.larranaga-portfolio.com/smithnurse.jpg">nurse midwife Maude Callen,</a> who clearly inspired tremendous compassion in Smith himself and his <i>Life</i> readership, who felt compelled to help through letters and donations to found a new clinic that survives <a href="http://www.charlestonbusiness.com/pub/12_9/news/6328-1.html">even today.</a>
 
-Smith's <a href="http://www.botzilla.com/blog/archives/000491.html">pi&eacute;ta,</a> part of his coverage of the tragic vicitimization of the people of Minimata Japan, images that overcame horror with compassion and led to <a href="http://blogcritics.org/archives/2006/05/12/180705.php">substantial and lasting change.</a>
+Smith's <a href="{{ site.baseurl }}{% post_url 2006-07-17-Memory-Pool %}">pi&eacute;ta,</a> part of his coverage of the tragic vicitimization of the people of Minimata Japan, images that overcame horror with compassion and led to <a href="http://blogcritics.org/archives/2006/05/12/180705.php">substantial and lasting change.</a>
 
 As Hauser has said, he doesn't advocate any specific moral, polical, religious, or social agenda &#151; though he feels that his work impinges strongly on all of those fields. What he <i>does</i> assert is the belief that those policies and actions which most-naturally map onto our foundational moral sensibilities will be those which are most likely to be accepted by the populace, and which are most likely to stick around, without shifting on the winds of fashion. Policies that suit us as the animals we are.
 
 When we see another person, even in a photograph, we feel a connection to them. Hauser's work hints at deep reasons why this is so. When photography's power is used to incite not horror but compassion, that power is at its zenith, and most-capable of expanding our moral circle. It does not seem capable of doing otherwise.
 
-(Part III <a href="http://www.botzilla.com/blog/archives/000599.html">here.</a>)
+(Part III <a href="{{ site.baseurl }}{% post_url 2007-05-11-Is-Photography-Inherently-Humanizing-III %}">here.</a>)
 

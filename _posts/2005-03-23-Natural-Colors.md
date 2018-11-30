@@ -36,10 +36,10 @@ Personally, I don't think B&W is dead, though its familiar mannerisms are tough 
 
 The iconography of the B&W image has 150 years of social inertia. This can be useful or strangling, depending on how you approach it.
 
-But not quite dead yet. As I've <a href="/blog/archives/000225.html">written before,</a> I think B&W is as basic a part of our vision as color, with a lasting role in visual arts. In the latest <a href="http://www.pdnonline.com/">PDN</a> <a href="http://pdngallery.com/gallery/pdns30/2005/">"30"</a> issue, profiling 30 up-and-coming photographers, at least three of them presented portfolios in B&W. 10% isn't bad in a world where editors and buyers will tell you no one wants anything but color.
+But not quite dead yet. As I've <a href="{{ site.baseurl }}{% post_url 2003-09-15-Scotopic-Photo-Topic %}">written before,</a> I think B&W is as basic a part of our vision as color, with a lasting role in visual arts. In the latest <a href="http://www.pdnonline.com/">PDN</a> <a href="http://pdngallery.com/gallery/pdns30/2005/">"30"</a> issue, profiling 30 up-and-coming photographers, at least three of them presented portfolios in B&W. 10% isn't bad in a world where editors and buyers will tell you no one wants anything but color.
 
 <i>"Black and white are the colors of photography. To me they symbolize the alternatives of hope and despair to which mankind is forever subjected."</i> &#151; Robert Frank
 
 If readers have any examples of what they think is forward-looking B&W work, let me know.
 
-<i>(Link to <a href="/blog/archives/000391.html">Part 2</a>)</i>
+<i>(Link to <a href="{{ site.baseurl }}{% post_url 2005-03-27-Natural-Colors-Part-2 %}">Part 2</a>)</i>

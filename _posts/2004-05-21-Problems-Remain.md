@@ -8,7 +8,7 @@ categories: [PhotoRant]
 ![(C) 1994, 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/bathProb.jpg' | absolute_url }})
 
 
-This does seem to be the week for coincidences. Today the coincidences involve a collision between the recent entry <a href="/blog/archives/000316.html">Family, Immediate,</a> and <a href="http://www.lenswork.com/" target="_blank">Lenswork</a> magazine's site.
+This does seem to be the week for coincidences. Today the coincidences involve a collision between the recent entry <a href="{{ site.baseurl }}{% post_url 2004-05-16-Family-Immediate %}">Family, Immediate,</a> and <a href="http://www.lenswork.com/" target="_blank">Lenswork</a> magazine's site.
 
 I was browsing Lenswork's forums and came across <a href="http://www.lenswork.com/stl-web/bulletin/bb/viewtopic.php?t=41" target="_blank">this post</a> and its responses &#151; obviously made at the same time (and by the same person) as <a href="http://lists.topica.com/lists/streetphoto/read/message.html?sort=&mid=909880171&start=0" target="_blank">this post on streetphoto.</a> In both, Jason/Manic worries that if he buys a copy of <a href="http://members.iinet.net.au/~bronson1/photo/Mann.html" target="_blank">Sally Mann's</a> book <a href="www.arthistory.sbc.edu/artartists/ photosally.html" target="_blank">Immediate Family,</a> the police may show up at his door, sent by some conservative Bible-Belt neighbor, to arrest him for possesion of child pornography.
 
@@ -23,7 +23,7 @@ When I read the <i>Lenswork</i> post, I was surprised to see the readers there s
 
 What happened next was something of a surprise: a rather volatile response from editor Brooks Jensen against Mann's portraits of her children. Not for the typical conservative reasons of affront to public decency: "It's not about pornography or bigotry. It's not about politics. It's about trust and parenting and her crossing the line"..."her concerns about her career are more important to her than the concerns/welfare of her children." And that gave me a fair bit of crashing and colliding coincidental personal pause, because of an incident from just this morning.
 
-Just before school, my son saw himself in the <a href="/blog/archives/000316.html">Family, Immediate</a> photo and was upset &#151; that I had made the photo while he was furious at his sister. It was not a photograph he wanted to see. And worse yet, I had put the photo on the web.
+Just before school, my son saw himself in the <a href="{{ site.baseurl }}{% post_url 2004-05-16-Family-Immediate %}">Family, Immediate</a> photo and was upset &#151; that I had made the photo while he was furious at his sister. It was not a photograph he wanted to see. And worse yet, I had put the photo on the web.
 
 Now a photo of a scowl is quite a ways from a bookful of nude children, but it was defused in an instant: "look, it's a photo of you, but also your sister, your cousins, your auntie... see how the different expressions combine, how the spirits are high with different kinds of feeling? How your expression gives strength to the others by contrast?" and he walked away perfectly happy with that. I asked him again this evening, and he had been happy with the idea that his experience had found meaning (if not exactly in those words from him). Do Mann's children discuss these photos with her, with each other? Of course they do.
 

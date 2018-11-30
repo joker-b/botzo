@@ -7,7 +7,7 @@ tags: [Canon]
 
 
 ![Santa Clara, 2004 - low-light, manual guesstimation focus in a crowd]({{ 'http://www.botzilla.com/bpix/teenZone1.jpg' | absolute_url }}){: .align-right}
-As I mentioned <a href="/blog/archives/000260.html">before,</a> I like the feel of an 85mm &#131;/1.8 on my 35mm SLRs. On the Canon D300, the 50mm &#131;/1.8, with the 1.6&#215; multiplier in effect, is almost the same lens &#151; an equivalent to an 80mm for the 35mm camera.
+As I mentioned <a href="{{ site.baseurl }}{% post_url 2003-10-01-Retrouv-eacute %}">before,</a> I like the feel of an 85mm &#131;/1.8 on my 35mm SLRs. On the Canon D300, the 50mm &#131;/1.8, with the 1.6&#215; multiplier in effect, is almost the same lens &#151; an equivalent to an 80mm for the 35mm camera.
 
 
 
@@ -20,4 +20,4 @@ Total upgrade time: less than ten minutes. I'll happily sell this lens for $200,
 
 One thing that's missing is depth-of-field indicators. By my estimation, &#131;/22  markers would be quite close together &#151; about three notches, or a little bit less on each side than the distance between the infinity and 10-foot marks.
 
-(PS: This <a href="/blog/archives/000282.html">later entry</a> gives more detail on DoF for digital cameras. I realized I was slightly wrong &#151; the markers would need to be closer-together)
+(PS: This <a href="{{ site.baseurl }}{% post_url 2004-01-30-So-Much-Confusion %}">later entry</a> gives more detail on DoF for digital cameras. I realized I was slightly wrong &#151; the markers would need to be closer-together)

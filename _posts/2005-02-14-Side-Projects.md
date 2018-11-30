@@ -51,6 +51,6 @@ The surprise entry among books I've found so far was Brodovitch's <cite>Ballet</
 
 The other side (by side) project, or a half-formed one at the moment, has been to re-kindle my interest in 3D stereo (I've done several 3D films and videos, including an anaglyphic model viewer that I'm including as part of the upcoming edition of the <a href="http:/developer.nvidia.com/" target="side">NVIDIA SDK</a>), thanks to my exposure to <a href="/blog/archives/000379.html" target="side">David Lee's photos</a> and Holmes cards &#151; especially hyperstereo. I dug out an old $1.50 lorgnette viewer from under the bed and started going to town. No two-camera set up just yet &#151; I'll stick to the "cha-cha" method. 
 
-<i>A side thought on this sidetrack: usually histories cite the Rolleiflex for the 1930's advent of <a href="/blog/archives/000370.html">square format</a> photos &#151; but surely the Holmes-format stereo card, with its paired squares, dates significantly earlier, and to the late 1880's.</i>
+<i>A side thought on this sidetrack: usually histories cite the Rolleiflex for the 1930's advent of <a href="{{ site.baseurl }}{% post_url 2005-03-24-R3 %}">square format</a> photos &#151; but surely the Holmes-format stereo card, with its paired squares, dates significantly earlier, and to the late 1880's.</i>
 
 I've posted the photo above as a cross-eyed "free view" shot. If people think that parallel viewing is preferable, let me know.

@@ -25,7 +25,7 @@ Yet as much as I enjoy <a href="http://www.flickr.com/groups/camerahacks/">camer
 
 ![LX1 Hack #1 - Tape Controls]({{ 'http://static.flickr.com/55/133979298_919e8b0753_m.jpg' | absolute_url }})
 </a>
-I <i>have</i> gently hacked my own camera, using about $0.05 worth of gaffer tape (you knew I would get here eventually, right?). <a href="http://www.botzilla.com/blog/archives/000392.html">Gaffer tape</a> can definitely help the LX1, even if you get the camera in the svelte and low-visibility pewter. The first illustration shows two key aspects of the camera that can be enhanced by a little of the old G.T.
+I <i>have</i> gently hacked my own camera, using about $0.05 worth of gaffer tape (you knew I would get here eventually, right?). <a href="{{ site.baseurl }}{% post_url 2005-03-25-Cantax-Part-2 %}">Gaffer tape</a> can definitely help the LX1, even if you get the camera in the svelte and low-visibility pewter. The first illustration shows two key aspects of the camera that can be enhanced by a little of the old G.T.
 
 At the back, there's a triangle of black tape placed overlapping and below the little "grip nubs" that Panasonic has already provided for your thumb. The fabric of the tape is <i>much</i> better to grip, and it doesn't shift around so much when you're also trying to use your thumb on the controls. It's an improvmenet for two-handed and one-handed operation &#151; in fact the camera is almost too slippery for one-handed operation without this enhancement.
 
@@ -46,7 +46,7 @@ I'm glad I got the Crumpler &#151; of all the cases I've seen it seems the most 
 
 The LX1 has a lens cap. This can potentially make it less-than-pocketable, compared to cameras that fully retract their lenses.  I've yet to have trouble with this. A danger, when pocketing the camera <i>sans</i> case, is that the cap will come loose in your pocket and the lens will be scratched. A solution I used before receiving my Crumpler &#151; keep the pocketed camera in a plastic ziploc sandwich bag, which keeps everything snug and doesn't let fabric or loose pens catch on the cap.
 
-The lens is the star of the camera, I'm really impressed with its <a href="/blog/archives/000476.html">lack of distortion</a> and crisp results even wide-open. Pictures speak to its color and sharpness. It's only f/2.8 but the addition of "OIS" Image Stabilization gives it hand-holdability at pretty low speeds.
+The lens is the star of the camera, I'm really impressed with its <a href="{{ site.baseurl }}{% post_url 2006-04-02-LX1 %}">lack of distortion</a> and crisp results even wide-open. Pictures speak to its color and sharpness. It's only f/2.8 but the addition of "OIS" Image Stabilization gives it hand-holdability at pretty low speeds.
 
 I leave my OIS in "Mode 1" (always on). The "Mode 2" (on just when you press the shutter) slows the camera down. Mode 2 supposedly saves battery life, but a second battery is trivial to carry. I've rarely needed it, even after a full day of snapping.
 

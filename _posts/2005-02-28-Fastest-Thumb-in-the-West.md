@@ -57,7 +57,7 @@ If instead you ride the AF lock, you would focus on the face to one side, lock t
 
 Of course, there are a few differences:
 
-<ul><li>You can use the Contax in dark conditions, especially at close range (the Contax IR will kick in and can focus in complete darkness. You can shoot, if you have a strobe).</li><li>You can use it with <i>one hand</i> &#151; even wearing <a href="/blog/archives/000363.html">winter gloves.</a></li><li>You can use it in a pinch <i>without even looking through the VF</i> (takes a little practice, but the Contax is a terrific hipshooter).</li></ul>
+<ul><li>You can use the Contax in dark conditions, especially at close range (the Contax IR will kick in and can focus in complete darkness. You can shoot, if you have a strobe).</li><li>You can use it with <i>one hand</i> &#151; even wearing <a href="{{ site.baseurl }}{% post_url 2005-01-21-Another-Slippery-Slope %}">winter gloves.</a></li><li>You can use it in a pinch <i>without even looking through the VF</i> (takes a little practice, but the Contax is a terrific hipshooter).</li></ul>
 
 <hr width="20%" align="center">
 

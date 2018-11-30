@@ -16,7 +16,7 @@ I've been shuffling lots of digital pictures around lately, moving them from my 
 <!--more-->
 Almost without fail, the b&amp;w versions were as good as , and in most cases better than, the color originals. This surprised me? Yes, because I've grown increasingly used to shooting in color. Those photos had been intended as color photos. But genuinely, what I was shooting were images that gained more from their shape than their color &#151; more from a face's expression than its complexion. I hate to make sweeping generalizations, but here goes anyway: In its simplicity, b&amp;w expresses more directly than color.
 
-The elements seen at the moment of shooting, I'm becoming convinced, are better-represented in the b&amp;w. Snapping at faces, at people in motion, really does seem better suited to <a href="/blog/archives/000225.html">rods rather than cones,</a> at least for my eye. To give in to that quick, impulsive response is to ignore the color &#151; to blind myself so that I can see.
+The elements seen at the moment of shooting, I'm becoming convinced, are better-represented in the b&amp;w. Snapping at faces, at people in motion, really does seem better suited to <a href="{{ site.baseurl }}{% post_url 2003-09-15-Scotopic-Photo-Topic %}">rods rather than cones,</a> at least for my eye. To give in to that quick, impulsive response is to ignore the color &#151; to blind myself so that I can see.
 
 The photos where color is significant are always slower, even to the speed of landscape. In a few cases they add form where the grayscales have blurred, but it's only adding to an image that's first and foremost driven by its monochrome reading. As often as not the color seems to distract, unless color itself is a primary subject.
 

@@ -9,7 +9,7 @@ tags: [3D,Books]
 ![7th Psychological Operations Group, US Naval Air Station Sunnyvale, Moffet Field (C) 2007 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/Moffet-P1060937.jpg' | absolute_url }})
 
 
-In my <a href="http://www.botzilla.com/blog/archives/000620.html">blog draining</a> from yesterday: <a href="http://www.kstallworth.com/">Kristopher Stallworth</a> of Bakersfield found a poster of Gursky's "99 Cent Store" hanging in -- where else? -- a 99 Cent Store, and <a href="http://www.jmcolberg.com/weblog/2007/08/99_cents_at_99_cents_only_stor.html">Conscientious has the shot.</a> 
+In my <a href="{{ site.baseurl }}{% post_url 2007-08-19-Timeless %}">blog draining</a> from yesterday: <a href="http://www.kstallworth.com/">Kristopher Stallworth</a> of Bakersfield found a poster of Gursky's "99 Cent Store" hanging in -- where else? -- a 99 Cent Store, and <a href="http://www.jmcolberg.com/weblog/2007/08/99_cents_at_99_cents_only_stor.html">Conscientious has the shot.</a> 
 
 When Gursky was here at SFMOMA a couple of years back, he commented that he had met the CEO of K-Mart, who also had a (probably "real" and pricey) print of "99 Cent Store" in his office. It was left ambiguous as to whether the exec felt that the photo criticized or glorified its subject... a little less ambiguous in Stallworth's discovery?
 

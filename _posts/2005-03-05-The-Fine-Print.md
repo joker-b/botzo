@@ -22,7 +22,7 @@ The gallery also had, in the upsatirs area, some <a href="http://monakuhn.com/">
 
 <hr width="20%" align="center">
 
-The detail comparisons are the obvious ones. Can a 2K&#215;3K digi-cam image stand up next to a 5K&#215;5K scan from a 6x6 negative? I keep asking this same question. My feeling so far is that the MF always wins on tonal range and the look of MF <i>bokeh.</i> My MF cameras these days are my old YashicaMat and a recently-acquired even older cheapo one, but at f/8 or higher they are fantastic in tone and sharpness, easily close to the level of a Rollei (flare notwithstanding). The digi is the <a href="/blog/archives/000292.html">Cantax.</a> The Contax Zeiss glass really seems to pay off best as the sensor gets smaller. It's also a flatter field.
+The detail comparisons are the obvious ones. Can a 2K&#215;3K digi-cam image stand up next to a 5K&#215;5K scan from a 6x6 negative? I keep asking this same question. My feeling so far is that the MF always wins on tonal range and the look of MF <i>bokeh.</i> My MF cameras these days are my old YashicaMat and a recently-acquired even older cheapo one, but at f/8 or higher they are fantastic in tone and sharpness, easily close to the level of a Rollei (flare notwithstanding). The digi is the <a href="{{ site.baseurl }}{% post_url 2004-02-28-The-Cantax %}">Cantax.</a> The Contax Zeiss glass really seems to pay off best as the sensor gets smaller. It's also a flatter field.
 
 In raw detail from the scene, the digi holds up well against 6&#215;6 TXP and Neopan 400, processed in Rodinal 1+50. Though the visible grain of the film itself could be considered an extra edge. Against Neopan Acros, the old Yashica wins again. Guess I'll be using more of that  &#151; at the moment, Acros is one of the cheapest MF films that B&amp;H stocks. Sodding chore to scan it on my flatbed, though.
 
@@ -30,4 +30,4 @@ The second comparison is between B&amp;W printing via <a href="http://harrington
 
 <hr width="20%" align="center">
 
-<i>PS: Yes, I know that Kyocera this week announced that all <a href="/blog/archives/000378.html">Contax film camera</a> production is halted, and digi by the end of the year. I almost never seem to buy any gear new anyway, heh.</i>
+<i>PS: Yes, I know that Kyocera this week announced that all <a href="{{ site.baseurl }}{% post_url 2005-02-28-Fastest-Thumb-in-the-West %}">Contax film camera</a> production is halted, and digi by the end of the year. I almost never seem to buy any gear new anyway, heh.</i>
