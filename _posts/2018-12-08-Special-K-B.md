@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Special Ks
+title: "Special Ks (B)"
 categories: [Botzilla]
 tags: [Javascript, Algorithms]
 ---
 
-<canvas width="700" height="350" id="km_sample2" class="align-center">
+<canvas width="700" height="350" id="km_sample2B" class="align-center">
 </canvas>
 
 <script>
-	var sample2 = {
+	var sample2B = {
 		pts: null,
 		m: null,
 		canvas: null,
@@ -28,7 +28,7 @@ tags: [Javascript, Algorithms]
 			c = c.map(function(x) { return Math.min(255, Math.floor(255*x));});
 			return c;
 		},
-		init_sample2_data: function(nPoints, mMeans) {
+		init_sample2B_data: function(nPoints, mMeans) {
 			// define a bunch of points, ten randomly place a few mean candidates
 			var i, j;
 			var inset = 0.1;
@@ -120,12 +120,12 @@ tags: [Javascript, Algorithms]
 							     y: (this.pts[ip].y * h)};
 						this.ctx.strokeStyle = (this.pts[ip].m === null) ? '#d0d0d0' : ('rgba('+this.m[im].cv.join(',')+','+a+')');
 						this.ctx.beginPath();
-						this.ctx.moveTo(p.x-mSize, p.y);
-						this.ctx.lineTo(p.x+mSize, p.y);
+						this.ctx.moveTo(p.x-mSize, p.y-mSize);
+						this.ctx.lineTo(p.x+mSize, p.y+mSize);
 						this.ctx.stroke();
 						this.ctx.beginPath();
-						this.ctx.moveTo(p.x, p.y+mSize);
-						this.ctx.lineTo(p.x, p.y-mSize);
+						this.ctx.moveTo(p.x-mSize, p.y+mSize);
+						this.ctx.lineTo(p.x+mSize, p.y-mSize);
 						this.ctx.stroke();
 					}
 				}
@@ -202,8 +202,9 @@ tags: [Javascript, Algorithms]
 						c.y += this.pts[ip].y;
 					}
 				}
-				this.m[im].x = c.x/n;
-				this.m[im].y = c.y/n;
+				speed = 0.1;
+				this.m[im].x += speed * (c.x/n - this.m[im].x);
+				this.m[im].y += speed * (c.y/n - this.m[im].y);
 				// now let's back up
 				var dp = 12.0; // some larger-than-the-rnage value
 				for (ip=0; ip<this.pts.length; ip+=1) {
@@ -263,7 +264,7 @@ tags: [Javascript, Algorithms]
 		},
 		startup: function() {
 			// also called whenever we re-start
-			this.init_sample2_data(500,12);
+			this.init_sample2B_data(500,12);
 			this.iter = 0;
 			window.requestAnimationFrame(this.looper.bind(this));
 		},
@@ -281,16 +282,14 @@ tags: [Javascript, Algorithms]
 			this.startup();
 			this.canvas.onclick = this.toggle_pause.bind(this);
 		}
-	}
-	//window.onload = function s2() {sample2.main("km_sample2"); };
-	window.addEventListener('load', function s2() {sample2.main("km_sample2"); });
+	};
+	// window.onload = function s2() {sample2B.main("km_sample2B"); };
+	window.addEventListener('load', function s2() {sample2B.main("km_sample2B"); });
 </script>
 
 A follow-on to the [last post on _k-Means_]({{ site.baseurl}}{% post_url 2018-12-05-K-Means %}) &mdash; this time, we use different criteria to determine "closeness" and to adjust where we move things around.
 
 <!--more-->
-
-### The Idea
 
 For this behavior, we add a "view direction" to each mean point (the pointer): it can only consider the points in front of it, each like a little fish-eyed security camera.
 
@@ -300,17 +299,9 @@ Overall the method is much like before, but with a bit more frenetic results:
 * _Aim_ each mean toward the middle of its "owned" points, and move it slightly "back" from the middle of their location.
 * Repeat as before.
 
-### The Example
-
-As with many simple methods, it fascinates me that simple rules can give rise to the sorts of complex behaviors that we usually ascribe to animals or other agents with some "intelligence." I would be remiss not to point out [the impact this idea has had in the sciences](https://www.edge.org/conversation/iain_couzin-ants-have-algorithms) ever since it was first pointed out by my friend [Craig Reynolds,](https://www.red3d.com/cwr/boids/) all the way back at Siggraph of 1987 or so.
-
-In the current case, the mean objects behave as if they are "tending" or "herding" their data. There's even an illusion of cooperation and competition, like hummingbirds at a feeder or wasps buzzing around a nest. A sense of organization though there's no _explicit_ connection between the different means &mdash; except for implicit contraints on the sizes of their own "flocks" of sample points, each mean-agent is unaware of the others.
-
-It's also true, unlike the previous example, that there will often be sample points that are unseen entirely by any mean-agent &mdash; indicated by faint gray.
-
-Each of these examples in self-contained in the HTML for the post. You can review it either by selection "View Page Source" in your browser, or (easier!) viewing _this page on GitHub._
+As with many "generative" methods, it fascinates me that such simple rules can give rise to complex behaviors that we usually ascribe to animals with some intelligence. In this case, the mean objects behave as if they are "tendng" or "herding" their data. There's even an illusion of cooperation and competition, like humminbirds at a feeder or wasps buzzing around a nest. An sense of organization though there's no _explicit_ connection between the different means.
 
 Suggested soundtrack: Philip Glass, _Einstein on the Beach._
 
-[Next up:]({{ site.baseurl}}{% post_url 2018-12-10-K-Pix %}) didn't I say this would get around to photography?
+Next up: didn't I say this would get around to photography?
 
