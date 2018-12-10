@@ -2,7 +2,7 @@
 layout: post
 title: "A Matter of Proportion"
 categories: [PhotoRant]
-tags: [Analog,Darkroom]
+tags: [Analog,Darkroom,Printing]
 ---
 ![Printing to the edge of the paper from a 35mm full frame, you lose either paper or picture]({{ 'http://www.botzilla.com/bpix/FrameWaste2.jpg' | absolute_url }}){: .align-right}
 

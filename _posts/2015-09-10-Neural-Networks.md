@@ -2,7 +2,7 @@
 layout: post
 title: "Neural Networks"
 categories: [Botzilla]
-tags: [Machine Learning]
+tags: [Machine Learning,neurography]
 ---
 
 

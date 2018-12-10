@@ -2,7 +2,7 @@
 layout: post
 title: "ChartThrob: A Tool for Printing Digital Negatives"
 categories: [GearHead]
-tags: [Analog,Digital,Darkroom]
+tags: [Analog,Digital,Darkroom,Printing]
 markdown: kramdown
 ---
 ![The ChartThrob Chart]({{ 'http://www.botzilla.com/blog/pix2007/CT107.jpg' | absolute_url }}){: .align-center }

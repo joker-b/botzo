@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrating Choices"
 categories: [PhotoRant]
-tags: [Canon,Lumix,Analog,Bronica]
+tags: [Canon,Lumix,Analog]
 ---
 
 

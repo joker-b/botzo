@@ -2,7 +2,7 @@
 layout: post
 title: "The Fine Print"
 categories: [fStop]
-tags: [Analog,Canon,Contax,Fujifilm]
+tags: [Analog,Canon,Contax,Fujifilm,Printing]
 ---
 
 

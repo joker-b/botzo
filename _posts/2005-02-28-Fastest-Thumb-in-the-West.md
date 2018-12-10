@@ -26,7 +26,7 @@ Universally, these complaints come from folks who hold the camera wrongly (if at
 
 The Contax G (like the Nikon F6) <i>can</i> be used as a point-n-shoot. Sometimes that's all you need. But just because the camera can be operated by a three-year-old <i>doesn't mean that's the way it should always be used</i> (this is a problem many users have with all sorts of equipment, BTW. In the face of technology that's increasingly idiot-proofed, people often think that it gives them a free license to be an idiot, or even the belief that idiocy is required).
 
-The solutions are actually all in the Contax manual! But bits and pieces of crucial info are scatteed on odd pages. Further, the siren song of automation probably keeps a lot of folks from ever reading the Contax manual (here's a Leica advantage, all right &#151; you need to know at least a <i>little bit</i> about what you're doing before you start. The manual struggle of just loading a camera like the M7 keeps most three year olds at bay).
+The solutions are actually all in the Contax manual! But bits and pieces of crucial info are scattered on odd pages. Further, the siren song of automation probably keeps a lot of folks from ever reading the Contax manual (here's a Leica advantage, all right &#151; you need to know at least a <i>little bit</i> about what you're doing before you start. The manual struggle of just loading a camera like the M7 keeps most three year olds at bay).
 
 <hr width="20%" align="center">
 
