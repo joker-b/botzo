@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ini",
+				"initialReportComplete"
+			],
+			[
+				"add",
+				"add_keys"
+			],
+			[
+				"GA",
+				"GA_Emitter"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"se",
+				"set_payload"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2018-12-17-Hough.md",
+			"settings":
+			{
+				"buffer_size": 32627,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kevinbjorke/Google Drive/code/botzo",
+		"/Users/kevinbjorke/Google Drive/code/botzo/_posts"
+	],
+	"file_history":
+	[
+		"/Users/kevinbjorke/src/pi-connect-watch/README.md",
+		"/Users/kevinbjorke/src/pi-connect-watch/netwatch.py",
+		"/Users/kevinbjorke/src/Botz/mt-templates/ChartThron-Main.html",
+		"/Users/kevinbjorke/src/Botz/mt-templates/ChartThrob-Intro.html",
+		"/Users/kevinbjorke/src/Botz/AnalyzeThisToo.gs",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/uploadedImagePopup.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/trackbackListing.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/commentError.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/commentPvw.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/commentList.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/monthArch.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/entryArch.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/catArchive.html",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/styles-template.css",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/mtRSS20C.xml",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/mtRSS20.rdf",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/mtRSS10.rdf.xml",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/rsd.xml",
+		"/C/Users/bjorke/Documents/GitHub/Botz/mt-templates/masterArch.html",
+		"/C/Users/bjorke/Documents/GitHub/kbImport/index.html",
+		"/C/Users/bjorke/Documents/GitHub/kbImport/kbImport3.py",
+		"/C/Users/bjorke/Documents/GitHub/Photoshop/AllMine.jsx",
+		"/C/Users/bjorke/Documents/GitHub/kbImport/README.md",
+		"/C/Users/bjorke/Documents/kbImport3.py",
+		"/C/Users/bjorke/Documents/GitHub/ChartThrob/ChartThrob.jsx",
+		"/C/Program Files/Adobe/Adobe Photoshop CS6 (64 Bit)/Presets/Scripts/AllMine.jsx",
+		"/C/Users/bjorke/Documents/GitHub/ChartThrob/ps2ga.jsx",
+		"/C/Users/bjorke/Documents/Jordan temp/Letter of ref robbie.doc",
+		"/C/Users/bjorke/Documents/botz-stylees-site.css",
+		"/D/LocalVid/Aaron_Intvw/AudioTranscript.txt",
+		"/D/LocalVid/Aaron_Intvw/VideoCamTranscript.txt",
+		"/C/Users/bjorke/Documents/GitHub/ChartThrob/README.md",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/bjorke/Documents/webdev/positioning.html",
+		"/C/Users/bjorke/Pictures/vuMondoCarouselSource/manifest"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2018-12-17-Hough.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 424.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "botzo-mac.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
