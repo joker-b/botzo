@@ -49,15 +49,6 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "2018-12-17-Hough.md",
-			"settings":
-			{
-				"buffer_size": 32627,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -106,6 +97,10 @@
 	],
 	"file_history":
 	[
+		"/Users/kevinbjorke/Google Drive/code/botzo/_posts/2018-12-17-Hough.md",
+		"/Users/kevinbjorke/Google Drive/code/botzo/_posts/2018-12-05-K-Means.md",
+		"/Users/kevinbjorke/Google Drive/code/botzo/_posts/2018-12-10-K-Pix.md",
+		"/Users/kevinbjorke/Google Drive/code/botzo/_posts/2018-12-07-Special-K.md",
 		"/Users/kevinbjorke/src/pi-connect-watch/README.md",
 		"/Users/kevinbjorke/src/pi-connect-watch/netwatch.py",
 		"/Users/kevinbjorke/src/Botz/mt-templates/ChartThron-Main.html",
@@ -144,7 +139,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -158,6 +153,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"sample1",
+			"sample2",
+			"infin"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -175,7 +173,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -197,35 +195,6 @@
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "2018-12-17-Hough.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32627,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
