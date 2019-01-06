@@ -26,9 +26,16 @@
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
+	{% assign exc_s = entry.excerpt | strip_html %}
+	{% assign con_s = entry.content | markdownify | strip_html %}
+	{% if exc_s == con_s %}
+	<!-- Excerpt and content match: no need for more-link -->
+	{% else %}
+	<!-- Excerpt and content vary -->
         <div class="more-link">
           <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More' }}</a>
         </div>
+	{% endif %}
       {% endif %}
     </div>
   {% endunless %}
