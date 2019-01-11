@@ -146,7 +146,7 @@ Web apps like **Polarr** can do an acceptable job of editing JPG files. Polarr a
  
 Android-only apps are also available, and some, like **Snapseed,** can even edit RAW files. I haven't found much use for Adobe's Android versions of **Photoshop** and **Lightroom** -- despite my long-standing allegiance to their Mac and PC apps.
  
-Web apps have one advantage over Android editing apps in that they can (currently) access any storage attached to the Chromebook -- for example, they can load a JPG directly from the SD card. Android apps are not allowed to access external storage (yet), so you must first copy your files to the Chromebook's intenral storage, which is limited compared to the size of many SD cards.
+Web apps have one advantage over Android editing apps in that they can (currently) access any storage attached to the Chromebook -- for example, they can load a JPG directly from the SD card. Android apps are not allowed to access external storage (yet), so you must first copy your files to the Chromebook's internal storage, which is limited compared to the size of many SD cards.
  
 This restriction is also important if you want to export your photos to Android-centric apps like **Instagram** or **WeChat.** Those apps can only access files from the Chromebook local drive, so if you do edit a file from an external drive, be sure to save the edited copy locally, before sending it to those Android-based services.
  
