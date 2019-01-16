@@ -8,9 +8,9 @@ markdown: kramdown
 
 <img alt="SkinToner Sample" src="http://www.botzilla.com/img/pix2019/skinTonerBJRK7403ocs.jpg" class="align-center"  />
 
-I've seen a few video tutorials about getting good skintones in Photoshop. Some were [illuminating,](https://youtu.be/Wvr8LCSuFjE) or even [inspiring,](https://youtu.be/yMjb7sMiAsg) but all of them were more involved than they needed to be: using numeric templates or eyedropper-tool tricks in concert with the info panel and a calculator, etc.
+I've seen a few video tutorials about getting good skintones in Photoshop. Some were [illuminating,](https://youtu.be/Wvr8LCSuFjE) some even [inspiring](https://youtu.be/yMjb7sMiAsg) &mdash; but all were more involved than they needed to be: using numeric templates or eyedropper-tool tricks in concert with the info panel and a calculator, etc.
 
-Time for an easy select-and-click tool: <a href="http://www.botzilla.com/blog/archives/SkinToner.jsx"><strong><em>SkinToner</em></strong></a>
+Time for an easy select-click-done tool: <a href="http://www.botzilla.com/blog/archives/SkinToner.jsx"><strong><em>SkinToner</em></strong></a>
 
 <!--more-->
 _SkinToner_ works in any recent version of Photoshop, and should be able to present you with great-looking neutral skin tones for photos of anyone regardless of their complexion or ethnicity.
