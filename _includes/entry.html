@@ -34,7 +34,8 @@
 	{% else %}
 	<!-- Excerpt and content vary -->
         <div class="more-link">
-          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More' }}</a>
+          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More...' }}</a>
+	  <hr>
         </div>
 	{% endif %}
       {% endif %}
