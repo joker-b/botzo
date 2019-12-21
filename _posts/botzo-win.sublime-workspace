@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "2018-12-17-Hough.md",
-			"settings":
-			{
-				"buffer_size": 32627,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -58,11 +49,12 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/kevin/Documents/src/botzo",
-		"/C/Users/kevin/Documents/src/botzo/_posts"
+		"/C/Users/kevin/Documents/src/botzo"
 	],
 	"file_history":
 	[
+		"/C/Users/kevin/Documents/src/botzo/.gitignore",
+		"/C/Users/kevin/Documents/src/botzo/_posts/2018-12-17-Hough.md",
 		"/C/Users/kevin/Documents/src/sxrsdk/SXR/SDK/sxrsdk/src/main/java/com/samsungxr/nodes/SXRTextViewNode.java",
 		"/C/Users/kevin/.gradle/gradle.properties",
 		"/C/Users/kevin/Documents/src/GearVRf-Demos/gvr-tutorial-lesson2/app/src/main/java/org/gearvrf/balloons/BalloonMain.java",
@@ -107,38 +99,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "2018-12-17-Hough.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32627,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24468,
-								24468
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 15690.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
