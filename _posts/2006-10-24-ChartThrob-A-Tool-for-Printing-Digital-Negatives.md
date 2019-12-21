@@ -7,15 +7,15 @@ markdown: kramdown
 ---
 ![The ChartThrob Chart]({{ 'http://www.botzilla.com/blog/pix2007/CT107.jpg' | absolute_url }}){: .align-center }
 
-_Updated Nov 2018_
+_Updated Jan 2019_
 
-A few months back at a <a href="http://www.pacificartleague.org/members/phig/phig.html">PHIG</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process to make <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a>
+In 2006, at a <a href="http://www.pacificartleague.org/">Pacific At League</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process to make <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a>
 
-I figured this labor-intensive process could be automated, so: I automated it, and made a tool called <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's now available for public, free-for-everyone <s>ab</s>use.
+I figured this labor-intensive process could be automated, so: I automated it, and made a tool called <a href="http://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's available for public, free-for-everyone <s>ab</s>use.
 
 <!--more-->
 
-<h3>Version: 1.14 &mdash; April 2016 </h3>
+<h3>Version: 1.15 &mdash; Jan 2019 </h3>
 
 <strong><em>ChartThrob</em></strong> is a a JSX-format javascript for <a href="http://www.adobe.com/">Adobe Photoshop.</a> It works with all versions of Photoshop since Photoshop CS2. It works for both Windows and Mac versions of Photoshop. Since 2006 thousands of photgraphers have used ChartThrob to make terrific prints. It's used in college photo curricula and can even be used to optimize picture quality in self-published photo books through services like Blurb and Lulu. And: It's free.
 

@@ -26,15 +26,24 @@
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
+	{% assign exc_s = entry.excerpt | strip_html %}
+	{% assign con_s = entry.content | markdownify | strip_html %}
+  <!-- extra_content: {{ extra_content }} -->
+	{% if exc_s == con_s %}
+	<!-- Excerpt and content match: no need for more-link -->
+	{% else %}
+	<!-- Excerpt and content vary -->
         <div class="more-link">
-          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More' }}</a>
+          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More...' }}</a>
+	  <hr>
         </div>
+	{% endif %}
       {% endif %}
     </div>
   {% endunless %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
-      {% if site.read_time %}{% include read-time.html %}{% endif %}
+      {% if site.read_time and exc_s != con_s %}{% include read-time.html %}{% endif %}
       {% if entry.date %}{% include entry-date.html %}{% endif %}
     </footer>
   {% endif %}

@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 *.sublime-workspace
 _posts/botzo-win.sublime-workspace
+*.tar.gz

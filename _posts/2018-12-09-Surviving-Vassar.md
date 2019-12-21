@@ -7,4 +7,4 @@ image:
 categories: [fStop]
 tags: [Fujifilm]
 ---
-<i>"Photos have no narrative content. They only describe light on surface."</i> - GW
+<i>"Photos have no narrative content. They only describe light on a surface."</i> - GW
