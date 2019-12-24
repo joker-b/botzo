@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slow News Day"
-categories: [PhotoRant]
+categories: [PhotoRant,Korea]
 ---
 
 

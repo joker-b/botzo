@@ -2,7 +2,7 @@
 layout: post
 title: "Fragility"
 categories: [fStop]
-tags: [Contax,Analog]
+tags: [Contax,Analog,England]
 ---
 
 

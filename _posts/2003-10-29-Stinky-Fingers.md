@@ -2,7 +2,7 @@
 layout: post
 title: "Stinky Fingers"
 categories: [fStop]
-tags: [Analog,Darkroom]
+tags: [Analog,Darkroom,Japan]
 ---
 
 

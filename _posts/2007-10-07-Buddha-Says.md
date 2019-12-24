@@ -2,7 +2,7 @@
 layout: post
 title: "Buddha Says"
 categories: [fStop]
-tags: [Lumix]
+tags: [Lumix,Japan]
 ---
 
 
