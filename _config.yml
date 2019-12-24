@@ -47,7 +47,7 @@ search_full_content: false
 
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
-copyright: "All site content ©1997-2018 by Kevin Bjorke"
+copyright: "All site content ©1997-209 by Kevin Bjorke"
 
 plugins:
   - jekyll-sitemap
