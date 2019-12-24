@@ -8,5 +8,4 @@ categories: [fStop]
 tags: [NYC, Fujifilm,LiquiditySF]
 ---
 
-More from the "missing Botzilla archives."
 
