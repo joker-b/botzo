@@ -2,7 +2,7 @@
 layout: post
 title: "Motion Blur"
 categories: [fStop]
-tags: [Canon,Contax,Analog]
+tags: [Canon,Contax,Analog,Japan]
 ---
 
 

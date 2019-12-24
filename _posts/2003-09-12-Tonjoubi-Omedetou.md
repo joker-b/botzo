@@ -2,7 +2,7 @@
 layout: post
 title: "Tonjoubi Omedetou"
 categories: [fStop]
-tags: [Contax,Analog]
+tags: [Contax,Analog,Japan]
 ---
 
 
