@@ -10,7 +10,7 @@ tags: [Health, Epidemic, Math, Algorithms, Python]
 
 _How can I avoid being infected by the current pandemic? What's my risk? What are realistic safety margins?_ Let's find out! It's not difficult with a little focused thought.
 
-The internet today is full of confusing information, but on this page you can see the math yourself to decide what's best for you, the people you care about, and to keep _yourselves_ safe.
+The internet today is full of confusing information, but on this page you can get the math yourself to decide what's best for you, the people you care about, and to keep _yourselves_ safe.
 
 ## **TL;DR:**
 * The epidemic is big, but your personal decisions about your safety can give you control. Don't be a statistic.
@@ -29,6 +29,8 @@ The math of epidemics is based on statistics, and you take your bets. But just l
 
 Maybe you hated high school math. That's okay -- if you're reading this, you have a computer. You're covered: let the computer do it. _You don't have to read equations to benefit from them._
 
+If you do want the equations, here's <a href="https://colab.research.google.com/drive/1hMDK4EIDLYARerGvokSK2se-smFZ2RpQ">my original notebook on Google Colabratory</a> (I don't work for Google, it's just a great tool). I very much welcome comments and suggestions for improvement.
+
 The math you'll find here, hidden behind the graphs and available to anyone who wants to improve it, repurpose it, or see for themselves, never uses basic concepts more complex than middle-school arithmetic -- just a lot of them chained together.
 
 ### Common Sense is not Enough
@@ -43,9 +45,9 @@ _"What's my risk?"_ is similar to the high school math-class question: _"How man
 
 There's a simple formula to figure out your chances for figuring your chance for tossing heads ten times: just multiply the chances of _not_ tossing heads, ten times. Or in Math notation,
 
-> $chanceOfTails^{numberOfTosses}$
+> `pow(chanceOfTails,numberOfTosses)`
 
-and subtract that from 100%.
+and subtract that reseult from 100%.
 
 <figure class="align-center">
 <img alt="coins" src="http://botzilla.com/pix2020/safe-01.png">
@@ -168,7 +170,7 @@ The problem comes from _delays._ On average, people don't have any symptoms for 
 
 For any given day, even with perfect testing, the daily risk is only reduced by about one-quarter. This is important, but testing and isolating sick people will only help so much.
 
-### How Can I Help This End Quickly?
+## How Can I Help This to End Quickly?
 
 Glad you asked! The same measures you take to keep yourself safe, to keep safe your
 family and everyone dear to you, are _the same measures that will end the epidemic
@@ -177,6 +179,8 @@ for everyone._
 If you get infected, there's a risk you will infect others. But back to **Cheat #1** and the **Zero Option:** _you won't lose a game if you don't play._
 
 The more people who can fight back by staying in control of their daily exposure will not only be healthier, they'll reduce the number of hosts for the virus to exploit. The size of the pot will shrink, and the game will end safely all the sooner.
+ 
+## Where "Common Sense" Wins: Remember What's Really Important
 
 **Cheat #5: Don't Spend All Your New "Free Time" Anxiously Clicking Links.** It will stress you out. Stress will mess with your immune system, and rob you of sleep. Follow your plan, you're in your own personal army for the duration. Your plan should include a positive attitude.
 
