@@ -56,6 +56,11 @@ At some point in prehistory, gesture became drawing. Maps appear to have been so
 
 A big difference is that a drawn gesture is now recrded as a persistent _object._ The listener(s) may actually get the story on another day, without the person who made that object being present. A listener becomes a _viewer_ -- a a viewer who can copy or refine a object-message. Color it, edit it, re-express in wood or stone or sand. If a line could represent a journey, maybe it could show what kinds of animal were found at the end of it. What might happen with them. Who went on the trip.
 
+<figure class="align-center">
+<img alt="Utilla Ma" src="http://botzilla.com/pix2020/piedra-Cueva-de-Abauntz.jpg">
+<figcaption>13,000 years ago, someone made marks on this stone in what's now Spain.<br/>Centuries later archeologisits realized that it presents a map<br/> of the valley outside the mountain cave where it was found.</figcaption>
+</figure>
+
 The ever more ornate permutations of symbolic expression were paralleled in sound -- in song and then through musical instruments (there are flutes nearly as old as the cave paintings of Lascaux). Gesture when mixed with music became dance, while speech mixed with drawing became writing.
 
 All of them connect physicality to both the expression and comprehension of ideas. Even the most inert concertgoer or reader is moving mentally, ideas building and bridging between paragraphs or _passionato._ Watch someone listening to a favorite piece of music, or listening to a story or instructions on how to assemble a Lego set. The connections between physical motion, thought, and expression are clear.
