@@ -8,11 +8,9 @@ categories: [GearHead]
 tags: [Books,Fujifilm,Digital,Chromebook,Samsung,Linux,Lumix,Leica,iOS]
 ---
 
-It's been almost three years since the <a href="{{ site.baseurl }}{% post_url 2017-07-19-The-New-Fuji-Chrome-Fujifilm-X-and-Chromebook %}">previous post on using a Chromebook with Fujifilm cameras.</a> How are things today, in 2020, after several newly-released cameras, OS editions, and improved Chromebooks? What about... iPad? Have other camera brands started to catch up?
+It's been almost three years since the <a href="{{ site.baseurl }}{% post_url 2017-07-19-The-New-Fuji-Chrome-Fujifilm-X-and-Chromebook %}">previous post on using a Chromebook with Fujifilm cameras.</a> How are things today, in 2020, after several newly-released cameras, OS editions, and improved Chromebooks? What about... iPad? In this and following posts I'll be looking at the current options and will describe how I'm integrating ChromeOS into my photography (and general) workflows.
 
-In this and following posts I'll be looking at the current options and will describe how I'm integrating ChromeOS into my photography (and general) workflows.
-
-This small series was triggered by the recent addition of the <a href="https://www.samsung.com/us/computing/chromebooks/galaxy-chromebook/">Samsung Galaxy Chromebook</a> to my working kit. Like Samsung's other premiere Chromebooks, it arrives with a touchscreen, pressure-sensitive integrated pen, micro-SD reader (now supporting the high-speed UHS protocol), and support for Android apps. For the Galaxy, you get a solid aluminum frame that's  _lighter_ than the Macbook Air, 4K OLED display, and finally Samsung has shipped a top-tier Chromebook that sports an Intel processor (<a href="https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i5-10210u-processor-6m-cache-up-to-4-20-ghz.html">i5-10210U</a>) with support for  native Linux.
+This small series was triggered by the recent addition of the <a href="https://www.samsung.com/us/computing/chromebooks/galaxy-chromebook/">Samsung Galaxy Chromebook</a> to my working kit. Like Samsung's other premiere Chromebooks, it arrives with a touchscreen, pressure-sensitive integrated pen, micro-SD reader (now supporting the high-speed UHS protocol), and support for Android apps. For the Galaxy, you get a solid aluminum frame that's  _lighter_ than the Macbook Air, 4K OLED display, and finally Samsung has shipped a top-tier Chromebook that sports an Intel processor (<a href="https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i5-10210u-processor-6m-cache-up-to-4-20-ghz.html">i5-10210U</a>) with support for both Android apps _and_ native Linux.
 
 Basically: the machine I've been waiting for since 2017. Did I mention it's orange?
 
@@ -25,17 +23,17 @@ In this first 2020 post, we'll look at moving photos from SD cards to Chromebook
 > 
 > The addition of robust Linux is a big step up for ChromeOS workflows, as are other recent additions such as improved **Files** app, Android applications from vendors like Adobe, and the advent of wireless self-archiving drives and SSD's. Due to overlapping security concerns between _The Three Domains_ -- Chrome, Android, and Linux -- the storage methods are not always obvious, and depend on your needs. Some Android import applications, particularly **Lightroom,** are still lagging behind their Mac, Windows, and iOS siblings.
 
-## Starting with a Worst Case: Direct Backup to Google Drive Cloud
+## Starting with a Worst Case: Direct Backup to Cloud
 
 Before we can edit photos on computer we need to get them there. Let's begin by stepping back to the days before Cameras with Wifi, and transfer the first batch of test photos not from a modern Fuji but an aging yet still-functional PanaLeica Lumix LX7 (aka Leica DLux-6, for all practical purposes), set in its cornea-blistering <a href="https://www.dpreview.com/reviews/panasonic-lumix-dmc-lx7/5">"Impressive Art Mode"</a> (but with RAW backup files). Our first test will look at 614MB of mixed jpeg and raw files, stashed on a vintage SDHC Class-4 card mounted to a Letscom USBC02 USB-C hub.
 
-When you add such a drive to the Chromebook, Google's **Files** app will open, and offer to backup your SD files to **Google Drive.** I habitually ignore this offer, but for the sake of this article, I wondered: "how slow can it be?"
+When you add such a drive to the Chromebook, Google's **Files** app will open, and offer to backup your SD files to Google Drive. I habitually ignore this offer, but for the sake of this article, I wondered: "how slow can it be?"
 
 The answer: _very, very slow._
 
-Backing up those 108 files to **Google Drive** burned nearly _two hours:_ 116 minutes.
+Backing up those 108 files to Google Drive burned nearly _two hours:_ 116 minutes.
 
-The test files appeared in a **Google Drive** folder named `My Drive/Chrome OS Cloud backup/2020-04-10` -- **Google Drive's** web page showed thumbnails for all of the images, though it had some hidden issue related to the raw (`.RW2`) files in web preview. They _do_ open but the web page also announces some unseen error. If you're just using Google Cloud as a transfer/backup mechanism to share with other computers, this might not be a big deal.
+The test files appeared in a Google Drive folder named `My Drive/Chrome OS Cloud backup/2020-04-10` -- Google Drive's web page showed thumbnails for all of the images, though it had some hidden issue related to the raw (`.RW2`) files in web preview. They _do_ open but the web page also announces some unseen error. If you're just using Google Cloud as a transfer/backup mechanism to share with other computers, this might not be a big deal.
 
 In the Chromebook **Files** app, the raw files appear normally, except that they're mysteriously listed as TIFF files. **Files** lets you define default applications for each file type, so I set the `.RW2` default to <a href="https://rawtherapee.com/">**RawTherapee,**</a> a very capable Linux-based RAW processor.
 
@@ -44,11 +42,11 @@ In the Chromebook **Files** app, the raw files appear normally, except that they
 <figcaption><b>RawTherapee</b> in action, editing a slightly-less-eye-burning edition of the photo from the top of this article (result at the article's end). The results can either be saved directly, or passed on (via the little gear icon at the bottom) to another app for further processing. In this case, that extra app was <b>GIMP.</b></figcaption>
 </figure>
 
-It's very evident that the Chrome team have been improving the filesystem connections between "the three domains" in ChromeOS -- the standard ChromeOS file system (which includes both local storage and **Google Drive**), the storage available for Android apps, and the storage available for Linux. When opening an image via **Files** you often don't need to care too much about domain boundaries. The context menu for a `.RW2` file on my system shows that you can "Open with..." a half-dozen different applications, some of which are linux-based even though the source drive is _not_ tagged "Share with Linux." **Files** manages the cross-domain transport for you as it pulls the data from the cloud.
+It's very evident that the Chrome team have been improving the filesystem connections between "the three domains" in ChromeOS -- the standard ChromeOS file system (which includes both local storage and Google Drive), the storage available for Android apps, and the storage available for Linux. When opening an image via **Files** you often don't need to care too much about domain boundaries. The context menu for a `.RW2` file on my system shows that you can "Open with..." a half-dozen different applications, some of which are linux-based even though the source drive is _not_ tagged "Share with Linux." **Files** manages the cross-domain transport for you as it pulls the daata from the cloud.
 
 <figure class="align-center">
 <img alt="Files App" src="http://botzilla.com/pix2020/Files-Context1.jpg">
-<figcaption>ChromeOS's <b>Files</b> app showing JPG and RW2 images saved on **Google Drive**, and contextual menu choices for <tt>RW2</tt> files.</figcaption>
+<figcaption>ChromeOS's <b>Files</b> app showing JPG and RW2 images saved on Google Drive, and contextual menu choices for <tt>RW2</tt> files.</figcaption>
 </figure>
 
 This type mapping doesn't _always_ work for local files -- for my local drive, `.RW2` files were recognized not as TIFF but as "RW2 Image" and I'd have to open them from **RawTherapee** in a more-manual manner (see "File Shuffling" at the end of this article).
@@ -67,33 +65,31 @@ As before, my preferred case is to work from an external SSD -- today's tests wi
 
 Ask ten photographers aboout their filing systems, and you'll probably get a dozen different answeres, even if three of those photographers report "I don't have one."
 
-Some automated backup systems decide for you: as described above **Google Drive** sorts by date, ignoring the structure of the original camera's `DCIM` folder and subfolders -- in our test case, a single `DCIM/PANA_109/` to contain all the test shots of the day.
+Some automated backup systems decide for you: as described above Google Drive sorts by date, ignoring the structure of the original camera's `DCIM` folder and subfolders -- in our test case, a single `DCIM/PANA_109/` to contain all the test shots of the day.
 
 (SD-card layout can get even more complicated for video, especially on older cameras that use the complex `AVCHD` standard)
 
 In this article we'll mention just a few:
 
 * DCIM direct copy: just copy for DCIM folders via **Files**
-* **Google Drive** backup (already described, again via **Files**)
-* **Western Digital Wireless Pro** automated backup
-* **Adobe Lightroom** import
-* My own custom format, using **kbImport**
+* Google Drive backup (already described, again via **Files**)
+* Western Digital automated backup
+* Adobe Lightroom import
+* My own custom format
 
->### My Custom Structured-Storage Format
->
->This isn't a sales pitch: I have a personal, idiosyncratic format that I've used for a long time, across many different cameras and computers, varying media types, even for film storage. In fact it started wilth labels on individual bulk-loaded film rolls.
->
->In my own library, primary hard drives are rotated every year or two, and duplicated separately so that if one is accidentally lost there's a better chance for backup survival. Within each drive, there are three folders for photos, video, and audio, and those are further arranged by data and "job name." Individual pictures also get relabelled for ownership and job name. Here's a saved image path from the sample test:
->
->    `Pix/2020/2020-04-Apr/2020_04_10_LX7/bjorke_LX7_P1090129.RW2`
->
-> where "LX7" is the job name and `bjorke` is the owner. The dates and job names are redundant so that if images are shared there's a chance that the path back to the original file can be found. The template is roughly:
->
->    `Pix/YYYY-MM-Mon/YYYY_MM_DD[_jobname]/[prefix_][jobname_]original_filename`
->
->In this example, the original SD-card file was `DCIM/PANA_109/P1090129.RW2`
->
-> This complicated shuffling would be hard to manage by hand, so I wrote a <a href="https://github.com/joker-b/kbImport">python script called **kbImport**</a> that manages imports and relabeling in a single go, on a variety of computers: Linux, Mac, or Windows.
+#### My Custom Format
+
+This isn't a sales pitch: I have a personal, idiosyncratic format that I've used for a long time, across many different cameras and computers, varying media types, even for film storage. In fact it started wilth labels on individual bulk-loaded film rolls.
+
+In my library, primary hard drives are rotated every year or two, and duplicated separately so that if one is accidentally lost there's a better chance for backup survival. Within each drive, there are three folders for photos, video, and audio, and those are further arranged by data and "job name." Individual pictures also get relabelled for ownership and job name. Here's a saved image path from the current test:
+
+`Pix/2020/2020-04-Apr/2020_04_10_LX7/bjorke_LX7_P1090129.RW2`
+
+where "LX7" is the job name and `bjorke` is the owner. The dates and job names are redundant so that if images are shared there's a chance that the path back to the original file can be found.
+
+In the camera original, it was in `DCIM/PANA_109/P1090129.RW2`
+
+This complicated shuffling would be hard to manage by hand, so I wrote a <a href="https://github.com/joker-b/kbImport">python script called **kbImport**</a> that manages imports and relabeling in a single go, on a variety of computers: Linux, Mac, or Windows.
 
 Not everyone needs structured copying, and it's easy to just let a tool do it (before writing my own tool, I often used Adobe Bridge for this, too). Structured copying is usually slightly slower than simple copying, but it can save time later.
 
@@ -119,7 +115,7 @@ Western Digital's **My Cloud** Android app is one wireless mechanism for bringin
 <figcaption>Accessing the **WD Wireless Pro** via web browser when the drive is connected as a wifi server, and linking it to a home Wifi rouuter</figcaption>
 </figure>
 
-The WD has a range of connection features that go well beyond the scope of this already-long article, you can easily use it as a wireless NAS or a media server, too (you might need to upgrade it to SMB2 to work with newer computers). It can share files with iOS or other computers. It can charge your phone. Suffice to say that it's a powerful device, but fiddly to set up -- that complexity (not helped much by the obscure tech-jargon in the manual) might be enough to encourge you to drop the extra $850 for a Gnarbox.
+the WD has a range of connection features that go well beyond the scope of this already-long article, you can easily use it as a wireless NAS or a media server, too. Suffice to say that it's a powerful device, but fiddly to set up -- that complexity (not helped much by the obscure tech-jargon in the manual) might be enough to encourge you to drop the extra $850 for a Gnarbox.
 
 #### Lightroom
 
@@ -157,7 +153,7 @@ If your goal is to send your photo out on the web, **3M** might be okay. The sav
 
 ChromeOS, Android, and Linux all have different expectations about privacy. Linux users tend to want access to _everything,_ while ChromeOS and Android app-makers prefer a lot of control and privacy considerations, which don't entirely align between those two systems.
 
-This has led to the model I call _The Three Domains:_ every folder and file has a default location within these domains. A few special locations within **Files** are allowed to cross domains easily (**Google Drive** for instance, or the internal SD card). Others may occasionally need to have files explicitly shared or copied via **Files** -- the most common cases for this are when you want to move pictures from an Android app like **Snapseed** to linux. Without considerabe gymnastics, you're better-off just copying it to a Linux-accesible location, like your home directory or SD card.
+This has led to the model I call _The Three Domains:_ every folder and file has a default location within these domains. A few special locations within **Files** are allowed to cross domains easily (Google Drive for instance, or the internal SD card). Others may occasionally need to have files explicitly shared or copied via **Files** -- the most common cases for this are when you want to move pictures from an Android app like **Snapseed** to linux. Without considerabe gymnastics, you're better-off just copying it to a Linux-accesible location, like your home directory or SD card.
 
 (To professional Android developers: yes, you can also put an Android phone into Developer mode and then log-into it via <a href="https://developer.android.com/studio/command-line/adb">`adb shell`</a> to get a linux prompt inside the phone. Let's just not go there for this article, okay?)
 
