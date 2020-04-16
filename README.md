@@ -5,9 +5,15 @@ Simple dopey install:
 
 `cd ~/code/botzo && JEKYLL_ENV=production bundle exec jekyll build && cd ~/code/botzo/_site/; tar -czvf botzo.tar.gz *; chmod 666 botzo.tar.gz; scp botzo.tar.gz botzilla.com@botzilla.com:html/botzo.tar.gz; cd ~/code/botzo`
 
-and a similar tar extraction on botzilla.com:
+for Mac,
 
-login, then
+
+`cd ~/src/botzo && JEKYLL_ENV=production bundle exec jekyll build && cd ~/src/botzo/_site/; tar -czvf botzo.tar.gz *; chmod 666 botzo.tar.gz; scp botzo.tar.gz botzilla.com@botzilla.com:html/botzo.tar.gz; cd ~/src/botzo`
+
+for Chromebook, and a similar tar extraction on botzilla.com:
+
+login via `ssh botzilla.com@botzilla.com` then
+
 `cd html; tar -x -f botzo.tar.gz`
 
 ## some notes to myself
