@@ -6,6 +6,7 @@ image:
   thumbnail: http://www.botzilla.com/pix2020/bjorke_LakeCty_XEKB0615.jpg
 categories: [fStop]
 tags: [Sonoma, Epidemic, Fire]
+comments: true
 ---
 
 Driving an hour east on Saturday morning. Our goal: a quick impromptu run to Nevada to accompany my son and partner on the first leg of their return drive to NYU, after a Covid-escape summer.

@@ -79,6 +79,10 @@ defaults:
       comments: true
       share: true
 
+# commenting
+disqus:
+    shortname: botzilla
+
 # Site Author
 author:
   name: Kevin Bjorke 
