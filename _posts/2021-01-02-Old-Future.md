@@ -14,7 +14,7 @@ A New Year's trek to the northern tip of Point Reyes is becoming a ritual. Fog, 
 
 <!--more-->
 
-In December a few expired rolls of 120 film were discovered in a file cabinet. They came along for the walk along with the same twin-lens camera I used in High School. 
+In December a pocket's worth of expired rolls of 120 film were discovered in a file cabinet. They came along for the elk walk to feed the same twin-lens camera I used in High School. 
 
 Its mechanics are probably slowing, but the film is even weaker, and fogged by years of all-penetrating cosmic rays.
 
