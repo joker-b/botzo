@@ -23,7 +23,7 @@ I'd forgotten this experience. You choose your view, line it up, click the shutt
 No quick review. No likes (and no phone signal, here behind the hills and against the sea). The life of the picture is yet to come. Today you are just here.
 
 <figure class="align-center">
-<img alt="Shelter" src="http://botzilla.com/pix2021/bjorke_newyear_000332520012.jpg">
+<img alt="Looking West" src="http://botzilla.com/pix2021/bjorke_newyear_000332520012.jpg">
 <figcaption>Looking West</figcaption>
 </figure>
 
