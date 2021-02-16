@@ -80,3 +80,17 @@ testing for proper film feed
 <figcaption>AE</figcaption>
 </figure>
 
+<figure class="align-center">
+<img alt="AE" src="http://botzilla.com/pix2021/bjorke-2021-021-092-nikSpeed-001.jpg">
+<figcaption>AE</figcaption>
+</figure>
+
+<figure class="align-center">
+<img alt="AE" src="http://botzilla.com/pix2021/bjorke-2021-021-092-nikSpeed-002.jpg">
+<figcaption>AE</figcaption>
+</figure>
+
+<figure class="align-center">
+<img alt="AE" src="http://botzilla.com/pix2021/2021-021-092-nikSpeed-006.jpg">
+<figcaption>AE</figcaption>
+</figure>
