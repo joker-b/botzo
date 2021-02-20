@@ -8,19 +8,29 @@ categories: [fStop]
 tags: [Sonoma, PhotoRant, Analog]
 ---
 
-It's fashionable again to shoot with a film camera. Unfortunately, almost all of the world's film cameras are old, second hand, and often bought by photographers who've rarely if ever used a non-digital camera.
+How do you test your new, old, film camera? It looks great on the outside, but what might be hidden within?
 
-How can you know if a new-to-you film camera is any good?
+Nearly all film cameras available, at this point, are second-hand. Among those pre-owned treasures, even the "new" ones might be rather old. My Contax G2 was the last new-in-the-box 35mm camera I'll ever likely buy: purchased in 1995. My Bronica RF645, purchased in 2005, is already 16 years old. 
 
-This post has a few how-to tips.
+The challenge in buying used: how can you know if a camera or lens is... good to use? This brief how-to is meant to help, whether you've never shot with film before, or you've been at it since... forever.
 
 <!--more-->
 
+_A note on fashion: the following advice is for people who are buying cameras for shooting. If the looks are more important to you than the the function, that's great, too. You just don't need to deal with the issues below._
+
+# Film Cameras: What Goes Bad
+
+Cameras and watches have a lot in common. The mecahnics of opening and closing a shutter are much like the clockwork that drive a watch's second, minute, and hour hands. 
+
+Batteries and battery "acid"
+
 Testing lens
 
-testing meter
+testing meter - beware autoexposure
 
-testing shutter
+testing shutter speeds
+
+testing flash sync
 
 testing timer
 
