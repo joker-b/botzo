@@ -18,7 +18,7 @@ You can also connect most Fuji and other cameras directly to the drive via USB w
 
 ## Accessing Your Pictures
 
-After backing up, the hard drive can be connected to the Chromeboook either wirelessly or via wired connection. In theory, you could use apps like **kbImport** or **Files** to copy from an SD card connected to your computer to a WD drive also connected to the same computer, but there doesn't seem to be much advantage to that approach unless you want structured folders.
+After backing up, the hard drive can be connected to the Chromeboook either wirelessly or via wired connection. In theory, you could use apps like <a href="http://www.botzilla.com/gearhead/2020/04/09/kbImport.html"><b>kbImport</b></a> or **Files** to copy from an SD card connected to your computer to a WD drive also connected to the same computer, but there doesn't seem to be much advantage to that approach unless you want structured folders.
 
 Western Digital's **My Cloud** Android app is one wireless mechanism for bringing files from the drive into ChromeOS. You can get the app for iOS as well. But there is a better way: mounting the drive as a network share. This method works very well for Mac or Windows, right in the finder window, and can also work on phones with a helper app (but for such a case, you may as well use **My Cloud**). Chromebook's **Files** app has built-in "SMB" support to connect the WD, but I've had better results with the helper extension, <a href="https://chrome.google.com/webstore/detail/file-system-for-windows/mfhnnfciefdpolbelmfkpmhhmlkehbdf?hl=en">**File System for Windows.**</a>
 

@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 *.sublime-workspace
+*.code-workspace
 _posts/botzo-win.sublime-workspace
 *.tar.gz
 Gemfile.lock

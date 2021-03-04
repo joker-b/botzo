@@ -22,6 +22,10 @@ Using `site.baseurl` gives "" so use `site.url` or even (for testing locally) ju
 
 Local testing: `bundle exec jekyll serve` in the top directory, then navigate to http://localhost:4000/
 
+When installing, be aware that you may need to run `bundle install` and maybe `bundle update` -- the docs are not very good in regard to setting up ruby and jekyll for the first time on systems like WSL.
+
+To send photos to the site, use `scp` and subdirectories of `html/` e.g.:   `scp thing.jpg botzilla.com@botzilla.com:html/pix2020/thing.jpg`
+
 Jekyll options include `show_drafts` `future` and `unpublished` in the config -- use `--drafts` on the command line to also read from `/_drafts/` using the file dates.
 
 You can also add `--incremental` (aka `-I`) to get incremental builds -- still not an "official" feature but fine for local editing.

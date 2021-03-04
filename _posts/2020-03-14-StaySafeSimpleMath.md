@@ -5,7 +5,7 @@ image:
   path: http://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
   thumbnail: http://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
 categories: [Botzilla]
-tags: [Health, Epidemic, Math, Algorithms, Python]
+tags: [Health, Covid, Pandemic, Epidemic, Math, Algorithms, Python]
 ---
 
 _How can I avoid being infected by the current pandemic? What's my risk? How safe is "safe"? What are realistic safety margins?_ Let's find out! It's not difficult with a little focused thought.
