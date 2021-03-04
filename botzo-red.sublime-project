@@ -4,5 +4,11 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings":
+	{
+		"python.linting.pylintArgs": [
+	    "--indent-string=\"  \""
+		]
+	}
 }
