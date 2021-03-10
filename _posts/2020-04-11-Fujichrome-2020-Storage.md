@@ -120,7 +120,7 @@ Those caveats aside, it works well.
 
 For laptop use, you may want to turn resizing off. This is a _camera_ setting, not on the app! To alter it on the X-Pro2, when in playback mode, press the `Menu` button and then navigate to the `wrench` icon, then `CONNECTION SETTING`, then `WIRELESS SETTINGS`, and `RESIZE IMAGE FOR SMARTPHONE [3M]` -- turn it OFF to keep the transfered images their original sizes. Other cameras will have similar menu options.
 
-If your goal is to send your photo out on the web, the smaller **3M** size might be okay. The savings in file size (and thus time spent transfering) can be significant. Consider the X-Pro2 photo below: the full-size "normal" jpg is 9.9MB, while the resized **3M** version is less than 979KB. Roughly a 10x difference! 
+If your goal is to send your photo out on the web, the smaller **3M** size will usually be okay. The savings in file size (and thus time spent transfering) can be significant. Consider the stay-at-home X-Pro2 photo below: the full-size "normal" jpg is 9.9MB, while the resized **3M** version is less than 979KB. Roughly a 10x difference! 
 
 <figure class="align-center">
 <img alt="Fujifilm Camera Remote" src="http://botzilla.com/pix2020/bjorke_remote_acros_lg.jpg">
@@ -129,9 +129,9 @@ If your goal is to send your photo out on the web, the smaller **3M** size might
 
 #### File Shuffling
 
-ChromeOS, Android, and Linux all have different expectations about privacy. Linux users tend to want access to _everything,_ while ChromeOS and Android app-makers prefer a lot of control and privacy considerations, which don't entirely align between those two systems.
+ChromeOS, Android, and Linux all have different expectations about privacy. Linux users tend to want access to _everything,_ while the makers of ChromeOS and Android apps prefer a lot of security fencing, so that no app can access another's data except through controlled APIs -- _if_ both apps allow the transaction.
 
-This has led to the model I call _The Three Domains:_ every folder and file has a default location within these domains. **Files** has access to all of them. A few special locations within **Files** are allowed to croverlap domains easily (**Google Drive** for instance, or the internal SD card). Others may occasionally need to have files explicitly shared or copied between locations -- the most common cases for this are when you want to move pictures from an Android app like **Snapseed** to linux. Without considerabe gymnastics, you're better-off just copying it to a Linux-accesible location, like your home directory or SD card.
+This has led to the ChromeOS file-storage model I call _The Three Domains:_ every folder and file has a default location within these domains. **Files** has access to all of them. A few special locations within **Files** are allowed to overlap domains easily (**Google Drive** for instance, or the internal SD card). Others may occasionally need to have files explicitly shared or copied between locations -- the most common cases for this are when you want to move pictures from an Android app like **Snapseed** to linux. Without considerabe gymnastics, you're better-off just copying it to a Linux-accesible location, like your home directory or SD card.
 
 (To professional Android developers: yes, you can also put an Android phone into Developer mode and then log-into it via <a href="https://developer.android.com/studio/command-line/adb">`adb shell`</a> to get a linux prompt inside the phone. Let's just not go there for this article, okay?)
 
