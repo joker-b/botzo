@@ -44,6 +44,15 @@ The answer for all types of determined G users, in almost every case and as I've
 
 (etc)
 
+# Type-A and Celbrity
+
+The high prices of
+
+<figure class="align-center">
+<img alt="TR and T4" src="http://botzilla.com/pix2021/yashica-terry-richardson.jpg">
+<figcaption>Terry Richardson with Two Key Pieces of Photo Equipment.<br>Also, cameras.</figcaption>
+</figure>
+
 # Flash
 
 TLA200 - fashion
@@ -51,16 +60,21 @@ TLA360 - function
 
 # DX etc
 
-Zeiss charts
+# Type Z and MTF
 
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-biogon-2821-en.pdf
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-biogon-2828-en.pdf
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-planar-235-en.pdf
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-planar-245-en.pdf
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-sonnar-2890-en.pdf
+Because Zeiss is very much a Type-Z company (thank you for that, Zeiss!), they still publish data sheets and MTF charts for all the G lenses. 
 
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-hologon-816-en.pdf
-https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-vario-sonnar-35563570-en.pdf
+<dl>
+<dt>Lenses I've Used a Lot &amp; Will Happily Vouch For</dt>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-biogon-2821-en.pdf">The 21mm</a> the lens is great, the shoe-mount finder... a little too retro-twee for my taste. Any 21mm finder should do the trick. A great thing about 21mm is that as a portrait lens, you can get in crazy-tight with it. Most folks I've seen using this lens go for the Grand Canyon landscape vista approach. Whatever digs your hole.</dd>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-biogon-2828-en.pdf">The 28mm</a></dd>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-planar-235-en.pdf">The 35mm</a></dd>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-planar-245-en.pdf">The 45mm</a></dd>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-sonnar-2890-en.pdf">The 90mm</a></dd>
+<dt>The Other Two</dt>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-hologon-816-en.pdf">The 16mm</a> I borrowed one of these once. Kind of a chore to use. But hey, collectors: it's German.</dd>
+<dd><a href="https://www.zeiss.com/content/dam/consumer-products/downloads/historical-products/photography/contax-g/en/datasheet-zeiss-vario-sonnar-35563570-en.pdf">The <b>Zoom</b> 35-70</a> "Because we can" is the laudable reason that this lens exists, but the execution never really seems to have gotten "there." This lens was a contemporary of old zooms like the Nikkor 43-86, likewise avoided by people who were interested in sharpness, good color, or a lack of distortion.</dd>
+</dl>
 
 
 <figure class="align-center">
