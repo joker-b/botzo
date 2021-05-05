@@ -10,6 +10,10 @@ tags: [Fujifilm,Digital,Chromebook,Samsung,Linux,Lumix,Leica,Android,iOS]
 
 Wireless, standalone devices can provide camera archive storage without a laptop. They range from the luxury <a href="https://www.gnarbox.com/">Gnarbox SSD</a> to inexpensive spinning disks like my <a href="https://shop.westerndigital.com/products/portable-drives/wd-my-passport-wireless-pro-hdd#WDBVPL0010BBK-NESN">Western Digital Wireless Pro</a>, which trades speed and weight for price (the Gnarbox also provides "folder presets" to allow custom structured-on-import storage like the system I described <a href="{{ site.baseurl }}{% post_url 2020-04-09-kbImport %}">here</a>).
 
+For my use, this is all good, and the WD can even function as an _ad hoc_ NAS.
+
+<!--more-->
+
 The WD isn't terribly expensive: around $150 for my 2TB spinning disk. An SSD version is available for $800 -- lighter, (maybe) more rugged, and faster -- at a cost. The smaller 1TB Gnarbox 2 is currently about $900.
 
 The WD Pro has a simple backup mechanism: turn it on, put in the SD card, and press the backup button. It sorts imported files into simple folders ordered by time-of-import.
