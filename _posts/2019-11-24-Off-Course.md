@@ -7,7 +7,7 @@ tags: [Bike, Fujifilm, Motorcycle]
 
 <figure class="align-center">
 <img alt="7AM" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8892.jpg">
-<figcaption>Going to the beach, Saturday morning.<br/>Last time there, I met elephant seals - they'd gotten lost in a storm.</figcaption>
+<figcaption>Motorcycling to the beach, Saturday morning.<br/>Last time there, I met elephant seals - they'd gotten lost in a storm.</figcaption>
 </figure>
 
 <figure class="align-center">
