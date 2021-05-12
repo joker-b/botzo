@@ -1,0 +1,12 @@
+cd ~/src/botzo/_posts/
+for f in 2021*
+do
+    d=`echo $f | sed -e 's/\(2021-..-..\)-.*/\1/'`
+    n=`echo $f | sed -e 's/2021-..-..-//' -e 's/\.md//'`
+    n2="../../gbotz/content/blog/$n"
+    echo $n2 from $f
+    t=`grep 'thumbnail:' $f | sed -e 's/.*pix2021/thumbnail: ..\/..\/assets\/pix2021/'`
+    mkdir $n2
+    sed -e "2idate: $d" -e "2i$t" -e '/^layout:/d' -e '/^image:/d' -e '/^ *path:/d' -e '/^ *thumbnail:/d' $f > $n2/index.md
+done
+cd ~/src/botzo/
