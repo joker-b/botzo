@@ -8,33 +8,52 @@ categories: [gearhead]
 tags: [Film, Analog, Leica]
 ---
 
-Visitor above the bird feeders.
+<!-- Visitor above the bird feeders. -->
 
-Weird but true department: a Fuji dedicated flash is my favorite for these non-dedicated Leica hot shoes.
+Weird but true department: a Fuji dedicated flash is my favorite for non-dedicated Leica hot shoes.
 
 <!--more-->
 
-Maybe making up for the fact that Leica makes the best strap for Fuji, but I use a Fuji strap on the M5 (it has weird lugs). And the 28mm finder that Fuji made for the X70 is perfect for the 28mm M-Rokkor.
+Maybe it's making up for the fact that Leica makes the best strap for Fuji, but I use a Fuji strap on the M5 (it has weird lugs). Or that the 28mm finder that Fuji made for the X70 is perfect for using the 28mm M-Rokkor. Probably not.
 
-Anyway, the flash: Fujifilm EF-X20.
+Anyway, here's the flash: Fujifilm EF-X20.
 
 <figure class="align-center">
-<img alt="Fuji EF-X20" src="http://www.botzilla.com/pix2021/rps20210513_151901_806.jpg">
+<img alt="Fuji EF-X20 flash + Leica M5" src="http://www.botzilla.com/pix2021/rps20210513_151901_806.jpg">
 <figcaption>Made for each other?</figcaption>
 </figure>
 
-No one seems to make little flashes like this any more: small and with manual controls. Contax used to make teh TLA200 but like most things Contax it's turned into a desirable fashion accessory: well over $200 for a decent-<i>looking</i> copy, and since it uses pricey hard-to-find CR2 batteries, you can't handily recharge. The Fuji uses rechargeable AAA's and btw, it's also a perfectly good dedicated Fuji flash.
+Only Fuji seems to make little flashes like this any more: small and with _manual controls._ Contax used to make the TLA200, but like most things Contax it's turned into a desirable fashion accessory: well over $200 for a decent-<i>looking</i> copy, and since it uses pricey hard-to-find CR2 batteries, you can't handily recharge which means it's not really so useable. Looks cool though.
 
-In the not-so-electronic days, there used to be little calculator sliders and dials on flash units. I made a spreadsheet for this one, it's <a href="https://docs.google.com/spreadsheets/d/1sxqd_ZHqzXUJZuiFlLL7VVdgwp3hViXtNEsi47nRxM8/edit?usp=sharing">here</a> on Google Docs. The only part I pay attention to is the chart for ISO 400, which looks like this:
+The Fuji uses rechargeable AAA's. Besides manual operation, it's also a perfectly good dedicated Fuji flash. With the X-Pro, I like to use it with an off-camera cord. It has a variable lens & can also run in manual-exposure multi-flash slave mode.
 
-<figure class="align-center">
-<img src="http://www.botzilla.com/pix2021/ISO-400-EFX20.jpg">
-<figcaption>ISO 400</figcaption>
-</figure>
+_(Edit: a little internet digging has revealed that I'm not alone in the love for this flash!)_
+
+## A Handy Calculator and Why You Might Not Need It
+
+Back in the not-so-electronic days, there used to be little calculator sliders and dials on flash units. Not any more! They leave you, err, in the dark. We can hack that.
+
+Here's a small and helpful <a href="https://docs.google.com/spreadsheets/d/1sxqd_ZHqzXUJZuiFlLL7VVdgwp3hViXtNEsi47nRxM8/edit?usp=sharing">calculator.</a> I'm trying to get the essentials to print small enough that I can just tape the a tiny printout of the parts I use most to the back of my strobe.
+
+This DIY calculator can live on your phone, on the web, or on paper. At least for Android, you can drop it right on your home screen. Regardless of how you access it, the calculator lets you quickly look up either:
+
+* What's my f/stop based on a distance and a power level?
+* What's my power level given a distance and f/stop?
+
+The second "reverse" question is usually more awkward to do in your head, if you're in bright ambient light (outdoors) using a camera with a low sync speed (the M5 is 1/50 sec -- the M240 is 1/180). The ambient light might force you to use a specific f/stop. I added a helper for _that,_ too.
+
+_In Practice:_ if, like me, you usually like to shoot 400 ISO with an older camera, keep around a 3-stop ND filter, which will knock your effective ISO down to 50 for using flash outdoors. Otherwise, even in shade your forced f/stop might be f/16, or even f/45 in the sun. With a 3-stop ND filter (or slow film), shaded f/stop is only around 5.6. At at that point, the flash can usefully get to that brightness for fill or even as a good contre-jour source.
+
+So for a camera with 1/50 sync speed (Leica M6, M5, Canon AE-1, etc), here's short enough formula to memorize:
+
+* 400 ISO + 3-stop ND filter (or 50 ISO film)
+* stay in the shade (or use the sun for strong backlight)
+* f/5.6
+* strobe at full or half-power
+* focus to 2 meters (what I think of as portrait distance most of the time).
+
+Pretty easy to memorize as a favorite setup: _ONE_ base setting. Use as-is or season to taste.
+
+If you favor a different film or have a higher sync speed, it's still pretty easy to look up a good base-value favorite for yourself. Write it on gaffer tape, stick it to the back our your gear, and leave the calculator in your pocket.
 
 
-So, if you're usually prefocused in the range of around two meters, you should dial the flash down to 1/4 power at around f/11, or to 1/16 for about the f/2.8-ish range... you're good to go. The precision is usually close-enough and is probably what you'd get from a non-TTL sensor anyway. Use this chart even a few times in practice, and you'll likely be able to remember it for your favorite ISO without looking.
-
-For walking around using Tri-X, I'd go for about 2 and a half meters, f/8, quarter power, _done._
-
-If you're going for the Bruce Gilden look and have a mechanical camera with a low-speed flash sync, you'll need to crank it up to f/16 and maybe even add a filter to not blow-out in daylight. How about backlit, yellow filter, two meters, half power, see what you get?
