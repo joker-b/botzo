@@ -47,13 +47,15 @@ _In Practice:_ if, like me, you usually like to shoot 400 ISO with an older came
 So for a camera with 1/50 sync speed (Leica M6, M5, Canon AE-1, etc), here's short enough formula to memorize:
 
 * 400 ISO + 3-stop ND filter (or 50 ISO film)
-* stay in the shade (or use the sun for strong backlight)
-* f/5.6
+* stay in the shade (or use the sun for strong backlight) _or darker_
+* f/5.6 (the same as open-shade-level ambience at your shutter speed of 1/50)
 * strobe at full or half-power
 * focus to 2 meters (what I think of as portrait distance most of the time).
 
 Pretty easy to memorize as a favorite setup: _ONE_ base setting. Use as-is or season to taste.
 
-If you favor a different film or have a higher sync speed, it's still pretty easy to look up a good base-value favorite for yourself. Write it on gaffer tape, stick it to the back our your gear, and leave the calculator in your pocket.
+Also remember, you're adding light -- if you subject's truly in full open shade, a full-power flash pop will double the light: the brightest regions will go to f/8. When in doubt: try it out.
+
+If you favor a different film or have a higher sync speed, it's still pretty easy to look up a good base-value favorite for yourself. Write it on gaffer tape, stick it to the back our your gear, and just leave the calculator in your pocket.
 
 
