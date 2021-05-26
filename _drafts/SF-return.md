@@ -8,10 +8,6 @@ categories: [fStop, grayscale]
 tags: [Ilford, Analog, Darkroom]
 ---
 
-After a long hiatus, a return to teh SF Financial District.
+After a long hiatus, a return to the SF Financial District, exactly one year since the original Shelter Order was declared.
 
-
-<!--more-->
-
-Extra learning: it's really hard to use a Nikon F2 when wearing a full-face helmet.
 
