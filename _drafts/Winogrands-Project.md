@@ -18,4 +18,9 @@ I look at the pictures I have done up to now, and they make me feel that who we 
 I cannot accept my conclusions, and so I must continue this photographic investigation further and deeper. This is my project
 
 
+George W Gardner http://kroutchev.blogspot.com/2014/02/george-w-gardner-b1940-is-american.html
+
+Robert Frank:
+longer, similar. America cities, leaders, followers, shoppers, rituals.... did Arbus also write a similar grant proposal? Haven't found one yet.
+
 
