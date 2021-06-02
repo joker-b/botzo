@@ -24,4 +24,16 @@ Robert Frank: https://americansuburbx.com/2012/07/robert-frank-a-statement-1958
 
 longer, similar. America cities, leaders, followers, shoppers, rituals.... did Arbus also write a similar grant proposal? Haven't found one yet.
 
+Arbus:
 
+## AMERICAN RITES, MANNERS AND CUSTOMS:
+
+“I want to photograph the considerable ceremonies of our present because we tend while living here and now to perceive only what is random and barren and formless about it. While we regret that the present is not like the past and despair of its ever becoming the future, its innumerable inscrutable habits lie in wait for their meaning. I want to gather them, like somebody’s grandmother putting up preserves, because they will have been so beautiful.
+
+There are the Ceremonies of Celebration (the Pageants, the Festivals, the Feasts, the Conventions) and the Ceremonies of Competition (Contests, Games, Sports), the Ceremonies of Buying and Selling, of Gambling, of the Law and the Show; the Ceremonies of Fame in which the Winners Win and the Lucky are Chosen or Family Ceremonies or Gatherings (the Schools, the Clubs, the Meetings). Then they are Ceremonial Places (The Beauty Parlor, The Funeral Parlor or, simply The Parlor) and Ceremonial Costumes (what waitresses wear, or Wrestlers), Ceremonies of the Rich, like the Dog Show, and of the Middle Class, like the Bridge Game. Or, for example: the Dancing Lesson, the Graduation, the Testimonial Dinner, the Séance, the Gymnasium and the Picnic, and perhaps the Waiting Room, the Factory, the Masquerade, the Rehearsal, the Initiation, the Hotel Lobby and the Birthday Party. The etcetera.
+
+I will write whatever is necessary for the further description and elucidation of these Rites and I will go wherever I can to find them.
+
+These are our symptoms and our monuments. I want simply to save them, for what is ceremonious and curious and commonplace will be legendary.”
+
+– Guggenheim proposal, Plan for a Photographic Project, “American Rites, Manners and Customs”
