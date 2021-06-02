@@ -20,7 +20,8 @@ I cannot accept my conclusions, and so I must continue this photographic investi
 
 George W Gardner http://kroutchev.blogspot.com/2014/02/george-w-gardner-b1940-is-american.html
 
-Robert Frank:
+Robert Frank: https://americansuburbx.com/2012/07/robert-frank-a-statement-1958.html and https://enthusiasms.org/post/349149245
+
 longer, similar. America cities, leaders, followers, shoppers, rituals.... did Arbus also write a similar grant proposal? Haven't found one yet.
 
 
