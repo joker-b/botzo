@@ -10,7 +10,7 @@ tags: [Leica, Darkroom]
 
 Adobe Camera Raw (ACR) has supported Leica Monchrom files for most of the past decade, yet the support seems to have been pretty modest -- a linear mapping of the grayscale-source DNG values. Setting your preferences for "Camera Matching" has essentially no effect - the contrast adjustments in the Monochrom are ignored.
 
-The pic above shows three version. On the left, what ACR will deliver directly from the sensor: a full range but with flat tones. The center is what the EVF showed, and is the in-camera JPG. The right image is something getting closer to my final edit, based on a higher-contrast version like that at the center: closer to the EVF view than what was delivered by ACR.
+The pic above shows three versions. On the left, what ACR will deliver directly from the sensor: a full range but with flat tones. The center is what the EVF showed, and is the in-camera JPG. The right image is something getting closer to my final edit, based on a higher-contrast version like that at the center: closer to the EVF view than what was delivered by ACR.
 
 I couldn't find any publicly-available curves or presets for Monochrom DNGs to match the contrast ranges you might see in the EVF or JPGs. So: I made some. You can find the link below:
 
