@@ -10,7 +10,9 @@ tags: [Film, Analog, Leica]
 
 <!-- Visitor above the bird feeders. -->
 
-Weird but true department: a Fuji dedicated flash is my favorite for non-dedicated Leica hot shoes.
+Unexpected but true department: a Fuji dedicated flash is my favorite for non-dedicated Leica hot shoes.
+
+(For dedicated shoes, too)
 
 <!--more-->
 

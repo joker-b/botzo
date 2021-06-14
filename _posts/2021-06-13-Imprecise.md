@@ -10,6 +10,6 @@ tags: [Leica, Miami]
 
 For the previous post, I had to dig out some of my old files from a brief 2014 affair with the original Leica Monochrom.
 
-Here's one of the shots I liked that were made with it, in this case on the streets of Miami during Art Week. The artist here told me he was from elsewhere but I can't recall his name or those details any more. Or maybe I'm just being misguided by the tee-shirt.
+Here's one of the shots I liked that were made with it, in this case on the streets of Miami. The artist here told me he was from elsewhere but I can't recall his name or those details any more. Or maybe I'm just being misguided by the tee-shirt.
 
 Photos can trick memory as much as assist it.
