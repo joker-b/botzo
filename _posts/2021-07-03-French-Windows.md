@@ -8,6 +8,10 @@ categories: [PhotoRant]
 tags: [Books, France]
 ---
 
+<a href="https://www.blurb.com/books/10618096-french-windows">New Book Available Here.</a>
+
+<!--more-->
+
 At the end of 2019 we wandered a few weeks through France: visiting old neighborhoods and new, old friends and new.
 
 The expected photos from such a trip I'd seen -- and made -- before. This time, a project, and a tip of the karmic chapeau to Ralph Gibson, whose book _L'Histoire De France,_ as I recall, was his first color publication.
