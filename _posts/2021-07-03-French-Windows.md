@@ -8,9 +8,9 @@ categories: [PhotoRant]
 tags: [Books, France]
 ---
 
-At the end of 2019 we wandered a few weeks through France: visiting old neighborhoods and new. Old friends and new, as well.
+At the end of 2019 we wandered a few weeks through France: visiting old neighborhoods and new, old friends and new.
 
-The expected photos from such a trip I'd seen -- and made -- before. This time, a project, and a tip of the karmic chapeau to Ralph Gibson, whose book _L'Histoire De France_ was I think his first color publication.
+The expected photos from such a trip I'd seen -- and made -- before. This time, a project, and a tip of the karmic chapeau to Ralph Gibson, whose book _L'Histoire De France,_ as I recall, was his first color publication.
 
 _La règle du jeu:_
 
