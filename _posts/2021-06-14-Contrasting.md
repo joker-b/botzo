@@ -4,7 +4,7 @@ title: "More Contrast"
 image:
   path: http://www.botzilla.com/pix2021/bjorke_Bouquet_KBLM5079-3c.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke_Bouquet_KBLM5079-3c.jpg
-categories: [grayscale]
+categories: [GrayScale]
 tags: [Leica]
 ---
 

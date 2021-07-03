@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Expecting the Rapture"
-categories: [PhotoRant,Japan]
+categories: [PhotoRant]
+tags: [Japan]
 ---
 
 

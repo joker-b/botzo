@@ -4,7 +4,7 @@ title: "Directions"
 image:
   path: http://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg
   thumbnail: http://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg
-categories: [gearhead, grayscale]
+categories: [GearHead, GrayScale]
 tags: [Film, Analog, Yashica, Fujifilm]
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "SP Salon Returns"
-categories: [fStop, Japan]
+categories: [fStop]
+tags: [Japan]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Classic Tone"
 image:
   path: http://www.botzilla.com/pix2020/bjorke_CarTat_DSCF3731.jpg
   thumbnail: http://www.botzilla.com/pix2020/bjorke_CarTat_DSCF3731.jpg
-categories: [fStop, grayscale]
+categories: [fStop, GrayScale]
 tags: [Fujifilm, Cars]
 ---
 

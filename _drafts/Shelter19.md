@@ -4,7 +4,7 @@ title: "Shelter Order, Day 17"
 image:
   path: http://www.botzilla.com/pix2020/20200403_153851_Shelter.jpg
   thumbnail: http://www.botzilla.com/pix2020/20200403_153851_Shelter.jpg
-categories: [fStop,botzilla]
+categories: [fStop, Botzilla]
 tags: [Epidemic, Fujifilm]
 ---
 

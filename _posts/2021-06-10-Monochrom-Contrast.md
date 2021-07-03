@@ -4,7 +4,7 @@ title: "Contrast Curves for Leica Monochrom"
 image:
   path: http://www.botzilla.com/pix2021/mono-bouq-trio.jpg
   thumbnail: http://www.botzilla.com/pix2021/mono-bouq-trio.jpg
-categories: [grayscale]
+categories: [GrayScale]
 tags: [Leica, Darkroom]
 ---
 

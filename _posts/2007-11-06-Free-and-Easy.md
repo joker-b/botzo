@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Free and Easy"
-categories: [fStop,Japan]
+categories: [fStop]
+tags: [Japan]
 ---
 
 

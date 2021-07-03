@@ -4,7 +4,7 @@ title: "Quick and Light"
 image:
   path: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
-categories: [gearhead]
+categories: [GearHead]
 tags: [Film, Analog, Leica]
 ---
 
