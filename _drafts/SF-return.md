@@ -4,7 +4,7 @@ title: "Financial District"
 image:
   path: http://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
-categories: [fStop, grayscale]
+categories: [fStop, GrayScale]
 tags: [Ilford, Analog, Darkroom]
 ---
 

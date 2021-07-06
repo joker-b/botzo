@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Perfect Foods"
-categories: [fStop,Japan]
+categories: [fStop]
+tags: [Japan]
 ---
 
 

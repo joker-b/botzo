@@ -4,13 +4,15 @@ title: "Quick and Light"
 image:
   path: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
-categories: [gearhead]
+categories: [GearHead]
 tags: [Film, Analog, Leica]
 ---
 
 <!-- Visitor above the bird feeders. -->
 
-Weird but true department: a Fuji dedicated flash is my favorite for non-dedicated Leica hot shoes.
+Unexpected but true department: a Fuji dedicated flash is my favorite for non-dedicated Leica hot shoes.
+
+(For dedicated shoes, too)
 
 <!--more-->
 

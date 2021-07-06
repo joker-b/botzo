@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unmetered"
-categories: [fStop, gearhead]
+categories: [fStop, GearHead]
 tags: [Exposure, Film, Analog]
 ---
 

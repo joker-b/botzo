@@ -4,7 +4,7 @@ title: "Film Photography for the Impatient"
 image:
   path: http://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
   thumbnail: http://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
-categories: [gearhead]
+categories: [GearHead]
 tags: [Analog, Darkroom]
 ---
 

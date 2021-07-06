@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bonus Round"
-categories: [PhotoRant,Japan]
+categories: [PhotoRant]
+tags: [Japan]
 ---
 
 

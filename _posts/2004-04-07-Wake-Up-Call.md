@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Wake Up Call"
-categories: [PhotoRant,Korea]
+categories: [PhotoRant]
+tags: [Korea]
 ---
 <a href="/journal/map.jpg">
 

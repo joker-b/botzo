@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Wrong Strap"
+title: "The Wrong Side"
 image:
   path: http://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
-categories: [fStop, gearhead, PhotoRant]
+categories: [fStop, GearHead, PhotoRant]
 tags: [Film, Analog, Leica, Minolta, Fuji, Fujifilm, Leitz]
 ---
 
