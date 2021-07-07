@@ -12,9 +12,9 @@ tags: [Books, France]
 
 <!--more-->
 
-At the end of 2019 we wandered a few weeks through France: visiting old neighborhoods and new, old friends and new. We had no clue that it might be years before American visitors will be allowed to return.
+At the end of 2019 we wandered a few weeks back and forth through France: visiting old neighborhoods and new, old friends and new. We had no clue that it might be years before American visitors will be allowed to return.
 
-The expected photos from such a trip I'd seen -- and made -- before. This time, a project, and a tip of the karmic chapeau to Ralph Gibson, whose book _L'Histoire De France,_ as I recall, was his first color publication.
+The usual, expected photos from such a trip I'd seen -- and made -- before. This time, a project, and a tip of the karmic chapeau to Ralph Gibson, whose book _L'Histoire De France,_ as I recall, was his first color publication.
 
 _La règle du jeu:_
 
@@ -22,8 +22,8 @@ _La règle du jeu:_
 * Use only the "portrait" vertical format.
 * Focus always to exactly one meter.
 
-The results can be seen <a href="https://www.blurb.com/bookstore/invited/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada">here</a> -- and if you like them and/or would like to support PhotoRant -- then by all means, feel free to 
-<a href="https://www.blurb.com/bookstore/invited/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada">buy the book!</a>
+<a href="https://www.blurb.com/books/10775032-french-window/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada"><b>Project Photos Online Here</a> -- if you like this album, want to see how it looks in your hand, and would like to support PhotoRant -- then by all means, feel free to 
+<a href="https://www.blurb.com/bookstore/invited/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada">buy a copy!</a>
 
 ISBN 9781006763564: It's almost like visiting Provence.
 
