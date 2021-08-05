@@ -8,15 +8,15 @@ categories: [GrayScale]
 tags: [Leica, Contax, Darkroom]
 ---
 
-In the spirit of the previous post about impatience, I tried using a digital camera and macro lens to scan these negatives. Shot them right through the PrintFile page, still in their sleeves -- on very close inspection you can see occasional tiny bubbles and reflections from the transparent sheet.
+In the spirit of the <a href="{{ site.baseurl }}{% post_url 2021-05-14-Impatient %}">previous post about impatient film photography,</a> I tried using a "proper" digital camera and macro lens to scan these negatives, rather than a phone. Shot them right through the PrintFile page, still in their sleeves -- on very close inspection you can see occasional tiny bubbles and reflections from the transparent sheet.
 
-Even with that interference, the results lets the snappiness of the original lens shine through: the Zeiss 50mm Planar ZM, a close cousin to the 45mm Planar that I've been so happy with on Contax G.
+Even with that interference, the results lets the snappiness of the original lens shine through: the Zeiss 50mm Planar ZM, a close cousin to the Zeiss 45mm Planar that I've been so happy with on the Contax G.
 
-The full setup:
+The setup:
 <!--more-->
 
 * Original Shot:
-  -  Zeiss Planar 50mm ƒ/2 + Yellow filter on Leitz-Minolta CL.
+  -  Zeiss Planar 50mm ƒ/2 + Yellow filter on Leitz-Minolta CL (great combo!)
   -  Ilford HP-5+ in X-tol 1+1, all very vanilla.
 * "Scanning":
   -  Nikkor 55mm pre-AI Micro-Nikkor w/extension tube + Fotodiox adapter on Leica Monochrom M246.
