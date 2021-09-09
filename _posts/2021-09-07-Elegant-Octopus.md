@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Elegant Octopus, Serving Tea"
+title: "An Elegant Octopus Serving Tea"
 image:
   path: http://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
   thumbnail: http://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
@@ -16,7 +16,7 @@ Without going too long on the details, the sophisticated cephalopod in the illus
 
 The two schemes were promptly connected together by math-savvy artists and explorers and shared via python notebooks: a charge led by Katherine Crowson, aka <a href="https://twitter.com/rivershavewings?lang=en">RiversHaveWings.</a>
 
-<i><b>Not-quite-tweet-sized explanation:</b> Image descriptions can be learned as part of learning a language itself (CLIP). Using such a bi-modal model, image generators (VQGAN) can then find images that align with the perceived "meaning" of a text description. Thus: "elegant octopus serving tea" has the image above as one approximated "solution."</i>
+<i><b>Not-quite-tweet-sized explanation:</b> Image descriptions can be learned as part of learning a language itself (CLIP). Using such a bi-modal model, image generators (like VQGAN) can then find images (err, arrays of pixels) that align with the perceived "meaning" of a text description. Thus: "elegant octopus serving tea" has the image above as one approximated "solution."</i>
 
 This is a very quick post. There are many, many other uses for these connections, and I'll be posting more of them.
 
