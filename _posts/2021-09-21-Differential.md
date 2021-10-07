@@ -26,7 +26,7 @@ The picture above is a rather scruffy and deliberately spare sketch guided by CL
 
 Maybe you can see it, maybe not. Intriguing that the system can come up with something using just a few lines. One of my explorations is trying to see just how few strokes can work, with some subjects.
 
-At the heart of such an approach is _differentiable_ vector graphics, which in general hasn't existed. Neighboring pixels in a raster image are differentiuaable -- that is, you can look at a pixel and its neighbor and decide which is brighter or darker. For random collections of curves, lines, and shapes, without an orderly grid... no. Yet those relationships are key for deep learning and other image operations.
+At the heart of such an approach is _differentiable_ vector graphics, which in general hasn't existed. Neighboring pixels in a raster image are differentiable -- that is, you can look at a pixel and its neighbor and decide "what's the difference?" -- which is brighter or darker, and by how much? For random collections of curves, lines, and shapes, without an orderly grid... no. Every color and edge could be anywhere, independant of the others. Which is a challenge for analysis, because those relationships are key for deep learning and other image operations.
 
 Enter a new, mixed approach, published for last December's SIGGRAPH Asia: <a href="https://people.csail.mit.edu/tzumao/diffvg/">"Differential Vector Graphics Rasterization for Editing and Learning."</a>
 
