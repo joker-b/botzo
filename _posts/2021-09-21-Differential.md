@@ -52,7 +52,7 @@ This is very unlike a human artist, especailly when building drawings from very 
 
 <figure class="align-center">
 <img alt="Cloud" src="http://www.botzilla.com/pix2021/cumulus_1000.jpg">
-<figcaption>Final</figcaption>
+<figcaption>Final Reject: Bisquits Flying into the Sunset</figcaption>
 </figure>
 
 You can also see a habit the system has of "signing" paintings in the corners -- often writing out english words from the prompt, or even occasionally surprises like "Vincent." Most image databases, scraped from the internet, can contain bits of text and the computer happily learns to add text-like shapes in the typical locations. This one might have a hint of the <a href="https://www.artstation.com/?sort_by=community">Artstation</a> logo? Extra constraints need to be added to suppress the painter's ego, you might say.
