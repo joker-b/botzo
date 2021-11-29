@@ -32,7 +32,7 @@ If we remove the noise, the split between different kinds of computation environ
 
 The smooth center of those graphs represents the _core computational capacity_ of the available hardware over calendar time: months, years. The essential message of Moore's Law is that chip capacity grows more or less exponentially. That exponent is driven by the nature of the geometry of the chips, the materials used, and the tasks they're assigned to calculate. The noise portion of the graph (a mix of absolute and relative noises) represents varying applications, regulations, clever coders, etc. When variation between platform capabilities are small, these noisy factors dominate.
 
-I've split this idea into three curves where the capacities of a single local computer are shown outpacing the capacities of a browser running on that computer, and paralle, throughput-focused datacenter-based HPC (High Performance Computing) outpacing both. While the specific exponents might historically vary, the basic orderings of these relationships aren't controversial. Despite all the best attempts at adding WASM, WebWorkers, WebGPU, etc, the browser simply can't keep up with its own local hardware while remaining general enough to be considered a browser. It wasn't designed for that, which is one reason why most of the bigger advances in web technology over the past decade or so have been about _developer_ productivity using tools like React, not about improving compute (we'll get back to that).
+I've split this idea into three curves where the capacities of a single local computer are shown outpacing the capacities of a browser running on that computer, and parallel, throughput-focused datacenter-based HPC (High Performance Computing) outpacing both. While the specific exponents might historically vary, the basic orderings of these relationships aren't controversial. Despite all the best attempts at adding WASM, WebWorkers, WebGPU, etc, the browser simply can't keep up with its own local hardware while remaining general enough to be considered a browser. It wasn't designed for that, which is one reason why most of the bigger advances in web technology over the past decade or so have been about _developer_ productivity using tools like React, not about improving compute (we'll get back to that).
 
 If we extend the time scale the absolute noise mostly vanishes and the three signals start to show their differences clearly.
 
@@ -41,15 +41,15 @@ If we extend the time scale the absolute noise mostly vanishes and the three sig
 <figcaption>Noiseless: Though We Know that the World's a Noisy Place</figcaption>
 </figure>
 
-The _relative_ noise -- that is, variation based on compute capability itself -- pretty quickly becomes bigger than the entire range of the lower curves.
+The _relative_ noise -- that is, variation based on compute capability itself -- of that top track pretty eventually becomes bigger than the entire range of the lower curves.
 
-The left side of this longer chart is important -- compared to the later growth, it's nearly flat. The variation in capabilities, and the noise, barely register. The first graph was a close-up of part of those early years, where the noise dominates. Later on, it's a completely different story.
+The left side of this longer chart is important -- compared to the later growth, it's nearly flat. The variation in capabilities, and the noise, barely register. The first graph was a close-up of part of those early years, where the noise dominates. Later on, it's a completely different story. A big question: where on this graph is _now?_
 
-These relations have limits, and sometimes variations can even point _down_ -- larger monitors slow down web browsers, for instance. Amdahl's Law, limits of fabbing, network latencies, consumption of compute bandwidth by freeloading advertisers, supply chain issues, political constraints on shipping -- they have impacts, but over time they fade. 
+These relations have limits, and sometimes variations can even point _down_ -- larger monitors slow down web browsers, for instance. Amdahl's Law, limits of fabbing, network latencies, consumption of compute and network bandwidth by freeloading advertisers, supply chain issues, political constraints on shipping -- they have impacts, but over time each of them fade. 
 
 ## _But what does this have to do with the Thirty Years' War?_
 
-Quick recap: The Thirty Years' War essentially shredded the internals of the Holy Roman Empire. Some parts of the Empire saw as much as 50% depopulation. The Holy Roman Empire was set up and crowned way back in 800AD by the Pope, and declared the only true legal inheritor of the Roman Empire. After 30 years of nearly everyone in Europe fighting everyone else, the Empire was reduced to a  fraction of its size and, importantly, the Pope was no longer calling the shots. The war was, in many ways, because _they feared what was coming_ and by 1648's Peace of Westphalia they'd realized they could not stop it. After that, it was the Kings and Princes who decided which versions of God and Church were to be allowed or disallowed. Adios, Papa.
+Quick recap: The Thirty Years' War essentially shredded the internals of the Holy Roman Empire. Some parts of it saw as much as 50% dead. The Holy Roman Empire had been set up and crowned way back in 800 AD by the Pope, and declared the only "true legal inheritor" of the Roman Empire. After 30 years of nearly everyone in Europe fighting everyone else, the Empire was reduced to a fraction of its size and, importantly, the Pope was no longer calling the shots. The war was, in many ways, because _they knew what was coming_ and by 1648's Peace of Westphalia they'd realized they could not stop it. After that, it was the Kings and Princes who decided which versions of God and Church were to be allowed or disallowed. Adios, Papa.
 
 The thing is, the Pope and Catholicism didn't ever _disappear_ -- the authority was reduced, and has kept shrinking through history as Napoleon feels okay arresting Pius VI in 1769 and Pius VII in 1809 or Mussolini isolating Pius XI's authority to only two square miles around the Vatican in 1929.
 
@@ -79,11 +79,11 @@ In the early days of TV's success, programming content followed radio formats cl
 
 ## So Where Does That Leave the Browser?
 
-Depending on where you think we are on the graph, and how the scales shake out, things don't look good, long-term, for the browser. The rise of computationally-intensive ideas like Deep Learning, Crypto currencies, and Metaverse applications indicate to me that we're already passing into the steeper part of the chart where cpapabilities are peeling apart faster than software product cycles can adapt (this was true even a decade ago in some quarters: when I was at Nvidia, we passed the point where it took longer to create a AAA video game than the product cycles of AAA game hardware).
+Depending on where you think we are on the graph, and how the scales shake out, things don't look good, long-term, for the browser. The rise of computationally-intensive ideas like Deep Learning, Crypto currencies, and Metaverse applications indicate to me that we're already passing into the steeper part of the chart where capabilities are peeling apart faster than software product cycles can adapt (this was true even a decade ago in some quarters: when I was at Nvidia, we passed the point where it took longer to create a AAA video game than the product cycles of AAA game hardware).
 
 Yet weirdly when people are encouraged the learn to code, we give them: Javascript.
 
-It's where some jobs are _now,_ I get it. Or worse, maybe it's where the jobs _were_ when the textbook was prepared in 2013. But the long-term returns for getting locked-into JS's mentailies and the browser DOM model are questionable.
+It's where some jobs are _now,_ I get it. Or worse, maybe it's where the jobs _were_ when the training website was prepared in 2013. But the long-term returns for getting locked-into JS's mentailies and the browser DOM model are questionable.
 
 While the browser isn't vanishing instantly, there are many applications for which the browser's contribution is already reduced to noise:
 
@@ -98,9 +98,9 @@ While the browser isn't vanishing instantly, there are many applications for whi
 
 I'm sure you can think of many more.
 
-For that last one, "the Metaverse" -- whether hi-def or low-def -- is much deeper than what you see on the screen or in your goggles. That's largely what makes it more than just another walled-garden game. Physics needs to be calculated, poses estimated, textures and patterns recalculated, loads balanced and synchronized... The computation that's required beyond the visible pixels has to be deep, fast, connected, secure, and able to scale to a very wide range of complexity.
+For that last one, "the Metaverse" -- whether hi-def or low-def -- is much deeper than what you see on the screen or in your goggles. Those increased demands are largely what makes it more than just another walled-garden game. Physics needs to be calculated, poses estimated, textures and patterns recalculated, loads balanced and synchronized... The computation that's required beyond the visible pixels has to be deep, fast, connected, secure, and able to scale to a very wide range of complexity.
 
-The truth is, "the metaverse" might just be a blip in the course of history. Right now lots of people have identified a range of computational possibilities and wrapper a little ribbon around them labelled "metaverse." The truth of what can be accomplished may be far more amazing.
+The truth is, "the metaverse" might just be a blip in the course of this history. Right now lots of people have identified a range of computational possibilities and have wrapped a little ribbon around them labelled "metaverse." The truth of what can be accomplished may be far more amazing.
 
 _Hardly anything has been invented yet._
 
