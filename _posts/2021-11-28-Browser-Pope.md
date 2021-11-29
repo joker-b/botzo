@@ -2,29 +2,119 @@
 layout: post
 title: "The Browser and the Pope"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
+  path: http://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
+  thumbnail: http://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
 categories: [Nuke Em from Orbit]
 tags: [Machine Learning, 3d, Games, Digital, Math]
 ---
 
 The excitement of 2021 about "the metaverse" hinges on hardware, but probably not in the way you think.
 
-The enabling device is not a future perfect headset or muscular neuron sensing or brain-machine interface. No memex required. Instead, I'd like to offer some very noisy graphs and a map of 1600's Europe to explain what's really going on.
+The enabling device is not a future perfect headset or muscular neuron sensing or brain-machine interface. No memex required. Instead, I'd like to offer some very noisy graphs and a map of 1648 Europe to explain what's really going on.
 
-Illustration - noisy 20
+<figure class="align-center">
+<img alt="Noise obscures the signal" src="http://www.botzilla.com/pix2021/compute-rg20-Noisy.png">
+<figcaption>The Signal: It's in There</figcaption>
+</figure>
 
-There's no such thing as psychohistory, but there are some useful models. Sometimes they overlap, as does the above graph overlap the story of the 30 Years' War.
-
-Illustration - Europe
+_There's no such thing as psychohistory,_ but there are some useful models. Sometimes they overlap, as does the above graph overlap the story of the 30 Years' War.
 
 <!--more-->
 
-First, let's consider that noisy graph. 
+First, let's consider that noisy graph. It's three "simple" curves describing the computation that's available for different kinds of tasks, and how that compute availability changes over generations of hardware. Precise values of _how fast_ and _by how much_ are speculations, but stick with me here, the core remains the same regardless of scaling.
 
-
+If we remove the noise, the split between different kinds of computation environment become clearer.
 
 <figure class="align-center">
-<img alt="Very Delicate Octopus Skeleton Details" src="http://www.botzilla.com/pix2021/very_delicate_0053.jpg">
-<figcaption>Delicate Bones in the Octopus Skeleton</figcaption>
+<img alt="Unobscured the signal" src="http://www.botzilla.com/pix2021/compute-rg20-Smooth.png">
+<figcaption>Noiseless: Though We Know that the World's a Noisy Place</figcaption>
 </figure>
+
+The smooth center of those graphs represents the _core computational capacity_ of the available hardware over calendar time: months, years. The essential message of Moore's Law is that chip capacity grows more or less exponentially. That exponent is driven by the nature of the geometry of the chips, the materials used, and the tasks they're assigned to calculate. The noise portion of the graph (a mix of absolute and relative noises) represents varying applications, regulations, clever coders, etc. When variation between platform capabilities are small, these noisy factors dominate.
+
+I've split this idea into three curves where the capacities of a single local computer are shown outpacing the capacities of a browser running on that computer, and paralle, throughput-focused datacenter-based HPC (High Performance Computing) outpacing both. While the specific exponents might historically vary, the basic orderings of these relationships aren't controversial. Despite all the best attempts at adding WASM, WebWorkers, WebGPU, etc, the browser simply can't keep up with its own local hardware while remaining general enough to be considered a browser. It wasn't designed for that, which is one reason why most of the bigger advances in web technology over the past decade or so have been about _developer_ productivity using tools like React, not about improving compute (we'll get back to that).
+
+If we extend the time scale the absolute noise mostly vanishes and the three signals start to show their differences clearly.
+
+<figure class="align-center">
+<img alt="Unobscured the signal" src="http://www.botzilla.com/pix2021/compute-rg100-Noisy.png">
+<figcaption>Noiseless: Though We Know that the World's a Noisy Place</figcaption>
+</figure>
+
+The _relative_ noise -- that is, variation based on compute capability itself -- pretty quickly becomes bigger than the entire range of the lower curves.
+
+The left side of this longer chart is important -- compared to the later growth, it's nearly flat. The variation in capabilities, and the noise, barely register. The first graph was a close-up of part of those early years, where the noise dominates. Later on, it's a completely different story.
+
+These relations have limits, and sometimes variations can even point _down_ -- larger monitors slow down web browsers, for instance. Amdahl's Law, limits of fabbing, network latencies, consumption of compute bandwidth by freeloading advertisers, supply chain issues, political constraints on shipping -- they have impacts, but over time they fade. 
+
+## _But what does this have to do with the Thirty Years' War?_
+
+Quick recap: The Thirty Years' War essentially shredded the internals of the Holy Roman Empire. Some parts of the Empire saw as much as 50% depopulation. The Holy Roman Empire was set up and crowned way back in 800AD by the Pope, and declared the only true legal inheritor of the Roman Empire. After 30 years of nearly everyone in Europe fighting everyone else, the Empire was reduced to a  fraction of its size and, importantly, the Pope was no longer calling the shots. The war was, in many ways, because _they feared what was coming_ and by 1648's Peace of Westphalia they'd realized they could not stop it. After that, it was the Kings and Princes who decided which versions of God and Church were to be allowed or disallowed. Adios, Papa.
+
+The thing is, the Pope and Catholicism didn't ever _disappear_ -- the authority was reduced, and has kept shrinking through history as Napoleon feels okay arresting Pius VI in 1769 and Pius VII in 1809 or Mussolini isolating Pius XI's authority to only two square miles around the Vatican in 1929.
+
+Likewise the Holy Roman Empire limped on for quite a while, but in such a reduced state that Voltaire could mock it in _Customs_ as "neither Holy nor Roman, nor an Empire."
+
+Browsers won't disappear -- but over time their value continues to decline, being reduced to a framework for retailers and a few small games, all of which see the _real_ action being performed offline on the growing arrays of servers and compute clusters.
+
+## Another Parallel: Radio
+
+If European history isn't a good analogy for you, consider instead radio and television. Amazingly, _television came first_ -- George Carey's "Selenium camera" of 1876 was already in _Scientific American_ for the June 5, 1880 edition, years before Marconi was giving demonstrations. Images sent over radio waves were a real thing by the 1920's but the experience was expensive and not all that great. Radio media dominated, but Farnsworth's invention of _electronic_ television (rather than mechanics for aiming the beam) in 1927 put the technology on a growing exponential curve.
+
+The big split happened around 1950, as these charts from <a href="https://saylordotorg.github.io/text_understanding-media-and-culture-an-introduction-to-mass-communication/s12-01-the-evolution-of-television.html">Saylor</a> and <a href="https://www.sciencedirect.com/topics/social-sciences/radio-listeners">Science Direct</a> reveal.
+
+<figure class="align-center">
+<img alt="The Shift, seen from a Sales angle" src="http://www.botzilla.com/pix2021/tv-adoption-saylordotorg.jpg" width="50%">
+<figcaption>from <i>The Evolution of Television:</i> US Households with Televisions</figcaption>
+</figure>
+
+<figure class="align-center">
+<img alt="The Shift, seen from a consumption angle" src="http://www.botzilla.com/pix2021/radio-listeners-science-direct.gif" width="80%">
+<figcaption>from the <i>Encyclopedia of International Media and Communications:</i> Declining Radio Time</figcaption>
+</figure>
+
+Radio didn't entirely go away -- but today it's mostly a car accessory.
+
+In the early days of TV's success, programming content followed radio formats closely -- some programs like _Gunsmoke_ even jumped the divide when the audiences were moving. Over times, we've seen those formats mutate. Episodic radio shows have nearly vanished, and TV quickly developed its new forms and rituals: Saturday Morning Cartoons, the decline of baseball in favor of football and basketball, and later the youtubes and HBOs. Ideas that really don't make sense for radio.
+
+## So Where Does That Leave the Browser?
+
+Depending on where you think we are on the graph, and how the scales shake out, things don't look good, long-term, for the browser. The rise of computationally-intensive ideas like Deep Learning, Crypto currencies, and Metaverse applications indicate to me that we're already passing into the steeper part of the chart where cpapabilities are peeling apart faster than software product cycles can adapt (this was true even a decade ago in some quarters: when I was at Nvidia, we passed the point where it took longer to create a AAA video game than the product cycles of AAA game hardware).
+
+Yet weirdly when people are encouraged the learn to code, we give them: Javascript.
+
+It's where some jobs are _now,_ I get it. Or worse, maybe it's where the jobs _were_ when the textbook was prepared in 2013. But the long-term returns for getting locked-into JS's mentailies and the browser DOM model are questionable.
+
+While the browser isn't vanishing instantly, there are many applications for which the browser's contribution is already reduced to noise:
+
+* High end gaming
+* Machine Learning (especially training)
+* Crypto
+* Microbiology
+* Machine Vision
+* High-speed and automated Trading
+* Logistics Automation and robotics of all kinds
+* _The Metaverse_
+
+I'm sure you can think of many more.
+
+For that last one, "the Metaverse" -- whether hi-def or low-def -- is much deeper than what you see on the screen or in your goggles. That's largely what makes it more than just another walled-garden game. Physics needs to be calculated, poses estimated, textures and patterns recalculated, loads balanced and synchronized... The computation that's required beyond the visible pixels has to be deep, fast, connected, secure, and able to scale to a very wide range of complexity.
+
+The truth is, "the metaverse" might just be a blip in the course of history. Right now lots of people have identified a range of computational possibilities and wrapper a little ribbon around them labelled "metaverse." The truth of what can be accomplished may be far more amazing.
+
+_Hardly anything has been invented yet._
+
+### Footnotes
+
+* _On Moore's Law and Exponents:_ It's entirely possible that what Gordon Moore realized in the 1960's was not an exponential cure but the start of a long logistic one. If you want to learn a lot about the consequences of logistic curves and growth, I highly recommend Vaclav Smil's book _Growth._ If various kinds of computation _are_ on long logistic curves, the basic assertion of this article is probably still true, because eac kind of tasks will have its own limiting factors, which are likely to kick in at different times. In fact I'd even go so far as to say browser computation is already sufferng from the limits of its architecture.
+
+* _Try it Yourself:_ As mentioned, the ideas behind this simple set of graphs are in a <a href="https://colab.research.google.com/drive/1NKcdC_18ZQ-GntNhbeRHx1nsU-CRe4XK?usp=sharing">Colab notebook</a> and you can fiddle with them yourself. It's really _very_ simple math, though unintuitive for human brains that don't deal well with exponents. So try it yourself -- see how much noise or variations in the signals can affect your own results. And if you think this model is just full of beans, I'd appeciate your comments!
+
+* The Thirty Years' War lasted about the same as the time from the first web browser until today. Probably nothing.
+
+* _**The Missing Line:**_ This one piece of hardware that hasn't changed appreciably since the invention of electrical circuits is the human brain. Tools like React are trying to help you out, but it's.. a losing battle. Human computation limits would be a flat line on graphs like this. You can decide for yourself where you think that line might should be drawn. My hunch is that it's low, but hard to make out in the noise. YMMV, but thinking of the possible personal impacts of different line heights might be worth your while.
+
+> _This is how the Singularity comes_<br/>
+> _This is how the Singularity comes_<br/>
+> _Not with a bang_<br/>
+> _But a whisper_
