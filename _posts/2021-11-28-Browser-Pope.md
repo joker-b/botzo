@@ -38,10 +38,10 @@ If we extend the time scale the absolute noise mostly vanishes and the three sig
 
 <figure class="align-center">
 <img alt="Unobscured the signal" src="http://www.botzilla.com/pix2021/compute-rg100-Noisy.png">
-<figcaption>Noiseless: Though We Know that the World's a Noisy Place</figcaption>
+<figcaption>Regardless of Specific Exponents and Noise Scales, You'll Get a Graph Like This Eventually</figcaption>
 </figure>
 
-The _relative_ noise -- that is, variation based on compute capability itself -- of that top track pretty eventually becomes bigger than the entire range of the lower curves.
+Over time, the _relative_ noise -- that is, variation based on compute capability itself -- for that top track pretty eventually becomes larger than the entire range of the lower curves.
 
 The left side of this longer chart is important -- compared to the later growth, it's nearly flat. The variation in capabilities, and the noise, barely register. The first graph was a close-up of part of those early years, where the noise dominates. Later on, it's a completely different story. A big question: where on this graph is _now?_
 
@@ -49,7 +49,7 @@ These relations have limits, and sometimes variations can even point _down_ -- l
 
 ## _But what does this have to do with the Thirty Years' War?_
 
-Quick recap: The Thirty Years' War essentially shredded the internals of the Holy Roman Empire. Some parts of it saw as much as 50% dead. The Holy Roman Empire had been set up and crowned way back in 800 AD by the Pope, and declared the only "true legal inheritor" of the Roman Empire. After 30 years of nearly everyone in Europe fighting everyone else, the Empire was reduced to a fraction of its size and, importantly, the Pope was no longer calling the shots. The war was, in many ways, because _they knew what was coming_ and by 1648's Peace of Westphalia they'd realized they could not stop it. After that, it was the Kings and Princes who decided which versions of God and Church were to be allowed or disallowed. Adios, Papa.
+Quick recap: The Thirty Years' War essentially shredded the internals of the Holy Roman Empire. Some parts of it saw as many as 50% of the local population dead. The Holy Roman Empire had been set up and crowned way back in 800 AD by the Pope, and declared the only "true legal inheritor" of the Roman Empire. After 30 years of nearly everyone in Europe fighting everyone else, the Empire was reduced to a fraction of its size and, importantly, the Pope was no longer calling the shots. The war was, in many ways, because _they knew what was coming_ and by 1648's Peace of Westphalia they'd realized they could not stop it. After that, it was the Kings and Princes who decided which versions of God and Church were to be allowed or disallowed. Adios, Papa.
 
 The thing is, the Pope and Catholicism didn't ever _disappear_ -- the authority was reduced, and has kept shrinking through history as Napoleon feels okay arresting Pius VI in 1769 and Pius VII in 1809 or Mussolini isolating Pius XI's authority to only two square miles around the Vatican in 1929.
 
@@ -81,9 +81,9 @@ In the early days of TV's success, programming content followed radio formats cl
 
 Depending on where you think we are on the graph, and how the scales shake out, things don't look good, long-term, for the browser. The rise of computationally-intensive ideas like Deep Learning, Crypto currencies, and Metaverse applications indicate to me that we're already passing into the steeper part of the chart where capabilities are peeling apart faster than software product cycles can adapt (this was true even a decade ago in some quarters: when I was at Nvidia, we passed the point where it took longer to create a AAA video game than the product cycles of AAA game hardware).
 
-Yet weirdly when people are encouraged the learn to code, we give them: Javascript.
+Yet weirdly when people are encouraged to learn to code, we give them: Javascript.
 
-It's where some jobs are _now,_ I get it. Or worse, maybe it's where the jobs _were_ when the training website was prepared in 2013. But the long-term returns for getting locked-into JS's mentailies and the browser DOM model are questionable.
+It's where some jobs are _now,_ I get it. Or worse, maybe it's where the jobs _were_ when the training website was prepared in 2013. But the long-term returns for getting locked-into JS's mentality and the browser DOM model are questionable.
 
 While the browser isn't vanishing instantly, there are many applications for which the browser's contribution is already reduced to noise:
 
@@ -106,15 +106,15 @@ _Hardly anything has been invented yet._
 
 ### Footnotes
 
-* _On Moore's Law and Exponents:_ It's entirely possible that what Gordon Moore realized in the 1960's was not an exponential cure but the start of a long logistic one. If you want to learn a lot about the consequences of logistic curves and growth, I highly recommend Vaclav Smil's book _Growth._ If various kinds of computation _are_ on long logistic curves, the basic assertion of this article is probably still true, because eac kind of tasks will have its own limiting factors, which are likely to kick in at different times. In fact I'd even go so far as to say browser computation is already sufferng from the limits of its architecture.
+* _On Moore's Law and Exponents:_ It's entirely possible that what Gordon Moore realized in the 1960's was not an exponential cure but the start of a long logistic one (or a series of logistic curves). If you want to learn a lot about the consequences of logistic curves and improvement, I highly recommend Vaclav Smil's book <a href="http://vaclavsmil.com/">_Growth._</a> If various kinds of computation _are_ on long logistic curves, the basic assertion of this article is probably still true, because each kind of task and platform will have its own limiting factors, which are likely to kick in at different times. In fact I'd even go so far as to say browser computation is already suffering from the limits of its architecture and has been since well before ES6.
 
 * _Try it Yourself:_ As mentioned, the ideas behind this simple set of graphs are in a <a href="https://colab.research.google.com/drive/1NKcdC_18ZQ-GntNhbeRHx1nsU-CRe4XK?usp=sharing">Colab notebook</a> and you can fiddle with them yourself. It's really _very_ simple math, though unintuitive for human brains that don't deal well with exponents. So try it yourself -- see how much noise or variations in the signals can affect your own results. And if you think this model is just full of beans, I'd appeciate your comments!
 
-* The Thirty Years' War lasted about the same as the time from the first web browser until today. Probably nothing.
+* The Thirty Years' War lasted about the same in duration as the time from the first web browser until today. Probably nothing.
 
-* _**The Missing Line:**_ This one piece of hardware that hasn't changed appreciably since the invention of electrical circuits is the human brain. Tools like React are trying to help you out, but it's.. a losing battle. Human computation limits would be a flat line on graphs like this. You can decide for yourself where you think that line might should be drawn. My hunch is that it's low, but hard to make out in the noise. YMMV, but thinking of the possible personal impacts of different line heights might be worth your while.
+* _**The Missing Graph Line:**_ One key piece of computational hardware that hasn't changed appreciably since the invention of electrical circuits is the human brain. Tools like React are trying to help you out, but it's... a losing battle. Human computation limits would be drawn as a flat horizontal line on graphs like the ones above. You can decide for yourself where you think that line might should be drawn: high, or low? YMMV, but thinking through some of the possible personal impacts of different line heights might be worth your while. My hunch is that it's low, but hard to make out in the noise: especially since once computation is above human understanding, how can you recognize the quiet shift?
 
 > _This is how the Singularity comes_<br/>
 > _This is how the Singularity comes_<br/>
-> _Not with a bang_<br/>
-> _But a whisper_
+> _This is how the Singularity comes_<br/>
+> _Not with a bang but a whisper._
