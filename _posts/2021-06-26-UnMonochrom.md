@@ -8,11 +8,11 @@ categories: [GrayScale]
 tags: [Leica, gearhead, darkroom, adobe]
 ---
 
-The shot above was made with a B&amp;W-only camera. The top half is an edit in mono, with a few contrast tweaks. The lower half: a one-click reimagining based on that mono version, via Adobe's latest "Neural Colorize" filter.
+The shot above was made with a _B&amp;W-only_ camera. The lower version: a one-click reimagining via Adobe's latest "Neural Colorize" filter.
 
-It's impressive how believeably the software can add color to the photo. Yet:
+It's impressive how the software can add color to the file. Yet:
 
-_What does color add to the photo?_
+_What does color really add to the photo?_
 
 <!--more-->
 
