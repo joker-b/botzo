@@ -8,7 +8,7 @@ categories: [PhotoRant]
 tags: [Books, France]
 ---
 
-<a href="https://www.blurb.com/bookstore/invited/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada">Book Available</a> &mdash; complete online preview link below.
+<a href="https://www.blurb.com/b/11043226-france-a-guide">Book Available</a> &mdash; complete online preview link below.
 
 <!--more-->
 
@@ -22,8 +22,8 @@ _La règle du jeu:_
 * Use only the "portrait" vertical format.
 * Focus always to exactly one meter.
 
-<a href="https://www.blurb.com/books/10775032-french-window/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada"><b>Project Photos Online Here</b></a> -- if you like this album, want to see how it looks in your hand, and would like to support PhotoRant -- then by all means, feel free to 
-<a href="https://www.blurb.com/bookstore/invited/9247631/2b8eb21302616eabb8083ac1d7822724b8b74ada">buy a copy!</a>
+<a href="https://www.blurb.com/b/11043226-france-a-guide"><b>Project Photos Online Here</b></a> -- if you like this album, want to see how it looks in your hand, and would like to support PhotoRant -- then by all means, feel free to 
+<a href="https://www.blurb.com/b/11043226-france-a-guide">buy a copy!</a>
 
 ISBN 9781006763564: It's almost like visiting Provence.
 
