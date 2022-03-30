@@ -8,7 +8,7 @@ image:
   thumbnail: http://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
 ---
 
-In 1907 Ernest Rutherford realized that certain materials in rocks slowly decayed into other materials. Specifically, the newly-discovered radium degenerated into the stable isotope lead-206. He realized the decay was exponential, and n his equations he labeled the time it would take for half of the radium in a sample to decay into lead as its _half-life._
+In 1907 Ernest Rutherford realized that certain materials in rocks slowly decayed into other materials. Specifically, the newly-discovered radium degenerated into the stable isotope lead-206. He realized the decay was exponential, and in his equations he labeled the time it would take for half of the radium in a sample to decay into lead as its _half-life._
 
 From this realization he and others could compare the amounts of a specific isotope of decaying radium or (better) uranium to the stable lead in a mineral sample and use this proportion to estimate the minerals' ages. By the end of the 1920's they'd managed to show reliably that the age of the earth was at least 3.4 billion years old.
 
@@ -20,19 +20,19 @@ The term "half life" has been used in other fields, and made more popular as the
 
 That hit video game itself has a sales decay: in 1999 _Half-Life_ sold 445,123 copies in the US, while in 2000 it sold 286,593 -- from those two samples we can estimate that _Half Life's_ half life is about a year and a half, with many of those gamer sales decaying into _Counter-Strike_ or _Half-Life: Alyx_ or an orange box.
 
-For someone who is skilled at playing _Half Life,_ their skills likewise decay when they are exposed to those new titles. The keystrokes of WASD and firing might be preserved (unless you move to a game console or HMD), but the player's skilled notions about speed, about the maps, about the distribution and nature of opponents human or automated, are all subjeect to revision or to be completely discarded.
+For someone who is skilled at playing _Half Life,_ their skills likewise decay when they are exposed to those new titles. The keystrokes of WASD and firing might be preserved (unless you move to a game console or HMD), but the player's skilled notions about speed, about the maps, about the distribution and nature of opponents human or automated, are all subject to revision or need to be completely discarded.
 
-For a new or decaying atom, decaying state changes nearly instantly: the exit of protons, gamma particles and so forth are so quick that a new kind of imaging was needed to even identify them clearly (see <a href="https://botzilla.com/botzilla/2018/12/17/Hough.html">this previous entry</a>). After the shift, the next bump in a nucleus's half life might be half a trillion years away.
+For a new or decaying atom, the state changes nearly instantly: the exit of protons, gamma particles and so forth are so quick that a new kind of imaging was needed to even identify them clearly (see <a href="https://botzilla.com/botzilla/2018/12/17/Hough.html">this previous entry</a>). After the shift, the next bump in a nucleus's half life might be half a trillion years away into the future. Quick chnage, long stability. Sometimes.
 
-This simplicity is not really like the decay a skill (or a loan). A skill doesn't only have a gently-grading exponential decay, it also has more or less fixed costs for learning and for change (unlearning). Loans might have fixed costs relating to lump-sum and down payments or option states.
+This simplicity isn't entirely shared by the decay a skill (or a loan). A skill doesn't only have a gently-grading exponential decay -- like a single atom, a single learning is trained, or untrained. A skill also has more or less fixed costs for learning and for change (unlearning). Loans might have fixed costs relating to lump-sum and down payments or option states.
 
 Learning, despite the improvements in technology, continues to run at about the same clock rate, year after year.
 
-Learning to walk takes about a year. That skill's half-life of usefulness is probably over a century. Learning to move around effectively in the early-edition _Half Life_ takes a few minutes or hours with an expected play time of maybe 15 hours -- although if your playing decays next into _Counter Strike_ or _Team Fortress,_ then those basic skills might retain utility for another five or ten years. 
+Learning to walk takes about a year. The skill of walking's half-life of usefulness is probably over a century. Learning to move around effectively in the early-edition _Half Life_ takes a few minutes or hours with an expected play time of maybe 15 hours -- although if your gaming decays next into _Counter Strike_ or _Team Fortress,_ then those basic skills might retain utility for another five or ten years. 
 
-Gameplay design is usually meant to have "a low on-ramp" to basic skill. This is not, however, the nature of game _making._
+Gameplay is designed to have "a low on-ramp" to basic skill. There's an incentive for the game maker to create it this way, it encourages everyone to keep exploring and buying more games. This is not, however, the nature of game _making._
 
-The skills involved in creating video games are largely shared by other software efforts: developers need to learn ever-mutating specialized languages; the shapes of APIs for graphics and networking and storage and financial operations; cognitive psychology and phenomenology; game AI, probability, statistics; the mathematics of optics ands newtonian physics and (usually) exponential decay, and more as the scope of gaming continues to expand.
+The skills involved in creating video games are largely shared by other kinds of software efforts: developers need to learn ever-mutating specialized languages; the shapes of APIs for graphics and networking and storage and financial operations; cognitive psychology and phenomenology; game AI, probability, statistics; the mathematics of optics ands newtonian physics and (usually) exponential decay, and more as the scope of gaming continues to expand.
 
 The acquisition of these skills takes time, and often a team of particular individuals is required to share the burden of learning different specialties. This pattern is not at all unique to game building: it's true for nearly every technically-intensive field: energy, aviation, and medicine to name only three. As computers accelerate and data storage grows, the half-lives of many skills shrink.
 
