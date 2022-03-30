@@ -8,7 +8,7 @@ image:
   thumbnail: http://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
 ---
 
-In 1907 Ernest Rutherford realized that certain materials in rocks slowly decayed into other materials. Specifically, the newly-discovered radium degenerated into the stable isotope lead-206. He realized the decay was exponential, and annotated the time it would take for half of the radium in a sample to decay into lead as it's _half-life._
+In 1907 Ernest Rutherford realized that certain materials in rocks slowly decayed into other materials. Specifically, the newly-discovered radium degenerated into the stable isotope lead-206. He realized the decay was exponential, and n his equations he labeled the time it would take for half of the radium in a sample to decay into lead as its _half-life._
 
 From this realization he and others could compare the amounts of a specific isotope of decaying radium or (better) uranium to the stable lead in a mineral sample and use this proportion to estimate the minerals' ages. By the end of the 1920's they'd managed to show reliably that the age of the earth was at least 3.4 billion years old.
 
