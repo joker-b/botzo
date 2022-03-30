@@ -24,9 +24,9 @@ For someone who is skilled at playing _Half Life,_ their skills likewise decay w
 
 For a new or decaying atom, the state changes nearly instantly: the exit of protons, gamma particles and so forth are so quick that a new kind of imaging was needed to even identify them clearly (see <a href="https://botzilla.com/botzilla/2018/12/17/Hough.html">this previous entry</a>). After the shift, the next bump in a nucleus's half life might be half a trillion years away into the future. Quick chnage, long stability. Sometimes.
 
-This simplicity isn't entirely shared by the decay a skill (or a loan). A skill doesn't only have a gently-grading exponential decay -- like a single atom, a single learning is trained, or untrained. A skill also has more or less fixed costs for learning and for change (unlearning). Loans might have fixed costs relating to lump-sum and down payments or option states.
+This simplicity isn't entirely shared by the decay a skill (or a loan). A skill doesn't only have a gently-grading exponential decay -- like a single atom, a single learned skill is either trained, or untrained. Both learning and unlearning are fixed, non-gradient costs (Loans might have fixed costs relating to lump sums, down payments, prepayments...).
 
-Learning, despite the improvements in technology, continues to run at about the same clock rate, year after year.
+Learning, despite improvements in technology, despite <a href="https://fs.blog/learning/">best practices,</a> overall continues to run at about the same clock rate, decade after decade. Even the fastest learner can't reduce the cost to zero. Part of this comes from the irreducible non-zero cost of practice: you can read about tennis, but to play tennis, you need court time.
 
 Learning to walk takes about a year. The skill of walking's half-life of usefulness is probably over a century. Learning to move around effectively in the early-edition _Half Life_ takes a few minutes or hours with an expected play time of maybe 15 hours -- although if your gaming decays next into _Counter Strike_ or _Team Fortress,_ then those basic skills might retain utility for another five or ten years. 
 
