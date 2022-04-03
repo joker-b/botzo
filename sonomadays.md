@@ -8,5 +8,5 @@ title: "Sonoma Days"
 
 Visit <a href="https://www.instagram.com/sonoma_days/">the photos on Instagram</a>
 
-<a href="index.html">Continue instead to Botzilla.com</a>
+<a href="https://www.botzilla.com/">Continue instead to Botzilla.com</a>
 

@@ -7,4 +7,4 @@ layout: page_bare
 ](http://www.thebekkaffect.com/)
 [
 ![Kevin Bjorke]({{ '/assets/2018/bjorke_SmokeSF_KBXF0877w.jpg' | absolute_url }})
-](http://www.kevin-bjorke.com/)
+](https://www.botzilla.com/)
