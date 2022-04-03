@@ -3,8 +3,8 @@ layout: post
 title: "Getting Past Social Media"
 categories: [PhotoRant]
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
 tags: [Algorithms, Economics]
 ---
 

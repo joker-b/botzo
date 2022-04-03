@@ -2,8 +2,8 @@
 layout: post
 title: "Contax G2: The Long Term Review"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
 categories: [fStop]
 tags: [PhotoRant, Analog, Contax]
 ---
@@ -35,7 +35,7 @@ Autofocus on any digital camera has a phenomenological advantage over the G: ins
 A pure Type-A user can find themselves annoyed at the consequences of Type-Z realities. Shouldn't point-and-shoot cameras just... work?
 
 <figure class="align-center">
-<img alt="TR and T4" src="http://botzilla.com/pix2021/yashica-terry-richardson.jpg">
+<img alt="TR and T4" src="https://botzilla.com/pix2021/yashica-terry-richardson.jpg">
 <figcaption>Terry Richardson with Two Key Pieces of Photo Equipment.<br>Also, cameras.</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ The answer for all types of determined G users, in almost every case and as I've
 Adapting a G lens to another camera -- as long as the spacing between the sensor and the base of the lens is narrow enough (in Z-speak, "narrow flange distance"), is pretty easy and cheap. Mirrorless cameras like the Fuji and Sony are both available. And both work well with G glass.
 
 <figure class="align-center">
-<img alt="Xpro2+Zeiss" src="http://botzilla.com/pix2021/bjorke_FujiZeiss.jpg">
+<img alt="Xpro2+Zeiss" src="https://botzilla.com/pix2021/bjorke_FujiZeiss.jpg">
 <figcaption>Fuji XPro2, Zeiss 90mm</figcaption>
 </figure>
 
 The 35mm G lens is a fine full-manual normal-lens option for Fuji, and the 90mm, compared to Fuji's own automated offering, feels truly tiny. The primary size difference is solid glass, so the weight of the Fuji is greater than this comparison picture might lead you to believe.
 
 <figure class="align-center">
-<img alt="Two 90's" src="http://botzilla.com/pix2021/bjorke-90x2.jpg">
+<img alt="Two 90's" src="https://botzilla.com/pix2021/bjorke-90x2.jpg">
 <figcaption>Zeiss 90mm f/2.8 with adapter, Fuji 90mm f/2</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Because Zeiss is very much a Type-Z company (thank you for that, Zeiss!), they s
 (Another blast from the past: in April 2021, I discovered that the UK Contax website is _still online,_ even though shuttered about fifteen years ago. Check it out <a href="https://www.contaxcameras.co.uk/_html/gseries/g2/g2specification.html">here.</a>)
 
 <figure class="align-center">
-<img alt="Titanium" src="http://botzilla.com/pix2021/bjorke_2021-03-20-F2-040.jpg">
+<img alt="Titanium" src="https://botzilla.com/pix2021/bjorke_2021-03-20-F2-040.jpg">
 <figcaption>Titanium</figcaption>
 </figure>
 

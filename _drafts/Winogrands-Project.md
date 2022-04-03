@@ -2,8 +2,8 @@
 layout: post
 title: "The Winogrand Project"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
 categories: [fStop, GrayScale]
 tags: [Ilford, Analog, Darkroom]
 ---
