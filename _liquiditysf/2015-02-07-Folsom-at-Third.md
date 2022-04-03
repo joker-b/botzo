@@ -2,8 +2,8 @@
 layout: post
 title: "Folsom at Third"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg
+  path: https://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg
 categories: [GrayScale]
 tags: [Liquidity, LiquiditySF,Books]
 ---

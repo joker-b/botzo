@@ -2,8 +2,8 @@
 layout: post
 title: "Fremont and Market"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1923.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1923.jpg
+  path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1923.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1923.jpg
 categories: [fStop]
 ---
 

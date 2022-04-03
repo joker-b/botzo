@@ -2,8 +2,8 @@
 layout: post
 title: "Crossing Bryant at Third"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC25646.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC25646.jpg
+  path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PIC25646.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PIC25646.jpg
 categories: [fStop]
 ---
 

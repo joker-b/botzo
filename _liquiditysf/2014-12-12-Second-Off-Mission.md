@@ -2,8 +2,8 @@
 layout: post
 title: "Second Off Mission"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
+  path: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651.jpg
 categories: [GrayScale]
 tags: [Liquidity, LiquiditySF]
 ---
@@ -18,5 +18,5 @@ tags: [Liquidity, LiquiditySF]
 <!--more-->
 
 
-![bjorke_DSCF4651c.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651c.jpg' | absolute_url }})
+![bjorke_DSCF4651c.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF4651c.jpg' | absolute_url }})
 

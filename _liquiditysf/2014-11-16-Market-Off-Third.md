@@ -2,8 +2,8 @@
 layout: post
 title: "Market Off Third"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2014/PICS1933.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2014/PICS1933.jpg
+  path: https://www.botzilla.com/blog/archives/pix2014/PICS1933.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2014/PICS1933.jpg
 categories: [fStop]
 ---
 
