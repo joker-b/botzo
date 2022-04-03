@@ -5,7 +5,7 @@ categories: [fStop]
 ---
 
 
-![Gratitude]({{ 'http://www.botzilla.com/blog/pix2005/899_9992.jpg' | absolute_url }}){: .align-right}
+![Gratitude]({{ 'https://www.botzilla.com/blog/pix2005/899_9992.jpg' | absolute_url }}){: .align-right}
 <a href="http://www.lulu.com/content/102432">Phil Perkis writes</a> of photography:
 
 <blockquote><i>To experience the meaning of what is. To stay with it for even a few seconds is no small task. The sound of voice without language, a musical line, a ceramic vessel, a non-objective painting. The presence of it, the weight of it, the miracle of its existence, of my existence. The mystery of the fact itself.</i></blockquote>

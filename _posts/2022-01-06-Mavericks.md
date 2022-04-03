@@ -2,8 +2,8 @@
 layout: post
 title: "Mavericks vs Magritte"
 image:
-  path: http://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
-  thumbnail: http://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
+  path: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
+  thumbnail: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
 categories: [Grayscale]
 tags: [Fujifilm, Leica]
 ---

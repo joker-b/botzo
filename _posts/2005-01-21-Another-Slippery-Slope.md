@@ -6,7 +6,7 @@ tags: [Analog,Fujifilm,Darkroom]
 ---
 
 
-![Mpls, 2004]({{ 'http://www.botzilla.com/pix2005/slippery.jpg' | absolute_url }})
+![Mpls, 2004]({{ 'https://www.botzilla.com/pix2005/slippery.jpg' | absolute_url }})
 
 
 <i>Six rolls of 35mm Tri-X, Xtol 1+1.</i>

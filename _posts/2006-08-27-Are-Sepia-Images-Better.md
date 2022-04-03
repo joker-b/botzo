@@ -5,7 +5,7 @@ categories: [GearHead]
 tags: [Lumix]
 ---
 
-![P1040795.jpg]({{ 'http://www.botzilla.com/blog/pix2006/P1040795.jpg' | absolute_url }})
+![P1040795.jpg]({{ 'https://www.botzilla.com/blog/pix2006/P1040795.jpg' | absolute_url }})
 
 As I may have mentioned before, one feature of the LX1 that I like is the ability to simultaneously store both a RAW file and a full-sized JPEG image, complete with whatever imaging mode is currently active: particularly grayscale and/or sepia toning.
 <!--more-->

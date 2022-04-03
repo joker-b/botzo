@@ -6,7 +6,7 @@ tags: [Analog,Fujifilm]
 ---
 
 
-![W. Eugene Smith, Tomoko Uemura in Her Bath]({{ 'http://www.botzilla.com/blog/pix2006/smith_minimata_807.jpg' | absolute_url }})
+![W. Eugene Smith, Tomoko Uemura in Her Bath]({{ 'https://www.botzilla.com/blog/pix2006/smith_minimata_807.jpg' | absolute_url }})
 
 
 <i>Six rolls Tri-X, two rolls Acros, rolls Neopan 1600 in Fomadon F09 (Rodinal formula) 1+40, then two rolls of Neopan 1600 stand-developed in F09 1+80 for an hour.</i>

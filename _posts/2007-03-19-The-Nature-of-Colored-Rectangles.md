@@ -6,10 +6,10 @@ tags: [Books,Lumix]
 ---
 
 
-![Salt Lake City, February 2007 (C) K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/P1060860.jpg' | absolute_url }})
+![Salt Lake City, February 2007 (C) K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/P1060860.jpg' | absolute_url }})
 
 
-Shannon Ebner's forum <a href="http://www.tipofthetongue.org/discuss.html?id=5,149,234">comments</a> on <a href="http://www.botzilla.com/blog/archives/000580.html">Charlotte Cotton's recent "Tip of the Tongue" article</a> sent me to revisit <a href="http://www.blindspot.com/issue26/conversation26.html">Stephen Shore</a>'s <cite>The Nature of Photographs.</cite>  This is a slim &#151; no, <i>lean</i> &#151; book that should be available to anyone who wants to approach their picture-making and picture-appreciation in a thoughtful way. It is a remarkable book not only in its direct economy but also in that it so deliberately and successfully provokes you towards moments of personal insight and reflection as you are reading it.
+Shannon Ebner's forum <a href="http://www.tipofthetongue.org/discuss.html?id=5,149,234">comments</a> on <a href="https://www.botzilla.com/blog/archives/000580.html">Charlotte Cotton's recent "Tip of the Tongue" article</a> sent me to revisit <a href="http://www.blindspot.com/issue26/conversation26.html">Stephen Shore</a>'s <cite>The Nature of Photographs.</cite>  This is a slim &#151; no, <i>lean</i> &#151; book that should be available to anyone who wants to approach their picture-making and picture-appreciation in a thoughtful way. It is a remarkable book not only in its direct economy but also in that it so deliberately and successfully provokes you towards moments of personal insight and reflection as you are reading it.
 
 
 <!--more-->
@@ -23,6 +23,6 @@ So too tone. Whether black and white, full color, false color &#151; the tonal r
 
 
 
-![Salt Lake City, Feb 2007 (C) K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/P1060865.jpg' | absolute_url }})
+![Salt Lake City, Feb 2007 (C) K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/P1060865.jpg' | absolute_url }})
 
 

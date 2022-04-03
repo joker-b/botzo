@@ -6,7 +6,7 @@ tags: [Books,Portraits]
 ---
 
 
-![Swan Trampouline Princess]({{ 'http://www.botzilla.com/blog/pix2007/swanx-small.jpg' | absolute_url }}){: .align-right}
+![Swan Trampouline Princess]({{ 'https://www.botzilla.com/blog/pix2007/swanx-small.jpg' | absolute_url }}){: .align-right}
 
 This post has been lingering half-written for months, I was reminded of it this morning, as I came across <a href="http://suzannerevy.blogspot.com/2007/08/mirrors-and-windows.html">this post from Suzanne Revy,</a> and prodded with the notion that in fact this little rant has been curdling in my mind for my, much longer.
 
@@ -20,9 +20,9 @@ As Jeff Curto describes well in his <a href="http://www.cod.edu/photo/curto/1105
 
 There are a handful of exceptions, particularly moderns like <a href="http://www.keithcarterphotographs.com/">Keith Carter</a> (is Ralph Gibson an adult alternative?), or stray iconic images like Elliot Erwitt's <a href="http://www.jmcfaber.at/images/erwitt03.jpg">nursing mother</a> or W. Eugene Smith's postcard perennial <a href="http://images.google.com/imgres?imgurl=http://imagecache2.allposters.com/images/pic/IMC/g1801~Walk-to-Paradise-Garden-Posters.jpg&imgrefurl=http://www.allposters.com/-sp/Walk-to-Paradise-Garden-Posters_i325202_.htm&h=450&w=338&sz=41&hl=en&start=2&um=1&tbnid=zHMJQ50ZESVKDM:&tbnh=127&tbnw=95&prev=/images%3Fq%3Dsmith%2Bparadise%2Bgarden%26svnum%3D10%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official%26sa%3DN">Walk Through Paradise Garden</a>, pictures that are notable for <i>not</i> being the work for which those photographers are acclaimed, regardless of whatever commercial success those individual pictures have found (Erwitt has commented that his snap, made of his wife & baby daughter, essentially paid for that daughter's college education).
 
-<a href="http://www.botzilla.com/photo/2001/bat.html">
+<a href="https://www.botzilla.com/photo/2001/bat.html">
 
-![(C)1995]({{ 'http://www.botzilla.com/blog/pix2007/batman-07.jpg' | absolute_url }})
+![(C)1995]({{ 'https://www.botzilla.com/blog/pix2007/batman-07.jpg' | absolute_url }})
 </a>
 
 There are a few men approaching but skirting past this dream landscape. An obvious example and another APUG wanderer might be Napa's <a href="http://www.michaelmcblane.com/">Michael McBlane,</a> whose black and whites similarly revel in the beauty of children's clear faces in soft light but like most male portraitists seems a bit more formal, more distanced, more willing to work in the studio... dare I say a more results-oriented approach?
@@ -37,7 +37,7 @@ Conclusions? None. Then again, I prefer photos that are questions.
 
 
 
-![(C)2007]({{ 'http://www.botzilla.com/blog/pix2007/IMG_0581.jpg' | absolute_url }})
+![(C)2007]({{ 'https://www.botzilla.com/blog/pix2007/IMG_0581.jpg' | absolute_url }})
 
 
 

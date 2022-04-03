@@ -6,7 +6,7 @@ tags: [China]
 ---
 
 
-![Shanghai (C)2004/2007 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/250_5071sq.jpg' | absolute_url }})
+![Shanghai (C)2004/2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/250_5071sq.jpg' | absolute_url }})
 
 
 After my first visit to China I knew I would <i>have</i> to return. I love it.

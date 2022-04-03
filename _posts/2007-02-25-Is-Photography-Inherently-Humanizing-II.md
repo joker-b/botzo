@@ -5,7 +5,7 @@ categories: [PhotoRant]
 tags: [Korea]
 ---
 
-![Closed railway gate into North Korea, 2003]({{ 'http://www.botzilla.com/blog/pix2007/Aug03r-08.jpg' | absolute_url }}){: .align-right}
+![Closed railway gate into North Korea, 2003]({{ 'https://www.botzilla.com/blog/pix2007/Aug03r-08.jpg' | absolute_url }}){: .align-right}
 
 <i>Part I is [here.]({{ site.baseurl }}{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %})</i>
 

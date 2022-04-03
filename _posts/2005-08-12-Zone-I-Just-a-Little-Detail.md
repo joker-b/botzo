@@ -4,7 +4,7 @@ title: "Zone I - Just a Little Detail"
 categories: [GrayScale]
 tags: [Books]
 ---
-![ZI]({{ 'http://www.botzilla.com/pix2005/zonei.jpg' | absolute_url }})
+![ZI]({{ 'https://www.botzilla.com/pix2005/zonei.jpg' | absolute_url }})
 
 Afer a few pokes at this particular issue, I've added a <a href="/blog/archives/cat_grayscale.html">filing category</a> to this journal, specific to the question: <i>where can I find great new black and white photography?</i>
 

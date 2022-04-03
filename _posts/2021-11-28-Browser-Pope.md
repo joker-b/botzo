@@ -2,8 +2,8 @@
 layout: post
 title: "The Browser and the Pope"
 image:
-  path: http://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
-  thumbnail: http://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
+  path: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
+  thumbnail: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
 categories: [Nuke Em from Orbit]
 tags: [Machine Learning, 3d, Games, Digital, Math]
 ---
@@ -13,7 +13,7 @@ The excitement of 2021 about "the metaverse" hinges on hardware, but probably no
 The enabling device is not a future perfect headset or muscular neuron sensing or brain-machine interface. No memex required. Instead, I'd like to offer some very noisy graphs and a map of 1648 Europe to explain what's really going on.
 
 <figure class="align-center">
-<img alt="Noise obscures the signal" src="http://www.botzilla.com/pix2021/compute-rg20-Noisy.png">
+<img alt="Noise obscures the signal" src="https://www.botzilla.com/pix2021/compute-rg20-Noisy.png">
 <figcaption>The Signal: It's in There</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ First, let's consider that noisy graph. Underneath the noise, it's three "simple
 If we remove the noise, the split between different kinds of computation environment becomes clearer.
 
 <figure class="align-center">
-<img alt="Unobscured the signal" src="http://www.botzilla.com/pix2021/compute-rg20-Smooth.png">
+<img alt="Unobscured the signal" src="https://www.botzilla.com/pix2021/compute-rg20-Smooth.png">
 <figcaption>Noiseless: Though We Know that the World's a Noisy Place</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Despite all the best attempts at adding WASM, WebWorkers, WebGPU, etc, the brows
 If we extend the time scale, the absolute noise mostly vanishes and the three signals start to show their differences clearly.
 
 <figure class="align-center">
-<img alt="Unobscured the signal" src="http://www.botzilla.com/pix2021/compute-rg100-Noisy.png">
+<img alt="Unobscured the signal" src="https://www.botzilla.com/pix2021/compute-rg100-Noisy.png">
 <figcaption>Regardless of Specific Exponents and Noise Scales, You'll Get a Graph Like This Eventually</figcaption>
 </figure>
 
@@ -68,12 +68,12 @@ If European history isn't a good analogy for you, consider instead radio and tel
 The big split happened around 1950, as these charts from <a href="https://saylordotorg.github.io/text_understanding-media-and-culture-an-introduction-to-mass-communication/s12-01-the-evolution-of-television.html">Saylor</a> and <a href="https://www.sciencedirect.com/topics/social-sciences/radio-listeners">Science Direct</a> reveal.
 
 <figure class="align-center">
-<img alt="The Shift, seen from a Sales angle" src="http://www.botzilla.com/pix2021/tv-adoption-saylordotorg.jpg" width="50%">
+<img alt="The Shift, seen from a Sales angle" src="https://www.botzilla.com/pix2021/tv-adoption-saylordotorg.jpg" width="50%">
 <figcaption>from <i>The Evolution of Television:</i> US Households with Televisions</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="The Shift, seen from a consumption angle" src="http://www.botzilla.com/pix2021/radio-listeners-science-direct.gif" width="80%">
+<img alt="The Shift, seen from a consumption angle" src="https://www.botzilla.com/pix2021/radio-listeners-science-direct.gif" width="80%">
 <figcaption>from the <i>Encyclopedia of International Media and Communications:</i> Declining Radio Time</figcaption>
 </figure>
 

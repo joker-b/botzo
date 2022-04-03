@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![IMG_5525j.jpg]({{ 'http://www.botzilla.com/blog/pix2007/IMG_5525j.jpg' | absolute_url }})
+![IMG_5525j.jpg]({{ 'https://www.botzilla.com/blog/pix2007/IMG_5525j.jpg' | absolute_url }})
 
 
 <a href="http://johnbrownlow.com/streetphoto/viewtopic.php?t=2635">"Obscure."</a>

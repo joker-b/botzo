@@ -6,7 +6,7 @@ tags: [Analog,3D]
 ---
 
 
-![Santa Clara, (C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/horn.jpg' | absolute_url }}){: .align-left}
+![Santa Clara, (C) 2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/horn.jpg' | absolute_url }}){: .align-left}
 I'm hardly the only one struggling with the hidden expenses and travails of digital. Read this recent <a href="http://editorialphoto.com/Internallinks/manifesto_index.html">Digital Manifesto</a> from <a href="http://editorialphoto.com/">Editorial Photographers.</a> The very group whom camera companies love to promote as users of their top digital equipment are, in fact, getting powerfully squeezed as a result of that equipment. Or at least by people's attitudes about it.
 
 There are a number of factors in play here, regarding the relationship of fee structures and technology. There's plenty of polarization in camps, plenty of confusion, and (as EP members have discovered) plenty of opportunity for abuse. Perhaps not surprisingly, these occurences are not new to other fields that have been diffused with digital technology.

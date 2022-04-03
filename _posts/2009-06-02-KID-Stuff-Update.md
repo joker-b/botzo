@@ -5,10 +5,10 @@ categories: [Botzilla]
 ---
 
 
-![P1040847 copy.jpg]({{ 'http://www.botzilla.com/blog/pix2009/P1040847 copy.jpg' | absolute_url }})
+![P1040847 copy.jpg]({{ 'https://www.botzilla.com/blog/pix2009/P1040847 copy.jpg' | absolute_url }})
 
 
-Sadly, the <a href="http://botzilla.sourceforge.net/">Botzilla Name has been hijacked</a> -- <a href="http://botzilla.free.fr/">repeatedly</a> -- so the name I'm using for <a href="http://www.botzilla.com/blog/archives/000692.html">this little project</a> is <b>KID</b> (botzilla): <b>K</b>evin's <b>I</b>llmatic <b>D</b>istraction. Or idiotic. Or intrepid. Or infantile. Indescribable. idk.
+Sadly, the <a href="http://botzilla.sourceforge.net/">Botzilla Name has been hijacked</a> -- <a href="http://botzilla.free.fr/">repeatedly</a> -- so the name I'm using for <a href="https://www.botzilla.com/blog/archives/000692.html">this little project</a> is <b>KID</b> (botzilla): <b>K</b>evin's <b>I</b>llmatic <b>D</b>istraction. Or idiotic. Or intrepid. Or infantile. Indescribable. idk.
 
 <!--more-->
 No lasers or grenade launchers yet but at least I finally got a little time clear to get this little platform working in a predictable way, with the controller managing DC motors rather than servos or steppers. Truthfully I'm not at all sure that something so typically mechanical is part of my goal. I'm now thinking about using flexible kevlar strips to push bits around, like twistable tendons on a flexible stalk. Motorized rubber bands? 

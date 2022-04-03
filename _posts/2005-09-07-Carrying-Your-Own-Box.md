@@ -6,7 +6,7 @@ tags: [Analog,Fujifilm]
 ---
 
 
-![Carrying Your Own Box]({{ 'http://www.botzilla.com/pix2005/box.jpg' | absolute_url }}){: .align-left}
+![Carrying Your Own Box]({{ 'https://www.botzilla.com/pix2005/box.jpg' | absolute_url }}){: .align-left}
 
 <i>Three rolls of Neopan 400 120, three rolls of Acros 120, two rolls of HP5+ 120, two rolls of Ektachrome E100S 120, the B&amp;W in Xtol 1+1, Rodinal 1+50, and in one case, Rodinal 1+100...</i>
 

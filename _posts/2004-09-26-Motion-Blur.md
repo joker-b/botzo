@@ -6,7 +6,7 @@ tags: [Canon,Contax,Analog,Japan]
 ---
 
 
-![Shinjuku, 4 Sep 2004 (C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/motionBlur.jpg' | absolute_url }})
+![Shinjuku, 4 Sep 2004 (C) 2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/motionBlur.jpg' | absolute_url }})
 
 
 Four airports in the past five days &#151; a busy trip. Currently Sunday morning (I think) in Tokyo.

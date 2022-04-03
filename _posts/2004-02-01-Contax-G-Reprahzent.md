@@ -6,7 +6,7 @@ tags: [Contax,England]
 ---
 
 
-![London, 2003 (C) 2003-2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/Nov03A-27.jpg' | absolute_url }}){: .align-right}
+![London, 2003 (C) 2003-2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/Nov03A-27.jpg' | absolute_url }}){: .align-right}
 In the past couple of days I've run across notices for two established and Contax-related sites &#151; based on photos, not gear.
 
 <a href="http://www.guardian.co.uk/arts/features/story/0,11710,1134509,00.html">An interview with Luc Delahaye</a> talks about his experience shooting, among other things, his series "Wintereisse," which was reputedly made with the G2. <a href="http://www.magnumphotos.com/c/htm/TreePf_MAG.aspx?Stat=Photographers_Portfolio&E=29YL53IQ2XU">Delahaye</a> also is no slouch when it comes to kicking over a few cans around the <a href="http://www.magnumphotos.com">Magnum Agency</a> crowd, with comments like "<a href="http://www.magnumphotos.com/c/htm/TreePf_MAG.aspx?Stat=Photographers_Portfolio&E=29YL53IQ1W7">Cartier-Bresson</a>... didn't really need to put the film in the camera &#151; the importance for him is the act of taking pictures ... being in the right position and being fast." 

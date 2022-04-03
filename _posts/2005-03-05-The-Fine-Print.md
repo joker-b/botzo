@@ -6,7 +6,7 @@ tags: [Analog,Canon,Contax,Fujifilm,Printing]
 ---
 
 
-![(C) 2005]({{ 'http://www.botzilla.com/pix2005/fineprint.jpg' | absolute_url }})
+![(C) 2005]({{ 'https://www.botzilla.com/pix2005/fineprint.jpg' | absolute_url }})
 
 
 It's always in the details. This weekend finds me printing and reprinting comparison pix, looking at differences between methods: between digital and medium format film cameras, and between different ways to print their results.

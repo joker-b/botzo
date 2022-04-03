@@ -2,8 +2,8 @@
 layout: post
 title: "Away from the Desk: WD Wireless Pro"
 image:
-  path: http://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
-  thumbnail: http://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
+  path: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
+  thumbnail: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
 categories: [GearHead]
 tags: [Fujifilm,Digital,Chromebook,Samsung,Linux,Lumix,Leica,Android,iOS]
 ---
@@ -22,26 +22,26 @@ You can also connect most Fuji and other cameras directly to the drive via USB w
 
 ## Accessing Your Pictures
 
-After backing up, the hard drive can be connected to the Chromeboook either wirelessly or via wired connection. In theory, you could use apps like <a href="http://www.botzilla.com/gearhead/2020/04/09/kbImport.html"><b>kbImport</b></a> or **Files** to copy from an SD card connected to your computer to a WD drive also connected to the same computer, but there doesn't seem to be much advantage to that approach unless you want structured folders.
+After backing up, the hard drive can be connected to the Chromeboook either wirelessly or via wired connection. In theory, you could use apps like <a href="https://www.botzilla.com/gearhead/2020/04/09/kbImport.html"><b>kbImport</b></a> or **Files** to copy from an SD card connected to your computer to a WD drive also connected to the same computer, but there doesn't seem to be much advantage to that approach unless you want structured folders.
 
 Western Digital's **My Cloud** Android app is one wireless mechanism for bringing files from the drive into ChromeOS. You can get the app for iOS as well. But there is a better way: mounting the drive as a network share. This method works very well for Mac or Windows, right in the finder window, and can also work on phones with a helper app (but for such a case, you may as well use **My Cloud**). Chromebook's **Files** app has built-in "SMB" support to connect the WD, but I've had better results with the helper extension, <a href="https://chrome.google.com/webstore/detail/file-system-for-windows/mfhnnfciefdpolbelmfkpmhhmlkehbdf?hl=en">**File System for Windows.**</a>
 
 <figure class="align-center">
-<img alt="Mac Access" src="http://botzilla.com/pix2020/WD-Network-on-Mac.jpg">
+<img alt="Mac Access" src="https://botzilla.com/pix2020/WD-Network-on-Mac.jpg">
 <figcaption>Network access from the Mac Finder: mounted as "MyPassport"</figcaption>
 </figure>
 
 You can connect any device directly to the WD's own wifi server, `http://192.168.60.1` -- but that can be fiddly. It's simpler to connect to the WD this way just _once,_ and use the controls found in the "admin" panel there to connect it back to your main network. You can then reconnect your computer back to the main network and access the WD either by name ("MyPassport") or local IP address (for my network, `192.168.1.32` is today's dynamic address. You can also set a static address: <a href="https://media.flixcar.com/f360cdn/Western_Digital-2411667979-eng_user_manual_4779-705151.pdf">here's the manual</a>). 
 
 <figure class="align-center">
-<img alt="WD Wireless Pro" src="http://botzilla.com/pix2020/WD-wifi.jpg">
+<img alt="WD Wireless Pro" src="https://botzilla.com/pix2020/WD-wifi.jpg">
 <figcaption>Accessing the **WD Wireless Pro** via web browser when the drive is connected as a wifi server, and linking it to a home Wifi router</figcaption>
 </figure>
 
 The WD has a range of connection features that go well beyond the scope of this article: you can use it as a Plex media server for your TV or stereo. It can charge your phone. You can log-in via `ssh` and tweak it as a tiny linux machine. Suffice to say that it's a powerful, complex device -- that complexity (not helped much by the obscure tech-jargon in the manual) might be enough to encourge you to drop the extra $750 for a half-sized Gnarbox. Or not, if the WD handles what you need?
 
 <figure class="align-center">
-<img alt="Files Access" src="http://botzilla.com/pix2020/files_extensions.jpg" width="484" height="368">
+<img alt="Files Access" src="https://botzilla.com/pix2020/files_extensions.jpg" width="484" height="368">
 <figcaption>Network access from Chromebook <b>Files</b> using an IP address<br/>(Dropbox can be accessed by a similar extension, btw)</figcaption>
 </figure>
 

@@ -2,8 +2,8 @@
 layout: post
 title: "France - A Guide"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
 categories: [PhotoRant]
 tags: [Books, France]
 ---

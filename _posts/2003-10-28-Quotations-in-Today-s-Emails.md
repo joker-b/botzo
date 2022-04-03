@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![(C)2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/103_0319.jpg' | absolute_url }}){: .align-right}
+![(C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/103_0319.jpg' | absolute_url }}){: .align-right}
 Such a literate bunch today.
 
 &#149; Street Photography is <a href="http://www.googlism.com/index.htm?ism=street+photography&type=2">Link Number One</a>

@@ -2,8 +2,8 @@
 layout: post
 title: "The Wrong Side"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
+  path: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
 categories: [fStop, GearHead, PhotoRant]
 tags: [Film, Analog, Leica, Minolta, Fuji, Fujifilm, Leitz]
 ---
@@ -17,7 +17,7 @@ And when you find out: what then?
 I did a quick image search on "camera wrist strap" -- came back with hundreds of photos, as you might imagine. And in every one of the photos I saw: the wrist strap was attached to the upper right-handed side of the camera.
 
 <figure class="align-center">
-<img alt="Right is Wrong" src="http://botzilla.com/pix2021/straps.jpg">
+<img alt="Right is Wrong" src="https://botzilla.com/pix2021/straps.jpg">
 <figcaption>Right, but probably Wrong.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ But no need to take my word for the merits of the left-handed grip. Consider thi
 
 
 <figure class="align-center">
-<img alt="Photography Made Difficult" src="http://botzilla.com/pix2021/Smith-Jun-Miki.jpg">
+<img alt="Photography Made Difficult" src="https://botzilla.com/pix2021/Smith-Jun-Miki.jpg">
 <figcaption>W. Eugene Smith, 1954 (<a href="https://commons.wikimedia.org/wiki/File:W.Eugene_Smith,1954,NY,Photograh_taken_by_Jun_Miki.jpg">source</a> credited to Jun Miki in the late, great <a href="https://www.nippon-camera.com/"><i>Nippon Camera,</i></a> April '55 Edition.<br/>Check out <a href="https://japancameramag.tumblr.com/">this Tumblr!</a>)</figcaption>
 </figure>
 

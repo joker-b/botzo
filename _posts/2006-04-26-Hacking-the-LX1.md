@@ -6,7 +6,7 @@ tags: [Canon,Leica,Lumix]
 ---
 
 
-![P1000976.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2006/P1000976.jpg' | absolute_url }})
+![P1000976.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/P1000976.jpg' | absolute_url }})
 
 
 After some time using it daily, I can recognize my own way of working with the LX1, so it seems time to share some rambling notes. Operationally, electrically, and optically the camera is identical to the Leica D-Lux2 &#151; these notes apply equally well to both cameras.

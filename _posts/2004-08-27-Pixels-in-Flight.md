@@ -6,7 +6,7 @@ tags: [3D,Digital,China,Japan,Korea]
 ---
 
 
-![(C)2004 KB]({{ 'http://www.botzilla.com/bpix/flypixel.jpg' | absolute_url }})
+![(C)2004 KB]({{ 'https://www.botzilla.com/bpix/flypixel.jpg' | absolute_url }})
 
 
 On the heels of Siggraph, we're doing the Asia Leg of the <a href="http://developer.nvidia.com/page/event_calendar.html">2004 NVIDIA Developer Tour </a> starting next week in <a href="http://www.gameinfinity.or.kr/sub04/02_read.php?menu_code=ACC_1&seq_code=38">Seoul.</a> We'll then be moving on to Tokyo, Shanghai, and Beijing. A bit like Siggraph, I'll be giving lectures about high-end shading and showing off ideas in <a href="http://www.fxcomposer.com/">FX Composer.</a>

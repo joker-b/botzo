@@ -6,7 +6,7 @@ tags: [Analog, Darkroom]
 ---
 
 
-![Tween, (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/jun03e-18.jpg' | absolute_url }}){: .align-right}
+![Tween, (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/jun03e-18.jpg' | absolute_url }}){: .align-right}
 <i>Six rolls TMax 100, 9.5 mins Xtol 1+1 @ 20C.</i>
 
 I've decided to start filtering <i>all</i> the water, not just for chemicals but for final washing as well. Today I replaced the whole lot of chemistry, and drip-dripped multiple gallons of water through coffee filters held in my fingers. Hopefully this high-tech approach will help eliminate some of the last, nagging dust problems.

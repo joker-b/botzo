@@ -2,8 +2,8 @@
 layout: post
 title: "Crop Circle"
 image:
-  path: http://www.botzilla.com/blog/pix2009/P1020027.jpg
-  thumbnail: http://www.botzilla.com/blog/pix2009/P1020027.jpg
+  path: https://www.botzilla.com/blog/pix2009/P1020027.jpg
+  thumbnail: https://www.botzilla.com/blog/pix2009/P1020027.jpg
 categories: [fStop]
 tags: [Lumix]
 ---

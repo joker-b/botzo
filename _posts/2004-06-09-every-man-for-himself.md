@@ -4,7 +4,7 @@ title: "every man for himself"
 categories: [PhotoRant]
 tags: [Books,Movies]
 ---
-![Every]({{ 'http://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
+![Every]({{ 'https://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
 
 A few years back (okay, a bunch of years back), I attended a session at the <a href="http://www.mnfilmarts.org/" target="_blank">University Film Society,</a> at the Bell Museum on the University of Minnesota campus. Guest for the evening, Werner Herzog, I think to promote <a href="http://www.lesblank.com/more/shoe.html" target="_blank"><i>Werner Herzog Eats His Shoe,</i></a> though that night we watched <a href="http://www.imdb.com/title/tt0068182/" target="_blank"><i>Aguirre, the Wrath of God.</i></a>
 

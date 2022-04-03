@@ -2,8 +2,8 @@
 layout: post
 title: "Staying Safe: Simple Math"
 image:
-  path: http://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
-  thumbnail: http://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
+  path: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
+  thumbnail: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
 categories: [Botzilla]
 tags: [Health, Covid, Pandemic, Epidemic, Math, Algorithms, Python]
 ---
@@ -50,7 +50,7 @@ There's a simple formula to figure out your chances for figuring your chance for
 and subtract that result from 100%.
 
 <figure class="align-center">
-<img alt="coin flips: avoid losing" src="http://botzilla.com/pix2020/safe-01.png">
+<img alt="coin flips: avoid losing" src="https://botzilla.com/pix2020/safe-01.png">
 </figure>
 
 So much for coin tosses.
@@ -64,7 +64,7 @@ You can figure out the _"chanceUninfected"_ by just dividing the number of infec
 **Cheat #1: it's _up to you to decide_ the _"numberOfPeople"_ you encounter for any given day.** This is the most powerful cheat. How many people is a good number? Read on.
 
 <figure class="align-center">
-<img alt="cheat #1" src="http://botzilla.com/pix2020/safe-02.png">
+<img alt="cheat #1" src="https://botzilla.com/pix2020/safe-02.png">
 </figure>
 
 Assuming that infected people continue randomly walking around on the street, you can see that even for a lot of cases within a population (I'm using today's rough population of Sonoma County), the odds that any given person is infected can look low. This is where your choices about _"numberOfPeople"_ come into play.
@@ -72,7 +72,7 @@ Assuming that infected people continue randomly walking around on the street, yo
 Let's compare results for different numbers of random people you encounter daily: do you encounter 1 person, 2, 5, 10, 30, or 100 people?
 
 <figure class="align-center">
-<img alt="risks from number of daily interactions" src="http://botzilla.com/pix2020/safe-03.png">
+<img alt="risks from number of daily interactions" src="https://botzilla.com/pix2020/safe-03.png">
 </figure>
 
 I hope you can see where this leads! The brown line at the top is for 100 people, the blue one at bottom for just one. The more people you encounter each day, there's a _big_ difference in the chances that at least one of them is infected. This matters even when the infection rates are miniscule. Are there 30 people in your workplace? Look at that purple line. Five? Look at the green. Are you staying isolated at home, using the phone and video chat? Your chances of encountering an infected person are much, much, less.
@@ -84,7 +84,7 @@ Why think about this per-day? Because every day is different. The present epidem
 Currently, the 14th of March, our county has had ony one local person-to-person case. We'll get to that a bit later, but I'll include these cruise ship numbers for now -- they won't make much difference later (Because there are so few cases here in Sonoma County, it's hard to know if we're currently in week one of the charts below, week two, or even week three -- I'll be tracking and updating in the future). We can use what we know today and start to get a grasp of how things might go for ourselves as risk of exposure grows over several weeks:
 
 <figure class="align-center">
-<img alt="risk growth" src="http://botzilla.com/pix2020/safe-04.png">
+<img alt="risk growth" src="https://botzilla.com/pix2020/safe-04.png">
 </figure>
 
 Again, the brown line at the top -- that is, the one peaking early -- shows the risk for people who have a lot of exposure to others each day. The lowest one on the right: just one person per day.
@@ -92,7 +92,7 @@ Again, the brown line at the top -- that is, the one peaking early -- shows the 
 Here's an estimate of the early weeks of infection, up to where it's levelling-off some and you can _start_ to feel a bit safer:
 
 <figure class="align-center">
-<img alt="early weeks" src="http://botzilla.com/pix2020/safe-05.png">
+<img alt="early weeks" src="https://botzilla.com/pix2020/safe-05.png">
 </figure>
 
 There's a line that's missing in these charts: __*the zero option.*__ If you're not encountering _anyone,_ none of them have an opportunity to infect you that day, other than indirectly via dirty surfaces, shared plumbing and ventilation, etc. 
@@ -113,7 +113,7 @@ That's `pow(0.99, 56)` for 99% safe over 56 days -- which leaves a dismal 43% li
 
 <!-- 
 <figure class="align-center">
-<img alt="one percent not so good" src="http://botzilla.com/pix2020/safe-06.png">
+<img alt="one percent not so good" src="https://botzilla.com/pix2020/safe-06.png">
 </figure>
 -->
 
@@ -122,7 +122,7 @@ Not so great -- little better than fifty-fifty. But... our initial risk values w
 
 <!--
 <figure class="align-center">
-<img alt="better" src="http://botzilla.com/pix2020/safe-07.png">
+<img alt="better" src="https://botzilla.com/pix2020/safe-07.png">
 </figure>
 -->
 
@@ -135,12 +135,12 @@ Of course, we know the risk varies over time. It gets a lot worse for a while, a
 If we glue-together our graphs of changing population risks plus our personal risk management, we'll get something like the following:
 
 <figure class="align-center">
-<img alt="Worst Case" src="http://botzilla.com/pix2020/safe-13.png">
+<img alt="Worst Case" src="https://botzilla.com/pix2020/safe-13.png">
 <figcaption>Worst: 100 Encounters per Day</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="Better" src="http://botzilla.com/pix2020/safe-08.png">
+<img alt="Better" src="https://botzilla.com/pix2020/safe-08.png">
 <figcaption>Better: Only One Encounter per Day</figcaption>
 </figure>
 

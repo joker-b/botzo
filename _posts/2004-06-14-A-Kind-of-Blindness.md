@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![(C)2004]({{ 'http://www.botzilla.com/bpix/blindness.jpg' | absolute_url }})
+![(C)2004]({{ 'https://www.botzilla.com/bpix/blindness.jpg' | absolute_url }})
 
 
 Current listening: "Nightingale" by <a href="/www.bach-cantatas.com/Bio/Mera-Yoshikazu.htm" target="_blank">Yoshikazu Mera,</a> whose voice anime fans would recognize from his melancholic rendition of the title theme from Miyazaki's <i>Mononoke Hime.</i> The album is subtitled "Japanese Art Songs," and is something of a rarity here: just voice and piano accompaniment in a Swedish recording of contemporary Japanese <i>kunstlieder.</i> It is at once close to the heart of conservative music and yet bold and expressive in its realization. For all the admiration I have for brilliant arrangements on a large and complex scale, whether it be a Kid Koala scratch track or Beethoven's magnificent <a href="http://slate.msn.com/id/2084948/" target="_blank">Ninth,</a> there's still nothing more expressive than the direct voice. Simple clarity. Eminem exagerrates (duh): "nobody listens to techno" but we know what he means.

@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![3 July 2004 (C) 2004]({{ 'http://www.botzilla.com/bpix/hail.jpg' | absolute_url }})
+![3 July 2004 (C) 2004]({{ 'https://www.botzilla.com/bpix/hail.jpg' | absolute_url }})
 
 
 It's the 4th of July, time for fireworks and plenty of public parties, fairs, and parades. Just remember, don't <a href="http://www.chattanoogan.com/articles/article_51989.asp" target="_blank">take photos at large public events,</a> and whatever you do don't go <a href="http://www.nytimes.com/2004/06/30/nyregion/30deport.final.html?hp" target="_blank">videotaping in random public places,</a> lest you too might get three months of solitary confinement from agencies that know darned well you've done nothing wrong.

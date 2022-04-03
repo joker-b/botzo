@@ -5,7 +5,7 @@ categories: [The Open Conspiracy]
 ---
 
 
-![Always Home]({{ 'http://www.botzilla.com/blog/pix2006/P1040796-alwaysHome.jpg' | absolute_url }})
+![Always Home]({{ 'https://www.botzilla.com/blog/pix2006/P1040796-alwaysHome.jpg' | absolute_url }})
 
 
 <i>It's just economics of scale,</i> we like to tell ourselves. On my last rushed morning in Boston I set off to seek out a few extra gifts for my return to the bay, something unique and memorable. Instead as I orbitted in increasing circles through downtown it was clear that I was less in Massachussetts and more in the United State of Generica, with every storefront filled with familiar brands and stocked with goods in no way different from those in Santana Row or The Great Mall. In the end I settled for some team shirts, sold every fifty feet throughout the mall under the Prudential tower and all supplied by... a centralized web site in Washington State.

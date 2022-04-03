@@ -2,8 +2,8 @@
 layout: post
 title: "Precisely Imprecise"
 image:
-  path: http://www.botzilla.com/pix2021/L1014651-2021c.jpg
-  thumbnail: http://www.botzilla.com/pix2021/L1014651-2021c.jpg
+  path: https://www.botzilla.com/pix2021/L1014651-2021c.jpg
+  thumbnail: https://www.botzilla.com/pix2021/L1014651-2021c.jpg
 categories: [GrayScale]
 tags: [Leica, Miami]
 ---

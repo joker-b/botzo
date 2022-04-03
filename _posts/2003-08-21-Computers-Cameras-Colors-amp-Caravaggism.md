@@ -5,7 +5,7 @@ categories: [Nuke Em from Orbit]
 tags: [3D,Digital,Movies,Games,Painting]
 ---
 
-![Santa Clara, 2002 (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/sep02l-37b.jpg' | absolute_url }}){: .align-right}
+![Santa Clara, 2002 (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/sep02l-37b.jpg' | absolute_url }}){: .align-right}
 Okay, so if I'm so hot on <a href="http://www.cgshaders.org/">digital imaging,</a> why do I still lunk-around a film-based camera? What? No <i>color?</i>
 
 I get asked this regularly by people in the offline world. It's usually a lead-in to  a recommendation that I buy a digital camera, often tied to a specific recommendation to get one just like theirs, which they recently purchased and like a lot. They're usually surprised when I say that I spent almost a year toting around a digital camera all day most every day, that I have a <a href="/photo/G1links.html">digital photo enthusiast site,</a> and that <i>after</i> that experience I dug-out the old 1950's style gear, expanded my 35mm equipment, and have been quite pleased with the results of that choice. I still use the digicam at times, but mostly it stays home. I waver at moments, but usually have no desire to grab at the latest generation of DSLRs.

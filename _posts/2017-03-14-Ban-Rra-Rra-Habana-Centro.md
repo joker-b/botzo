@@ -2,8 +2,8 @@
 layout: post
 title: "Ban Rra Rra, Habana Centro"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
+  path: https://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
 categories: [fStop]
 tags: [Cuba]
 ---

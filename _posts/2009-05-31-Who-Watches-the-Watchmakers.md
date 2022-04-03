@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![P1040773.jpg]({{ 'http://www.botzilla.com/blog/pix2009/P1040773.jpg' | absolute_url }})
+![P1040773.jpg]({{ 'https://www.botzilla.com/blog/pix2009/P1040773.jpg' | absolute_url }})
 
 
 It strikes me that designers themselves provide ample evidence that "Intelligent Design" is a fundamentally flawed idea.

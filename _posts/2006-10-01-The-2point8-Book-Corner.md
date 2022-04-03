@@ -6,7 +6,7 @@ tags: [Leica,Lumix,Analog,Books,Painting]
 ---
 
 
-![(C)2006]({{ 'http://www.botzilla.com/blog/pix2006/559_5957.jpg' | absolute_url }})
+![(C)2006]({{ 'https://www.botzilla.com/blog/pix2006/559_5957.jpg' | absolute_url }})
 
 
 A couple of weeks ago I was reading <a href="http://en.wikipedia.org/wiki/Michael_David_Murphy">Michael David Murphy</a>'s <a href="http://2point8.whileseated.org/">2point8</a> and started clicking the "previous entry" lin ks&#151; eventually, over the course of a few hours, I worked my way back through the entire history of the blog, mostly in a straight line backwards but with a few <i>Memento-</i>like sidebars of reversed reverse time. Regardless of direction the time was well-spent (later I tried the same thing with this blog, and frankly Botzilla doesn't bear extended reading nearly as well, with its many random discursions and distracted tone. You do what you can).
@@ -37,6 +37,6 @@ Also in my bookstack is a non-photography book, <a href="http://old.siggraph.org
 
 
 
-![P1010543.jpg]({{ 'http://www.botzilla.com/blog/pix2006/P1010543.jpg' | absolute_url }})
+![P1010543.jpg]({{ 'https://www.botzilla.com/blog/pix2006/P1010543.jpg' | absolute_url }})
 
 

@@ -4,7 +4,7 @@ title: "More Portraits"
 categories: [GrayScale]
 tags: [Portraits]
 ---
-![Paper Cut]( {{ 'http://www.botzilla.com/pix2005/paperCut2.jpg' | absolute_url }}){: .align-right }
+![Paper Cut]( {{ 'https://www.botzilla.com/pix2005/paperCut2.jpg' | absolute_url }}){: .align-right }
 
 Here are a few more portrait gallery additions to the Gray Scale. And some of them aren't entirely in B&amp;W, given the realities of commercial publication (and the varying tastes of photographers &#151; color isn't <i>bad,</i> it's just different). <a href="http://www.monakuhn.com/">Mona Kuhn,</a> for example, who says in <a href="http://www.lensculture.com/kuhn.html">an interview on <cite>Lens Culture</cite></a> that she prefers B&amp;W for its "depth," despite her current fame as a color portraitist.
 

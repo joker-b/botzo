@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![(C)2005 K Bjorke]({{ 'http://www.botzilla.com/pix2005/cattle.jpg' | absolute_url }})
+![(C)2005 K Bjorke]({{ 'https://www.botzilla.com/pix2005/cattle.jpg' | absolute_url }})
 
 
 While the flow of published entries on photorant has been slow for the past few weeks, there's still been some writing going on &#151; writing that has stayed in draft form until either the ideas shape up or I have the time to beat the shape into them. This is one of a couple of rambles that arc tangentially off group discussions from <a href="http://www.flickr.com/" target="_blank">flickr.</a>

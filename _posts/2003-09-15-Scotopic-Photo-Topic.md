@@ -6,7 +6,7 @@ tags: [Books,Painting]
 ---
 
 
-![Thought problem: Would color improve or degrade this photo? Why? Defend your assertion. (20 pts) (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/jun03n-31.jpg' | absolute_url }}){: .align-right}
+![Thought problem: Would color improve or degrade this photo? Why? Defend your assertion. (20 pts) (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/jun03n-31.jpg' | absolute_url }}){: .align-right}
 Debate about the application of color in photography will continue as long as there are photographs. Feature articles on the topic pop up with great regularity in the standard photo mags, and <a href="http://digitaljournalist.org/issue0307/nutsandbolts.html">online articles</a> and debates rage endlessly. My local bookstore carries at least two magazines, <a href="http://www.bandwmag.com/">B&amp;W</a> and <a href="http://www.gmcmags.com/">Black and White Photography,</a> dedicated entirely to one camp (and yes, Benetton's advertising rag <a href="http://www.benetton.com/colors/">Colors,</a> too).
 
 The language of these debates is often laughably inflammatory, raging from "anyone shooting B&amp;W today is morally suspect" to "B/W is the true photographer's medium." It's right up there with declarations like "film is dead" (and has been for many years, or so I've often been told in one well-meaning lecture after another since at least the early 90's) or <a href="http://www.thelightregistry.com/">"digital is just craftsmanship, photography [with silver wet processes] is <i>art."</i></a>

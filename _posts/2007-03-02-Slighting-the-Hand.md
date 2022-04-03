@@ -8,7 +8,7 @@ Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin
 
 
 
-![GodinChart1957.jpg]({{ 'http://www.botzilla.com/blog/pix2007/GodinChart1957.jpg' | absolute_url }}){: .align-center}
+![GodinChart1957.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg' | absolute_url }}){: .align-center}
 
 
 
@@ -19,7 +19,7 @@ He follows it with this chart, to represent the modern condition:
 
 
 
-![GodinChart2007.jpg]({{ 'http://www.botzilla.com/blog/pix2007/GodinChart2007.jpg' | absolute_url }}){: .align-center}
+![GodinChart2007.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart2007.jpg' | absolute_url }}){: .align-center}
 
 
 If production is computerized, or transplanted to a remote factory in Vietnam (Nike) or perhaps to the lowest external bidder (most fabless electronics companies, like NVIDIA), then &#151; while production isn't <i>entirely</i> unimportant<a href="#note0302">*</a> &#151; the real big ways to get value from industry are via two mechanisms:
@@ -36,7 +36,7 @@ Our hands have had just as long and illustrious evolutionary history as our brai
 
 <hr align="center" width="20%">
 
-<b>Update 4 March 2007:</b> <a href="http://www.photomichaelwolf.com/intro/index.html">Michael Wolf</a> (previously mentioend <a href="http://www.botzilla.com/blog/archives/000385.html">here</a>) has gone on one of my personal <a href="http://www.spiegel.de/international/0,1518,433134,00.html">dream vacations</a> and come back with <a href="http://www.photomichaelwolf.com/china_copy_artist/">the pictures to prove it.</a>
+<b>Update 4 March 2007:</b> <a href="http://www.photomichaelwolf.com/intro/index.html">Michael Wolf</a> (previously mentioend <a href="https://www.botzilla.com/blog/archives/000385.html">here</a>) has gone on one of my personal <a href="http://www.spiegel.de/international/0,1518,433134,00.html">dream vacations</a> and come back with <a href="http://www.photomichaelwolf.com/china_copy_artist/">the pictures to prove it.</a>
 
 <a href="http://www.photomichaelwolf.com/china_copy_artist/">
 

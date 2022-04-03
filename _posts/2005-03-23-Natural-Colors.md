@@ -6,7 +6,7 @@ tags: [Leica,Analog]
 ---
 
 
-![San Francisco, 2005]({{ 'http://www.botzilla.com/pix2005/natural.jpg' | absolute_url }})
+![San Francisco, 2005]({{ 'https://www.botzilla.com/pix2005/natural.jpg' | absolute_url }})
 
 
 <i>Three rolls HP5+, Xtol 1+1</i>

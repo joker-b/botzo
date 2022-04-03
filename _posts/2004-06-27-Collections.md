@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![(C)2003, 2004]({{ 'http://www.botzilla.com/bpix/oct03b-29.jpg' | absolute_url }})
+![(C)2003, 2004]({{ 'https://www.botzilla.com/bpix/oct03b-29.jpg' | absolute_url }})
 
 
 <i>Three rolls TMax 100, Rodinal 1::25</i>

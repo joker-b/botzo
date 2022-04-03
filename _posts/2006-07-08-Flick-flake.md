@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![flickflake.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2006/flickflake.jpg' | absolute_url }})
+![flickflake.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/flickflake.jpg' | absolute_url }})
 
 
 Over the past month or two I've pretty-well given up on trying to make any sense of my <a href="http://www.flickr.com/people/bjorke/contacts/">flickr contacts list.</a> Too many people listing me, too many people whose photos I want to see.

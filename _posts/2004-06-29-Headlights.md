@@ -5,7 +5,7 @@ categories: [fStop]
 ---
 
 
-![San Francisco, 2004]({{ 'http://www.botzilla.com/bpix/headlights.jpg' | absolute_url }})
+![San Francisco, 2004]({{ 'https://www.botzilla.com/bpix/headlights.jpg' | absolute_url }})
 
 
 I've been using strobe more and more. Outdoors in daylight especially.

@@ -4,7 +4,7 @@ title: "Side Projects"
 categories: [PhotoRant]
 tags: [Books,Stereo]
 ---
-![Free view pair]({{ 'http://www.botzilla.com/pix2005/sides.jpg' | absolute_url }})
+![Free view pair]({{ 'https://www.botzilla.com/pix2005/sides.jpg' | absolute_url }})
 
 After having an enjoyable swipe through a few <a href="http://coincidences.typepad.com/still_images_and_moving_o/2004/12/books_ive_enjoy.html" target="side">best photo books of 2004 lists,</a> I thought the task was worth expanding &#151; so a new project is to work through the titles in Andrew Roth's <a href="http://www.photoeye.com/templates/mShowDetailsbycat.cfm?Catalog=PK676" target="side"><cite>The Book of 101 Books: Seminal Photographic Books of the Twentieth Century</cite></a> and read each one I can find. A couple of them, I happily realized, I already owned (okay, not <i>originals</i> but I'm not after originals &mdash; the goal is reading, not collecting). After a couple of weeks of picking-around, the score so far:
 

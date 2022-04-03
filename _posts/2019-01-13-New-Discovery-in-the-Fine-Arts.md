@@ -5,7 +5,7 @@ categories: [PhotoRant]
 tags: [Books,Lumix]
 ---
 
-<img src="http://www.botzilla.com/img/pix2019/bjorke_LXSonomaRide_P1090004.jpg" class="align-center"  />
+<img src="https://www.botzilla.com/img/pix2019/bjorke_LXSonomaRide_P1090004.jpg" class="align-center"  />
 
 The announcement in America of the invention of photography, as reported in _The New Yorker_ (later renamed the _New York Tribune),_ 13 April 1839:
 

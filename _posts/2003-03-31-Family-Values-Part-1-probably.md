@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![Monterey, Calif, home of Ansel Adams (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/feb03s-26.jpg' | absolute_url }}){: .align-right}
+![Monterey, Calif, home of Ansel Adams (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/feb03s-26.jpg' | absolute_url }}){: .align-right}
 <i>The ... industrialization of camera technology only carried out a promise inherent in photography from its very beginning: to democratize all experiences by translating them into images.</i><br>- Susan Sontag, <i>On Photography</i>
 
 Such democratization's most-obvious expression, its adherents might say, is the <a href="http://www.photoblogs.org/">photoblog.</a> There's no obvious shortage of them &#151;a href="http://www.photoblogs.org/">photoblogs.org</a> currently lists over 1100, with new ones being added four or five each day.

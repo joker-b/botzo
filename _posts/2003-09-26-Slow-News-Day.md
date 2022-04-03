@@ -6,7 +6,7 @@ tags: [Korea]
 ---
 
 
-![Seoul (C)2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/sep01a-10.jpg' | absolute_url }}){: .align-right}
+![Seoul (C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/sep01a-10.jpg' | absolute_url }}){: .align-right}
 A few days ago, documentary photographer <a href="http://www.robertappleby.com/">Rob Appleby</a> opined that for him, the photo essay was a dead form, that he's busy looking into something a bit more meaningful, to Rob himself and hopefully to his audience, whoever they may ultimately be.
 
 Personally, I think there's rarely such a thing as a truly dead form, not in a general sense. Individual veins may tap out, but the mine stays open.

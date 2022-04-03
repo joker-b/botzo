@@ -6,7 +6,7 @@ tags: [3D,Digital]
 ---
 
 
-![FX Composer image - VBOMB]({{ 'http://www.botzilla.com/bpix/manyPixel.jpg' | absolute_url }})
+![FX Composer image - VBOMB]({{ 'https://www.botzilla.com/bpix/manyPixel.jpg' | absolute_url }})
 
 
 It's time again for... <a href="http://www.siggraph.org/s2004/" target="sig">Siggraph!</a> This year Siggraph is in L.A., just a short 50-minute commuter flight from SJC.

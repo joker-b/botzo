@@ -2,8 +2,8 @@
 layout: post
 title: "An Elegant Octopus Serving Tea"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
+  path: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
 categories: [PhotoRant]
 tags: [Machine Learning, Neurography, Math]
 ---

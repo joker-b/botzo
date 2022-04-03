@@ -4,7 +4,7 @@ title: "Some B&W Portraitists"
 categories: [GrayScale]
 tags: [Digital,Stereo,Portraits]
 ---
-![ports]({{ 'http://www.botzilla.com/pix2005/ports.jpg' | absolute_url }})
+![ports]({{ 'https://www.botzilla.com/pix2005/ports.jpg' | absolute_url }})
 
 Today's list: a quick alternative to just poking '"black and white" portraits' into Google yourself.
 

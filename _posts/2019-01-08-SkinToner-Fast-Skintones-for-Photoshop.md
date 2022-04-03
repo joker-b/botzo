@@ -6,11 +6,11 @@ tags: [Analog,Digital,Darkroom,Printing]
 markdown: kramdown
 ---
 
-<img alt="SkinToner Sample" src="http://www.botzilla.com/img/pix2019/skinTonerBJRK7403ocs.jpg" class="align-center"  />
+<img alt="SkinToner Sample" src="https://www.botzilla.com/img/pix2019/skinTonerBJRK7403ocs.jpg" class="align-center"  />
 
 I've seen a few video tutorials about getting good skintones in Photoshop. Some were [illuminating,](https://youtu.be/Wvr8LCSuFjE) some even [inspiring](https://youtu.be/yMjb7sMiAsg) &mdash; but all were more involved than they needed to be: using numeric templates or eyedropper-tool tricks in concert with the info panel and a calculator, etc.
 
-Time for an easy select-click-done tool: <a href="http://www.botzilla.com/blog/archives/SkinToner.jsx"><strong><em>SkinToner</em></strong></a>
+Time for an easy select-click-done tool: <a href="https://www.botzilla.com/blog/archives/SkinToner.jsx"><strong><em>SkinToner</em></strong></a>
 
 <!--more-->
 _SkinToner_ works in any recent version of Photoshop, and should be able to present you with great-looking neutral skin tones for photos of anyone regardless of their complexion or ethnicity.
@@ -19,7 +19,7 @@ _SkinToner_ works in any recent version of Photoshop, and should be able to pres
 
 Like [ChartThrob,]({{ site.baseurl }}{% post_url 2006-10-24-ChartThrob-A-Tool-for-Printing-Digital-Negatives %}) *SkinToner* is a Photoshop _script_ rather than an Action or PlugIn &mdash; you trigger it from the Photoshop _"File->Scripts"_ menu. If you already know how to install Photoshop scripts, you can skip down to **Usage**
 
-If you just download <a href="http://www.botzilla.com/blog/archives/SkinToner.jsx">_SkinToner.jsx_</a> (right-click on the link and choose "Save Link As...") to any old place on your hard drive, you can find it from within Photoshop by using Photoshop's _"File->Script->Browse..."_ menu item.
+If you just download <a href="https://www.botzilla.com/blog/archives/SkinToner.jsx">_SkinToner.jsx_</a> (right-click on the link and choose "Save Link As...") to any old place on your hard drive, you can find it from within Photoshop by using Photoshop's _"File->Script->Browse..."_ menu item.
 
 An easier and faster way to use it is to copy the `SkinToner.jsx` file specifically to the `Presets/Scripts` folder within your particular flavor of Photoshop. For my Mac circa January 2019 that's in `/Applications/Adobe Photoshop CC 2019/Presets/Scripts/` &mdash;  put the script there, restart Photoshop, and then _SkinToner_ will just appear directly as part of your Photoshop _"File->Scripts"_ menu, as part of Photoshop itself. It's faster to use and can even be incorporated into keyboard shortcut actions.
 

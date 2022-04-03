@@ -4,8 +4,8 @@ title: "Animated Speaker, Part One"
 categories: [The Open Conspiracy]
 tags: [Books, Machine Learning, Painting, History, France]
 image:
-  path: http://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
-  thumbnail: http://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
+  path: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
+  thumbnail: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
 ---
 
 <blockquote><i>It's a hard simple fact for travelers above the 40th parallel: in the depth of winter, the indoor temperature is sure to descend quickly if the furnace isn't running.</i></blockquote>
@@ -57,7 +57,7 @@ At some point in prehistory, gesture became drawing. Maps appear to have been so
 A big difference is that a drawn gesture could now be recorded as a persistent _object._ The listener(s) may actually receive the story on a different day (or year), without the person who made that object being present. A listener becomes a _viewer_ -- a a viewer who can copy or refine a object-message. Color it, edit it, re-express in wood or stone or sand. If a line could represent a journey, maybe it could show what kinds of animal were found at the end of it. What might happen with them. Who went on the trip.
 
 <figure class="align-center">
-<img alt="Utilla Ma" src="http://botzilla.com/pix2020/piedra-Cueva-de-Abauntz.jpg">
+<img alt="Utilla Ma" src="https://botzilla.com/pix2020/piedra-Cueva-de-Abauntz.jpg">
 <figcaption>13,000 years ago, someone made marks on this stone in what's now Spain.<br/>Centuries later archeologisits realized that it presents a map<br/> of the valley outside the mountain cave where it was found.</figcaption>
 </figure>
 
@@ -78,6 +78,6 @@ The banishment of the hand was nearly complete.
 _(to be continued)_
 
 <figure class="align-center">
-<img alt="<-CEZAN" src="http://www.botzilla.com/pix2020/HDF/Bjorke_Histoire-44.jpg">
+<img alt="<-CEZAN" src="https://www.botzilla.com/pix2020/HDF/Bjorke_Histoire-44.jpg">
 <figcaption>Aix-en-Provence</figcaption>
 </figure>

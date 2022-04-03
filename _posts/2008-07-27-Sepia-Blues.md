@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![Sepia Image + 3 component channels]({{ 'http://www.botzilla.com/blog/pix2008/SepiaWai.jpg' | absolute_url }})
+![Sepia Image + 3 component channels]({{ 'https://www.botzilla.com/blog/pix2008/SepiaWai.jpg' | absolute_url }})
 
 
 [Almost two years ago]({{ site.baseurl }}{% post_url 2006-08-27-Are-Sepia-Images-Better %}) I wrote an entry about in-camera sepia, wondering if in fact a sepia transformation could provide a photo with more tonalities than a tyical 8-bit black and white.

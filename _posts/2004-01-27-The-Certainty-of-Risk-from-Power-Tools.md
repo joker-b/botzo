@@ -6,7 +6,7 @@ tags: [Books]
 ---
 
 
-![Landscape with Power Tools, (C)2004 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/landPower.jpg' | absolute_url }}){: .align-right}
+![Landscape with Power Tools, (C)2004 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/landPower.jpg' | absolute_url }}){: .align-right}
 I've enjoyed Michael Johnston's <a href="http://www.luminous-landscape.com/columns/sunday1.shtml">Sunday Morning</a> columns for the past couple of years &#151; back in 2002 he published a short list of book titles that he considered crucial for "practicing photographers." Some I had read, and others I logged-away in my PDA for future reference. I generally trust Michael's opinions on photography as being reasoned and informed, even if they don't <i>always</i> coincide with my own (He also was the one who, through <a href="http://www.luminous-landscape.com/tutorials/auteur.shtml">this article,</a> got me going on a chain of links to <a href="http://www.johnbrownlow.com" rel="colleague" rel="friend">John Brownlow</a> and the <a href="http://topica.com/lists/streetphoto/read">streetphoto list</a>).
 <!--more-->
 

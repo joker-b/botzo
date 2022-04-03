@@ -6,7 +6,7 @@ tags: [Portraits]
 ---
 
 
-![(C)2007]({{ 'http://www.botzilla.com/blog/pix2007/P1070697-512.jpg' | absolute_url }}){: .align-right}
+![(C)2007]({{ 'https://www.botzilla.com/blog/pix2007/P1070697-512.jpg' | absolute_url }}){: .align-right}
 <i>How to handle portrait-format images in an ongoing weblog?</i> is the question that's been dogging me since switching PhotoRant to its current, 807-pixels-across form (why 807 pixels? I genuinely don't remember). 
 As Michael pointed out in a recent <a href="http://2point8.whileseated.org/?p=187">2point8 post,</a> there's an appeal to the idea of giving all photos "equal time" &#151; that is, giving them all equal area on-screen (in his case, 375,000 pixels), distributed according to whatever aspect ratio they have.
 

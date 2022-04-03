@@ -6,7 +6,7 @@ tags: [Books,Painting]
 ---
 
 
-![bjorke_JokerPaint043-1.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2010/bjorke_JokerPaint043-1.jpg' | absolute_url }})
+![bjorke_JokerPaint043-1.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2010/bjorke_JokerPaint043-1.jpg' | absolute_url }})
 
 
 Speaking of painting and computers, I've been working off and on on "JokerPaint," a little let's-beat-images-senseless sort of toy made using <a href="http://www.processing.org">Processing</a> and with a lot of the heavy pixel lifting being done via chains of filters that I've made using the GLSL framework in Andr&eacute;s Colubri's <a href="http://codeanticode.wordpress.com/2010/08/22/glgraphics-0-9-4/">GLGraphics library.</a> I expect that at some point I'll post it to <a href="http://www.openprocessing.org/">OpenProcessing.</a>

@@ -6,7 +6,7 @@ tags: [Contax,Analog]
 ---
 
 
-![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/sTools.jpg' | absolute_url }}){: .align-center}
+![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/sTools.jpg' | absolute_url }}){: .align-center}
 
 
 <i>Three rolls Tri-X, Rodinal 1+50, 13 minutes.</i>

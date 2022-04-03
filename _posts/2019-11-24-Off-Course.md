@@ -6,53 +6,53 @@ tags: [Bike, Fujifilm, Motorcycle]
 ---
 
 <figure class="align-center">
-<img alt="7AM" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8892.jpg">
+<img alt="7AM" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8892.jpg">
 <figcaption>Motorcycling to the beach, Saturday morning.<br/>Last time there, I met elephant seals - they'd gotten lost in a storm.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="Frost" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8899.jpg">
+<img alt="Frost" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8899.jpg">
 <figcaption>7AM temperature, 37F</figcaption>
 </figure>
 <!--more-->
 
 <figure class="align-center">
-<img alt="Cloud" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8913.jpg">
+<img alt="Cloud" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8913.jpg">
 <figcaption>A little frost, and my boots are too slippery to use the pegs when trying to climb back on the bike after photos.<br/>Easy enough, but a surprise.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="forest" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8927.jpg">
+<img alt="forest" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8927.jpg">
 <figcaption>Behind the mountain and away from the sunlight the fog deepens quickly</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="Reservoir" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8931.jpg">
+<img alt="Reservoir" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8931.jpg">
 <figcaption>Beyond this point, visibility drops to less than 200 feet, and for miles.<br/>You can't see the deer on the icy road<br/>in front of you or the impatient pickup behind.<br/>Speed less than 25mph most of the way, and still hard to find things.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="nope" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8960.jpg">
+<img alt="nope" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8960.jpg">
 <figcaption>Arrived: Wrong beach.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="nope" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9007.jpg">
+<img alt="nope" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9007.jpg">
 <figcaption>Arrived: Wrong Estero.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="nope" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8975.jpg">
+<img alt="nope" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A8975.jpg">
 <figcaption>Arrived: Top of the cliff, not the beach.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="Rocks" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9015.jpg">
+<img alt="Rocks" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9015.jpg">
 <figcaption>Find a different way home.<br/>Next time, seals.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img alt="from Marshall" src="http://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9023.jpg">
+<img alt="from Marshall" src="https://botzilla.com/pix2019/bjorke_Lighthouse_XT1A9023.jpg">
 <figcaption>Will pick up some coffee beans along the route.</figcaption>
 </figure>
 

@@ -6,7 +6,7 @@ tags: [Canon,Contax]
 ---
 
 
-![(C)2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/apr04d-10.jpg' | absolute_url }})
+![(C)2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/apr04d-10.jpg' | absolute_url }})
 
 
 Before this past trip I hadn't been to Disney World since... well, I'm guessing 1975 or so. When I was a kid we went as a family at New Year's, with <a href="http://www.heykcsb.com/" target="_blank">K.C. and the Sunshine Band</a> playing a show in Tomorrowland. The Magic Kingdom, as recall, was still unfinished, and the Big Feature of the place was Space Mountain &#151; a ride you couldn't get at Disneyland (even then, the traffic was backed up for over a mile before 9AM at the gate!).

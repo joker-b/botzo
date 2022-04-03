@@ -6,7 +6,7 @@ tags: [Leica,Canon,Contax,Analog]
 ---
 
 
-![Backlog]({{ 'http://www.botzilla.com/bpix/oct03e-04.jpg' | absolute_url }}){: .align-right}
+![Backlog]({{ 'https://www.botzilla.com/bpix/oct03e-04.jpg' | absolute_url }}){: .align-right}
 <i>Three rolls of Tri-X, Rodinal 1+25; three rolls of Tri-X, Rodinal 1+50; six rolls of TMax-100, Rodinal 1+50. You can rinse and rinse and rinse and still that pink stuff never seems to come </i>completely<i> out of TMX.</i>
 
 The latest round of film shooting was launched by the arrival of the RTS and lenses. The lenses, of course, were intended for the <a href="{{ site.baseurl }}{% post_url 2004-02-28-The-Cantax %}">Cantax,</a> but the moment I picked up the RTS I knew I'd have to shoot something with it. The finder is huge and luxurious, even compared to my Canon 35mm's, and far larger than what's visible in the digitals or the Contax G2. The 28mm felt like a 28mm, wide and with crisply-straight horizontals. It's a great, sharp normal optic for the digital, but as a 35mm-format wide-angle lens, it's <i>fantastic.</i> A great complement to its little brother, the 28mm G-Biogon.

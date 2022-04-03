@@ -6,7 +6,7 @@ tags: [Analog,Darkroom,China]
 ---
 
 
-![Shanghai, 2004 (C)2004 K Bjorke]({{ 'http://www.botzilla.com/pix2005/supply.jpg' | absolute_url }})
+![Shanghai, 2004 (C)2004 K Bjorke]({{ 'https://www.botzilla.com/pix2005/supply.jpg' | absolute_url }})
 
 
 It seems like Ilford is back from the edge of the dissolution abyss, at least for now. Despite all the anxiety over the "death of film," it seems to me that it won't be <i>film</i> that will dry up. It'll be other parts of the expendables supply chain that will first disappear and make life difficult.

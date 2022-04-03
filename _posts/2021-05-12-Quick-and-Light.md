@@ -2,8 +2,8 @@
 layout: post
 title: "Quick and Light"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
+  path: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
 categories: [GearHead]
 tags: [Film, Analog, Leica]
 ---
@@ -21,7 +21,7 @@ Maybe it's making up for the fact that Leica makes the best strap for Fuji, but 
 Anyway, here's the flash: Fujifilm EF-X20.
 
 <figure class="align-center">
-<img alt="Fuji EF-X20 flash + Leica M5" src="http://www.botzilla.com/pix2021/rps20210513_151901_806.jpg">
+<img alt="Fuji EF-X20 flash + Leica M5" src="https://www.botzilla.com/pix2021/rps20210513_151901_806.jpg">
 <figcaption>Made for each other?</figcaption>
 </figure>
 

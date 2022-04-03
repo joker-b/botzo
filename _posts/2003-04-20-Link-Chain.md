@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![Las Vegas (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/apr03c-28.jpg' | absolute_url }}){: .align-right}
+![Las Vegas (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/apr03c-28.jpg' | absolute_url }}){: .align-right}
 Thought I'd paste-together a list of URLs that have had important influences on my thinking over the past few months. YMMV.
 
 <ul>

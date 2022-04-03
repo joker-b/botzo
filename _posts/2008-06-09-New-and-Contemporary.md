@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![P1000352.jpg]({{ 'http://www.botzilla.com/blog/pix2008/P1000352.jpg' | absolute_url }})
+![P1000352.jpg]({{ 'https://www.botzilla.com/blog/pix2008/P1000352.jpg' | absolute_url }})
 
 
 There is little that can lead you to treasure good photography than to look at a lot of bad photography, interspersed with an occasional gem. Which is exactly what I was doing a few weeks ago on (where else?) flickr, where I was editing group pools.

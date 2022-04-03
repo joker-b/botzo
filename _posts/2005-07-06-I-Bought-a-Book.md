@@ -6,7 +6,7 @@ tags: [Books]
 ---
 
 
-![I Bought a Book]({{ 'http://www.botzilla.com/pix2005/book.jpg' | absolute_url }})
+![I Bought a Book]({{ 'https://www.botzilla.com/pix2005/book.jpg' | absolute_url }})
 
 
 Big deal? My space is <i>packed</i> with books. But in fact I rarely buy them, prefering to pull from the <a href="http://www.sjlibrary.org/">library</a> and its well-connected <a href="http://www.sjlibrary.org/services/request/linkplus.htm">LINK+</a> system. Usually the only books I purchase these days are books I can't find there, usually because they're esoteric, rare, or too-new to be found (or stolen, as has been the case with title's like Mona Kuhn's <cite>Photographs</cite> or most anything that's highly-collectable or controversial, like first edition Steichens or most of Jock Sturges's works).

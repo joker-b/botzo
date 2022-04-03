@@ -5,7 +5,7 @@ categories: [GrayScale]
 ---
 
 
-![jul06d-01c.jpg]({{ 'http://www.botzilla.com/blog/pix2006/jul06d-01c.jpg' | absolute_url }})
+![jul06d-01c.jpg]({{ 'https://www.botzilla.com/blog/pix2006/jul06d-01c.jpg' | absolute_url }})
 
 
 Just before Siggraph I ran across an imported, ad-free, all-black-and-white magazine that hadn't been in my local store before: <a href="http://www.privatephotoreview.com/"><i>PRIVATE.</i></a> Issue #33 bears what I consider to be an rather classic-looking (almost clich&eacute;d) image for its "East Europe" issue: a <a href="http://www.georgegeorgiou.net/">George Georgiou</a> cover <a href="http://www.georgegeorgiou.net/serbia/georgegeorgioupo.html">shot</a> of Serbian workers in front of a heavy, rust-era-looking pipeline &#151; a bit grainy, contrasty, and one assumes that other than a slight shift in the fashions of their coats, these fellows coud have been working on the same heavy-industry line in 1980 or 1950 or 1930.

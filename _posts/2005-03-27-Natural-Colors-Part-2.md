@@ -6,7 +6,7 @@ tags: [Leica,Analog]
 ---
 
 
-![Natural Colors Part 2]({{ 'http://www.botzilla.com/pix2005/nats2.jpg' | absolute_url }})
+![Natural Colors Part 2]({{ 'https://www.botzilla.com/pix2005/nats2.jpg' | absolute_url }})
 
 
 While I was typing <a href="{{ site.baseurl }}{% post_url 2005-03-23-Natural-Colors %}">Pt I</a> (without even thinking that it would become Pt I), part of the paradox vexing me was there on the desk, staring intently from the cover of the January <a href="http://www.pdnonline.com/"><cite>PDN</cite></a> in the form of Jude Law, shot in classicly-crisp B&W by <a href="www.davidbaileyphotography.com/">David Bailey,</a> with the tag: "The Legends Issue." So here we have Jude Law, promoting <cite>Alfie</cite> and dressed-up in 60's Saville Row. Knockout pic, but &#151; part of The Problem of B&W Nostalgia, right?

@@ -5,7 +5,7 @@ categories: [GearHead]
 ---
 
 
-![bwConvIz.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwConvIz.jpg' | absolute_url }})
+![bwConvIz.jpg]({{ 'https://www.botzilla.com/blog/pix2006/bwConvIz.jpg' | absolute_url }})
 
 While my iTunes subscribes to it, I have to say that I'm not a huge fan of <a href="http://www.photoshopuser.com/">NAPP's</a> "Photoshop TV" video podcast. I subscribe in the hope that some of the tips on the show will be useful. At the same time I dread having to wade through the hosts' gossipy and self-congratulatory prattle. It's better to watch on iTunes than the iPod, mostly because it's easier to fast-forward and skip those sections on the PC. 
 
@@ -22,12 +22,12 @@ A big <i>Duh!</i> moment for me. This method is <i>so</i> much more fluid to use
 
 
 
-![bwHueVars.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwHueVars.jpg' | absolute_url }})
+![bwHueVars.jpg]({{ 'https://www.botzilla.com/blog/pix2006/bwHueVars.jpg' | absolute_url }})
 
 
 
 
-![bwLimits.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwLimits.jpg' | absolute_url }}){: .align-left}
+![bwLimits.jpg]({{ 'https://www.botzilla.com/blog/pix2006/bwLimits.jpg' | absolute_url }}){: .align-left}
 
 I think I'd seen an article describing his method before, but the video really made it come alive for me &#151; and I realized it wasn't just useful for the landscapes typically used as examples.
 
@@ -41,7 +41,7 @@ In the pic at left you can see the "bwLimits" layer editor, which shows the "S" 
 
 
 
-![bwTone.jpg]({{ 'http://www.botzilla.com/blog/pix2006/bwTone.jpg' | absolute_url }}){: .align-right}
+![bwTone.jpg]({{ 'https://www.botzilla.com/blog/pix2006/bwTone.jpg' | absolute_url }}){: .align-right}
 
 Below that we see the "toneCurves" editor, which is only applied to the blue channel to create that warm/cool effect (for a color image, as on the web. When printing B&W I currently prefer to use Roy Harrington's <a href="http://www.harrington.com/">Quadtone RIP,</a> which has its own warm/cool print style).
 

@@ -6,7 +6,7 @@ tags: [Analog,Fujifilm]
 ---
 
 
-![cheese slicer, Neopan 1600 waaay over-developed in Rodinal]({{ 'http://www.botzilla.com/blog/pix2006/cheez-tighter.jpg' | absolute_url }})
+![cheese slicer, Neopan 1600 waaay over-developed in Rodinal]({{ 'https://www.botzilla.com/blog/pix2006/cheez-tighter.jpg' | absolute_url }})
 
 
 <a href="http://people.csail.mit.edu/soonmin/CV/CV.pdf">Soonmin Bae</a> is a Ph.D. student at MIT and this week she published a new Siggraph Paper: <a href="http://people.csail.mit.edu/soonmin/photolook/">"Two-Scale Tone Management for Photographic Look."</a>

@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![(C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/106_0663.jpg' | absolute_url }}){: .align-right}
+![(C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/106_0663.jpg' | absolute_url }}){: .align-right}
 <i>The foreigner only sees what he already knows.</i>
 
 &nbsp;&nbsp;&#151; Marc Riboud

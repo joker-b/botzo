@@ -6,7 +6,7 @@ tags: [Leica,Contax,Analog]
 ---
 
 
-![Contax G2 the RIGHT way]({{ 'http://www.botzilla.com/pix2005/thumb.jpg' | absolute_url }})
+![Contax G2 the RIGHT way]({{ 'https://www.botzilla.com/pix2005/thumb.jpg' | absolute_url }})
 
 
 AF, MF, VF, SAF.
@@ -52,7 +52,7 @@ If instead you ride the AF lock, you would focus on the face to one side, lock t
 
 
 
-![Lock then re-compose -- just like Leica]({{ 'http://www.botzilla.com/pix2005/thumb2.jpg' | absolute_url }})
+![Lock then re-compose -- just like Leica]({{ 'https://www.botzilla.com/pix2005/thumb2.jpg' | absolute_url }})
 
 
 Of course, there are a few differences:

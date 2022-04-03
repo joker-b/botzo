@@ -2,8 +2,8 @@
 layout: post
 title: "米国の物の哀れ"
 image:
-  path: http://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
-  thumbnail: http://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
+  path: https://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
+  thumbnail: https://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
 categories: [fStop]
 tags: [Japan, San Francisco]
 ---

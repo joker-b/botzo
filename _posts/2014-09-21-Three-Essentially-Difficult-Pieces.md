@@ -4,7 +4,7 @@ title: "Three Essentially Difficult Pieces"
 categories: [PhotoRant]
 tags: [Books,Digital,Painting]
 ---
-<img title="Art Party SJ" class="img-responsive" src="http://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF2339.jpg"  border="0" />
+<img title="Art Party SJ" class="img-responsive" src="https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF2339.jpg"  border="0" />
 
 This post started as three different posts, each of which got bogged down in its own overwrought explication. I realized they all shared concerns about essentialism, of what makes a photo... a photo. I've decided to just stack them and cut straight down in straight lines across all three. Kick 'em all.
 

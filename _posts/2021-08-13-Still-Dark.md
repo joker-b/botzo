@@ -2,8 +2,8 @@
 layout: post
 title: "Still Dark"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
 categories: [GrayScale]
 tags: [Leica]
 ---

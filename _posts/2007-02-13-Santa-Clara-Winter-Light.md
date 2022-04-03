@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![(C)2007]({{ 'http://www.botzilla.com/blog/pix2007/P1060763.jpg' | absolute_url }})
+![(C)2007]({{ 'https://www.botzilla.com/blog/pix2007/P1060763.jpg' | absolute_url }})
 
 
 In January and February of each year the light here in the Valley breaks in a consistent and spectacularly unique way. In the morning, on somewhat overcast days, the morning warm breaks-open a slot in the cloud cover to the East, above Mount Hamilton near San Jose. The light pours through the narrow opening at a shallow angle, aboveSan Jose to strike us here, in Santa Clara. 

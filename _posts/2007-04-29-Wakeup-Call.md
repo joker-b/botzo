@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![American Legion (C) Estate of Garry Winogrand]({{ 'http://www.botzilla.com/blog/pix2007/winogrand_legion.jpg' | absolute_url }})
+![American Legion (C) Estate of Garry Winogrand]({{ 'https://www.botzilla.com/blog/pix2007/winogrand_legion.jpg' | absolute_url }})
 
 
 I have to admit that I slept through a lot of my CalArts "History of Photography" class. I was waist-deep in my own second-semester projects and the class was in a comfortable, air-conditioned and darkened theatre with deep cushioned seats. Sometimes I'd wake up and my friends would have drawn on me, with the approval (if not participation?) of the teacher.

@@ -4,7 +4,7 @@ title: "Twitchy Eyeballs"
 categories: [PhotoRant]
 tags: [3D,Digital,Books,China]
 ---
-![twitch]({{ 'http://www.botzilla.com/pix2004/twitchy.jpg' | absolute_url }})
+![twitch]({{ 'https://www.botzilla.com/pix2004/twitchy.jpg' | absolute_url }})
 
 It's been many days again since I've written here (though I have written a few short entries for <a href="http://www.photopermit.org/">PhotoPermit.Org</a>), a good chunk of them consumed
 by reading. I feel like I've had some growth and change in the

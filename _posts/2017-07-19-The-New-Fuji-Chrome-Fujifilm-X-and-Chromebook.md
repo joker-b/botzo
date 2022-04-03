@@ -4,7 +4,7 @@ title: "The New Fuji/Chrome: Fujifilm-X and Chromebook"
 categories: [GearHead]
 tags: [Books,Fujifilm,Digital,Chromebook]
 ---
-![Many Possibilities]({{ 'http://www.botzilla.com/blog/archives/pix2017/Fuji-Chrome-C.jpg' | absolute_url }})
+![Many Possibilities]({{ 'https://www.botzilla.com/blog/archives/pix2017/Fuji-Chrome-C.jpg' | absolute_url }})
 
 _(Updated November 2018)_
 
@@ -116,8 +116,8 @@ For the Mac, the card was plugged right into the computer (in 2018, this SD slot
 <tbody>
 <tr><td class="text-right">Via Letscom USB-C hub</td><td>Computer's Integrated SD Reader</td></tr>
 <tr>
-<td><img alt="mbp.jpg" src="http://www.botzilla.com/blog/archives/pix2017/cbp-speed.jpg" class="img-responsive" border="0" /></td>
-<td><img alt="mbp.jpg" src="http://www.botzilla.com/blog/archives/pix2017/mbp.jpg" class="img-responsive" border="0" /></td>
+<td><img alt="mbp.jpg" src="https://www.botzilla.com/blog/archives/pix2017/cbp-speed.jpg" class="img-responsive" border="0" /></td>
+<td><img alt="mbp.jpg" src="https://www.botzilla.com/blog/archives/pix2017/mbp.jpg" class="img-responsive" border="0" /></td>
 </tr>
 <tr><td class="text-right"><b>4:33</b></td><td><b>0:48</b></td></tr>
 </tbody></table>
@@ -140,7 +140,7 @@ I was also surprised to find that the Chromebook **Files** app could actually re
 
 You can edit pictures on Chromebook using either web apps or Android apps. The Chromebook plus has another advantage here over the Mac -- it's a &quot;convertible&quot; laptop, meaning that it can flip open to become a full-screen Android tablet, complete with the excellent **S-Pen** pressure-sensitive stylus.
  
-![Polarr]({{ 'http://www.botzilla.com/blog/archives/pix2017/polarr.jpg' | absolute_url }})
+![Polarr]({{ 'https://www.botzilla.com/blog/archives/pix2017/polarr.jpg' | absolute_url }})
 
 Web apps like **Polarr** can do an acceptable job of editing JPG files. Polarr also has an Android version of their app, so you can try both and see which you prefer.
  
@@ -176,7 +176,7 @@ These notes describe my Chromebook-based process using Fuji cameras, but there a
 
 ## The Mac-Only Version
 
-<img alt="FujiX-OSX.jpg" src="http://www.botzilla.com/blog/archives/pix2017/Fuji-Mac.jpg" class="img-responsive" border="0" />
+<img alt="FujiX-OSX.jpg" src="https://www.botzilla.com/blog/archives/pix2017/Fuji-Mac.jpg" class="img-responsive" border="0" />
 
 Recasting the diagram above for Mac shows a simpler, but narrower network of possibilities. The Mac gains in directness and hard-wired speed, at the expense of losing the Chromebook's wireless applications and destinations (especially Instagram &amp; WeChat, whose web-based versions are rather poor compared to the mobile-only Real Thing).
  

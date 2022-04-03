@@ -6,7 +6,7 @@ tags: [Books,Analog]
 ---
 
 
-![(C)2005]({{ 'http://www.botzilla.com/pix2005/take.jpg' | absolute_url }})
+![(C)2005]({{ 'https://www.botzilla.com/pix2005/take.jpg' | absolute_url }})
 
 
 Two strong recommendations today for excellent but almost unknown photoblogs:

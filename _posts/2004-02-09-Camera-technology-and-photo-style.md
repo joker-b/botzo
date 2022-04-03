@@ -15,7 +15,7 @@ There's even a tacit admission of this notion in a recent Olympus digicam advert
 
 The shot is completely empty, of motion, just a single figure standing at the corner. <i>What was he waiting for?</i> There can only be one possible answer: <i>he was waiting for the camera to turn on.</i>
 
-Consumer digicams are perfectly capable of taking terrific pictures. <a href="http://www.beeflowers.com" target="rantframe">Here are many,</a> taken by <a href="http://www.beeflowers.com" target="rantframe">Bee</a> (mostly digicam shots, anyway). Heck, I've even made a few okay ones <a href="/photo/salon/bjorke_obvious.html" target="rantframe">here</a> and <a href="http://www.botzilla.com/photo/journal/IMG_8184.html" target="rantframe">there</a> myself. But it's surprising to me how the photos that are difficult to make with such cameras, nearly impossible sometimes, are passing out of vogue with nary a whisper.
+Consumer digicams are perfectly capable of taking terrific pictures. <a href="http://www.beeflowers.com" target="rantframe">Here are many,</a> taken by <a href="http://www.beeflowers.com" target="rantframe">Bee</a> (mostly digicam shots, anyway). Heck, I've even made a few okay ones <a href="/photo/salon/bjorke_obvious.html" target="rantframe">here</a> and <a href="https://www.botzilla.com/photo/journal/IMG_8184.html" target="rantframe">there</a> myself. But it's surprising to me how the photos that are difficult to make with such cameras, nearly impossible sometimes, are passing out of vogue with nary a whisper.
 
 As a small example, let's look at <a href="http://www.russcam.com/photoblog/" target="rantframe">RussCam,</a> one of my favorite photoblog sites. Dig around on RussCam &#151; there's lots to like.
 

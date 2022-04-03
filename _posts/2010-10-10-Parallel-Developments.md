@@ -6,7 +6,7 @@ tags: [Lumix,3D]
 ---
 
 
-![bjorke_P1090696.jpg]({{ 'http://www.botzilla.com/blog/archives/pix2010/bjorke_P1090696.jpg' | absolute_url }})
+![bjorke_P1090696.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2010/bjorke_P1090696.jpg' | absolute_url }})
 <br /><i>Color study shot for <a href="http://www.riftgame.com">Rift: Planes of Telara</a></i>
 
 Earlier this week we were privileged to have painter & storyteller <a href="http://jamesgurney.com/">James Gurney</a> visit the art department at Trion, both to have him speak with us and also for us to get a chance to show him our game. He's best-know to the public for the <a href="http://www.dinotopia.com/"><i>Dinotopia</i></a> books (favorites at our house for many years -- See See & I were also lucky enough to see the <i>Dinotopia</i> show at the <a heaf="http://www.norton.org/">Norton Museum</a> in Palm Beach a few months back), and known to a lot of artists for his <a href="http://gurneyjourney.blogspot.com/">blog</a> and several <a href="http://nationalartgallery.sg/the-canvas/fresh-paint/top-5-books-for-any-art-junkie/">art technique books,</a> including the new <a href="http://www.amazon.com/Color-Light-Guide-Realist-Painter/dp/0740797719/ref=pd_ts_b_5?ie=UTF8&s=books"><i>Color and Light: A Guide for the Realist Painter.</i></a>

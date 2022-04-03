@@ -6,7 +6,7 @@ tags: [Fujifilm,Bronica]
 ---
 
 
-![Set06a-17-20-807.jpg]({{ 'http://www.botzilla.com/blog/pix2006/Set06a-17-20-807.jpg' | absolute_url }})
+![Set06a-17-20-807.jpg]({{ 'https://www.botzilla.com/blog/pix2006/Set06a-17-20-807.jpg' | absolute_url }})
 
 
 Part of my weekend was spent scanning the 645 negatives shown here (and the rest of the 220 roll &#151; these are frames 17-20) &#151; somehow they'd fallen through the cracks in my workflow. I found the processed roll sitting in a box atop my monitor, where it had probably been resting since March. Oops.

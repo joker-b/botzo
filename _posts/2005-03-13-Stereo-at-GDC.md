@@ -6,7 +6,7 @@ tags: [3D,Stereo]
 ---
 
 
-![Stereo at GDC]({{ 'http://www.botzilla.com/pix2005/st_gdc.jpg' | absolute_url }})
+![Stereo at GDC]({{ 'https://www.botzilla.com/pix2005/st_gdc.jpg' | absolute_url }})
 
 
 GDC 2005 was in San Francisco this year, and it was the first GDC where we were able to get a good showing, out on the Expo floor, of the NVIDIA Stereo Driver. This came with the advent of two great display partners: the <a href="http://www.dep3d.com/">dep3d rear-projection display</a> that you can see clearly here, and (where the knot of people behind the Dep3D are looking) a <a href="http://www.planar.com/Advantages/Innovation/docs/ds-planar-stereo-mirror.pdf">Planar SD1300 stereo display.</a>

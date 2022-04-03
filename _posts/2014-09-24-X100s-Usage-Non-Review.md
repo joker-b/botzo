@@ -4,17 +4,17 @@ title: "X100s: Usage & Non-Review"
 categories: [GearHead]
 tags: [Leica,Fujifilm,Liquidity,LiquiditySF]
 ---
-![Market and Powell]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR8806.jpg' | absolute_url }})
+![Market and Powell]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR8806.jpg' | absolute_url }})
 
 Fuji's X100s is about to bow out as the <a href="http://www.the-owl.co.uk/reviews/fuji-x100t-review.html" target="_blank"> X100T</a> is introduced. Time for my non-review of the S, then! Just as well, since most online reviews (of most equipment -- not just cameras) tend to get written by someone with general skill but a few hours or at most a couple of weeks actually using the thing. They might be &quot;putting it through its paces&quot; in a tinkertoy sort of way, but not chasing pictures with it in a sustained way, in all weather, different circumstances, lighting, time, and weight constraints. There are a few exceptions, of which I'd probably single out Kevin Mullins's <a href="http://www.the-owl.co.uk/">The Owl</a> (and his book, which taught me not to use the Fuji like a Canon or Panaleica) for usability tips, and Zack Arias's <a href="http://zackarias.com/for-photographers/gear-gadgets/fuji-x100-review/">excited gush</a> over the original X100 after using it for a good while.
 
 There are plenty of people who will tell you all the things they enjoy about this camera. This leaves me more room to kvetch! Don't worry, it's kvetching that comes from love...
 
 <!--more-->
-![Annadel Quarry]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_X_JOKR8209.jpg' | absolute_orl }}){: .align-left }
+![Annadel Quarry]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_X_JOKR8209.jpg' | absolute_orl }}){: .align-left }
 It's good to have a camera in hand that <i>feels</i> like a rangefinder again. <a href="/blog/archives/cat_leicasonic.html">The LX's</a> are excellent but just a bit too small to have that feel.  I'd ditched my film SLRs some time ago to shoot only RF's -- Leica M and screwmount, <a href="/blog/archives/cat_contax.html">Contax G</a>, Bronica RF645, and as a knockaround camera a Canonet GIII, which is probably the closest in spirit to the X100 series. The advent of digital had pushed me back to using SLRs; the LX's and now Fuji are letting me be free of them again. And better still, the EVF's gives you SLR-like capabilities when they're really needed.
 
-My original plan was to experiment with an X-Pro1 as a replacement for my Canon SLR kit, but I realized the X100s was better suited to me, and I love the quietness of leaf shutters. It didn't disappoint (I've also skipped the X-Pro1 for the X-T1&hellip; more on that in [some other post](http://www.botzilla.com/tags/#fujifilm) ).
+My original plan was to experiment with an X-Pro1 as a replacement for my Canon SLR kit, but I realized the X100s was better suited to me, and I love the quietness of leaf shutters. It didn't disappoint (I've also skipped the X-Pro1 for the X-T1&hellip; more on that in [some other post](https://www.botzilla.com/tags/#fujifilm) ).
 
 #### The Silence
 
@@ -96,13 +96,13 @@ Owners love to proclaim that the X100s is <b><i>not</i> a hipster camera.</b> If
 
 Because it <i>is.</i>
 
-![Well, yeah]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_x_BJRK8521.jpg' | absolute_url }})
+![Well, yeah]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_x_BJRK8521.jpg' | absolute_url }})
 
 The high ISO means it's possible to get really low-light shots, like the Milky Way seen here from rural Sonoma county. A trick to getting a shot at this super-low light level is to frame it on your tripod with the camera turned <i>off</i> so that you won't be blinded by the frame lines in the OVF.
 
-![milky way]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_x_JOKR4290.jpg' | absolute_url }})
+![milky way]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_x_JOKR4290.jpg' | absolute_url }})
 
 Or sometimes you just need the lowest speed you can get.
 
-![Front St]({{ 'http://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR7660.jpg' | absolute_url }})
+![Front St]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR7660.jpg' | absolute_url }})
 

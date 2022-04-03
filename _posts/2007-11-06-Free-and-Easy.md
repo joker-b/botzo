@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![Kyoto, (C) 2007 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/IMG_5476.jpg' | absolute_url }})
+![Kyoto, (C) 2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/IMG_5476.jpg' | absolute_url }})
 
 
 They say you can't create in a vacuum. It's probably true. But as with most aphorisms, its opposite is as valid: you can't create when pummeled with unending high-pressure noise.

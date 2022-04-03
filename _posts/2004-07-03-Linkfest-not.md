@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![Fake lomo, Helsinki (C)2002 Kevin Bjorke. Yeah, I know it's too sharp]({{ 'http://www.botzilla.com/bpix/Oops_0082.jpg' | absolute_url }}){: .align-right}
+![Fake lomo, Helsinki (C)2002 Kevin Bjorke. Yeah, I know it's too sharp]({{ 'https://www.botzilla.com/bpix/Oops_0082.jpg' | absolute_url }}){: .align-right}
 I spent a good chunk of today letting search engines search. I was looking for blog sites that seemed interesting to me, and sad to say there was a lot more searching than finding.
 
 Lots of typical sites &#151; meg upon meg of toycam and pencam and pincam photos, lots of grinning heads, brightly-colored market stalls, pigeons and rainy windowsills. But little &#151; very little &#151; of work and thought that seemed as if someone had worked or thought very hard.

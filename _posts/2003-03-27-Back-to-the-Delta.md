@@ -6,7 +6,7 @@ tags: [Analog,Fujifilm,Darkroom]
 ---
 
 
-![Santa Clara, CA]({{ 'http://www.botzilla.com/bpix/mar03h-29.jpg' | absolute_url }}){: .align-right}
+![Santa Clara, CA]({{ 'https://www.botzilla.com/bpix/mar03h-29.jpg' | absolute_url }}){: .align-right}
 
 <i>Xtol 1::1, 11.5 mins @ 20C. About 18C, make that 12.5 mins. Three rolls @ ISO 400.</i>
 

@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![bjorke-P1040880.jpg]({{ 'http://www.botzilla.com/blog/pix2009/bjorke-P1040880.jpg' | absolute_url }})
+![bjorke-P1040880.jpg]({{ 'https://www.botzilla.com/blog/pix2009/bjorke-P1040880.jpg' | absolute_url }})
 
 
 

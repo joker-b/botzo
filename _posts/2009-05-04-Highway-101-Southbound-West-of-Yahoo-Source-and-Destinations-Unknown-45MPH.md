@@ -6,7 +6,7 @@ tags: [Lumix]
 ---
 
 
-![Bjorke-P1040149.jpg]({{ 'http://www.botzilla.com/blog/pix2009/Bjorke-P1040149.jpg' | absolute_url }})
+![Bjorke-P1040149.jpg]({{ 'https://www.botzilla.com/blog/pix2009/Bjorke-P1040149.jpg' | absolute_url }})
 
 
 About an hour ago.

@@ -11,4 +11,4 @@ Finally there's no shortage of other personal photo collections and galleries th
 
 While a few attempts have been made to <a href="http://www.hunkabutta.com/cgi_files/links.html">catalog</a> all of these sites, let's face it &#151; it's a fool's errand, especially when there are so many, and so little information to go on about them. And the notion of any critical voice is entirely absent &#151; thousands of sites, each going their own merry ways and so many of them aspiring to the most banal sorts of chocolate-box imagery.
 
-For all these reasons and more, I've decided to start <b><a href="http://www.botzilla.com/blog/archives/cat_photorant.html">PhotoRant.</a></b> PhotoRant will take names and taunt the guilty, with a liberal dose of praise for those who rise to deserve it. You have been warned.
+For all these reasons and more, I've decided to start <b><a href="https://www.botzilla.com/blog/archives/cat_photorant.html">PhotoRant.</a></b> PhotoRant will take names and taunt the guilty, with a liberal dose of praise for those who rise to deserve it. You have been warned.

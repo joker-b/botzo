@@ -2,10 +2,10 @@
 layout: post
 title: "Punching 6 Billion Weights"
 image:
-  path: http://www.botzilla.com/pix2021/Punched_in_the_face_08-14-21-14.jpg
+  path: https://www.botzilla.com/pix2021/Punched_in_the_face_08-14-21-14.jpg
 
 
-  thumbnail: http://www.botzilla.com/pix2021/Punched_in_the_face_08-14-21-14.jpg
+  thumbnail: https://www.botzilla.com/pix2021/Punched_in_the_face_08-14-21-14.jpg
 
 
 categories: [PhotoRant]

@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![IMG_7434.jpg]({{ 'http://www.botzilla.com/blog/pix2006/IMG_7434.jpg' | absolute_url }})
+![IMG_7434.jpg]({{ 'https://www.botzilla.com/blog/pix2006/IMG_7434.jpg' | absolute_url }})
 
 
 Last night as I was wandering back to the hotel and wandered through a few pachinko and pachislot halls, I was struck by the people who were <i>watching,</i> like the guys in <a href="{{ site.baseurl }}{% post_url 2006-10-29-Perfect-Foods %}">this photo.</a>

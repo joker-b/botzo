@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![IMG_0164.jpg]({{ 'http://www.botzilla.com/blog/pix2007/IMG_0164.jpg' | absolute_url }})
+![IMG_0164.jpg]({{ 'https://www.botzilla.com/blog/pix2007/IMG_0164.jpg' | absolute_url }})
 
 
 <a href="http://www.lenswork.com/">Lenswork #69</a> arrived today, and as is so often the case, the cover was a photo of rocks &#151; <a href="http://www.mitchdobrowner.com/">contrasty, windswept, Western rocks.</a> Vasquez, Indian Head, Merrick Butte. The locations we've all had burned into our psyches as standard backdrops for John Ford and Tom Mix.

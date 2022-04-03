@@ -2,10 +2,10 @@
 layout: post
 title: "Octopus Skeletons"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
 
 
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
 
 
 categories: [PhotoRant]
@@ -17,6 +17,6 @@ More CLIP-Guided VQGAN. I like that it can guess at how to draw things that migh
 <!--more-->
 
 <figure class="align-center">
-<img alt="Very Delicate Octopus Skeleton Details" src="http://www.botzilla.com/pix2021/very_delicate_0053.jpg">
+<img alt="Very Delicate Octopus Skeleton Details" src="https://www.botzilla.com/pix2021/very_delicate_0053.jpg">
 <figcaption>Delicate Bones in the Octopus Skeleton</figcaption>
 </figure>

@@ -2,8 +2,8 @@
 layout: post
 title: "Differentiable Scratches"
 image:
-  path: http://www.botzilla.com/pix2021/cumulus_iter_2.jpg
-  thumbnail: http://www.botzilla.com/pix2021/cumulus_iter_2.jpg
+  path: https://www.botzilla.com/pix2021/cumulus_iter_2.jpg
+  thumbnail: https://www.botzilla.com/pix2021/cumulus_iter_2.jpg
 
 categories: [PhotoRant]
 tags: [Machine Learning, Neurography, Math]
@@ -18,7 +18,7 @@ Which is what I've been doing, and what this post is about.
 <!--more-->
 
 <figure class="align-center">
-<img alt="Moto Sketch" src="http://www.botzilla.com/pix2021/motorcycle_09-16-01-03_unclipped.jpg">
+<img alt="Moto Sketch" src="https://www.botzilla.com/pix2021/motorcycle_09-16-01-03_unclipped.jpg">
 <figcaption>Motorcycle Leaning Hard into a Racing Turn</figcaption>
 </figure>
 
@@ -44,21 +44,21 @@ A curious behavior, if you watch such a dense painting develop, is that CLIPDraw
 You can see it in three stages of development of some rather bisquity-looking clouds for the painting below. I've added arrows showing two arcs in a very early stage: one thick bright curve, one dark squiggle below it. In later stages of the same image, those two strokes are still there -- almost unchanged save for their color.
 
 <figure class="align-center">
-<img alt="Cloud" src="http://www.botzilla.com/pix2021/cumulus_stack.jpg">
+<img alt="Cloud" src="https://www.botzilla.com/pix2021/cumulus_stack.jpg">
 <figcaption>Accumulating Cumulus Clouds</figcaption>
 </figure>
 
 This is very unlike a human artist, especailly when building drawings from very thin lines (think: pencil or ballpoint pen, like the motorcycle drawing). The computer sometimes "gets" that collections of strokes can be used to build up color in cross-hatching and shading -- but not always.
 
 <figure class="align-center">
-<img alt="Cloud" src="http://www.botzilla.com/pix2021/cumulus_1000.jpg">
+<img alt="Cloud" src="https://www.botzilla.com/pix2021/cumulus_1000.jpg">
 <figcaption>Final Reject: Bisquits Flying into the Sunset</figcaption>
 </figure>
 
 You can also see a habit the system has of "signing" paintings in the corners -- often writing out english words from the prompt, or even occasionally surprises like "Vincent." Most image databases, scraped from the internet, can contain bits of text and the computer happily learns to add text-like shapes in the typical locations. This one might have a hint of the <a href="https://www.artstation.com/?sort_by=community">Artstation</a> logo? Extra constraints need to be added to suppress the painter's ego, you might say.
 
 <figure class="align-center">
-<img alt="Cloud" src="http://www.botzilla.com/pix2021/cumulus-detail.jpg">
+<img alt="Cloud" src="https://www.botzilla.com/pix2021/cumulus-detail.jpg">
 <figcaption>Near-Center Detail Showing Strokes</figcaption>
 </figure>
 

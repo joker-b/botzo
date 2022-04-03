@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![(C)2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/101_0120.jpg' | absolute_url }}){: .align-right}
+![(C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/101_0120.jpg' | absolute_url }}){: .align-right}
 Finally replaced the battery for my <a href="/photo/G1links.html">G1</a> yesterday morning &#151; once again able to run more than three or four shots before it poops out. Ran a couple of hundred frames through it since then.
 
 Picking through the <a href="http://www.worldpressphoto.nl/index.jsp">World Press Photo 2002</a> book, I realized: despite a ton of assurances that <a href="http://www.digitaljournalist.org/issue0303/editorial.html">journalism has gone digital in a deep deep way,</a> you might not know it looking at this "best-of-the-best" collection. What I was surprised at was the persistence, if not of film itself (hard to say for professional gear these days, really), but of Black and White Photography.

@@ -2,8 +2,8 @@
 layout: post
 title: "15th and 2nd, Miami"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC23871.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2014/bjorke_PIC23871.jpg
+  path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PIC23871.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PIC23871.jpg
 categories: [fStop]
 tags: [Leica,Fujifilm]
 ---

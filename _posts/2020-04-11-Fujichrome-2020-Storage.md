@@ -2,8 +2,8 @@
 layout: post
 title: "Fuji/Chrome 2020: Storage"
 image:
-  path: http://www.botzilla.com/pix2020/P1090143-p20.JPG
-  thumbnail: http://www.botzilla.com/pix2020/P1090143-p20.JPG
+  path: https://www.botzilla.com/pix2020/P1090143-p20.JPG
+  thumbnail: https://www.botzilla.com/pix2020/P1090143-p20.JPG
 categories: [GearHead]
 tags: [Books,Fujifilm,Digital,Chromebook,Samsung,Linux,Lumix,Leica,iOS]
 ---
@@ -48,14 +48,14 @@ The test files appeared in a **Google Drive** folder named `My Drive/Chrome OS C
 In the Chromebook **Files** app, the raw files appear normally, except that they're mysteriously listed as TIFFs. **Files** lets you define default applications for each file type, so I set the `.RW2` default to <a href="https://rawtherapee.com/">**RawTherapee,**</a> a very capable Linux-based RAW processor.
 
 <figure class="align-center">
-<img alt="RawTherapee" src="http://botzilla.com/pix2020/RawTherapee-Sample1.jpg">
+<img alt="RawTherapee" src="https://botzilla.com/pix2020/RawTherapee-Sample1.jpg">
 <figcaption><b>RawTherapee</b> in action, editing a slightly-less-eye-burning edition of the photo from the top of this article (result at the article's end). The results can either be saved directly, or passed on (via the little gear icon at the bottom) to another app for further processing. In this case, that extra app was <b>GIMP.</b></figcaption>
 </figure>
 
 It's evident that the Chrome team have been improving the filesystem connections between "the three domains" in ChromeOS: (1) the standard ChromeOS file system (which includes both local storage and **Google Drive**), (2) the storage available for Android apps, and (3) the storage available for Linux. When opening an image via **Files** you often don't need to care too much about domain boundaries, especially from cloud file sources. The context menu for a cloud-based `.RW2` file on my system shows that you can "Open with..." a half-dozen different applications, some of which are linux-based even though the source drive is _not_ tagged "Share with Linux." **Files** manages the cross-domain transport for you as it pulls the data from the cloud.
 
 <figure class="align-center">
-<img alt="Files App" src="http://botzilla.com/pix2020/Files-Context1.jpg">
+<img alt="Files App" src="https://botzilla.com/pix2020/Files-Context1.jpg">
 <figcaption>ChromeOS's <b>Files</b> app showing JPG and RW2 images saved on **Google Drive**, and contextual menu choices for <tt>RW2</tt> files.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Moving the sample photo set from the local drive (already transfered from SD) to
 After a while, **Lightroom Mobile** also presented a popup asking if I'd like to move its storage to the microSD card. Nice touch, and only added a one-shot process that completed in only a couople of minutes, _except_... it lost all image previews -- they all turned black. Restoring them might have been a simple process: editing any photo, however lightly, would restore the preview image, _but_ Android **Lightroom**'s lack of batch editing (unlike other LR editions) means that every single photo in the catalog needed to be opened by hand and edited or reverted to refresh the preview. _Every. Single. Photo._
 
 <figure class="align-center">
-<img alt="Lightroom Mobile" src="http://botzilla.com/pix2020/Lightroom-edit.jpg">
+<img alt="Lightroom Mobile" src="https://botzilla.com/pix2020/Lightroom-edit.jpg">
 <figcaption><b>Lightroom Mobile</b> Android Edition</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ For laptop use, you may want to turn resizing off. This is a _camera_ setting, n
 If your goal is to send your photo out on the web, the smaller **3M** size will usually be okay. The savings in file size (and thus time spent transfering) can be significant. Consider the stay-at-home X-Pro2 photo below: the full-size "normal" jpg is 9.9MB, while the resized **3M** version is less than 979KB. Roughly a 10x difference! 
 
 <figure class="align-center">
-<img alt="Fujifilm Camera Remote" src="http://botzilla.com/pix2020/bjorke_remote_acros_lg.jpg">
+<img alt="Fujifilm Camera Remote" src="https://botzilla.com/pix2020/bjorke_remote_acros_lg.jpg">
 <figcaption>X-Pro2 image transfered via **Fujifilm Camera Remote.**</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ ls ${LR_PIX}/${LR_YEAR}/${LR_MONTH}/${LR_DAY}/
 The next parts of this series will cover some explorations relating to different image-editing tools available for Chromebook, followed by some ideas about printing and export to the web or services like WeChat and Instagram. Thanks for getting this far!
 
 <figure class="align-center">
-<img alt="Header from RAW" src="http://botzilla.com/pix2020/P1090143r.jpg">
+<img alt="Header from RAW" src="https://botzilla.com/pix2020/P1090143r.jpg">
 <figcaption>Edited by <b>RawTherapee</b> and <b>GIMP</b>, a less-painful edition of the top photo.</figcaption>
 </figure>
 

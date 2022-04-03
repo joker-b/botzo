@@ -6,7 +6,7 @@ tags: [Leica]
 ---
 
 
-![(C)2004]({{ 'http://www.botzilla.com/bpix/bjorke_anti.jpg' | absolute_url }})
+![(C)2004]({{ 'https://www.botzilla.com/bpix/bjorke_anti.jpg' | absolute_url }})
 
 
 <p>I'm hardly the first person to observe the irony that novellists, whose stock in trade are observations of human behavior and character, work almost always alone (not counting corporate potboiler writers and their assistants, whom I'm reluctant to label "novelists"). So too street photographers of the portraiture variety.</p>

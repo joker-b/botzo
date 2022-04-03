@@ -6,7 +6,7 @@ tags: [Canon,Analog]
 ---
 
 
-![_MG_1095cr2_807.jpg]({{ 'http://www.botzilla.com/blog/pix2008/_MG_1095cr2_807.jpg' | absolute_url }})
+![_MG_1095cr2_807.jpg]({{ 'https://www.botzilla.com/blog/pix2008/_MG_1095cr2_807.jpg' | absolute_url }})
 
 
 Spent most of the day running back and forth through the rain to see as much of <a href="http://www.contactphoto.org/">Contact Photo</a> as the rain would allow, and last night chasing around the Lanch Event. Tomorrow I'll hit the MOCCA portion before returning home. Fell asleep -- coffee in hand -- just as the early-evening weather outside my hotel room was surging past the drizzly form shown here into a real driving storm.

@@ -6,7 +6,7 @@ tags: [Canon]
 ---
 
 
-![(C)2006 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2006/558_5875.jpg' | absolute_url }})
+![(C)2006 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2006/558_5875.jpg' | absolute_url }})
 
 
 I've been trying to come up with the best workflow to accomodate both B&W and color digital work.

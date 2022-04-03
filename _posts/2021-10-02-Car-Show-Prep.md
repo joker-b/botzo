@@ -2,8 +2,8 @@
 layout: post
 title: "Countryside Car Show"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_July3_LKAB5801.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_July3_LKAB5801.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_July3_LKAB5801.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_July3_LKAB5801.jpg
 categories: [GrayScale]
 tags: [Sonoma, Cars, Leica]
 ---

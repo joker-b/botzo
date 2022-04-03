@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/thePicture.jpg' | absolute_url }}){: .align-center}
+![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/thePicture.jpg' | absolute_url }}){: .align-center}
 
 
 <i>Six rolls Tri-X, Rodinal 1+50 13 minutes.</i>

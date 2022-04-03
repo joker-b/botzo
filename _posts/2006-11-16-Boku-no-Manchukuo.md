@@ -6,7 +6,7 @@ tags: [Japan,China]
 ---
 
 
-![(C)2006 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2006/IMG_7908.jpg' | absolute_url }})
+![(C)2006 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2006/IMG_7908.jpg' | absolute_url }})
 
 
 On my way to the Narita airport I stopped in Otemachi to have lunch with <a href="http://www.unicircuits.com/">Dirk R&ouml;sler</a> and <a href="http://www.peterblakely.com/">Peter Blakely.</a> As I emerged from the Ginza-line Exit 3, I was greeted not by by two hungry photographers but by a handful of amplified Chinese protesters, who were just getting warmed up.

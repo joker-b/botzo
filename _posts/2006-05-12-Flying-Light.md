@@ -6,7 +6,7 @@ tags: [Canon,Lumix,Bronica]
 ---
 
 
-![Oct05h-10.jpg]({{ 'http://www.botzilla.com/blog/pix2006/Oct05h-10.jpg' | absolute_url }}){: .align-left}
+![Oct05h-10.jpg]({{ 'https://www.botzilla.com/blog/pix2006/Oct05h-10.jpg' | absolute_url }}){: .align-left}
 Another cycle of airplanes, heading on a circuit 'round Scandinavia for most of the week. I'm letting Reb take the Canon for her own trip to New Jersey, and I'll be carrying just the LX1 and the Bronica.
 
 I've hardly touched the Bronica for the last couple of months &#151; mostly just too busy! Hardly any processing or scanning has gone on since January, shame on me (even as I've been shooting film, buying developer and bulk rolls, etc).

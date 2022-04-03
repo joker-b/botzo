@@ -6,7 +6,7 @@ tags: [Analog,Leica,Canon,Contax,Fujifilm]
 ---
 
 
-![Contax G2, 45mm Planar, Kodak 400UC, Vuescan, Minolta Scan Dual II, XnView, Photoshop 7, Honcad P3, Windows XP (C) 2005 K Bjorke]({{ 'http://www.botzilla.com/pix2005/radar.jpg' | absolute_url }})
+![Contax G2, 45mm Planar, Kodak 400UC, Vuescan, Minolta Scan Dual II, XnView, Photoshop 7, Honcad P3, Windows XP (C) 2005 K Bjorke]({{ 'https://www.botzilla.com/pix2005/radar.jpg' | absolute_url }})
 
 
 Over on <a href="http://coincidences.typepad.com/" target="contax">Coincidences</a>, Robert has occasionally <a  target="contax" href="http://coincidences.typepad.com/still_images_and_moving_o/2004/01/sharing_your_ph.html">sung </a>the praises of <a href="http://www.contaxg.com/">ContaxG.Com.</a> It's one of a few sites centered around equipment that actually seems to function well not as a site of <a target="contax" href="http://mejac2.palo-alto.ca.us/leica-users/">LUG</a>-like arguments over esoteric attachments and SKU numbers, but as a site about pictures, which just happen to have been made with a particular kind of camera.

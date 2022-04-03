@@ -4,7 +4,7 @@ title: "Magic Number"
 categories: [Nuke Em from Orbit]
 tags: [Movies]
 ---
-![Back Home at Dawn]({{ 'http://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right }
+![Back Home at Dawn]({{ 'https://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right }
 
 <i>I think that I shall never see<br>
 A number lovelier than three.</i>

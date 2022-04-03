@@ -4,14 +4,14 @@ title: "Essential"
 categories: [PhotoRant]
 tags: [Books]
 ---
-![SC82]({{ 'http://www.botzilla.com/bpix/104_0418.jpg' | absolute_url }}){: .align-right}
+![SC82]({{ 'https://www.botzilla.com/bpix/104_0418.jpg' | absolute_url }}){: .align-right}
 I was reading a recent <a href="http://artforum.com/inprint/id=5497" target="linkframe">ArtForum article</a> about moblog photos, and the reviewer hit upon a key word: <b><i>inessential.</i></b> Photos that run counter to the notion of "a perfect flower," they are just: "a flower."
 
 They don't contend to any special uniqueness or meaningful significance. They're just tonight's dinner, or the cat. They're even less momentous than old snapshots &#151; at least old snapshots were made on someone's birthday or on the family's Grand Canyon roadtrip. Moblog photos tend to be somewhere even less worthy of inspection, between snapshots and the dull gray eye of a security camera. And there's a lot of them.
 
 <!--more-->
 
-After seeing <a href="http://www.botzilla.com/blog/archives/000150.html">Luis's quote of Robert Frank</a> from the 1958 <i>U.S. Camera Annual,</i> a quote I've seen often kicked around, I thought I'd go find the original. I found one in the <a href="http://www.botzilla.com/blog/archives/000120.html">San Jose library.</a> The due-date stamps showed that it had last been checked out in 1986. And there in the middle was Frank, first with a brief writeup by Walker Evans, then a pretty hefty slice of the then-yet-to-be-published <i>The Americans</i> (one shot rudely clipped-out of the book &#151; wish I knew which one), and then Frank himself. His comments are brief, just a page.
+After seeing <a href="https://www.botzilla.com/blog/archives/000150.html">Luis's quote of Robert Frank</a> from the 1958 <i>U.S. Camera Annual,</i> a quote I've seen often kicked around, I thought I'd go find the original. I found one in the <a href="https://www.botzilla.com/blog/archives/000120.html">San Jose library.</a> The due-date stamps showed that it had last been checked out in 1986. And there in the middle was Frank, first with a brief writeup by Walker Evans, then a pretty hefty slice of the then-yet-to-be-published <i>The Americans</i> (one shot rudely clipped-out of the book &#151; wish I knew which one), and then Frank himself. His comments are brief, just a page.
 
 Frank wrote in his Guggenheim application of his desire... _"To produce an authentic contemporary document, the visual impact should be such as will nullify explanation..."_ The first half surely fits the moblog aesthetic, but what of the second?
 

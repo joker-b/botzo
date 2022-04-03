@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![_MG_4504.jpg]({{ 'http://www.botzilla.com/blog/pix2009/_MG_4504.jpg' | absolute_url }})
+![_MG_4504.jpg]({{ 'https://www.botzilla.com/blog/pix2009/_MG_4504.jpg' | absolute_url }})
 
 
 In the film <i>Repo Man,</i> Tracy Walter's character opines: <a href="http://www.imdb.com/title/tt0087995/quotes">"The more you drive, the less intelligent you are,"</a> a line I've glibly repeated ever since hearing it. 

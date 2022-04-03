@@ -2,8 +2,8 @@
 layout: post
 title: "Film Photography for the Impatient"
 image:
-  path: http://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
-  thumbnail: http://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
+  path: https://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
+  thumbnail: https://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
 categories: [GearHead]
 tags: [Analog, Darkroom]
 ---
@@ -18,7 +18,7 @@ Can't wait to post a couple of snaps:
 <!--more-->
 
 <figure class="align-center">
-<img alt="TriX" src="http://www.botzilla.com/pix2021/PXL_20210514_134917011r.jpg">
+<img alt="TriX" src="https://www.botzilla.com/pix2021/PXL_20210514_134917011r.jpg">
 <figcaption>Same as above, reversed.</figcaption>
 </figure>
 
@@ -31,19 +31,19 @@ While the little carnival opened to the public last night, there weren't really 
 Instead I went for an obviously-rusty attempt at shooting _over_ any kids, walking around with a 35mm lens held at abdomen level and aimed upwards. Too far upwards, I'm realizing by looking at a few of these quickie phone scans.
 
 <figure class="align-center">
-<img src="http://www.botzilla.com/pix2021/PXL_20210514_134944509.jpg">
+<img src="https://www.botzilla.com/pix2021/PXL_20210514_134944509.jpg">
 </figure>
 
 <figure class="align-center">
-<img src="http://www.botzilla.com/pix2021/PXL_20210514_135341260.jpg">
+<img src="https://www.botzilla.com/pix2021/PXL_20210514_135341260.jpg">
 </figure>
 
 <figure class="align-center">
-<img src="http://www.botzilla.com/pix2021/PXL_20210514_135348596.jpg">
+<img src="https://www.botzilla.com/pix2021/PXL_20210514_135348596.jpg">
 </figure>
 
 <figure class="align-center">
-<img src="http://www.botzilla.com/pix2021/PXL_20210514_135231280.jpg">
+<img src="https://www.botzilla.com/pix2021/PXL_20210514_135231280.jpg">
 </figure>
 
 ## What We Learned Today

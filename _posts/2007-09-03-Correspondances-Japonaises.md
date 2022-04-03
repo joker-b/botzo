@@ -6,7 +6,7 @@ tags: [Japan,Books]
 ---
 
 
-![Akasaka, 2006 (C) 2006-2007 K Bjorke]({{ 'http://www.botzilla.com/blog/pix2007/japan-IMG_7752-2006.jpg' | absolute_url }})
+![Akasaka, 2006 (C) 2006-2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/japan-IMG_7752-2006.jpg' | absolute_url }})
 
 
 I've been squinting through the details of <a href="http://www.foto8.com/reviews/V4N3/tata.htm">Things As They Are: Photojournalism in Context Since 1955,</a> another of those books I've been procrastinating at cracking. While uncredited to him, in a way this book was one of the last to fall under the shadow of <a href="http://www.photokaboom.com/photography/pdfs/John_Szarkowski.pdf">John Szarkowski,</a> who challenged the editors: "I share your hope... that your exhibition and book will be more than one more fat compendium of the pictures that editors expect photographers to make." I think they've had some really admirable success in this book.

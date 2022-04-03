@@ -8,7 +8,7 @@ tags: [Lumix,3D]
 
 
 
-![P1000609.jpg]({{ 'http://www.botzilla.com/blog/archives/P1000609.jpg' | absolute_url }})
+![P1000609.jpg]({{ 'https://www.botzilla.com/blog/archives/P1000609.jpg' | absolute_url }})
 
 
 I was digging around on <a href="http://del.icio.us/bjorke/">del.icio.us</a> one afternoon and saw that after a lot of web traffic and game-industry furor back in November 2004, <a href="http://www.livejournal.com/users/ea_spouse/">ea_spouse</a> was still drawing hits from across the del.icio.us spectrum.

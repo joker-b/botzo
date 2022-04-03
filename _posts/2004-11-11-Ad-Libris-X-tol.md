@@ -6,7 +6,7 @@ tags: [Leica,Books,Analog,Darkroom,Korea]
 ---
 
 
-![Seoul, 2004. (C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/pix2004/adlibris.jpg' | absolute_url }})
+![Seoul, 2004. (C) 2004 K. Bjorke]({{ 'https://www.botzilla.com/pix2004/adlibris.jpg' | absolute_url }})
 
 
 Stopped by the city library to quickly look for a book (Wright Morris's <cite>Time Pieces,</cite> for the sake of a single reference for an article on <a href="http://www.photopermit/org">PhotoPermit</a>), stepped into the "Friends of the Library" store and walked out with a spotlessly mint copy of the Lustrum/Ralph Gibson <cite>SX-70 Art,</cite> hard to find and currently listing used on Amazon at $75. Heh. My expense: one crumpled U.S. dollar.

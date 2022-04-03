@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![(C) 1994, 2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/bathProb.jpg' | absolute_url }})
+![(C) 1994, 2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/bathProb.jpg' | absolute_url }})
 
 
 This does seem to be the week for coincidences. Today the coincidences involve a collision between the recent entry <a href="{{ site.baseurl }}{% post_url 2004-05-16-Family-Immediate %}">Family, Immediate,</a> and <a href="http://www.lenswork.com/" target="_blank">Lenswork</a> magazine's site.

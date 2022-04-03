@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![IMG_7438.jpg]({{ 'http://www.botzilla.com/blog/pix2006/IMG_7438.jpg' | absolute_url }})
+![IMG_7438.jpg]({{ 'https://www.botzilla.com/blog/pix2006/IMG_7438.jpg' | absolute_url }})
 
 
 Ah, the perfect food for the harried <i>sarariman....</i> 
@@ -15,5 +15,5 @@ Only been here a few hours, took an hour or two walk too clear my head and move 
 
 
 
-![IMG_7427.jpg]({{ 'http://www.botzilla.com/blog/pix2006/IMG_7427.jpg' | absolute_url }})
+![IMG_7427.jpg]({{ 'https://www.botzilla.com/blog/pix2006/IMG_7427.jpg' | absolute_url }})
 

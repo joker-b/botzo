@@ -6,7 +6,7 @@ tags: [Leica,Canon,Books]
 ---
 
 
-![San Jose, (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/aug03i-11.jpg' | absolute_url }}){: .align-right}
+![San Jose, (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/aug03i-11.jpg' | absolute_url }}){: .align-right}
 At long last, the <a href="http://www.sjlibrary.org/">library</a> has re-opened in San Jose.
 
 A good library is one of the most useful photographic tools. Here in Santa Clara we've been a bit starved. I had an excellent library just at the bottom of the hillside block from the house in <a href="http://millvalleylibrary.org/">Mill Valley</a> &#151; the state (formerly royal) library was a five-minute walk from my office in <a href="http://www.hcc.hawaii.edu/hspls/hsl/hslov.html">Honolulu.</a> But here we just have a local suburban library packed into house trailers, while the city is building their own <a href="http://www.library.ci.santa-clara.ca.us/">new building.</a> It's been a long dry spell.

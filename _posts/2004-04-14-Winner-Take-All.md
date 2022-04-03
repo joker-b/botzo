@@ -6,7 +6,7 @@ tags: [Analog,Digital,Painting,Japan]
 ---
 
 
-![Tokyo (C) K. Bjorke]({{ 'http://www.botzilla.com/bpix/winner.jpg' | absolute_url }}){: .align-center}
+![Tokyo (C) K. Bjorke]({{ 'https://www.botzilla.com/bpix/winner.jpg' | absolute_url }}){: .align-center}
 
 
 <i>Three rolls Tri-X, Rodinal 1+50, 12:45.</i>

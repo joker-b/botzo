@@ -6,7 +6,7 @@ tags: [Analog,Darkroom,Books,Bronica]
 ---
 
 
-![Mortenson-style testing]({{ 'http://www.botzilla.com/pix2005/jacked.jpg' | absolute_url }})
+![Mortenson-style testing]({{ 'https://www.botzilla.com/pix2005/jacked.jpg' | absolute_url }})
 
 
 A couple of years or so back I was browsing at a San Francisco bookstore and came across a book called "Projection Control" by <a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=005fZU" target="_blank">William Mortensen</a> whom I had previously known only as an antagonist to the old f/64 group back in the 1930's. His pictures seemed oddly modern however, so I read further and found that he was an advocate of what we might think of as a ridiculous method. He developed his film not for minutes but for <i>hours.</i>

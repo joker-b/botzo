@@ -6,7 +6,7 @@ tags: [Analog,Contax,Fujifilm,Darkroom]
 ---
 
 
-![Suspected WMD site, Palo Alto. (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/apr03a-30.jpg' | absolute_url }}){: .align-right}
+![Suspected WMD site, Palo Alto. (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/apr03a-30.jpg' | absolute_url }}){: .align-right}
 <i>Two rolls TMax 100, one roll Fuji Neopan 400, Xtol 1::1 9.5mins @ 20C</i>
 
 So the backlog is dropping &#151; tonight's trio leaves only a couple of C-41 rolls in the "pending" box, and both of those were shot by Rebecca &#151; not me. I think.

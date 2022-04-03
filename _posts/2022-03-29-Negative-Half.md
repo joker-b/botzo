@@ -4,8 +4,8 @@ title: "Negative Half-Life"
 categories: [Wire Service]
 tags: [Javascript, Algorithms, Digital, San Francisco, History]
 image:
-  path: http://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
-  thumbnail: http://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
+  path: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
+  thumbnail: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
 ---
 
 In 1907 Ernest Rutherford realized that certain materials in rocks slowly decayed into other materials. Specifically, the newly-discovered radium degenerated into the stable isotope lead-206. He realized the decay was exponential, and in his equations he labeled the time it would take for half of the radium in a sample to decay into lead as its _half-life._

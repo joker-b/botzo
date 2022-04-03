@@ -6,7 +6,7 @@ tags: [Japan]
 ---
 
 
-![Tokyo (C) 2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/bjorke_tranc.jpg' | absolute_url }}){: .align-right}
+![Tokyo (C) 2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/bjorke_tranc.jpg' | absolute_url }}){: .align-right}
 Salon day. Theme for the designated period: <a href="http://www.genec.com/federico/salon/urlist.php?secth=45">"transcendance."</a>
 
 Before I picked a shot for submission (and frankly, nothing from recent shooting came readily to mind until the last hour or so), my mind catalogued the likely shots to be seen &#151; religious iconography, motion-blur ghosting, the brilliant light of inspiration. Got it all in spades, once I had made my shot, sent it off, and then surveyed the field. Hosannah! The only thing I didn't see, that I had expected, was a rogue Ansel Adams knockoff. Maybe next time.

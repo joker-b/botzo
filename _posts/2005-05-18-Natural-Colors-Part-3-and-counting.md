@@ -6,7 +6,7 @@ tags: [Leica,Analog]
 ---
 
 
-![Natural Colors Part 3 (and counting)]({{ 'http://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }}){: .align-right width=200 height=200 }
+![Natural Colors Part 3 (and counting)]({{ 'https://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }}){: .align-right width=200 height=200 }
 
 
 <i>Two rolls of TXP 220, Xtol 1+1.</i>

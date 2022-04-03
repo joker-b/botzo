@@ -2,8 +2,8 @@
 layout: post
 title: "Vignettes"
 image:
-  path: http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color_Full.jpg
-  thumbnail: http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color.jpg
+  path: https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color_Full.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color.jpg
 categories: [GearHead]
 ---
 
@@ -13,7 +13,7 @@ I'll be the first to say that I find most Holga/Diana-wana-be photgraphy cloying
 In the mean time, since I couldn't find one that entirely suited me, here are a couple of guides to the color modes (and below, frame styles) offered as presets by the Android camera-phone program <a href="http://neilandtheresa.co.uk/Android/Vignette/"><i>Vignette.</i></a> A similar chart can be found <a href="http://www.schussman.com/article/great-android-apps-vignette">here,</a> but it was missing skin tones). 
 
 <!--more-->
-<a href="http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame_Full.jpg">
+<a href="https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame_Full.jpg">
 
-![Click for Larger Image]({{ 'http://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame.jpg' | absolute_url }})
+![Click for Larger Image]({{ 'https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Frame.jpg' | absolute_url }})
 

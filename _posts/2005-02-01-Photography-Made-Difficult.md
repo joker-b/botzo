@@ -5,7 +5,7 @@ categories: [PhotoRant]
 ---
 
 
-![Santa Clara 2005]({{ 'http://www.botzilla.com/pix2005/difficult.jpg' | absolute_url }})
+![Santa Clara 2005]({{ 'https://www.botzilla.com/pix2005/difficult.jpg' | absolute_url }})
 
 
 Jealousy, it's pure and simple jealousy.

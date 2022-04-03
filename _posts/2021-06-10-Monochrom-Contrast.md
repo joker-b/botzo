@@ -2,8 +2,8 @@
 layout: post
 title: "Contrast Curves for Leica Monochrom"
 image:
-  path: http://www.botzilla.com/pix2021/mono-bouq-trio.jpg
-  thumbnail: http://www.botzilla.com/pix2021/mono-bouq-trio.jpg
+  path: https://www.botzilla.com/pix2021/mono-bouq-trio.jpg
+  thumbnail: https://www.botzilla.com/pix2021/mono-bouq-trio.jpg
 categories: [GrayScale]
 tags: [Leica, Darkroom]
 ---
@@ -16,7 +16,7 @@ I couldn't find any publicly-available curves or presets for Monochrom DNGs to m
 
 <!--more-->
 
-## <a href="http://www.botzilla.com/assets/2021/Monochrom-Contrast-Presets.zip">CLICK HERE TO DOWNLOAD PRESETS AND CURVE FILES</a>
+## <a href="https://www.botzilla.com/assets/2021/Monochrom-Contrast-Presets.zip">CLICK HERE TO DOWNLOAD PRESETS AND CURVE FILES</a>
 
 The linked file is a `.zip` folder containing another zip (`Monochrom Contrast - Botzilla.zip`), along with a folder with three Photoshop curves files.
 

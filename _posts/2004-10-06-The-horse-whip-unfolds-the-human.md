@@ -6,7 +6,7 @@ tags: [China]
 ---
 
 
-![epSite Beijing, sept 2004]({{ 'http://www.botzilla.com/pix2004/jian.jpg' | absolute_url }})
+![epSite Beijing, sept 2004]({{ 'https://www.botzilla.com/pix2004/jian.jpg' | absolute_url }})
 
 
 A good way to rate locations is to gauge how likely it is that something randomly wonderful will occur on any given day. Downstairs from the Grand Hyatt in Beijing is a very westernized mall, the Oriental Plaza. While cutting through it for an air-conditioned shortcut, I found in a clutch a Sony store, and Apple store, and an Epson store, adjoining one of Epson's <a href="http://www.epson.com.cn/epsite/beijing/" target="_blank">epSite</a> galleries (try using <a href="http://www.worldlingo.com/wl/translate" target="_blank">http://www.worldlingo.com/wl/translate</a> to translate from Simplified Chinese). I'd embarrassingly failed to find the epSite in Tokyo a few days before (though supposedly it was next door to my hotel), and hadn't even tried to find the one in Shanghai &#151; and now here was their newest, so handy I almost tripped over it.

@@ -6,7 +6,7 @@ tags: [Analog]
 ---
 
 
-![(C)1978, 2005 K. Bjorke]({{ 'http://www.botzilla.com/pix2005/baggage.jpg' | absolute_url }})
+![(C)1978, 2005 K. Bjorke]({{ 'https://www.botzilla.com/pix2005/baggage.jpg' | absolute_url }})
 
 
 Over at her always thoughtful site <i>the space in between,</i> Stacy Oborn threads together three writers and their relationship to photography in <a title="the space in between" href="http://punctum.typepad.com/the_space_in_between/2005/02/the_perfect_ima.html">perfect images, written photographs and the absolute.</a>

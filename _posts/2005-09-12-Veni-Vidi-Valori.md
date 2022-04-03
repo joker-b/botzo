@@ -6,7 +6,7 @@ tags: [Books]
 ---
 
 
-![Randomly seen on my bookshelf this afternoon]({{ 'http://www.botzilla.com/pix2005/vvalor.jpg' | absolute_url }})
+![Randomly seen on my bookshelf this afternoon]({{ 'https://www.botzilla.com/pix2005/vvalor.jpg' | absolute_url }})
 
 
 The word of the day (well, Sunday) is "valorize,"  rarely-seen in America these days and which I encountered twice in the same morning's reading, in two different (non-American, ahem) texts on related issues, each written some forty years apart.

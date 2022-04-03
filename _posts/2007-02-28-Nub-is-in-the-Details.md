@@ -28,7 +28,7 @@ First, we're going to make a texture.
 
 
 
-![512 x 256 with 15% independant gaussian noise in red and green channels]({{ 'http://www.botzilla.com/blog/archives/512noise.jpg' | absolute_url }})
+![512 x 256 with 15% independant gaussian noise in red and green channels]({{ 'https://www.botzilla.com/blog/archives/512noise.jpg' | absolute_url }})
 
 
 &bull; We're going to save this as a DDS texture. You'll need the <a href="http://developer.nvidia.com/object/photoshop_dds_plugins.html">NVIDIA Texture Tools DDS plugin</a> if you haven't got it already (if you are a game artist, you almost surely do).
@@ -41,7 +41,7 @@ First, we're going to make a texture.
 
 
 
-![noiseMipped.jpg]({{ 'http://www.botzilla.com/blog/pix2007/noiseMipped.jpg' | absolute_url }})
+![noiseMipped.jpg]({{ 'https://www.botzilla.com/blog/pix2007/noiseMipped.jpg' | absolute_url }})
 
 
 What happened? The DDS exporter assumed the right half of the original image was filled with an image pyramid &#151; the data in the black area was thrown away, since it's not used. We now have a MIP data set where all layers of the MIP stack have noise of roughly the same statistical characteristics for each and every level (rather than each level being a scaled-down vesion of the layer above it). 
@@ -52,7 +52,7 @@ Let's try it out on everyone's favorite teapot:
 
 
 
-![NoiseMip texture mapped onto teapot]({{ 'http://www.botzilla.com/blog/pix2007/noisepots.jpg' | absolute_url }})
+![NoiseMip texture mapped onto teapot]({{ 'https://www.botzilla.com/blog/pix2007/noisepots.jpg' | absolute_url }})
 
 
 Whether near or far, you can see that the texture feature size &#151; that is, the <i>on-screen</i> size of the noisy "blobs" &#151; is about the same regardless of whether near or far.
@@ -63,7 +63,7 @@ If you're experienced in game shading, you may already suspect why we added nois
 
 
 
-![Noise mips as tangent space normals]({{ 'http://www.botzilla.com/blog/pix2007/noisebumppots.jpg' | absolute_url }})
+![Noise mips as tangent space normals]({{ 'https://www.botzilla.com/blog/pix2007/noisebumppots.jpg' | absolute_url }})
 
 
 Applying this as a tangent space normal maps, you can see that the nubbly detail maintains its on-scren size regardless of whether the pot is near or far. This is different from typical MIP map behavior (which would degenerate towards a smooth surface &#151; see the example below), and while not "physically correct," gives a better consistent <i>feeling</i> to the nature of the rough but shiny material, regardless of rotation, scaling, or distance.
@@ -72,14 +72,14 @@ As long as we've got this noise texture, let's try something else. Here are two 
 
 
 
-![texture and texture with noisy UV offsets.jpg]({{ 'http://www.botzilla.com/blog/pix2007/offsetNoise1.jpg' | absolute_url }})
+![texture and texture with noisy UV offsets.jpg]({{ 'https://www.botzilla.com/blog/pix2007/offsetNoise1.jpg' | absolute_url }})
 
 
 In areas where textures are greatly over-extended, this method can be used as a variation of "detail texturing" so that instead of soft linear-interpolated blobs, we get little bits of noise.
 
 
 
-![Closeup showing stretched texture and detailed offsets to replace aliasing with noise]({{ 'http://www.botzilla.com/blog/pix2007/CloseupOffset.jpg' | absolute_url }})
+![Closeup showing stretched texture and detailed offsets to replace aliasing with noise]({{ 'https://www.botzilla.com/blog/pix2007/CloseupOffset.jpg' | absolute_url }})
 
 
 Of course, in this application we <i>don't</i> want to offset the texture too much when we're not super-close, so rather than using constant-frequency noise, we can just make a square texture, rather than a rectangular one, and let the DDS exporter "Generate MIP maps" insteead &#151; the lower maps will smooth to a center, zero value, so that at a distance there's no visible offset.
@@ -88,18 +88,18 @@ Here's an example. As you can see, it's identical at the largeest MIP but smooth
 
 
 
-![Noise texture the usual way: sclaing-down the top level]({{ 'http://www.botzilla.com/blog/archives/noiseMipped2.jpg' | absolute_url }})
+![Noise texture the usual way: sclaing-down the top level]({{ 'https://www.botzilla.com/blog/archives/noiseMipped2.jpg' | absolute_url }})
 
 
 The noise-offset-as-faux-detail technique can be applied to still pictures, too. In Photoshop, you may be familiar with the idea of using the "add noise" filter to cover-up the defects of a picture that's out of focus or enlarged too much.
 
-Let's take the thumbnail of <a href="http://www.botzilla.com/photo/Sampler/5RT.html">this photo</a> as a sample. If we blow up the thumbnail, it looks pretty soft (especially if using bilinear filtering, which is typical for realtime applications like games).
+Let's take the thumbnail of <a href="https://www.botzilla.com/photo/Sampler/5RT.html">this photo</a> as a sample. If we blow up the thumbnail, it looks pretty soft (especially if using bilinear filtering, which is typical for realtime applications like games).
 
 But if we "add noise" (here quite a lot &#151; the same amount we used when creating the noise texture), the effect is "Grainy" rather than "Muddy," as we can see in these side-by-side views:
 
 
 
-![Adding noise to an inflated thumbnail]({{ 'http://www.botzilla.com/blog/pix2007/AddNoise.jpg' | absolute_url }})
+![Adding noise to an inflated thumbnail]({{ 'https://www.botzilla.com/blog/pix2007/AddNoise.jpg' | absolute_url }})
 
 
 Alternatively, we can apply the same noise pattern offset method we used for 3D detail texturing to the 2D image.
@@ -110,7 +110,7 @@ Alternatively, we can apply the same noise pattern offset method we used for 3D 
 
 
 
-![Adding noisy pixel offsets to an inflated thumbnail]({{ 'http://www.botzilla.com/blog/pix2007/AddNoiseOffset.jpg' | absolute_url }})
+![Adding noisy pixel offsets to an inflated thumbnail]({{ 'https://www.botzilla.com/blog/pix2007/AddNoiseOffset.jpg' | absolute_url }})
 
 
 This version creates an illusion of small detail even though there is none &#151; and without altering the colors directly. Some of the obviously-aliased details, such as the highlight on the lower lip, really look far better this way.
@@ -123,11 +123,11 @@ Here's a last combined-noise version with clumpy offsets, followed by a sharp ve
 
 
 
-![both luminance and clumping noise]({{ 'http://www.botzilla.com/blog/pix2007/both.jpg' | absolute_url }})
+![both luminance and clumping noise]({{ 'https://www.botzilla.com/blog/pix2007/both.jpg' | absolute_url }})
 
 
 
 
-![image based on original slide]({{ 'http://www.botzilla.com/photo/Sampler/5RT.jpg' | absolute_url }})
+![image based on original slide]({{ 'https://www.botzilla.com/photo/Sampler/5RT.jpg' | absolute_url }})
 
 

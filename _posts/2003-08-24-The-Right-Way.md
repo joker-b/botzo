@@ -6,7 +6,7 @@ tags: [Leica,Canon,Cuba,Contax]
 ---
 
 
-![Somewhere near Bolinas with a $35 Canonet (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/may03o-28.jpg' | absolute_url }}){: .align-right}
+![Somewhere near Bolinas with a $35 Canonet (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/may03o-28.jpg' | absolute_url }}){: .align-right}
 Mechanical rangefinders are small, lightweight, discreet, and tend to have good optics. That doesn't stop some of us from using them on subjects that don't benefit much from those attributes &#151; say, a fog-shrouded forest road (though having no mirror slap can be helpful for a 1/4 second handheld exposure).
 
 Add professional Leica durability to the equation and <a href="http://www.conflictpics.com/">Jason P. Howe</a> has definitely figured out the right way to use a rangefinder.  In his case, to cover the apparently-endless military and paramilitary violence in Colombia.

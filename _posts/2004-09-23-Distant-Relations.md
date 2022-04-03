@@ -6,7 +6,7 @@ tags: [Canon,Contax,Japan]
 ---
 
 
-![Tokyo (C) 2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/distant.jpg' | absolute_url }})
+![Tokyo (C) 2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/distant.jpg' | absolute_url }})
 
 
 It's only natural to make a lot of photos when travelling. This past trip has seen me chewing through two to four hundred shots a day. More on some days. Let's see, that's something like 3000 shots or around 85 rolls, about six or seven rolls per day. Surprising to me, it's not a lot more than I might have shot without the digital camera (the Contax only got used for about four rolls, total &#151; though it's a joy to handle compared to the lunking Canon).

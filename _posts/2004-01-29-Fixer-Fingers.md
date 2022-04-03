@@ -6,7 +6,7 @@ tags: [Canon,Contax,Analog]
 ---
 
 
-![(C) 2004]({{ 'http://www.botzilla.com/bpix/complementary.jpg' | absolute_url }}){: .align-right}
+![(C) 2004]({{ 'https://www.botzilla.com/bpix/complementary.jpg' | absolute_url }}){: .align-right}
 <i>Three rolls of Tri-X, X-tol 1+1 for 9 minutes.</i>
 
 Amazingly, I still have a film backlog from November &#151; the three rolls now hanging are from a trip to <a title="Weblog Entry - 25/11/2003: Sunday" href="http://www.gaspweb.co.uk/plog/archives/000014.htm" rel="met colleague">Speaker's Corner</a> and a following visit to <a href="http://www.skjaerven.com/" rel="met colleague">Copenhagen.</a> Glancing at the negs it seems clear to me that I still have quite a ways to go with the DSLR before I'm as comfortable using it as I've grown to be with the <a href="http://contaxg.com/user.php?id=1678&page=user_images">Contax.</a>

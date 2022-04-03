@@ -6,10 +6,10 @@ tags: [Contax,Analog,England]
 ---
 
 
-![Ministry of Sound (C)2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/feb03i-30.jpg' | absolute_url }}){: .align-right}
+![Ministry of Sound (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/feb03i-30.jpg' | absolute_url }}){: .align-right}
 Hoped to do some printing Thursday night for the second Contax G <a title="Print Exchange #2 - May 2003" href="http://contaxg.com/folder.php?id=1351">Print Exchange.</a> I had planned to make silver prints for this but there's been no time for the darkroom &amp; a dozen prints are due in Scotland in two weeks. Back to the Epson.
 
-I thought of using the photo at right &#151; already posted in this journal <a href="http://www.botzilla.com/blog/archives/cat_fstop.html#000003">once.</a> A few days ago I posted it to <a href="http://contaxg.com/">Contax G</a> and to my surprise it proved terrifically popular, rapidly attracting kudos and the highest site ratings <a href="http://www.contaxg.com/user.php?id=1678">I'd</a> ever had there; before the jpeg was corrupted by a database glitch a couple of hours later. Only a handful of people ever saw more than a 150-pixel thumbnail. After two days of struggling and failing to be <i>allowed</i> to replace the file, I ended up deleting it.
+I thought of using the photo at right &#151; already posted in this journal <a href="https://www.botzilla.com/blog/archives/cat_fstop.html#000003">once.</a> A few days ago I posted it to <a href="http://contaxg.com/">Contax G</a> and to my surprise it proved terrifically popular, rapidly attracting kudos and the highest site ratings <a href="http://www.contaxg.com/user.php?id=1678">I'd</a> ever had there; before the jpeg was corrupted by a database glitch a couple of hours later. Only a handful of people ever saw more than a 150-pixel thumbnail. After two days of struggling and failing to be <i>allowed</i> to replace the file, I ended up deleting it.
 
 An object lesson in impermanence, pride turned quickly to humiliation by a few errant lines of bad code.
 

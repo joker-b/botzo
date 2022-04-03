@@ -2,8 +2,8 @@
 layout: post
 title: "Flying"
 image:
-  path: http://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
-  thumbnail: http://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
+  path: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
+  thumbnail: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
 categories: [GrayScale]
 tags: [Leica, Contax, Darkroom]
 ---

@@ -6,7 +6,7 @@ tags: [Analog,Darkroom,Japan]
 ---
 
 
-![Harajuku (C)2003 K Bjorke]({{ 'http://www.botzilla.com/bpix/Sep03zH-15mac.jpg' | absolute_url }}){: .align-right}
+![Harajuku (C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/Sep03zH-15mac.jpg' | absolute_url }}){: .align-right}
 <i>Six rolls of Delta 400 @ ISO 800, Xtol 1+1 15:30. Three rolls of TMax 100, Xtol 1+1 9:30. One roll Fortepan 400, Rodinal 1+25 7:30. One roll Acros, Rodinal 1+25 7 minutes. Everything at 20&#176;C, everything spot on. Rodinal and Acros &#151; snappy! Funny that I couldn't find a recommended time until I checked with <a href="http://www.fujifilm.de/noswf/index_noswf.html">fujifilm.de...</a></i>
 
 After running a bit of <a href="http://unblinkingeye.com/Articles/Rodinal/rodinal.html">Rodinal</a> a few days ago, I'm all enamoured with it again, after a long hiatus. The Acros was particularly impressive for the short range and high contrast that the combination delivers, but the TriX had a look that's also hard for any other combo to beat &#151; even with digital hackery.

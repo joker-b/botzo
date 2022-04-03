@@ -6,11 +6,11 @@ tags: [England]
 ---
 
 <figure class="align-right">
-	<img src="http://www.botzilla.com/bpix/VS0095.jpg">
+	<img src="https://www.botzilla.com/bpix/VS0095.jpg">
 	<figcaption class="align-center">London, 2003</figcaption>
 </figure>
 
-<!-- ![London, 2003 (C) 2003 K. Bjorke]({{ 'http://www.botzilla.com/bpix/VS0095.jpg' | absolute_url }}){: .align-right} -->
+<!-- ![London, 2003 (C) 2003 K. Bjorke]({{ 'https://www.botzilla.com/bpix/VS0095.jpg' | absolute_url }}){: .align-right} -->
 
 The very day I left London last week for parts more Nordic, George W. Bush was arriving. A good or bad thing, depending on your perspective. Personally, I'd have liked to witness the public fracas, but was glad to be away from it as well. The paranoia was evident everywhere &#151; just taking a quick snapshot of the American flag decorations along the Mall a few blocks away from Buckingham Palace was enough to attract a pair of quick-stepping constables (who had been sitting in a nearby parked van, watching the street), wanting to know what I was up to.
 

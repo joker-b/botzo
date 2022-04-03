@@ -6,7 +6,7 @@ tags: [Canon]
 ---
 
 
-![(C)2004 K Bjorke]({{ 'http://www.botzilla.com/bpix/famImm.jpg' | absolute_url }})
+![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/famImm.jpg' | absolute_url }})
 
 
 <i>Many, many snaps. Many CDs + duplicates.</i>

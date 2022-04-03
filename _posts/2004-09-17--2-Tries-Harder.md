@@ -6,7 +6,7 @@ tags: [Analog,Leica,Canon,Contax,Fujifilm,Japan,Books]
 ---
 
 
-![Ginza (C)2004 K. Bjorke]({{ 'http://www.botzilla.com/bpix/try.jpg' | absolute_url }})
+![Ginza (C)2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/try.jpg' | absolute_url }})
 
 
 With three hours to kill between afternoon presentations at <a href="http://www.kogakuin.ac.jp/english/" target="try">Kogakuin University,</a> I took a three-block walk, first across the street to the Mitsui Building, where I failed to find either the <a href="http://www.pentax.co.jp/forum/" target="try">the Pentax Forum Gallery</a> or Epson's <a href="http://epsite.epson.co.jp/home.html" target="try">epSite.</a> Then around the corner past Subaru to the <a href="http://www.nikon-image.com/jpn/service/salon/index.htm" target="try">Nikon Salon and Salon 21bis,</a> tucked-away on the 28th floor of the Shinjuku L Tower.

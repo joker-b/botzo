@@ -6,7 +6,7 @@ tags: [Books,China]
 ---
 
 
-![(C) 2004 K. Bjorke]({{ 'http://www.botzilla.com/pix2004/simplehappy.jpg' | absolute_url }})
+![(C) 2004 K. Bjorke]({{ 'https://www.botzilla.com/pix2004/simplehappy.jpg' | absolute_url }})
 
 
 Today:

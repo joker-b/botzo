@@ -11,7 +11,7 @@ In one of Mike Johnston's first installments <a href="http://www.luminous-landsc
 
 
 
-![Laptops, San Fransisco (C) 2003 Kevin Bjorke]({{ 'http://www.botzilla.com/bpix/mar03i-20.jpg' | absolute_url }}){: .align-right}
+![Laptops, San Fransisco (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/mar03i-20.jpg' | absolute_url }}){: .align-right}
 I've written-out my basic workflow and suite of working methods here &#151; mostly the technical bits, to get them out of the way and let my mind worry about the more problematic bits. Or who knows, maybe writing this down will reveal some hidden hypocrisy, and removing it will help me leap forward. Or not.
 
 This is not a manifesto, just a current assessment. YMMV.
