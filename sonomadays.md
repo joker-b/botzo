@@ -1,10 +1,12 @@
 ---
 layout: page_bare
+title: "Sonoma Days"
 ---
 
-![Sonoma Days]({{ '/assets/2018/bjorke_SmokeSF_KBXF0877w.jpg' | absolute_url }})
-](https://www.instagram.com/sonoma_days/?hl=en)
+<h1>Documenting the lives that make Sonoma Strong</h1>
+<h1>Documenting the lives and connected communities that make Sonoma Strong</h1>
 
-<p>Documentng the lives and connected, oerlapping communities that make Sonoma Strong</p>
+Visit <a href="https://www.instagram.com/sonoma_days/">the photos on Instagram</a>
 
-<p><i>Visit the photos on Instagram<i></p>
+<a href="index.html">Continue instead to Botzilla.com</a>
+
