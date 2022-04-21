@@ -1,4 +1,6 @@
 {% assign slugless = page.slugless | default: false %}
+{% assign mastless = page.mastless | default: false %}
+{% unless mastless %}
 <header class="masthead">
   <div class="wrap">
     {% if site.logo %}
@@ -12,3 +14,4 @@
     {% endunless %}
   </div>
 </header><!-- /.masthead -->
+{% endunless %}

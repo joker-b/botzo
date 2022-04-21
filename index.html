@@ -3,34 +3,41 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-posts_limit: 8
+posts_limit: 12
 slugless: true
+mastless: true
 ---
 
+<p><img src="https://www.botzilla.com/pix2022/b-DSCF4949-988.jpg"></p>
+
 <p><b>Ever-Accelerating Information Overload</b> has been a subtext of our
-  lives as tools have multiplied from Gutenberg to GANs.</p>
+  lives as visual tools have multiplied, from Gutenberg and GoPro to GANs.</p>
   <p>How can people navigate through the flood of
 ideas that try to shape and limit us each day?</p>
 
-<p>Images arrive in all forms.
-Which images are tools that serve us, and which do we serve?</p>
+<p>Which images are tools that serve us, and which do we serve?</p>
+
+<p>This site has been poking at such questions since 1994.</p>
+
+<h2>Featured Blog Posts</h2>
+<ul>
+  <li><a href="{% post_url 2006-01-05-Pole-Dancing-with-Pinter %}">Pole Dancing with Pinter</a></li>
+  <li><a href="{% post_url 2017-03-12-Havana-Caged-Bouquet %}">Havana: Caged Bouquet</a></li>
+  <li><a href="{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %}">Is Photography Inherently Humanizing? Part 1</a> |
+    <a href="{% post_url 2007-02-25-Is-Photography-Inherently-Humanizing-II %}">Part 2</a> |
+    <a href="{% post_url 2007-05-11-Is-Photography-Inherently-Humanizing-III %}">Part 3</a></li>
+  <li><a href="{% post_url 2018-12-17-Hough %}">Curves and Beer: The Hough Transform</a></li>
+  <li><a href="{% post_url 2017-07-19-The-New-Fuji-Chrome-Fujifilm-X-and-Chromebook %}">The New Fuji-Chrome:</a> Chromebook as Photo Laptop</li>
+  <li><a href="{% post_url 2021-11-28-Browser-Pope %}"><i>The Browser and the Pope</i></a></li>
+  <li><a href="{% post_url 2006-10-24-ChartThrob-A-Tool-for-Printing-Digital-Negatives %}"><i>ChartThrob:</i></a> A Tool for Printing Digital Negatives</li>
+  <li><a href="{% post_url 2019-01-08-SkinToner-Fast-Skintones-for-Photoshop %}"><i>SkinToner:</i></a> Quick Skintones for Photoshop</li>
+</ul>
 
 <h2>Recent Blog Posts</h2>
 <ul>
   {% for post in site.posts limit: page.posts_limit %}
-    <li> <a href="{{ post.url }}">{{ post.date | date: "%Y.%m.%d" }}: {{ post.title }}</a></li>
+    <li> <a href="{{ post.url }}">{{ post.date | date: "%Y.%m.%d" }} {{ post.categories[0] }}: {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-<h2>Featured Blog Posts</h2>
-<ul>
-  <li> <a href="./gearhead/2006/10/24/ChartThrob-A-Tool-for-Printing-Digital-Negatives.html"><i>ChartThrob:</i> A tool for Printing Digital Negatives</a></li>
-  <li> <a href="./gearhead/2019/01/08/SkinToner-Fast-Skintones-for-Photoshop.html"><i>SkinToner:</i> Fast Skintines for Photoshop</a></li>
-  <li>Fuji-Chrome</li>
-  <li>The Browser and the Pope</li>
-  <li>Curves and Beer</li>
-  <li>Havana: Caged Bouquet</li>
-  <li>Is Photography Inherently Humanizing?</li>
-  <li>Pole Dancing with Pinter</li>
-  <li>(TO-DO: faves)</li>
-</ul>
+
