@@ -40,9 +40,9 @@ liquid:
 
 # Build settings
 markdown: kramdown
-paginate: 5
-pagination: 5
-paginate_path: /page:num/
+# paginate: 5
+# pagination: 5
+# paginate_path: /page:num/
 search_full_content: false
 
 category_archive_path: "/categories/#"
@@ -52,7 +52,8 @@ copyright: "All site content ©1997-2022 by Kevin Bjorke"
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+
+#   - jekyll-paginate
 
 # Collections
 collections:

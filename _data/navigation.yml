@@ -2,10 +2,12 @@
 
 - title: Home
   url: /
-- title: PhotoRant Blog
+- title: About 
+  url: /about.html
+- title: Projects 
+  url: /projects.html
+- title: PhotoRant 
   url: /blog.html
-- title: LiquiditySF
-  url: /liquiditysf/
 # - title: Posts
 #   url: /posts/
 #- title: Categories

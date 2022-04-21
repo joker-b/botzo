@@ -2,17 +2,38 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-paginate: true
+layout: page
+paginate: false
 limit: 10
 show_excepts: true
 entries_layout: list
+posts_limit: 8
 ---
 
-<!-- <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+<p><b>Ever-Accelerating Information Overload</b> has been a subtext of our
+  lives as tools have multiplied from Gutenberg to GANs.</p>
+  <p>How can people navigate through the flood of
+ideas that try to shape and limit us each day?</p>
+
+<p>Images arrive in all forms.
+Which images are tools that serve us, and which do we serve?</p>
+
+<h2>Recent Blog Posts</h2>
+<ul>
+  {% for post in site.posts limit: page.posts_limit %}
+    <li> <a href="{{ post.url }}">{{ post.date | date: "%Y.%m.%d" }}: {{ post.title }}</a></li>
   {% endfor %}
-</ul> -->
+</ul>
+
+<h2>Featured Blog Posts</h2>
+<ul>
+  <li> <a href="./gearhead/2006/10/24/ChartThrob-A-Tool-for-Printing-Digital-Negatives.html">2006.10.24: <i>ChartThrob:</i> A tool for Printing Digital Negatives</a></li>
+  <li> <a href="./gearhead/2019/01/08/SkinToner-Fast-Skintones-for-Photoshop.html">2019.01.08: <i>SkinTOner:</i> Fast Skintines for Photoshop</a></li>
+  <li>Fuji-Chrome</li>
+  <li>The Browser and the Pope</li>
+  <li>Curves and Beer</li>
+  <li>Havana: Caged Bouquet</li>
+  <li>Is Photography Inherently Humanizing?</li>
+  <li>Pole Dancing with Pinter</li>
+  <li>(TO-DO: faves)</li>
+</ul>
