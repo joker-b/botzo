@@ -10,16 +10,19 @@ mastless: true
 
 <p><img src="https://www.botzilla.com/pix2022/b-DSCF4949-988.jpg"></p>
 
-<p><b>Ever-Accelerating Information Overload</b> has been a subtext of our
-  lives as visual tools have multiplied, from Gutenberg and GoPro to GANs.</p>
-  <p>How can people navigate through the flood of
+<p class="close_p"><b>Ever-Accelerating Information Overload</b> has dominated our
+  lives as visual tools have multiplied &#8212; from Gutenberg and GoPro to GANs.</p>
+
+<p class="close_p">How can people navigate through the flood of
 ideas that try to shape and limit us each day?</p>
 
-<p>Which images are tools that serve us, and which do we serve?</p>
+<p class="close_p">Which images are tools that serve us, and which do we serve?</p>
 
-<p>This site has been poking at such questions since 1994.</p>
+<p class="close_p">This site has been poking at such questions since 1994.</p>
 
-<h2>Some Featured Blog Posts</h2>
+<hr class="open_hr" />
+
+<h4 class="close_p">Some Featured Blog Posts</h4>
 <ul>
   <li><a href="{% post_url 2017-03-12-Havana-Caged-Bouquet %}">Havana: Caged Bouquet</a></li>
   <li><a href="{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %}">Is Photography Inherently Humanizing? Part 1</a> |
@@ -33,10 +36,10 @@ ideas that try to shape and limit us each day?</p>
   <li><a href="{% post_url 2019-01-08-SkinToner-Fast-Skintones-for-Photoshop %}"><i>SkinToner:</i></a> Quick Skintones for Photoshop</li>
 </ul>
 
-<h2>Recent Blog Posts</h2>
+<h4 class="close_p">Most-Recent Blog Posts</h4>
 <ul>
   {% for post in site.posts limit: page.posts_limit %}
-    <li> <a href="{{ post.url }}">{{ post.date | date: "%Y.%m.%d" }} {{ post.categories[0] }}: {{ post.title }}</a></li>
+    <li> <a href="{{ post.url }}">{{ post.date | date: "%Y.%m.%d" }} [{{ post.categories[0] }}] {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
