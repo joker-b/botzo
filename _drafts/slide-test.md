@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "Financial District"
-image:
-  path: https://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
-  thumbnail: https://www.botzilla.com/pix2021/bjorke_2021-03-20-G2SF015.jpg
+title: "Slide test"
 categories: [fStop, GrayScale]
 tags: [Ilford, Analog, Darkroom]
 ---
@@ -18,19 +15,19 @@ After a long hiatus, a return to the SF Financial District, exactly one year sin
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="img1.jpg" style="width:100%">
+    <img src="https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="img2.jpg" style="width:100%">
+    <img src="https://www.botzilla.com/pix2022/b-DSCF4949-988.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="img3.jpg" style="width:100%">
+    <img src="https://www.botzilla.com/pix2022/L50K6724-988.jpg" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
