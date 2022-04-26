@@ -10,6 +10,8 @@ tags: [Ilford, Analog, Darkroom]
 
 A test with three slides
 
+<!-- http://css3.bradshawenterprises.com/cfimg/ BETTER?-->
+
 <!-- from https://cheesecat47.github.io/programming/2019/01/04/make-slideshow/ */
 
 <!-- Slideshow container -->
