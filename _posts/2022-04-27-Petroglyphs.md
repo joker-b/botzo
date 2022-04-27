@@ -41,6 +41,8 @@ picless: true
 
 <!-- from https://cheesecat47.github.io/programming/2019/01/04/make-slideshow/ */
 
+<!-- todo: move to a layout -->
+
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -48,9 +50,13 @@ picless: true
   {% for slide in page.slides %}
     <div class="mySlides slide-fade">
       <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
-      <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px"
-      alt="{{ page.captions[forloop.index0] }}">
-      <!-- <div class="slideshow-caption">{{ page.captions[forloop.index0] }}</div> -->
+      {% if page.captions %}
+        <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px"
+          alt="{{ page.captions[forloop.index0] }}">
+        <!-- <div class="slideshow-caption">{{ page.captions[forloop.index0] }}</div> -->
+      {% else %}
+        <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px">
+      {% endif %}
     </div>
   {% endfor %}
 
