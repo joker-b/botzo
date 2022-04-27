@@ -4,7 +4,7 @@ title: "Petroglyphs, New Mexico"
 image:
   path: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
-categories: [fStop, GrayScale]
+categories: [fStop]
 tags: [Sketchbook, Fujifilm]
 slides: [pix2022/petro/bjorke_NM_DSCF7400.jpg,
   pix2022/petro/bjorke_NM_DSCF7491.jpg,
@@ -18,18 +18,18 @@ slides: [pix2022/petro/bjorke_NM_DSCF7400.jpg,
   pix2022/petro/bjorke_NM_DSCF8075.jpg,
   pix2022/petro/bjorke_NM_DSCF8139.jpg,
   pix2022/petro/bjorke_NM_KBXF5513.jpg]
-captions: [one,
-  more,
-  more,
-  more,
-  more,
-  more,
-  more,
-  more,
-  more,
-  more,
-  more,
-  JW]
+captions: [shelter,
+  message,
+  museum,
+  shadow,
+  church,
+  frontier parking only,
+  ship,
+  explorer,
+  watcher,
+  marker,
+  continuity,
+  ghost]
 slideDelay: 6000
 picless: true
 ---
@@ -48,7 +48,8 @@ picless: true
   {% for slide in page.slides %}
     <div class="mySlides slide-fade">
       <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
-      <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px">
+      <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px"
+      alt="{{ page.captions[forloop.index0] }}">
       <!-- <div class="slideshow-caption">{{ page.captions[forloop.index0] }}</div> -->
     </div>
   {% endfor %}

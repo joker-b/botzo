@@ -14,6 +14,5 @@ function showSlides(Delay) {
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
   slides[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, delay); // original code changes image every 2 seconds,
-                                // but I made it more slowly.
+  setTimeout(showSlides, delay);
 }
