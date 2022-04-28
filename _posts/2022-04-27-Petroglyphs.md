@@ -6,30 +6,19 @@ image:
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
 categories: [fStop]
 tags: [Sketchbook, Fujifilm]
-slides: [pix2022/petro/bjorke_NM_DSCF7400.jpg,
-  pix2022/petro/bjorke_NM_DSCF7491.jpg,
-  pix2022/petro/bjorke_NM_DSCF7461.jpg,
-  pix2022/petro/bjorke_NM_DSCF7490.jpg,
-  pix2022/petro/bjorke_NM_DSCF7647.jpg,
-  pix2022/petro/bjorke_NM_KBXF5515.jpg,
-  pix2022/petro/bjorke_NM_DSCF7553.jpg,
-  pix2022/petro/bjorke_NM_DSCF7816.jpg,
-  pix2022/petro/bjorke_NM_DSCF8155.jpg,
-  pix2022/petro/bjorke_NM_DSCF8075.jpg,
-  pix2022/petro/bjorke_NM_DSCF8139.jpg,
-  pix2022/petro/bjorke_NM_KBXF5513.jpg]
-captions: [shelter,
-  message,
-  museum,
-  shadow,
-  church,
-  frontier parking only,
-  ship,
-  explorer,
-  watcher,
-  marker,
-  continuity,
-  ghost]
+slides: [ [ pix2022/petro/bjorke_NM_DSCF7400.jpg, shelter ],
+   [ pix2022/petro/bjorke_NM_DSCF7491.jpg, message ],
+   [ pix2022/petro/bjorke_NM_DSCF7461.jpg, museum ],
+   [ pix2022/petro/bjorke_NM_DSCF7490.jpg, shadow ],
+   [ pix2022/petro/bjorke_NM_DSCF7647.jpg, church ],
+   [ pix2022/petro/bjorke_NM_KBXF5515.jpg, FRONTIER parking only ],
+   [ pix2022/petro/bjorke_NM_DSCF7553.jpg, ship ],
+   [ pix2022/petro/bjorke_NM_DSCF7816.jpg, explorer ],
+   [ pix2022/petro/bjorke_NM_DSCF8155.jpg, watcher ],
+   [ pix2022/petro/bjorke_NM_DSCF8075.jpg, marker ],
+   [ pix2022/petro/bjorke_NM_DSCF8139.jpg, seasons ],
+   [ pix2022/petro/bjorke_NM_KBXF5513.jpg, ghost ] ]
+
 slideDelay: 6000
 picless: true
 ---
@@ -45,20 +34,22 @@ picless: true
 
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+{% if page.slides %}
+  <div class="slideshow-container">
 
-  {% for slide in page.slides %}
-    <div class="mySlides slide-fade">
-      <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
-      {% if page.captions %}
-        <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px"
-          alt="{{ page.captions[forloop.index0] }}">
-        <!-- <div class="slideshow-caption">{{ page.captions[forloop.index0] }}</div> -->
-      {% else %}
-        <img src="https://www.botzilla.com/{{ slide }}" style="max-height: 670px">
-      {% endif %}
-    </div>
-  {% endfor %}
+    {% for slide in page.slides %}
+      <div class="mySlides slide-fade">
+        <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
+        {% if slide[1] %}
+          <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px"
+            alt="{{ slide[1] }}">
+          <div class="slideshow-caption">{{ slide[1] }}</div>
+        {% else %}
+          <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px">
+        {% endif %}
+      </div>
+    {% endfor %}
+
 
 
   <!-- Next and previous buttons -->
@@ -75,12 +66,12 @@ picless: true
   so add this code to make slideshow display at first or page is refreshed.*/
 </script>
 
-<!-- The dots/circles -->
+<!-- The dots/circles MISSING CODE! sheesh -->
 <!-- <div style="text-align:center">
   <span class="slide-dot" onclick="currentSlide(1)"></span>
   <span class="slide-dot" onclick="currentSlide(2)"></span>
   <span class="slide-dot" onclick="currentSlide(3)"></span>
 </div> -->
 
-<!-- This code makes a timing error too. -->
 
+{% endif %}
