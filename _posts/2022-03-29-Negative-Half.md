@@ -22,7 +22,7 @@ That hit video game itself has a sales decay: in 1999 _Half-Life_ sold 445,123 c
 
 For someone who is skilled at playing _Half Life,_ their skills likewise decay when they are exposed to those new titles. The keystrokes of WASD and firing might be preserved (unless you move to a game console or HMD), but the player's skilled notions about speed, about the maps, about the distribution and nature of opponents human or automated, are all subject to revision or need to be completely discarded.
 
-For a new or decaying atom, the state changes nearly instantly: the exit of protons, gamma particles and so forth are so quick that a new kind of imaging was needed to even identify them clearly (see <a href="https://botzilla.com/botzilla/2018/12/17/Hough.html">this previous entry</a>). After the shift, the next bump in a nucleus's half life might be half a trillion years away into the future. Quick chnage, long stability. Sometimes.
+For a new or decaying atom, the state changes nearly instantly: the exit of protons, gamma particles and so forth are so quick that a new kind of imaging was needed to even identify them clearly (see <a href="{% post_url 2018-12-17-Hough %}">this previous entry</a>). After the shift, the next bump in a nucleus's half life might be half a trillion years away into the future. Quick chnage, long stability. Sometimes.
 
 This simplicity isn't entirely shared by the decay a skill (or a loan). A skill doesn't only have a gently-grading exponential decay -- like a single atom, a single learned skill is either trained, or untrained. Both learning and unlearning are fixed, non-gradient costs (Loans might have fixed costs relating to lump sums, down payments, prepayments...).
 

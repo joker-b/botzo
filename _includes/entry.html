@@ -51,4 +51,7 @@
       {% if entry.date %}{% include entry-date.html %}{% endif %}
     </footer>
   {% endif %}
+  {% if entry.previous %}
+    {% assign prev_page = entry.previous %}
+  {% endif %}
 </article>

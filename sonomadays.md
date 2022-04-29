@@ -3,10 +3,12 @@ layout: page_bare
 title: "Sonoma Days"
 ---
 
-<h1>Documenting the lives that make Sonoma Strong</h1>
-<h1>Documenting the lives and connected communities that make Sonoma Strong</h1>
+<p><img src="https://www.botzilla.com/pix2022/L50K6724-988.jpg"></p>
 
-Visit <a href="https://www.instagram.com/sonoma_days/">the photos on Instagram</a>
+<h2>Documenting the lives and connected communities that make Sonoma Strong</h2>
 
-<a href="https://www.botzilla.com/">Continue instead to Botzilla.com</a>
+<ul>
+    <li>Visit <a href="https://www.instagram.com/sonoma_days/">the photos on Instagram</a></li>
+    <li><a href="https://www.botzilla.com/">Continue instead to Botzilla.com</a></li>
+</ul>
 
