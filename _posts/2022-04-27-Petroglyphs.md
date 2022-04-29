@@ -26,11 +26,4 @@ picless: true
 <!--more-->
 
 
-<!-- http://css3.bradshawenterprises.com/cfimg/ BETTER?-->
-
-<!-- from https://cheesecat47.github.io/programming/2019/01/04/make-slideshow/ */
-
-<!-- todo: move to a layout -->
-
-
 
