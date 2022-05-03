@@ -9,6 +9,7 @@ showSlides();
 function currentSlide(n) {
   clearTimeout(slideTimer);
   var slides = document.getElementsByClassName("mySlides");
+  if (slides.length < 1) return;
   slideIndex = Math.max(1, Math.min(slides.length, n));
   slideIndex --;
   showSlides();
@@ -17,6 +18,7 @@ function currentSlide(n) {
 function plusSlides(delta) {
   clearTimeout(slideTimer);
   var slides = document.getElementsByClassName("mySlides");
+  if (slides.length < 1) return;
   slideIndex += delta;
   slideIndex = Math.max(1, Math.min(slides.length, slideIndex));
   slideIndex --;
@@ -26,6 +28,7 @@ function plusSlides(delta) {
 function showSlides(Delay) {
   if (Delay) slidesDelay = Delay;
   var slides = document.getElementsByClassName("mySlides");
+  if (slides.length < 1) return;
   for (var i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
   }
