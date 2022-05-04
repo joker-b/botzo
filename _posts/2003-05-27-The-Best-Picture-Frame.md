@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Picture Frame"
-categories: [fStop]
+categories: [GearHead]
 ---
 ...is one that helps make the picture.
 

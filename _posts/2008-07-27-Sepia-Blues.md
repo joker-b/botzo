@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sepia Blues"
-categories: [PhotoRant]
+categories: [GearHead]
 tags: [Lumix]
 ---
 

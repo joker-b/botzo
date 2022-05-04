@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magic Number"
-categories: [Nuke Em from Orbit]
+categories: [Desk]
 tags: [Movies]
 ---
 ![Back Home at Dawn]({{ 'https://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right }

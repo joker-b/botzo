@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Distant Relations"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Canon,Contax,Japan]
 ---
 

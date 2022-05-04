@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Family, Immediate"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Canon]
 ---
 

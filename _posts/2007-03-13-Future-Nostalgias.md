@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Future Nostalgias"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Books]
 ---
 

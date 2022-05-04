@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Junkpiles"
-categories: [Botzilla]
-tags: [Lumix]
+categories: [Hacking]
+tags: [Lumix, Robot, Hardware]
 ---
 
 

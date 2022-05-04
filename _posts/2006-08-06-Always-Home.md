@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Always Home"
-categories: [The Open Conspiracy]
+categories: [Desk]
 ---
 
 

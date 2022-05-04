@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What You Choose to See"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Canon]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silicon Valley, 2010"
-categories: [GrayScale]
+categories: [fStop]
 tags: [Lumix]
 ---
 

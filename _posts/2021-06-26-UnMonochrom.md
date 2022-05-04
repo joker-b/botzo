@@ -4,8 +4,8 @@ title: "Tri-X, My New Favorite Color Film"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_GGB_KBEE5613-smithyTry-RGBsplit.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_GGB_KBEE5613-smithyTry-RGBsplit.jpg
-categories: [GrayScale]
-tags: [Leica, gearhead, darkroom, adobe]
+categories: [GearHead]
+tags: [Leica, Analog, Film, Monochrom, Darkroom, Adobe]
 ---
 
 The shot above was made with a _B&amp;W-only_ camera. The lower version: a one-click reimagining via Adobe's latest "Neural Colorize" filter.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers, Cameras, Colors, &amp; Caravaggism"
-categories: [Nuke Em from Orbit]
+categories: [PhotoRant]
 tags: [3D,Digital,Movies,Games,Painting]
 ---
 

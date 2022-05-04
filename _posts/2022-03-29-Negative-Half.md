@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Negative Half-Life"
-categories: [Wire Service]
+categories: [Hacking]
 tags: [Javascript, Algorithms, Digital, San Francisco, History]
 image:
   path: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg

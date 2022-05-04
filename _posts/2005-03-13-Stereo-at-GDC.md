@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stereo at GDC"
-categories: [Nuke Em from Orbit]
+categories: [Hacking]
 tags: [3D,Stereo]
 ---
 

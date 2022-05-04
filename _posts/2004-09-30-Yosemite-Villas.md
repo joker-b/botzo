@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yosemite Villas"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [China]
 ---
 

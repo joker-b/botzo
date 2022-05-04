@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Wide Dubya"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [England]
 ---
 

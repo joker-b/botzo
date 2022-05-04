@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacked-Up Life"
-categories: [Wire Service]
+categories: [Desk]
 tags: [3D]
 ---
 

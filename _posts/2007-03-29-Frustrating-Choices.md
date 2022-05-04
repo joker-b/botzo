@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frustrating Choices"
-categories: [PhotoRant]
+categories: [GearHead]
 tags: [Canon,Lumix,Analog]
 ---
 

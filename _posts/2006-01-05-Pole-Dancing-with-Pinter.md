@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pole Dancing with Pinter"
-categories: [The Open Conspiracy]
-tags: [Books,History,England]
+categories: [Desk]
+tags: [Books,History,England,Iraq]
 ---
 One of my favorite work-related blogs is Garr Reynolds's  <a href="http://www.presentationzen.com">Presentation Zen.</a> In a <a href="http://presentationzen.blogs.com/presentationzen/2005/12/talking_at_them.html">recent entry,</a> Garr writes about the recent Nobel Prize award lecture given by <a href="http://www.haroldpinter.org/home/index.shtml">Harold Pinter.</a>
 

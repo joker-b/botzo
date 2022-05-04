@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "More Linkages"
-categories: [The Open Conspiracy]
-tags: [Digital,Painting]
+categories: [Desk]
+tags: [Digital,Painting, Iraq]
 ---
 As I've <a href="/searches.html">mentioned elsewhere on this site,</a> I keep a little robot that tracks down links, picture theft, usage of pictures, pages, and also the <a href="/searches.html">search terms</a> that people use on search engines like <a href="http://www.google.com/">Google</a> and <a href="http://www.kartoo.com/">Kartoo</a> to find pages here on <a href="/index.html">Botzilla.</a>
 

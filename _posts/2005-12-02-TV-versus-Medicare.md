@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TV versus Medicare"
-categories: [The Open Conspiracy]
+categories: [Desk]
 ---
 A bit ago (actually before the recent elections) I got a call in the evening that I mistakenly thought was from one of Isaac's guitar buddies &#151; so I ignored the caller ID and picked up. Oops. Instead, it was from a political survey group. They wanted to ask my opinions about digital TV, which was just geeky enough to keep me on the phone.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some B&W Portraitists"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Digital,Stereo,Portraits]
 ---
 ![ports]({{ 'https://www.botzilla.com/pix2005/ports.jpg' | absolute_url }})

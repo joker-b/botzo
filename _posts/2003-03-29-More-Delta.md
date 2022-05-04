@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Delta"
-categories: [fStop]
+categories: [GearHead]
 tags: [Analog,Fujifilm,Darkroom]
 ---
 

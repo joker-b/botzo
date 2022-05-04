@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/cumulus_iter_2.jpg
   thumbnail: https://www.botzilla.com/pix2021/cumulus_iter_2.jpg
 
-categories: [PhotoRant]
+categories: [Hacking]
 tags: [Machine Learning, Neurography, Math]
 ---
 

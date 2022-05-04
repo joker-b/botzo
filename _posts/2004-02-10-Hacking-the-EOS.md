@@ -2,7 +2,7 @@
 layout: post
 title: "Hacking the EOS"
 categories: [GearHead]
-tags: [Canon]
+tags: [Canon, Review]
 ---
 
 

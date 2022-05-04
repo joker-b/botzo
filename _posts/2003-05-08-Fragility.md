@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fragility"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Contax,Analog,England]
 ---
 

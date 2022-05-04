@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blinded Eye"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [Korea]
 ---
 

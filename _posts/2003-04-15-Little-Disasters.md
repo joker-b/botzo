@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Little Disasters"
-categories: [fStop]
+categories: [GearHead]
 tags: [Analog,Contax,Fujifilm,Darkroom]
 ---
 

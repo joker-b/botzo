@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "F'd-Up Politics"
-categories: [The Open Conspiracy]
+categories: [Desk]
 ---
 A couple of days ago I was having a coffee-shop stop and spied a travel book. At that moment, I realized something important:
 

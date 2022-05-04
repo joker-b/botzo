@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Foreigner"
-categories: [PhotoRant]
+categories: [fStop]
 ---
 
 

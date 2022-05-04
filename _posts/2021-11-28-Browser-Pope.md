@@ -4,7 +4,7 @@ title: "The Browser and the Pope"
 image:
   path: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
   thumbnail: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
-categories: [Nuke Em from Orbit]
+categories: [Hacking]
 tags: [Machine Learning, 3d, Games, Digital, Math]
 ---
 

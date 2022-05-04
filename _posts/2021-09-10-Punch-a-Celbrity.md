@@ -8,7 +8,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2021/Punched_in_the_face_08-14-21-14.jpg
 
 
-categories: [PhotoRant]
+categories: [fStop]
 tags: [Machine Learning, Neurography, Math]
 ---
 

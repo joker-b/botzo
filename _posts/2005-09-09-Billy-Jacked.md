@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Billy Jacked"
-categories: [fStop]
+categories: [PhotoRant]
 tags: [Analog,Darkroom,Books,Bronica]
 ---
 

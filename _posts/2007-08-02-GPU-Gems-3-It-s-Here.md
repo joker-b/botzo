@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPU Gems 3 - It's Here!"
-categories: [Nuke Em from Orbit]
+categories: [Hacking]
 tags: [3D,Digital,Books]
 ---
 

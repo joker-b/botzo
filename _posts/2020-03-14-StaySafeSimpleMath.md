@@ -4,8 +4,10 @@ title: "Staying Safe: Simple Math"
 image:
   path: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
-categories: [Botzilla]
+categories: [Desk]
 tags: [Health, Covid, Pandemic, Epidemic, Math, Algorithms, Python]
+published: false
+
 ---
 
 _How can I avoid being infected by the current pandemic? What's my risk? How safe is "safe"? What are realistic safety margins?_ Let's find out! It's not difficult with a little focused thought.

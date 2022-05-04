@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Art Endures"
-categories: [The Open Conspiracy]
-tags: [Painting]
+categories: [Desk]
+tags: [Painting, Iraq]
 ---
 
 

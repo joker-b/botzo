@@ -4,7 +4,9 @@ title: "Mavericks vs Magritte"
 image:
   path: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
   thumbnail: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
-categories: [Grayscale]
+hidden: true
+published: false
+categories: [fStop]
 tags: [Fujifilm, Leica]
 ---
 

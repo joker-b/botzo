@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Quick and Light"
+title: "Quick and Light: Fuji's Little Strobe"
 image:
   path: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
 categories: [GearHead]
-tags: [Film, Analog, Leica]
+tags: [Film, Analog, Leica, Review]
 ---
 
 <!-- Visitor above the bird feeders. -->
