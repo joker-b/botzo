@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Off Course, 23 Nov"
-categories: [fStop, Bike]
+categories: [fStop]
 tags: [Bike, Fujifilm, Motorcycle]
 ---
 

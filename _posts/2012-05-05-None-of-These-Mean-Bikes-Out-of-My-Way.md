@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "None of These Mean: &quot;Bikes Out of My Way!&quot;"
-categories: [Bike]
+categories: [Desk]
+tags: [Bike]
 image:
   path: https://www.botzilla.com/blog/archives/pix2012/CA-BikeSafe-2012-15-botz.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2012/CA-BikeSafe-2012-15-med.jpg
