@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neural Networks"
-categories: [Botzilla]
+categories: [fStop]
 tags: [Machine Learning,Neurography]
 ---
 
