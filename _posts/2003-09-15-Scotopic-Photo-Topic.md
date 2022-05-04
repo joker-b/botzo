@@ -31,5 +31,5 @@ The more we look at human color vision, the more we realize that it varies consi
 
 In short, what many accept so readily as "real" from color photography is every bit as much an abstraction as what we see in B&amp;W. Not only that, but our brains actually experience the two kinds of images in different ways, and at different speeds; along different neural pathways; and with different primordial connections. Both kinds of vision have function, both have their own character. And barring injury to our brains and eyes, we're stuck with both kinds of images, as long as we and our audiences remain human.
 
-To borrow from <a href="http://www.pub.umich.edu/daily/1998/nov/11-03-98/news/news9.html">Matthew Alpern:</a> "the real business of primate vision is the discrimination of features or objects based on their location; color vision is just a hobby."
+To borrow from scientist <a href="https://en.wikipedia.org/wiki/Mathew_Alpern">Matthew Alpern:</a> "the real business of primate vision is the discrimination of features or objects based on their location; color vision is just a hobby."
 

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "The Wrong Side"
+title: "The Wrong Side: Wriststraps"
 image:
   path: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
 categories: [GearHead]
-tags: [Film, Analog, Leica, Minolta, Fuji, Fujifilm, Leitz]
+tags: [Film, Analog, Leica, Minolta, Fuji, Fujifilm, Leitz, Review]
 ---
 
 What if the whole world really is... wrong?
-
-And when you find out: what then?
 
 <!--more-->
 

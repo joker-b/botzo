@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West"
 categories: [GearHead]
-tags: [Leica,Contax,Analog]
+tags: [Leica,Contax,Analog,Review,Zeiss]
 ---
 
 
@@ -11,14 +11,16 @@ tags: [Leica,Contax,Analog]
 
 AF, MF, VF, SAF.
 
-After having to answer this over and over again, and <a href="http://www.apug.org/forums/showthread.php?p=103926#post103926">by request,</a> I'm making a permanent entry here on the subject of <b>fast accurate focusing with the Contax G2.</b> The next time a Leica collector starts up about "slow AF" (this from a guy with <i>no</i> AF), I'll at least be able to lean back and type a URL to them with a smooth, authoritarian air.
+After having to answer this over and over again, and <a href="http://www.apug.org/forums/showthread.php?p=103926#post103926">by request,</a> I'm making a permanent entry here on the subject of <b>fast accurate focusing with the Contax G2.</b> The next time a purist Leica collector starts up about "slow AF" (this from a guy with <i>no</i> AF), I'll at least be able to lean back and type a URL to them with a smooth, authoritarian air.
 
 So here goes:
 
 <!--more-->
-The trick to using a G2 quickly is to _ride the AF lock button._ There, that's it. Really. Treat it a bit like a good EOS (Think Custom Function #4, sorta). <i>It's all about the grip.</i>
+The trick to using a G2 quickly is to _ride the AF lock button._ There, that's it. Really. Treat it a bit like you would a good EOS (Canon-speak: think "Custom Function #4," sorta).
 
-Here are the standard complaints I hear about the Contax. I hear them on the web, in emails, in person. The truth is they're pretty well dispatched as long as you know how to hold the camera.
+<i>It's all about the grip.</i> Keep your thumb where it gives you image-control leverage.
+
+Here are the standard complaints I hear about the Contax G2: I hear them on the web, in emails, in person. The truth is they're pretty well dispatched as long as you know how to hold the camera.
 
 <ul><li>The AF is slow.</li><li>The AF is noisy.</li><li>The lens moves back and forth between shots and it causes a delay.</li><li>The AF is never as good as a good manual focus.</li><li>It's just a fancy point-n-shoot.</li><li>The manual focus is impossible to use because the distance scale is on the top of the body, rather than the viewfinder.</li><li>It's not fair that it costs 1/5 of the Leica and has such good lenses.</li><li>See? It has no red dot!</li></ul>
 
@@ -79,4 +81,4 @@ HEGR-biased backpedallers will be unconvinced, of course. "The camera is too lou
 
 One final handy fact about the correct Contax grip:
 
-When you use your thumb firmly, it's a lot easier to use the AE lock too. Your index finger is freer to move around. Of course, AE is one of those foolish modern features that no proper rangefinder user would want. I mean, not before 2002, at which point it became perfect.
+When you use your thumb firmly, it's a lot easier to use the AE lock too. Your index finger is freer to move around. Of course, AE is one of those foolish modern features that no proper rangefinder user would want. I mean, not before 2002, at which point autoexposure was added to the M7 and declared  perfect.
