@@ -8,7 +8,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2021/bjorke_skeletal_octopus_bones.jpg
 
 
-categories: [PhotoRant]
+categories: [fStop]
 tags: [Machine Learning, Neurography, Math]
 ---
 

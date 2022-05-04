@@ -4,7 +4,7 @@ title: "An Elegant Octopus Serving Tea"
 image:
   path: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
-categories: [PhotoRant]
+categories: [fStop]
 tags: [Machine Learning, Neurography, Math]
 ---
 
