@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So Long Siggraph 06"
-categories: [Nuke Em from Orbit]
+categories: [Desk]
 ---
 
 

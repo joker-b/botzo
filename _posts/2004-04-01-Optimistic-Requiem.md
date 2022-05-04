@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimistic Requiem"
-categories: [Nuke Em from Orbit]
+categories: [PhotoRant]
 ---
 
 ![]({{ 'https://www.botzilla.com/bpix/mem_mori.jpg' | absolute_url }}){: .align-right}
