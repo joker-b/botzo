@@ -2,7 +2,7 @@
 layout: post
 title: "Art Endures"
 categories: [Desk]
-tags: [Painting]
+tags: [Painting, Iraq]
 ---
 
 

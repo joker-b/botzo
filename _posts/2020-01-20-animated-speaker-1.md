@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animated Speaker, Part One"
-categories: [Desk]
+categories: [PhotoRant]
 tags: [Books, Machine Learning, Painting, History, France]
 image:
   path: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
