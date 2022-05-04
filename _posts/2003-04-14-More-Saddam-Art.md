@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Saddam Art"
-categories: [The Open Conspiracy]
+categories: [Desk]
 ---
 Now CNN is reporting it too &#151; <a href="http://www.cnn.com/2003/WORLD/meast/04/14/sprj.irq.saddam.hideaway/index.html">the taste of the Hussein family for fantasy art.</a>
 

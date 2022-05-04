@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Endures"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [Painting]
 ---
 

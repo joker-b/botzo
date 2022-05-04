@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You Are What They Ate"
-categories: [The Open Conspiracy]
+categories: [Desk]
 ---
 
 
