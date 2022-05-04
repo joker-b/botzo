@@ -4,7 +4,7 @@ title: "Tri-X, My New Favorite Color Film"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_GGB_KBEE5613-smithyTry-RGBsplit.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_GGB_KBEE5613-smithyTry-RGBsplit.jpg
-categories: [GrayScale]
+categories: [Hacking]
 tags: [Leica, gearhead, darkroom, adobe]
 ---
 

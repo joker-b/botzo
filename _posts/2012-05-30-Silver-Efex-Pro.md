@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silver Efex Pro"
-categories: [GrayScale]
+categories: [fStop]
 tags: [Lumix,Darkroom]
 ---
 

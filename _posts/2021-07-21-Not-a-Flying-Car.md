@@ -4,7 +4,7 @@ title: "Flying"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
-categories: [GrayScale]
+categories: [GearHead]
 tags: [Leica, Contax, Darkroom]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New and Contemporary"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Lumix]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hitched, Watsonville"
-categories: [GrayScale]
+categories: [fStop]
 ---
 
 

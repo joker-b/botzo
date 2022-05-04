@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minneapolis"
-categories: [GrayScale]
+categories: [fStop]
 tags: [Lumix]
 ---
 
