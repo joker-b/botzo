@@ -4,7 +4,7 @@ title: "France - A Close Guide"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
-categories: [PhotoRant]
+categories: [fStop]
 tags: [Books, France]
 ---
 

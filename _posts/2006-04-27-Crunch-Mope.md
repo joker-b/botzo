@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crunch Mope"
-categories: [Desk Em from Orbit]
+categories: [Desk]
 tags: [Lumix,3D]
 ---
 <i>This is one of those never-quite-finished entries that's been long-lingering due to lack of time and attention &#151; in this case it's been months (there are some that are older... what can I say?) &#151; the original save date was early 2005, and it's lingered in "draft mode" ever since.</i>

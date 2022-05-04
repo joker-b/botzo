@@ -4,7 +4,7 @@ title: "The Wrong Side"
 image:
   path: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
-categories: [fStop, GearHead, PhotoRant]
+categories: [GearHead]
 tags: [Film, Analog, Leica, Minolta, Fuji, Fujifilm, Leitz]
 ---
 
