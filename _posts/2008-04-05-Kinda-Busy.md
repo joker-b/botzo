@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kinda Busy"
-categories: [Wire Service]
+categories: [Desk]
 tags: [Digital]
 ---
 
