@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Lines"
-categories: [Wire Service]
+categories: [Desk]
 ---
 
 ![Three Lines]({{ 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg' | absolute_url }}){: .align-right}

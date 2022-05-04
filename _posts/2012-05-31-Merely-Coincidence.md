@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merely Coincidence..."
-categories: [GrayScale]
+categories: [fStop]
 tags: [Lumix]
 ---
 

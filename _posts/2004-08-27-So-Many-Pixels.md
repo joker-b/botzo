@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So Many Pixels"
-categories: [Nuke Em from Orbit]
+categories: [Hacking]
 tags: [3D,Digital]
 ---
 

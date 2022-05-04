@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zone I - Just a Little Detail"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Books]
 ---
 ![ZI]({{ 'https://www.botzilla.com/pix2005/zonei.jpg' | absolute_url }})

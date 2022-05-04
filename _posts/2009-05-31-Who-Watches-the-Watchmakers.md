@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Watches the Watchmakers?"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [Lumix]
 ---
 

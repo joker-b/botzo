@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Nature of Colored Rectangles"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Books,Lumix]
 ---
 

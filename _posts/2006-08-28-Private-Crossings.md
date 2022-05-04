@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Private Crossings"
-categories: [GrayScale]
+categories: [PhotoRant]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mr Merton is the Subject of My Sentence"
-categories: [The Open Conspiracy]
+categories: [Desk]
 tags: [Books]
 ---
 Social scientists, take note:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Portraits"
-categories: [GrayScale]
+categories: [PhotoRant]
 tags: [Portraits]
 ---
 ![Paper Cut]( {{ 'https://www.botzilla.com/pix2005/paperCut2.jpg' | absolute_url }}){: .align-right }

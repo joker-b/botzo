@@ -4,7 +4,7 @@ title: "Unmasking"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Isaac_KBLM5237.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_Isaac_KBLM5237.jpg
-categories: [GrayScale]
+categories: [Desk]
 tags: [Leica]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Portrait Paradox"
-categories: [Wire Service]
-tags: [Portraits]
+categories: [PhotoRant]
+tags: [Portraits, Aspect]
 ---
 
 
