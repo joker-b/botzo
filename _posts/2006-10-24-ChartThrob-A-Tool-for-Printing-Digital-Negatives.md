@@ -23,7 +23,7 @@ I figured this labor-intensive process could be automated, so: I automated it, a
 
 <h3>Downloading and Installing <em>ChartThrob</em></h3>
 
-<a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong>Right-Mouse-Click and Select "Save Link As..." Here for the Current Version of <em>ChartThrob.</em></strong></a>
+<p class="notice">Current Version:<br />Right-Mouse-Click and Select "Save Link As..." <strong><a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx">HERE</a></strong></p>
 
 Typically, "Save As..." this (for Windows - Mac is similar):<br /><tt>C:\Program Files\Adobe\\[Current_Photoshop\]\Presets\Scripts\ChartThrob.jsx</tt><br />where "Current_Photoshop" is any installed version from CS2 to the latest CC 2019.
 
