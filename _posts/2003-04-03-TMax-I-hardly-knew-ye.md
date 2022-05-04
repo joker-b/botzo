@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TMax I hardly knew ye"
-categories: [fStop]
+categories: [GearHead]
 tags: [Analog,Darkroom,Review]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filing Systems"
-categories: [fStop]
+categories: [PhotoRant]
 ---
 
 

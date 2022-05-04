@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Me and my camera"
-categories: [fStop]
-tags: [Leica,Canon,Contax,Analog]
+categories: [PhotoRant]
+tags: [Leica,Canon,Contax,Analog,Zeiss]
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Gated Community"
-categories: [fStop]
-tags: [Analog,Fujifilm]
+categories: [PhotoRant]
+tags: [Analog,Fujifilm,Books]
 ---
 
 

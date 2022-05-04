@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crystallizing Method"
-categories: [fStop]
+categories: [GearHead]
 tags: [Leica,Canon,Contax,Analog,3D]
 ---
 <i>This is a very long entry. I think I may move it to its own page after a couple of days, so it won't overwhelm the rest of the journal.</i>

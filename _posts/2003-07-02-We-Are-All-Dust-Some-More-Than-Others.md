@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We Are All Dust... Some More Than Others"
-categories: [fStop]
+categories: [GearHead]
 tags: [Analog, Darkroom]
 ---
 
