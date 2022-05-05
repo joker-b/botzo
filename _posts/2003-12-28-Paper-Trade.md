@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Paper Trade"
+title: "Paper Trade: A Book List"
 categories: [PhotoRant]
-tags: [Books,Cuba]
+tags: [Photojournalism,Books, Reflections]
 ---
 See the many nice things I do for you. I have given you many hours of wonder, and a reason to visit your library many times over. Here's a book list compiled by folks on the <a href="http://topica.com/lists/streetphoto/read?sort=d" target="linkframe">StreetPhoto mailing list:</a>
 

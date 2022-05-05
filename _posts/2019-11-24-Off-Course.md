@@ -2,7 +2,7 @@
 layout: post
 title: "Off Course, 23 Nov"
 categories: [fStop]
-tags: [Bike, Fujifilm, Motorcycle]
+tags: [Bike, Fujifilm, Motorcycle, Sketchbook, Sonoma]
 ---
 
 <figure class="align-center">
