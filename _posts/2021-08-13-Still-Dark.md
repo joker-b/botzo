@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
 categories: [fStop]
-tags: [Leica]
+tags: [Leica, B&W, San Francisco, Pandemic]
 ---
 
 Friday the 13th. Usually for such occasions we go to a party at the Black Cat Bar, a Nob Hill remnant of the old San Francisco Press Club. For 2021, no party.

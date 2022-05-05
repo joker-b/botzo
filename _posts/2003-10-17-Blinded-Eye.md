@@ -2,7 +2,7 @@
 layout: post
 title: "Blinded Eye"
 categories: [Desk]
-tags: [Korea]
+tags: [Korea, Reflections]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Dwindling Source of Excuses"
 categories: [fStop]
-tags: [Leica,Contax,Analog]
+tags: [Contax,Analog, Film]
 ---
 
 

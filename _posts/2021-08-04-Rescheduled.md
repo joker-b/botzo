@@ -5,7 +5,8 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_LXCycle_P1090173.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_LXCycle_P1090173.jpg
 categories: [Desk]
-tags: [Bike, Sonoma, Fire, Lumix, Leica]
+tags: [Bike, Sonoma, Fire, Lumix]
+published: false
 ---
 
 50 meters from the city limits of my destination: Santa Rosa.

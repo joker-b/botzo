@@ -2,7 +2,7 @@
 layout: post
 title: "A Kind of Blindness"
 categories: [fStop]
-tags: [Japan]
+tags: [Japan, B&W]
 ---
 
 

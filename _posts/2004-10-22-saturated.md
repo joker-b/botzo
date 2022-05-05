@@ -2,7 +2,7 @@
 layout: post
 title: "saturated"
 categories: [PhotoRant]
-tags: [Analog,Bronica]
+tags: [Analog,Bronica, Medium Format]
 ---
 
 

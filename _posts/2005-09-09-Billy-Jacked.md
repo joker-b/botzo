@@ -2,7 +2,7 @@
 layout: post
 title: "Billy Jacked"
 categories: [PhotoRant]
-tags: [Analog,Darkroom,Books,Bronica]
+tags: [Analog,Darkroom,Books,Bronica, Medium Format, Scanning, B&W, Process]
 ---
 
 

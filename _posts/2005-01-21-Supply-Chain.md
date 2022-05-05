@@ -2,7 +2,7 @@
 layout: post
 title: "Supply Chain"
 categories: [fStop]
-tags: [Analog,Darkroom,China]
+tags: [Analog,Darkroom,China, Ilford, FIlm]
 ---
 
 

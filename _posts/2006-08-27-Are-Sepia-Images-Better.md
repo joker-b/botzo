@@ -2,7 +2,7 @@
 layout: post
 title: "Are Sepia Images Better?"
 categories: [GearHead]
-tags: [Lumix]
+tags: [Lumix, B&W]
 ---
 
 ![P1040795.jpg]({{ 'https://www.botzilla.com/blog/pix2006/P1040795.jpg' | absolute_url }})
