@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Crystallizing Method"
+title: "Crystallizing My Methods (2003)"
 categories: [GearHead]
-tags: [Process, Canon,Contax,Analog,3D, Ilford, Yashica, Medium Format,Scanning]
+tags: [Process, Canon,Contax,Analog,3D, Darkroom, Ilford, Yashica, Medium Format,Scanning, Printing, B&W, Film, Flash, Nikon]
 ---
 <i>This is a very long entry. I think I may move it to its own page after a couple of days, so it won't overwhelm the rest of the journal.</i>
 

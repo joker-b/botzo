@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Directions: Yashica 124G"
+title: "Ongoing Directions: Yashica 124G"
 image:
   path: https://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg
   thumbnail: https://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg

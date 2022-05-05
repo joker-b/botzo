@@ -2,7 +2,7 @@
 layout: post
 title: "The Price is Right"
 categories: [PhotoRant]
-tags: [3D,Books, Exhibits]
+tags: [3D,Books, Exhibits, Photojournalism]
 ---
 
 

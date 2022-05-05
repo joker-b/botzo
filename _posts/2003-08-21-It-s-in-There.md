@@ -2,7 +2,7 @@
 layout: post
 title: "It's in There"
 categories: [PhotoRant]
-tags: [Leica,Canon,Books]
+tags: [Leica,Canon,Books, Nikon, Photojournalism]
 ---
 
 
