@@ -2,7 +2,7 @@
 layout: post
 title: "More on Presentations, GDC, PDF, PPT"
 categories: [Desk]
-tags: [3D, Process, Digital]
+tags: [3D, Methods, Digital]
 --
 Garr's <a href="http://presentationzen.blogs.com/presentationzen/2006/04/slideuments_and.html">recent post on slideuments</a> got me thinking about my current Powerpoint method.
 

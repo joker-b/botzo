@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West"
 categories: [GearHead]
-tags: [Contax,Rangefinder,Leica,Analog,Review,Zeiss,Process]
+tags: [Contax,Rangefinder,Leica,Analog,Review,Zeiss,Methods]
 ---
 
 
