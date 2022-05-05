@@ -2,7 +2,7 @@
 layout: post
 title: "Me and my camera"
 categories: [PhotoRant]
-tags: [Leica,Canon,Contax,Analog,Zeiss]
+tags: [Leica,Canon,Contax,Analog,Zeiss,Japan,Movie]
 ---
 
 

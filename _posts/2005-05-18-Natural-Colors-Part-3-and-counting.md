@@ -2,7 +2,7 @@
 layout: post
 title: "Natural Colors Part 3 (and counting)"
 categories: [PhotoRant]
-tags: [Leica,Analog]
+tags: [Analog, B&W]
 ---
 
 

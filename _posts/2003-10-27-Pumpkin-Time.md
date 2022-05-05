@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pumpkin Time"
-categories: [PhotoRant]
+categories: [PhotoRant, Exhibits]
 ---
 
 

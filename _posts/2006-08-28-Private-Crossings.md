@@ -2,6 +2,7 @@
 layout: post
 title: "Private Crossings"
 categories: [PhotoRant]
+tags: [Books, Photojournalism]
 ---
 
 

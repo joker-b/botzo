@@ -2,7 +2,7 @@
 layout: post
 title: "Collisions"
 categories: [PhotoRant]
-tags: [Japan]
+tags: [Japan, B&W, Photojournalism]
 ---
 
 

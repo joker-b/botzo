@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "So Long Siggraph 06"
-categories: [Desk]
+categories: [fStop]
+tags: [Exhibits]
 ---
 
 
