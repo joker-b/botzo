@@ -52,6 +52,8 @@ copyright: "All site content ©1997-2022 by <a href=\"https://www.botzilla.com/a
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 
 #   - jekyll-paginate
 
