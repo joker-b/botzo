@@ -2,7 +2,7 @@
 layout: post
 title: "I Bought a Book"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, Painting, History, B&W]
 ---
 
 

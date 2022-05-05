@@ -2,7 +2,7 @@
 layout: post
 title: "We Are All Dust... Some More Than Others"
 categories: [GearHead]
-tags: [Analog, Darkroom]
+tags: [Analog, Darkroom, Film]
 ---
 
 

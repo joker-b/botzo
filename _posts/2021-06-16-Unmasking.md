@@ -6,6 +6,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2021/bjorke_Isaac_KBLM5237.jpg
 categories: [Desk]
 tags: [Leica]
+published: false
 ---
 
 We've all seen plenty of photos of people photographing people photographing each other, but not for a while. Not from me, at least.

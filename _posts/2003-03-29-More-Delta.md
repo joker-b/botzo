@@ -2,7 +2,7 @@
 layout: post
 title: "More Delta"
 categories: [GearHead]
-tags: [Analog,Fujifilm,Darkroom]
+tags: [Analog,Fujifilm,Darkroom, Ilford]
 ---
 
 

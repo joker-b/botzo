@@ -2,7 +2,7 @@
 layout: post
 title: "Persistence"
 categories: [PhotoRant]
-tags: [Analog]
+tags: [Analog, B&W]
 ---
 
 

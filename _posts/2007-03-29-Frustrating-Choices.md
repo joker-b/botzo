@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrating Choices"
 categories: [GearHead]
-tags: [Canon,Lumix,Analog]
+tags: [Canon,Lumix,Analog,Bronica, Medium Format]
 ---
 
 
