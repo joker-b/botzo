@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Billy Jacked"
+title: "Billy-Jacked: Mortensen's Stand Method"
 categories: [PhotoRant]
-tags: [Analog,Darkroom,Books,Bronica, Medium Format, Scanning, B&W, Methods]
+tags: [Analog,Darkroom,Books,Bronica, Medium Format, Scanning, Film, B&W, Methods]
 ---
 
 
