@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hacking the LX1"
+title: "Hacking the Lumix LX1"
 categories: [GearHead]
-tags: [Canon,Leica,Lumix,Review, Aspect]
+tags: [Leica,Lumix,Review, Aspect, Methods, Lenses, Methods]
 ---
 
 

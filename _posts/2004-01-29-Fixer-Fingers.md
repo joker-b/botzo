@@ -2,7 +2,7 @@
 layout: post
 title: "Fixer Fingers"
 categories: [fStop]
-tags: [Canon,Contax,Analog]
+tags: [Canon,Contax,Darkroom,Zeiss,Lenses,Analog]
 ---
 
 

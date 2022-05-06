@@ -2,7 +2,7 @@
 layout: post
 title: "Take Pictures"
 categories: [PhotoRant]
-tags: [Books,Analog]
+tags: [Books, Analog, Portrait, Exhibits]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Silicon Valley 2010"
 categories: [fStop]
-tags: [Lumix]
+tags: [Exhibits, Silicon Valley]
 ---
 
 

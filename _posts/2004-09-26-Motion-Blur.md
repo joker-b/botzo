@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motion Blur"
+title: "Tokyo Motion Blur"
 categories: [fStop]
 tags: [Canon,Contax,Analog,Japan]
 ---

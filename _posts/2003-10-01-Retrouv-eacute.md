@@ -2,7 +2,7 @@
 layout: post
 title: "Retrouv&eacute;"
 categories: [fStop]
-tags: [Canon,Contax,Analog]
+tags: [Canon,Contax,Rangefinder,Analog,Lenses]
 ---
 
 

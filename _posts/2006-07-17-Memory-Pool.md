@@ -2,7 +2,7 @@
 layout: post
 title: "Memory Pool"
 categories: [PhotoRant]
-tags: [Analog,Fujifilm]
+tags: [Analog,Fujifilm, History, Photojournalism, Books, B&W]
 ---
 
 

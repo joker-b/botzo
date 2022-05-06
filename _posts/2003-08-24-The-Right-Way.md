@@ -2,7 +2,7 @@
 layout: post
 title: "The Right Way"
 categories: [PhotoRant]
-tags: [Photojournalism,Leica,Canon,Cuba,Iraq,Contax]
+tags: [Photojournalism,Rangefinder,Leica,Canon,Cuba,Iraq,Contax]
 ---
 
 

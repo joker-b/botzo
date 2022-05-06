@@ -2,7 +2,7 @@
 layout: post
 title: "Quotations in Today's Emails"
 categories: [PhotoRant]
-tags: [Analog]
+tags: [Reflections, Books, Exhibits, Portrait, B&W, Analog]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "It's Good to be Anti-Social"
 categories: [PhotoRant]
-tags: [Leica, Movie, Flash, Methods]
+tags: [Leica, Movies, Flash, Methods]
 ---
 
 

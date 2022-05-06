@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_elk_000423600022.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_elk_000423600022.jpg
 categories: [fStop]
-tags: [Sonoma, PhotoRant, Analog]
+tags: [Sonoma, PhotoRant, Analog, Film]
 ---
 
 Second of January.

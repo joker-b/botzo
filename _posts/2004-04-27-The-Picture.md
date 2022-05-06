@@ -2,7 +2,7 @@
 layout: post
 title: "The Picture"
 categories: [PhotoRant]
-tags: [Analog]
+tags: [Photojournalism, Reflections, History, Exhibits, Movies]
 ---
 
 

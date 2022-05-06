@@ -2,7 +2,7 @@
 layout: post
 title: "The Right Tool"
 categories: [PhotoRant]
-tags: [Analog,Fujifilm]
+tags: [Analog, Digital, B&W, Fujifilm]
 ---
 
 

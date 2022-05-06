@@ -2,7 +2,7 @@
 layout: post
 title: "Artista Studio"
 categories: [PhotoRant]
-tags: [Leica,Canon]
+tags: [Reflections, Photojournalism, Painting]
 ---
 
 

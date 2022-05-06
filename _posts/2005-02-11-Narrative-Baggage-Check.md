@@ -2,7 +2,7 @@
 layout: post
 title: "Narrative Baggage Check"
 categories: [PhotoRant]
-tags: [Analog]
+tags: [Books, Portrait, History, Analog]
 ---
 
 

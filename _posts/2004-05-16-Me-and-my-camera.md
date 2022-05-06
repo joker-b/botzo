@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Me and my camera"
+title: "Me and My Camera, 2004"
 categories: [PhotoRant]
-tags: [Leica,Canon,Contax,Analog,Zeiss,Japan,Movie]
+tags: [Canon,Contax,Analog,Film,Zeiss,Japan,Movies,Lenses]
 ---
 
 

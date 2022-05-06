@@ -2,7 +2,7 @@
 layout: post
 title: "Junkpiles"
 categories: [Hacking]
-tags: [Lumix, Robot, Hardware]
+tags: [Robot, Hardware]
 ---
 
 

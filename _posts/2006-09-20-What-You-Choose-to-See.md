@@ -2,7 +2,7 @@
 layout: post
 title: "What You Choose to See"
 categories: [PhotoRant]
-tags: [Canon]
+tags: [B&W,Digital,Methods]
 ---
 
 

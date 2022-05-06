@@ -2,7 +2,7 @@
 layout: post
 title: "Xmas Gifts"
 categories: [PhotoRant]
-tags: [Analog,Fujifilm]
+tags: [Analog, Books]
 ---
 
 

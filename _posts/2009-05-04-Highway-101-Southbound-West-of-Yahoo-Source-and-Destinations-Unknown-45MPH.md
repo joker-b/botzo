@@ -2,7 +2,7 @@
 layout: post
 title: "Highway 101 Southbound, West of Yahoo, Source and Destinations Unknown, ~45MPH"
 categories: [fStop]
-tags: [Lumix]
+tags: [Silicon Valley]
 ---
 
 

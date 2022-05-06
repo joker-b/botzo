@@ -2,7 +2,7 @@
 layout: post
 title: "New and Contemporary"
 categories: [PhotoRant]
-tags: [Lumix]
+tags: [Exhibits, B&W, Methods]
 ---
 
 

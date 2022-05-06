@@ -2,7 +2,7 @@
 layout: post
 title: "Rambling Under the Radar"
 categories: [GearHead]
-tags: [Analog,Leica,Canon,Contax,Fujifilm]
+tags: [Analog,Contax,Zeiss,Lenses,Review]
 ---
 
 

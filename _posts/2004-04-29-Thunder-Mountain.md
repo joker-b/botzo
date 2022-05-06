@@ -2,7 +2,7 @@
 layout: post
 title: "Thunder Mountain"
 categories: [fStop]
-tags: [Canon,Contax]
+tags: [Canon, Contax, Methods]
 ---
 
 

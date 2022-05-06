@@ -2,7 +2,7 @@
 layout: post
 title: "Out with the Old, in with the... Old"
 categories: [GearHead]
-tags: [Canon,Contax]
+tags: [Canon, Contax, Zeiss, Lenses]
 ---
 
 

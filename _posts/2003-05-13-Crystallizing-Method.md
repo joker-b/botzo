@@ -2,7 +2,7 @@
 layout: post
 title: "Crystallizing My Methods (2003)"
 categories: [GearHead]
-tags: [Methods, Canon,Contax,Analog,3D, Darkroom, Ilford, Yashica, Medium Format,Scanning, Printing, B&W, Film, Flash, Nikon]
+tags: [Methods, Canon,Contax,Analog,3D, Darkroom, Ilford, Yashica, Medium Format,Scanning, Printing, B&W, Film, Flash, Nikon, Zeiss, Lenses, Photojournalism]
 ---
 <i>This is a very long entry. I think I may move it to its own page after a couple of days, so it won't overwhelm the rest of the journal.</i>
 

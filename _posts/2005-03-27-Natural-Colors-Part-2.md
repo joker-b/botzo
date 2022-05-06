@@ -2,7 +2,7 @@
 layout: post
 title: "Natural Colors Part 2"
 categories: [PhotoRant]
-tags: [Leica,Analog, B&W, Scanning]
+tags: [Leica,Analog, B&W, Scanning, Photojournalism]
 ---
 
 

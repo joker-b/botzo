@@ -2,7 +2,7 @@
 layout: post
 title: "Who Watches the Watchmakers?"
 categories: [Desk]
-tags: [Lumix, Reflections]
+tags: [Reflections]
 ---
 
 

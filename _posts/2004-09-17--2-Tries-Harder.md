@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#2 Tries Harder"
+title: "Tokyo's #2 Tries Harder"
 categories: [PhotoRant]
 tags: [Analog,Leica,Canon,Contax,Fujifilm,Japan,Books, Nikon, Exhibits]
 ---

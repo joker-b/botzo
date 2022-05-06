@@ -2,7 +2,7 @@
 layout: post
 title: "Dwindling Source of Excuses"
 categories: [fStop]
-tags: [Contax,Analog, Film]
+tags: [Methods, Contax, Analog, Film]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Reversals"
 categories: [PhotoRant]
-tags: [Lumix,Bike]
+tags: [Reflections, Bike]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Little Disasters"
 categories: [GearHead]
-tags: [Analog,Contax,Fujifilm,Darkroom]
+tags: [Methods, Film, Analog, Contax, Fujifilm, Darkroom]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the Delta"
 categories: [fStop]
-tags: [Analog,Fujifilm,Darkroom, Ilford]
+tags: [Analog, Fujifilm, Darkroom, Ilford]
 ---
 
 

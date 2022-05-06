@@ -2,7 +2,7 @@
 layout: post
 title: "The Nature of Colored Rectangles"
 categories: [PhotoRant]
-tags: [Books,Lumix]
+tags: [Books, Review, B&W]
 ---
 
 

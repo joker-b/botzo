@@ -6,6 +6,7 @@ image:
   thumbnail: https://www.botzilla.com/blog/pix2009/P1020027.jpg
 categories: [fStop]
 tags: [Lumix]
+published: false
 ---
 
 

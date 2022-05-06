@@ -2,7 +2,7 @@
 layout: post
 title: "Distant Relations"
 categories: [PhotoRant]
-tags: [Canon,Contax,Japan]
+tags: [Canon,Contax,Japan,Methods,Photojournalism]
 ---
 
 

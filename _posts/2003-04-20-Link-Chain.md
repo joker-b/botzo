@@ -2,7 +2,7 @@
 layout: post
 title: "Link Chain"
 categories: [PhotoRant]
-tags: [Analog]
+tags: [Reflections, Books, Exhibits, Photojournalism]
 ---
 
 

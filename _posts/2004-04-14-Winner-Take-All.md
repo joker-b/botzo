@@ -2,7 +2,7 @@
 layout: post
 title: "Winner Take All"
 categories: [PhotoRant]
-tags: [Analog,Digital,Painting,Japan]
+tags: [Photojournalsm, Exhibits, Reflections, Digital, Painting, Japan]
 ---
 
 

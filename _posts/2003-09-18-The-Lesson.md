@@ -2,7 +2,7 @@
 layout: post
 title: "The Lesson"
 categories: [fStop]
-tags: [Canon,Contax,Japan]
+tags: [Japan, Photojournalism]
 ---
 
 

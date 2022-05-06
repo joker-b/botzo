@@ -2,7 +2,7 @@
 layout: post
 title: "Family, Immediate"
 categories: [PhotoRant]
-tags: [Canon]
+tags: [Canon, Darkroom]
 ---
 
 

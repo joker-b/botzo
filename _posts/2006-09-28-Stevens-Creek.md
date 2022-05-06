@@ -2,7 +2,7 @@
 layout: post
 title: "Stevens Creek"
 categories: [fStop]
-tags: [Lumix]
+tags: [Silicon Valley]
 ---
 
 
