@@ -2,6 +2,7 @@
 layout: post
 title: "The Foreigner"
 categories: [fStop]
+tags: [Photojournalism]
 ---
 
 

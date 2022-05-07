@@ -2,6 +2,7 @@
 layout: post
 title: "Same Flavor"
 categories: [fStop]
+tags: [Methods]
 ---
 
 

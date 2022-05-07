@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Quotations in Today's Emails"
+title: "Quotations from Today's Emails"
 categories: [PhotoRant]
 tags: [Reflections, Books, Exhibits, Portrait, B&W, Analog]
 ---
 
-
 ![(C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/103_0319.jpg' | absolute_url }}){: .align-right}
 Such a literate bunch today.
 
-&#149; Street Photography is <a href="http://www.googlism.com/index.htm?ism=street+photography&type=2">Link Number One</a>
+&#149; Street Photography Googlism is <a href="http://www.googlism.com/index.htm?ism=street+photography&type=2">Link Number One</a>
+
+To get on with things:
 
 &#149; <i>"To photograph is to hold one's breath, when all faculties converge to  capture fleeting reality. It's at that precise moment that mastering an  image becomes a great physical and intellectual joy."
  
@@ -19,16 +20,14 @@ Such a literate bunch today.
  
 "Photographers deal in things which are continually vanishing and when  they have vanished there is no contrivance on earth which can make them come back again."
 
-...
+"Reality offers us such wealth that we must cut some of it out on the spot, simplify. The question is, do we always cut out what we should?  While we're working, we must be conscious of what we're doing. Sometimes we have the feeling that we've taken a great photo, and yet we continue to unfold. We must avoid however, snapping away, shooting quickly and without thought, overloading ourselves with unnecessary images that clutter our memory and diminish the clarity of the whole."
 
 <!--more-->
-
-"Reality offers us such wealth that we must cut some of it out on the spot, simplify. The question is, do we always cut out what we should?  While we're working, we must be conscious of what we're doing. Sometimes we have the feeling that we've taken a great photo, and yet we continue to unfold. We must avoid however, snapping away, shooting quickly and without thought, overloading ourselves with unnecessary images that clutter our memory and diminish the clarity of the whole."
 
 "Of all the means of expression, photography is the only one that fixes a precise moment in time. We play with subjects that disappear; and when they're gone, it's impossible to bring them back to life. We can't alter our subject afterward.... Writers can reflect before they put words on paper.... As photographers, we don't have the luxury of this reflective time....We can't redo our shoot once we're back at the hotel. Our job consists of observing reality with help of our camera (which serves as a kind of sketchbook), of fixing reality in a moment, but not manipulating it, neither during the shoot nor in the darkroom later on. These types of manipulation are always noticed by anyone with a good eye."
 
 "Avoid making a commotion, just as you wouldn't stir up the water before fishing. Don't use a flash out of respect for the natural lighting, even when there isn't any. If these rules aren't followed, the photographer becomes unbearably obstrusive."
- 
+
 "In photography, the smallest thing can become a big subject, an insignificant human detail can become a leitmotiv. We see and we make seen as a witness to the world around us; the event, in its natural activity, generates an organic rhythm of forms. "
 
 "The most difficult thing for me is a portrait. You have to try and put your camera between the skin of a person and his shirt."
@@ -52,6 +51,10 @@ Such a literate bunch today.
 "Sharpness is a bourgeois concept."</i>
 
 &nbsp;&nbsp;&nbsp;&#151; Henri Cartier-Bresson via <a href="http://www.640x480.net/">Michal Daniel</a>
+
+<hr \>
+
+And...
 
 &#149; <i>"Whatever I say about photograhy is in relation to my photography, I'm not talking about photography in general." &#151; HCB
 

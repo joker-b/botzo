@@ -2,7 +2,7 @@
 layout: post
 title: "So Many Pixels"
 categories: [Hacking]
-tags: [3D,Digital]
+tags: [3D, Digital]
 ---
 
 

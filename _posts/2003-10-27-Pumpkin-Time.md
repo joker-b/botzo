@@ -2,6 +2,7 @@
 layout: post
 title: "Pumpkin Time"
 categories: [PhotoRant, Exhibits]
+tags: [Exhibits]
 ---
 
 

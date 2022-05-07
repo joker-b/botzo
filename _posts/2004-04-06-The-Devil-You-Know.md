@@ -2,7 +2,7 @@
 layout: post
 title: "The Devil You Know"
 categories: [PhotoRant]
-tags: [Photojournalism, Reflections, Analog, Digital, 3D]
+tags: [Photojournalism, Reflections, Analog, Digital, 3D, TechBiz]
 ---
 
 

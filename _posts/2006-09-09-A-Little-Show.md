@@ -2,6 +2,7 @@
 layout: post
 title: "A Little Show"
 categories: [fStop]
+tags: [Silicon Valley, Exhibits]
 ---
 
 

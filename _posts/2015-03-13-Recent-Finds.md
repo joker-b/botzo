@@ -2,6 +2,7 @@
 layout: post
 title: "Recent Finds"
 categories: [PhotoRant]
+tags: [Books]
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Flick flake"
 categories: [PhotoRant]
+tags: [TechBiz]
 ---
 
 

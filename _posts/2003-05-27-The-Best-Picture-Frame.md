@@ -2,6 +2,7 @@
 layout: post
 title: "The Best Picture Frame"
 categories: [GearHead, Aspect]
+tags: [Methods]
 ---
 ...is one that helps make the picture.
 

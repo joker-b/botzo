@@ -2,6 +2,7 @@
 layout: post
 title: "Margo Davis Workshop"
 categories: [fStop]
+tags: [Portrait, B&W, Silicon Valley]
 ---
 
 

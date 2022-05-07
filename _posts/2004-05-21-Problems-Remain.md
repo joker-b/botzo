@@ -2,8 +2,9 @@
 layout: post
 title: "Problems Remain"
 categories: [PhotoRant]
+tags: [Reflections]
+published: false
 ---
-
 
 ![(C) 1994, 2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/bathProb.jpg' | absolute_url }})
 

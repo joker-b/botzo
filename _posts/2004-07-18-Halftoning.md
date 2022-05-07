@@ -2,6 +2,7 @@
 layout: post
 title: "Halftoning"
 categories: [PhotoRant]
+tags: [Methods, Reflections, Darkroom, B&W]
 ---
 
 

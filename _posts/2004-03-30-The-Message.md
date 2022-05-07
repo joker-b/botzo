@@ -2,6 +2,7 @@
 layout: post
 title: "The Message"
 categories: [PhotoRant]
+tags: [Photojournalism, Printing, Books]
 ---
 
 

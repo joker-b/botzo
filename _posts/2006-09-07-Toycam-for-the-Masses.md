@@ -2,6 +2,8 @@
 layout: post
 title: "Toycam for the Masses"
 categories: [PhotoRant]
+tags: [Silicon Valley, TechBiz]
+published: false
 ---
 
 

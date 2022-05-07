@@ -2,22 +2,16 @@
 layout: post
 title: "Slighting the Hand"
 categories: [PhotoRant]
-tags: [3D]
+tags: [TechBiz, Reflections, 3D, Evolution]
 ---
 Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one below, which he asserts represents the "traditional" value curve associated with industrial products:
 
-
-
 ![GodinChart1957.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg' | absolute_url }}){: .align-center}
-
-
 
 <!--more-->
 That is, get an idea, make <i>lots</i> of it, and marketing, as long as it manages its basic functions, will have a secondary effect compared to good manufacturing and distribution skills.
 
 He follows it with this chart, to represent the modern condition:
-
-
 
 ![GodinChart2007.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart2007.jpg' | absolute_url }}){: .align-center}
 
@@ -31,8 +25,6 @@ In this respect, business seems to be following the Duchamp model, where art pro
 If this is so, what are the ramifications for image-makers, or any other sort of art-maker, living in such a society? In this era where photographers might not even have a camera (e.g., Nikki Lee), where Jeff Koons can hire-up a staff to make his ballooon critters, where singers perform in sync to quantized playbacks of hired session players, and even <i>Garfield</i> get drawn by assistants &#151; is there still a role for virtuoso execution in the arts, save in the service of someone else's ideas? When and how might skillful hands make a comeback?
 
 Our hands have had just as long and illustrious evolutionary history as our brains. As someone said: "without the eye, there are no good pictures. But without the hand, there are no pictures at all." Is the hand on a final decline, or just a momentary setback as it finds some new and ever-human outlet?
-
-
 
 <hr align="center" width="20%">
 

@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color_Full.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2011/Bjorke_Vignette_Color.jpg
 categories: [GearHead]
+tags: [Digital, Methods]
 ---
 
 

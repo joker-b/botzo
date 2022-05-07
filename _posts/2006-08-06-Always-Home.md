@@ -2,7 +2,7 @@
 layout: post
 title: "Always Home"
 categories: [Desk]
-tags: [Reflections]
+tags: [Reflections, Silicon Valley]
 ---
 
 

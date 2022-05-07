@@ -2,7 +2,7 @@
 layout: post
 title: "SPEEDAWAY"
 categories: [PhotoRant]
-Tgas: [Movies]
+tgas: [Movies]
 ---
 
 ![speed]({{ 'https://www.botzilla.com/pix2005/speedaway.jpg' | absolute_url }})){: .align-center}
