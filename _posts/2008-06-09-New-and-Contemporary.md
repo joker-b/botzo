@@ -2,14 +2,15 @@
 layout: post
 title: "New and Contemporary"
 categories: [PhotoRant]
-tags: [Exhibits, B&W, Methods]
+image:
+    path: https://www.botzilla.com/blog/pix2008/P1000352.jpg
+    thumbnail: https://www.botzilla.com/blog/pix2008/P1000352.jpg
+tags: [Exhibits, B&W, Methods, Flickr, History]
 ---
 
+There is little that can lead you to treasure good photography more than to look at a lot of bad photography, interspersed with an occasional gem. Which is exactly what I was doing a few weeks ago on (where else?) flickr, where I was editing group pools.
 
-![P1000352.jpg]({{ 'https://www.botzilla.com/blog/pix2008/P1000352.jpg' | absolute_url }})
-
-
-There is little that can lead you to treasure good photography than to look at a lot of bad photography, interspersed with an occasional gem. Which is exactly what I was doing a few weeks ago on (where else?) flickr, where I was editing group pools.
+<!--more-->
 
 When I started the <a href="http://www.flickr.com/groups/newblackandwhite/">New Black and White</a> group, back in flickr's early pre-yahoo fog, there were no editing or moderation tools, it was slow and painstaking to remove each and every pic I felt didn't belong. And at first that was fine, as there were very few pics submitted. Two or three a day. I stopped messing with it, left it fallow -- came back to find a thousand pictures. 
 
@@ -17,7 +18,6 @@ Edited those down to a few dozen, watched it fill up quickly again. Eventually t
 
 Rather than even try to deal with all that, I started another group, <a href="http://www.flickr.com/groups/contemporarybw/">Contemporary Black and White,</a> and invited a few select members. I thought: at least I don't need to edit them (and I don't -- they've been contributing good stuff). But then I started wondering about the old one.....
 
-<!--more-->
 ...<i>could</i> I realistically edit-down the 50,000+ photos to a little kernel, throwing away <a href="http://en.wikipedia.org/wiki/Sturgeon's_law">90%</a> or more of them? Only one way to find out....
 
 So I did. It took time, it took <a href="http://bighugelabs.com/flickr/poolcleaner.php">special tools,</a> it took regular attacks. I worked in blocks of from 1000 to 3000 photos. As time passed, it was quick enough to see how many really endlessly-repeating tropes there were, each trotted out over and again and usually accompanied by plenty of enthusiastic flickr badges and boosting comments (especially if the photo involved a pretty girl).
