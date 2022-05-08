@@ -2,7 +2,7 @@
 layout: post
 title: "F'd-Up Politics"
 categories: [Desk]
-tags: [Reflections]
+tags: [War]
 ---
 A couple of days ago I was having a coffee-shop stop and spied a travel book. At that moment, I realized something important:
 

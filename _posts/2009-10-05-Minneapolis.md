@@ -2,7 +2,7 @@
 layout: post
 title: "Minneapolis"
 categories: [fStop]
-tags: [Portrait]
+tags: [Portrait, Minneapolis]
 ---
 
 

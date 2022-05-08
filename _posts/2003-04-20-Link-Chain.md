@@ -2,7 +2,7 @@
 layout: post
 title: "Link Chain"
 categories: [PhotoRant]
-tags: [Reflections, Books, Exhibits, Photojournalism]
+tags: [Links, Books, Exhibits, Photojournalism, Las Vegas]
 ---
 
 

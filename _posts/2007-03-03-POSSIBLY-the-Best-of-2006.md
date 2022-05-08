@@ -2,7 +2,7 @@
 layout: post
 title: "POSSIBLY the Best of 2006"
 categories: [PhotoRant]
-tags: [Books, Reflections]
+tags: [Books, Links, Media]
 ---
 Yesterday I received a Fedex envelope from Mexico, and within it was a bright yellow giftwrap containing a shrinkwrap containing [Mark Alor Powell's](http://www.markalor.com/daypops/1/) book [_V.I.P._](http://2point8.whileseated.org/?p=112) (Mark is also known as ["locaburg"](http://www.flickr.com/photos/locaburg/) on flickr). It's only March but I'm considering it a Best of 2007 already.
 

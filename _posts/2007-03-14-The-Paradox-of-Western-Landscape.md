@@ -2,7 +2,7 @@
 layout: post
 title: "The Paradox of Western Landscape"
 categories: [PhotoRant]
-tags: [Reflections, Exhibits, Analog]
+tags: [Exhibits, Analog]
 ---
 
 

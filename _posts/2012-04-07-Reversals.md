@@ -2,7 +2,7 @@
 layout: post
 title: "Reversals"
 categories: [PhotoRant]
-tags: [Reflections, Bike]
+tags: [Silicon Valley, Bike]
 ---
 
 

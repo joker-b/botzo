@@ -2,14 +2,13 @@
 layout: post
 title: "Old Ho's Last Laugh"
 categories: [Desk]
-tags: [Iraq, Reflections]
+tags: [Iraq, War, Media]
 ---
 Back in the 1960's, there was an episode when Lyndon Johnson suggested offering North Vietnam a large dose of western-style incentive, as a deal to secure the peace. Cash and know-how to build hydroelectic power reservoirs in Vietnam, thinking it would transform the region into Tennessee-on-the-Mekong.
 
 "Ol' Ho just can't turn <i>that</i> down!" Johnson is reported to have gleefully proclaimed, before the plan was rejected by the Vietnamese.
 
 I have thought often of this story whenever I hear current politicians talking about Iraqis' supposed willingness to turn themselves into happily westernized "free" consumers as a result of the coming (now current, and stalled) invasion. 
-
 
 <!--more-->
 That this sentiment is repeated without question by CNN is no surprise &#151; it was Ted Turner who had similarly sappy (though similiarly self-serving) ideas about world-peace-through-global-TV-networks only a few short years ago (as if feeding folks in Yemen and Somalia the same re-runs of <i>Gilligan's Island</i> as those beamed to hapless American children would somehow make the human condition more bearable).

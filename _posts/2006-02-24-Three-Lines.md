@@ -2,7 +2,7 @@
 layout: post
 title: "Three Lines"
 categories: [Desk]
-tags: [Reflections, Books]
+tags: [Policy, Philosophy, Books]
 ---
 
 ![Three Lines]({{ 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg' | absolute_url }}){: .align-right}

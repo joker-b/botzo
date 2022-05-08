@@ -2,7 +2,7 @@
 layout: post
 title: "World Wide Dubya"
 categories: [Desk]
-tags: [England, Reflections]
+tags: [England, Media, War]
 ---
 
 <figure class="align-right">

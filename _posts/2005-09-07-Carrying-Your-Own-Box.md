@@ -2,7 +2,7 @@
 layout: post
 title: "Carrying Your Own Box"
 categories: [fStop]
-tags: [Exhbits, Reflections, Books, Flickr]
+tags: [Exhbits, Critique, Books, Flickr]
 ---
 
 

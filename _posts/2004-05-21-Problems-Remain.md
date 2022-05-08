@@ -2,7 +2,7 @@
 layout: post
 title: "Problems Remain"
 categories: [PhotoRant]
-tags: [Reflections]
+tags: [Books, Exhibuts, B&W, Links, Media, Law]
 published: false
 ---
 
