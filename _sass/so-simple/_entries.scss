@@ -46,6 +46,18 @@
   margin-bottom: 0.5rem;
 }
 
+.slide-link {
+  text-decoration: none;
+}
+
+.slide-link::after {
+  content: "Slides ▶️";
+  text-align: center;
+  vertical-align: center;
+  color: grey;
+}
+
+
 .entry-meta {
   .entry-date,
   .read-time {
