@@ -38,6 +38,12 @@
   }
 }
 
+.entry-image-container {
+  text-align: center;
+  position: relative;
+  margin: 0 0 0 0;
+}
+
 .entry-image {
   -webkit-box-ordinal-group: 0;
   -ms-flex-order: -1;
@@ -50,11 +56,14 @@
   text-decoration: none;
 }
 
-.slide-link::after {
-  content: "Slides ▶";
-  text-align: center;
-  vertical-align: center;
-  color: grey;
+.slide-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color: azure;
+  opacity: 75%;
 }
 
 

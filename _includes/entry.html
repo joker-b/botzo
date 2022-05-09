@@ -24,11 +24,17 @@
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
       {% assign entry_image = entry_image | escape %}
-      {% if entry.link %}
-        <a class="u-bookmark-of" href="{{ entry.link }}"><img class="{{ slideclass }} entry-link u-photo" src="{{ entry_image }}" alt=""></a>
-      {% else %}
-        <a href="{{ entry.url | relative_url }}" class="{{ slideclass }}" rel="bookmark"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
-      {% endif %}
+      <div class="entry-image-container">
+          <a href="{{ entry.url | relative_url }}" class="u-photo" rel="bookmark">
+        {% if entry.link %}
+          <a class="u-bookmark-of" href="{{ entry.link }}"><img class="{{ slideclass }} entry-link u-photo" src="{{ entry_image }}" alt=""></a>
+        {% else %}
+          <a href="{{ entry.url | relative_url }}" class="{{ slideclass }}" rel="bookmark"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
+        {% endif %}
+        {% if entry.slides %}
+        <p class="slide-play"><a href="{{ entry.url | relative_url }}" class="slide-link">▶</a></p>
+        {% endif %}
+      </div>
     {% endif %}
   </header>
   {% unless page.show_excerpts == false %}
