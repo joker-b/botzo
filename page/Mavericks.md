@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Mavericks vs Magritte"
+date: 2022-01-06
 image:
   path: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
   thumbnail: https://www.botzilla.com/pix2022/bjorke_XEKB2199.jpg
 hidden: true
-published: false
 categories: [fStop]
 tags: [Fujifilm, Leica]
 ---
