@@ -12,8 +12,13 @@ I've seen a few video tutorials about getting good skintones in Photoshop. Some 
 
 Time for an easy select-click-done tool: <a href="https://www.botzilla.com/blog/archives/SkinToner.jsx"><strong><em>SkinToner</em></strong></a>
 
+<div class="notice">
+<p><img alt="Monk Skintone Scale" src="https://www.botzilla.com/pix2022/monk-hsl.jpg" class="align-center"  /></p>
+<p><i>May 2022 Update:</i> The new publication of the <a href="https://skintone.google/get-started">Monk Skin Tone (MST) Scale</a> is a big step forward in rendering great skin tones for everyone. The illustration of the scale above, along with HSL hue values, show that unlike the common Photoshop folklore, skin hues are _not_ always uniform in hue, not even linearly changing from light to dark.</p><p>Tones can become further complicated when multiple people appear in the frame. The <em>SkinToner</em> tool offered here is thus crude in two respects: it only offers a single adjustment per image, and it may apply that (potentially close but imperfect) adjustment to all faces in the frame. The good news is: <em>SkinToner</em> creates adjustable layers so if you chose to ask or alter them, it's still easy and fast.</p></div>
+
 <!--more-->
-_SkinToner_ works in any recent version of Photoshop, and should be able to present you with great-looking neutral skin tones for photos of anyone regardless of their complexion or ethnicity.
+
+<em>SkinToner</em> works in any recent version of Photoshop, and should be able to present you with great-looking neutral skin tones for photos of anyone regardless of their complexion or ethnicity.
 
 ### Installation
 
