@@ -5,19 +5,21 @@
         <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
         {% if slide[1] %}
           <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px"
-            alt="{{ slide[1] }}">
+            alt="{{ slide[1] }}" onclick="stopStartSlides()">
           <div class="slideshow-caption">{{ slide[1] }}</div>
         {% else %}
-          <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px">
+          <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px" onclick="stopStartSlides()">
         {% endif %}
       </div>
     {% endfor %}
     <a class="slide-prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="slide-next" onclick="plusSlides(1)">&#10095;</a>
+    <p id="slide-play" class="slide-fade-control">▶</p>
+    <p id="slide-paused" class="slide-fade-control">❙❙</p>
   </div>
   <br> <!-- make some space for captions if present -->
   <script>
-    showSlides({{ page.slideDelay }});
+    showSlides({{ page.slideDelay }}, true);
   </script>
   <div style="text-align:center" id="slide-dots">
     {% for slide in page.slides %}

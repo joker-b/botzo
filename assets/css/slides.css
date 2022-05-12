@@ -97,3 +97,49 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+/* control fades */
+.slide-fade-control {
+  -webkit-animation-name: slide_fade_control;
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-timing-function: ease-in;
+  animation-name: slide_fade_control;
+  animation-duration: 1.5s;
+  animation-timing-function: ease-in;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color: azure;
+  opacity: 0%;
+}
+
+
+@-webkit-keyframes slide_fade_control {
+  from {opacity: .75}
+  to {opacity: 0}
+}
+
+@keyframes slide_fade_control {
+  from {opacity: .75}
+  to {opacity: 0}
+}
+
+
+/** for images used as thumbnails in entries etc **/
+
+.slide-link {
+  text-decoration: none;
+}
+
+.slide-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color: azure;
+  opacity: 75%;
+}
+
