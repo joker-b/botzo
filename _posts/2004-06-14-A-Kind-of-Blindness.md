@@ -2,7 +2,7 @@
 layout: post
 title: "A Kind of Blindness"
 categories: [fStop]
-tags: [Japan, B&W]
+tags: [Japan, B&W, Photoshop]
 ---
 
 

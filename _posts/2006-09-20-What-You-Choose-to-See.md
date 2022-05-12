@@ -2,7 +2,7 @@
 layout: post
 title: "What You Choose to See"
 categories: [PhotoRant]
-tags: [B&W,Digital,Methods]
+tags: [B&W,Digital,Methods, Photoshop]
 ---
 
 
