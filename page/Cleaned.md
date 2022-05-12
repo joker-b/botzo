@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-02-16
 title: "Cleaned"
 categories: [fStop]
 tags: [Silicon Valley]

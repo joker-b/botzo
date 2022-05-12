@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-11-05
 title: "Silicon Valley 2010"
 categories: [fStop]
 tags: [Exhibits, Silicon Valley]

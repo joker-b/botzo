@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2003-06-07
 title: "Money or Goodwill? Choose Money"
 categories: [Desk]
 tags: [Movies]

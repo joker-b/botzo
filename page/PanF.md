@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-05-02
 title: "Pan F FTW"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_2021_05_M5_IMG_0330b.jpg

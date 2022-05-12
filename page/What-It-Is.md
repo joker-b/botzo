@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-01-25
 title: "It Is What It Is"
 image:
   path: https://www.botzilla.com/pix2021/bjorke-2021-01-25-Merced-G2008.jpg

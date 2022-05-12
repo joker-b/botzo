@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-02-26
 title: "Hard Road Redux: Kodak"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_2021-03-12-HiConTX-009.jpg

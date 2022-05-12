@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-10-05
 title: "Minneapolis"
 categories: [fStop]
 tags: [Portrait, Minneapolis]

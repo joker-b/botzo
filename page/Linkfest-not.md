@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2004-07-03
 title: "Linkfest... not"
 categories: [PhotoRant]
 tags: [Media, Links]

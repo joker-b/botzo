@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2005-02-21
 title: "Bells"
 categories: [fStop]
 tags: [Silicon Valley]

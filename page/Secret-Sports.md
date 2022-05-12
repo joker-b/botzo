@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2003-08-25
 title: "Secret Sports"
 categories: [Desk]
 tags: [Japan]

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-09-14
 title: "Studio Portrait"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg

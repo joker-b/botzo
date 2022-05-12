@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-06-06
 title: "Ascent"
 image:
   path: https://www.botzilla.com/pix2020/bjorke_Carni_DSCF3356-A.jpg

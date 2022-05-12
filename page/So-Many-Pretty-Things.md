@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-09-02
 title: "So Many Pretty Things"
 categories: [fStop]
 tags: [Norway`]

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-07-12
 title: "Funeral for a Stranger"
 image:
   path: https://www.botzilla.com/pix2021/DSCF6458-Edit-Edit-Edit.jpg

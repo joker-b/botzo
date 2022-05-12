@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2003-04-13
 title: "Traces"
 categories: [fStop]
 tags: [Photojournalism]

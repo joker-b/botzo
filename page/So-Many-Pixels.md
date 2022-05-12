@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2004-08-27
 title: "So Many Pixels"
 categories: [Hacking]
 tags: [3D, Digital]

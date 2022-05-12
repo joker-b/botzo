@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-05-22
 title: "The End is Nearish: Neopan 1600"
 image:
   path: https://www.botzilla.com/pix2021/2021-05-20-CLJazz-027.jpg

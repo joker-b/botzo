@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-07-17
 title: "Dawn, Nob Hill"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Montalvo_LKAB5934.jpg

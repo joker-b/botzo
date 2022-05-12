@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-09-07
 title: "Heel Flip"
 categories: [fStop]
 tags: [Silicon Valley]

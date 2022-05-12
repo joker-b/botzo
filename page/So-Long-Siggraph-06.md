@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-08-03
 title: "So Long Siggraph 06"
 categories: [fStop]
 tags: [Exhibits]

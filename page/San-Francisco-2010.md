@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-10-08
 title: "San Francisco, 2010"
 categories: [fStop]
 tags: [San Francisco, Portrait]

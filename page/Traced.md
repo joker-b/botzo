@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2003-04-14
 title: "Traced"
 categories: [fStop]
 tags: [Photojournalism]
