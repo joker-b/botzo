@@ -2,7 +2,7 @@
 layout: post
 title: "Boku no Manchukuo"
 categories: [fStop]
-tags: [Japan,China]
+tags: [Japan, China, History, War, Policy, Photojournalism]
 ---
 
 

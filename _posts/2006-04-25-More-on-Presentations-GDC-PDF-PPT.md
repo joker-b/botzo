@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "More on Presentations, GDC, PDF, PPT"
 categories: [Desk]
-tags: [3D, Methods, Digital]
+tags: [3D, Methods, Digital, Conference]
+title: "More on Presentations, GDC, PDF, PPT"
 --
 Garr's <a href="http://presentationzen.blogs.com/presentationzen/2006/04/slideuments_and.html">recent post on slideuments</a> got me thinking about my current Powerpoint method.
 

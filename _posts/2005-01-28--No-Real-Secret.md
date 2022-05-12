@@ -2,7 +2,7 @@
 layout: post
 title: " No Real Secret"
 categories: [PhotoRant]
-tags: [Analog, Painting, Books]
+tags: [Analog, Painting, Books, Critique, Theory]
 ---
 ![Secret]( {{ 'https://www.botzilla.com/pix2005/secret.jpg' | absolute_url }})
 

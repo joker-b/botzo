@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "The Message"
+image:
+    path: https://www.botzilla.com/bpix/artista.jpg
+    thumbnail: https://www.botzilla.com/bpix/artista.jpg
 categories: [PhotoRant]
 tags: [Photojournalism, Printing, Books]
 ---
 
-
-![Unapologetic (C) 2004 K. Bjorke]({{ 'https://www.botzilla.com/bpix/artista.jpg' | absolute_url }}){: .align-right}
 Emese asks: <a title="Is photoblogging good for photography?" href="{{ site.baseurl }}{% post_url 2006-07-18-Dag %}">"Is photoblogging good for photography?"</a> Though it's not clear if she means <i>her</i> photography or the general world of all photography (or more likely, some particular slice of it, like advertising photography).
 
 Here on PhotoRant, <a href="http://www.unicircuits.com/" rel="acquaintance">Dirk</a> asks: <a href="/blog/archives/000270.html">Is the chef with three Michelin stars getting upset about people cooking their daily meals?</a>
@@ -25,9 +26,9 @@ Yet from this morass I do believe great work has the potential to arise &#151; w
 
 I love quotes, especially when I can quote myself, from a forum post earlier today:
 
-<i>Self-indulgence is a betrayal of the realities of art, which by definition are an enterprise involving more than just a single person. Artists are involved in transactions between themselves, their subjects, and their audiences, small or large. To present your art is to ask the audience for their trust &#151; that somehow they will be enriched for their investment of time and attention. This is as true for contemporary artists like, say, Sally Mann or Martin Parr, as it was for those of the past, such as Caravaggio, Weston, or Ruskin. Lewis Hine wrote that he wanted to capture not only those things that must be stopped, but those things that ought to be seen. In his photos he recognizes the dual nature of existence, pairing brutal factory conditions with gentle portraits of the children who work there. Likewise in a modern vein we have Salgado &amp; Bravo &amp; Luc Delahaye's sense of splendor at the sight of a dead Taliban, laid out in tableau. In all of these works we see the idealism and values of the artist not in isolation or removed from their social context and the greater world, but in full engagement with the environment that surrounds them. </i>
+> <i>Self-indulgence is a betrayal of the realities of art, which by definition are an enterprise involving more than just a single person. Artists are involved in transactions between themselves, their subjects, and their audiences, small or large. To present your art is to ask the audience for their trust &#151; that somehow they will be enriched for their investment of time and attention. This is as true for contemporary artists like, say, Sally Mann or Martin Parr, as it was for those of the past, such as Caravaggio, Weston, or Ruskin. Lewis Hine wrote that he wanted to capture not only those things that must be stopped, but those things that ought to be seen. In his photos he recognizes the dual nature of existence, pairing brutal factory conditions with gentle portraits of the children who work there. Likewise in a modern vein we have Salgado &amp; Bravo &amp; Luc Delahaye's sense of splendor at the sight of a dead Taliban, laid out in tableau. In all of these works we see the idealism and values of the artist not in isolation or removed from their social context and the greater world, but in full engagement with the environment that surrounds them. </i>
 
-<i>Some years ago I heard or read the comment "every great photograph is about a relationship." That relationship can occur within the frame or back and forth between the image and the viewer, the photographer and the subject.</i>
+> <i>Some years ago I heard or read the comment "every great photograph is about a relationship." That relationship can occur within the frame or back and forth between the image and the viewer, the photographer and the subject.</i>
 
 The simple photoblog challenge, then &#151; to engage those relationships with as much passion and force as so many newly-minted digicam users put into the flowers in the backyards and the stripes on their neighborhood pavement. To squeeze in a little quality among the quantity.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Portrait Paradox"
 categories: [PhotoRant]
-tags: [Portraits, Aspect]
+tags: [Portrait, Aspect]
 ---
 
 

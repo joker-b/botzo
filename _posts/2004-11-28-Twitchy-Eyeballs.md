@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Twitchy Eyeballs"
+image:
+    path: https://www.botzilla.com/pix2004/twitchy.jpg
+    thumbnail: https://www.botzilla.com/pix2004/twitchy.jpg
 categories: [PhotoRant]
-tags: [3D,Digital,Books,China]
+tags: [3D,Digital,Books,China, Links, Photojournalism]
 ---
-![twitch]({{ 'https://www.botzilla.com/pix2004/twitchy.jpg' | absolute_url }})
 
 It's been many days again since I've written here (though I have written a few short entries for <a href="http://www.photopermit.org/">PhotoPermit.Org</a>), a good chunk of them consumed
 by reading. I feel like I've had some growth and change in the
@@ -23,48 +25,43 @@ about earlier</a>, I've managed to make it through these books:
 <!--more-->
 Picture Books &#151; most new, and a few old friends from the bookshelf: 
 
-<table border=0>
-<tr><td align="right"><cite>Flamingo</cite></td><td>Robert Frank</td></tr>
-<tr><td align="right"><cite>Black and White Things</cite></td><td>Robert Frank</td></tr>
-<tr><td align="right"><cite>New York to Nova Scotia</cite></td><td>Robert Frank</td></tr>
-<tr><td align="right"><cite>U.S. Camera Annual 1958</cite></td><td>contained an insert of
-	    proto-<cite>Americans</cite> Robert Frank</td></tr>
-<tr><td align="right"><cite>Americans, We</cite></td><td>Eugene Richards</td></tr>
-<tr><td align="right"><cite>Phaidon 55</cite></td><td>Eugene Richards</td></tr>
-<tr><td align="right"><cite>A Storybook Life</cite></td><td>Philip Lorca-Dicorcia</td></tr>
-<tr><td align="right"><cite>A Kind of Rapture</cite></td><td>Robert Bergman</td></tr>
-<tr><td align="right"><cite>Tete &aacute; Tete</cite></td><td>Henri Cartier-Bresson</td></tr>
-<tr><td align="right"><cite>Portraits</cite></td><td>Richard Avedon</td></tr>
-<tr><td align="right"><cite>1964</cite></td><td>Garry Winogrand</td></tr>
-<tr><td align="right"><cite>Photographs 1934-1975</cite></td><td>W. Eugene Smith</td></tr>
-<tr><td align="right"><cite>Radiant Identities</cite></td><td>Jock Sturges</td></tr>
-<tr><td align="right"><cite>People in the Environment</cite></td><td>Jonathan Hilton</td></tr>
-<tr><td align="right"><cite>Revelations</cite></td><td>Diane Arbus et al</td></tr>
-</table>
+| <cite>Flamingo</cite> | Robert Frank |
+| <cite>Black and White Things</cite> | Robert Frank |
+| <cite>New York to Nova Scotia</cite> | Robert Frank |
+| <cite>U.S. Camera Annual 1958</cite> | contained an insert of
+	    proto-<cite>Americans</cite> Robert Frank |
+| <cite>Americans, We</cite> | Eugene Richards |
+| <cite>Phaidon 55</cite> | Eugene Richards |
+| <cite>A Storybook Life</cite> | Philip Lorca-Dicorcia |
+| <cite>A Kind of Rapture</cite> | Robert Bergman |
+| <cite>Tete &aacute; Tete</cite> | Henri Cartier-Bresson |
+| <cite>Portraits</cite> | Richard Avedon |
+| <cite>1964</cite> | Garry Winogrand |
+| <cite>Photographs 1934-1975</cite> | W. Eugene Smith |
+| <cite>Radiant Identities</cite> | Jock Sturges |
+| <cite>People in the Environment</cite> | Jonathan Hilton |
+| <cite>Revelations</cite> | Diane Arbus et al |
 
 Not-so-many-pictures Books:
 
-<table border=0>
-<tr><td align="right"><cite>Emotions Revealed</cite></td><td>Paul Ekman</td></tr>
-<tr><td align="right"><cite>The Creative Habit</cite></td><td>Twyla Tharp</td></tr>
-<tr><td align="right"><cite>Pictorial Composition<br>and the
-	    Critical Judgement of Pictures</cite></td><td>Henry Rankin Poore</td></tr>
-<tr><td align="right"><cite>Between the Eyes</cite></td><td>David Levi Strauss</td></tr>
-<tr><td align="right"><cite>The Five Love Languages</cite></td><td>Gary Chapman</td></tr>
-<tr><td align="right"><cite>Avedon at Work in the American West</cite></td><td>Laura Wilson</td></tr><tr><td align="right"><cite>The Crisis of the Real</cite></td><td>Andy Grundberg</td></tr>
-<tr><td align="right"><cite>Stepfamilies</cite></td><td>Dr. James H. Bray &amp; John Kelly</td></tr>
-<tr><td align="right"><cite>Ways of Seeing</cite></td><td>John Berger</td></tr>
-</table>
+| <cite>Emotions Revealed</cite> | Paul Ekman |
+| <cite>The Creative Habit</cite> | Twyla Tharp |
+| <cite>Pictorial Composition<br>and the
+	    Critical Judgement of Pictures</cite> | Henry Rankin Poore |
+| <cite>Between the Eyes</cite> | David Levi Strauss |
+| <cite>The Five Love Languages</cite> | Gary Chapman |
+| <cite>Avedon at Work in the American West</cite> | Laura Wilson |<tr><td align="right"><cite>The Crisis of the Real</cite></td><td>Andy Grundberg</td></tr>
+| <cite>Stepfamilies</cite> | Dr. James H. Bray &amp; John Kelly |
+| <cite>Ways of Seeing</cite> | John Berger |
 
 And many others I'm trying to get traction on, reading a page here or there at a time:
 
-<table border=0>
-<tr><td align="right"><cite>Stop Staring</cite></td><td>Jason Osipa</td></tr>
-<tr><td align="right"><cite>Maya Character Animation</cite></td><td>Jae-Jin Choi</td></tr>
-<tr><td align="right"><cite>Programming C#</cite></td><td>??</td></tr>
-<tr><td align="right"><cite>Golive Classroom in a Book</cite></td><td>Adobe</td></tr>
-<tr><td align="right"><cite>A Man with a Camera</cite></td><td>Nestor Alemendros<td></tr>
-<tr><td align="right">Last half of the <cite>Journal</cite></td><td>Eugene Delacroix<td></tr></table>
+| <cite>Stop Staring</cite> | Jason Osipa |
+| <cite>Maya Character Animation</cite> | Jae-Jin Choi |
+| <cite>Programming C#</cite> | ?? |
+| <cite>Golive Classroom in a Book</cite> | Adobe |
+| <cite>A Man with a Camera</cite> | Nestor Alemendros |
+| Last half of the <cite>Journal</cite> | Eugene Delacroix |
 
 ...plus the usual array of photo magazines, computer rags,
 <cite>Game Developer,</cite> ornery web forum postings, travel to

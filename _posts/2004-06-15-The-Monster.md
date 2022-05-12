@@ -20,10 +20,12 @@ In fact I can't get it into my camera bag, either. On its side, it's 2/3 the len
 
 Biggest difference between photography, live-action filmmaking, and computer graphics:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in CGI, <i>no schlepping.</i>
 
-<hr height=1 width="30%" align="center">
+---
+
 
 I swapped-in the infamous <a href="http://www.bahneman.com/liem/photos/tricks/digital-rebel-tricks.html" target="_blank">Russian hack firmware</a> for the 300D last week &#150; ISO 3200, 1-shot focus, Flash Exposure Compensation, and a working Av-mode flash (10D-style custom function, locks the shutter at 1/200)... what's not to like?
 
-<hr height=1 width="30%" align="center">
+---
+
 
 <i>Three rolls TMax 100, 6 mins in Rodinal 1+25. Maybe a little thin. One dated back to December.</i>

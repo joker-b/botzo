@@ -2,7 +2,7 @@
 layout: post
 title: "Photography Made Difficult"
 categories: [PhotoRant]
-tags: [Photojournalsm, B&W, Exhbits, Books]
+tags: [Photojournalsm, B&W, Exhbits, Books, Silicon Valley]
 ---
 
 

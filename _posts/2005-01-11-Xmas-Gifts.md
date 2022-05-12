@@ -11,7 +11,6 @@ tags: [Analog, Books]
 
 <i>Four 220 rolls of TXP, two 120 rolls of Neopan 400, two 120 rolls of TX400 (sometimes you use what yuou can find, on the road...). All in Xtol 1+1.</i>
 
-<i>(Extra note, 14 Jan 2004: see a digital <a href="{{ site.baseurl }}{% post_url 2005-01-14-Same-Flavor %}">exposure test version</a> of the same shot as a comparison)</i>
 
 As Courtney has wisely reminded me so often, the best gifts are the unexpected ones that you realize really ought to have been on your <a href="http://amazon.com/gp/registry/2HRXV07WNELY3" target="_blank">wish list</a> (though the couple of gifts I received <i>from</i> my wish list are most treasured too). I'd place as a close second the gifts you give to yourself to share. Thus the best gifts of the season have been the trip to see our family in Minnesota, and as a happy side-effect, a chance to make pictures of my parents and brother's family in their own homes (note to my sister, who lives nearby in Oakland: <i>you're next!</i>).
 

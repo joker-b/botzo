@@ -2,7 +2,7 @@
 layout: post
 title: "Scotopic Photo Topic"
 categories: [PhotoRant]
-tags: [Books,Painting, Monochrom, B&W, Evolution]
+tags: [Books,Painting, Monochrom, B&W, Evolution, Theory]
 ---
 
 

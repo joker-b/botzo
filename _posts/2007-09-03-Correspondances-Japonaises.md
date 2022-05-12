@@ -2,7 +2,7 @@
 layout: post
 title: "Correspondances Japonaises"
 categories: [PhotoRant]
-tags: [Japan,Books]
+tags: [Japan, Books, Photojournalism]
 ---
 
 
