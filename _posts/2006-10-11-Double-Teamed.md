@@ -2,7 +2,7 @@
 layout: post
 title: "Double Teamed"
 categories: [PhotoRant]
-tags: [3D,Lumix,Digital,Books,Movies]
+tags: [3D,Digital,Books,Movies, Photojournalism]
 ---
 
 

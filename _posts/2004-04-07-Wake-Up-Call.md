@@ -2,7 +2,7 @@
 layout: post
 title: "Wake Up Call"
 categories: [PhotoRant]
-tags: [Korea]
+tags: [Korea, Photojournalism]
 ---
 <a href="/journal/map.jpg">
 

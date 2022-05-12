@@ -2,7 +2,7 @@
 layout: post
 title: "Future Nostalgias"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, Critique, B&W, Japan]
 ---
 
 

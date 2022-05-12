@@ -2,7 +2,7 @@
 layout: post
 title: "So Many Pretty Things"
 categories: [fStop]
-tags: [Silicon Valley]
+tags: [Norway`]
 ---
 
 

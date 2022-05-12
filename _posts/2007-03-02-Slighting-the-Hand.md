@@ -2,7 +2,7 @@
 layout: post
 title: "Slighting the Hand"
 categories: [PhotoRant]
-tags: [TechBiz, Media, 3D, Evolution]
+tags: [TechBiz, Media, 3D, Evolution, Painting]
 ---
 Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one below, which he asserts represents the "traditional" value curve associated with industrial products:
 
@@ -29,11 +29,6 @@ Our hands have had just as long and illustrious evolutionary history as our brai
 <hr align="center" width="20%">
 
 <b>Update 4 March 2007:</b> <a href="http://www.photomichaelwolf.com/intro/index.html">Michael Wolf</a> (previously mentioend <a href="https://www.botzilla.com/blog/archives/000385.html">here</a>) has gone on one of my personal <a href="http://www.spiegel.de/international/0,1518,433134,00.html">dream vacations</a> and come back with <a href="http://www.photomichaelwolf.com/china_copy_artist/">the pictures to prove it.</a>
-
-<a href="http://www.photomichaelwolf.com/china_copy_artist/">
-
-![Image (C) Michael Wolf Photography]({{ 'http://www.photomichaelwolf.com/china_copy_artist/21.jpg' | absolute_url }})
-</a>
 
 <hr align="center" width="20%">
 

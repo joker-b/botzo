@@ -2,7 +2,7 @@
 layout: post
 title: "Veni, Vidi, Valori"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, History, Critique]
 ---
 
 
@@ -16,11 +16,11 @@ The older passage came from <a href="http://en.wikipedia.org/wiki/Pierre_Bourdie
 <!--more-->
 (This section from "Professional Men or Men of Quality: Professional Photographers" was actually written by <a href="http://boltanski.chez.tiscali.fr/" target="_blank">Luc Boltanski</a> &amp; <a href="http://www.vcharite.univ-mrs.fr/shadyc/chambor.html" target="_blank">Jean-Claude Chamboredon</a>)
 
-<i>For photographers, contact with prestigious professional groups is really an opportunity to photograph valorized objects. The major specialization as defined by the importance and nobility of the object photographed; so much so that a change in status may be accomplished by a change in specialization, which, becuase it involves neither special equipoment nor a different qualification, is simply a change in object. Invited to name, from a series of possible photographic subjects, those from which a 'beautiful photograph' could be made, photographers seemed to be guided, in their choice or rejection, primarily by the prestige suggested as the subject of a photograph.</i>
+> <i>For photographers, contact with prestigious professional groups is really an opportunity to photograph valorized objects. The major specialization as defined by the importance and nobility of the object photographed; so much so that a change in status may be accomplished by a change in specialization, which, becuase it involves neither special equipoment nor a different qualification, is simply a change in object. Invited to name, from a series of possible photographic subjects, those from which a 'beautiful photograph' could be made, photographers seemed to be guided, in their choice or rejection, primarily by the prestige suggested as the subject of a photograph.</i>
 
 Now let us jump forward four decades to a recent article by <a href="http://www.elysee.ch/" target="_blank">William A Ewing</a> in <a href="http://www.guardian.co.uk/weekend/story/0,,1546911,00.html" target="_blank"><cite>The Guardian Weekend,</cite></a> concerning his new  book <a href="http://www.thamesandhudson.com/books/reGeneration/0500285829.mxs/27/0/" target="_blank"><cite>reGeneration: 50 Photographers Of Tomorrow:</cite></a>
 
-<i>The traditional genres that have dominated art photography for a century are now largely pass&eacute;. The nude, the classical portrait, the sublime natural landscape &#151; all have been largely dismissed, or are fading away as meaningful categories. The nude &#151; traditionally almost always female, youthful and inert &#151; was entirely absent from the portfolios we looked at, and portraits in the classic sense (claiming to reveal the soul, or otherwise valorising the individual) have given way to studies of types: faces have been replaced by facades.</i>
+> <i>The traditional genres that have dominated art photography for a century are now largely pass&eacute;. The nude, the classical portrait, the sublime natural landscape &#151; all have been largely dismissed, or are fading away as meaningful categories. The nude &#151; traditionally almost always female, youthful and inert &#151; was entirely absent from the portfolios we looked at, and portraits in the classic sense (claiming to reveal the soul, or otherwise valorising the individual) have given way to studies of types: faces have been replaced by facades.</i>
 
 When the sociologists look, they see subjects valorizing the photographs (and photographers) &#151; when art critics look, they see sociological types. I get the impression that Ewing (and his co-editor <a href="http://worldpressphoto.org/index.php?option=com_contact&task=view&contact_id=11&Itemid=50&catids=89,88" target="_blank">Radu Stern</a>) are distrustful of "valorising" portraits, that they suspect that such pictures don't really deliver on what they're "claiming." Well all pictures are fictions, yeah. And in this post-Becher world, taxonomies of appearance seem almost inevitable.
 

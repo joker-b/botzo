@@ -2,7 +2,7 @@
 layout: post
 title: "saturated"
 categories: [PhotoRant]
-tags: [Methods, Analog, B&W, Bronica, Medium Format]
+tags: [Methods, Analog, B&W, Bronica, Medium Format, Photoshop]
 ---
 
 

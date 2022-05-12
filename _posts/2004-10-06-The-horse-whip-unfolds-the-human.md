@@ -2,7 +2,7 @@
 layout: post
 title: "The horse whip unfolds the human"
 categories: [PhotoRant]
-tags: [China, Portrait, Books, Media, Photojournalism]
+tags: [China, Portrait, Books, Media, Photojournalism, Printing, Portrait, Critique]
 ---
 
 

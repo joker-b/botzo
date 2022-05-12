@@ -2,7 +2,7 @@
 layout: post
 title: "Me and My Camera, 2004"
 categories: [PhotoRant]
-tags: [Canon,Contax,Analog,Film,Zeiss,Japan,Movies,Lenses]
+tags: [Canon,Contax,Analog,Film,Zeiss,Japan,Movies,Lenses, Photoshop]
 ---
 
 

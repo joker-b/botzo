@@ -2,7 +2,7 @@
 layout: post
 title: "B&W Conversions"
 categories: [GearHead]
-tags: [B&W]
+tags: [3D, Methods, Digital, B&W, Photoshop]
 ---
 
 
