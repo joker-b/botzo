@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2020-06-06
 title: "Ascent"
 image:

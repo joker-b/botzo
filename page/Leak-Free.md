@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-05-06
 title: "Leak-Free"
 image:

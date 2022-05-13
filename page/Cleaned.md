@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2007-02-16
 title: "Cleaned"
 categories: [fStop]

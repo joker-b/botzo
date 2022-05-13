@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-06-14
 title: "More Contrast"
 image:

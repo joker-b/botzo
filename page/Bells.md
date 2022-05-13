@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2005-02-21
 title: "Bells"
 categories: [fStop]

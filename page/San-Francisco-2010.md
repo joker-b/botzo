@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2010-10-08
 title: "San Francisco, 2010"
 categories: [fStop]

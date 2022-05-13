@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2004-07-03
 title: "Linkfest... not"
 categories: [PhotoRant]

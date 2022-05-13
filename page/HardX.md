@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-02-26
 title: "Hard Road Redux: Kodak"
 image:

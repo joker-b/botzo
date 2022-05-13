@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2006-01-10
 title: "F'd-Up Politics"
 categories: [Desk]

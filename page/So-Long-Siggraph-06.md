@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2006-08-03
 title: "So Long Siggraph 06"
 categories: [fStop]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2003-06-07
 title: "Money or Goodwill? Choose Money"
 categories: [Desk]

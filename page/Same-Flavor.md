@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2005-01-14
 title: "Same Flavor"
 categories: [fStop]

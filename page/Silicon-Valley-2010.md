@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2010-11-05
 title: "Silicon Valley 2010"
 categories: [fStop]

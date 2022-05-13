@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2014-11-19
 title: "IMG_5275, Kyoto"
 image:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2009-10-05
 title: "Minneapolis"
 categories: [fStop]

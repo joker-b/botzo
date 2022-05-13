@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2003-04-14
 title: "Traced"
 categories: [fStop]

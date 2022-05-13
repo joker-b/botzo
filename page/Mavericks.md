@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-unlinked
 title: "Mavericks vs Magritte"
 date: 2022-01-06
 image:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-05-22
 title: "The End is Nearish: Neopan 1600"
 image:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-07-12
 title: "Funeral for a Stranger"
 image:

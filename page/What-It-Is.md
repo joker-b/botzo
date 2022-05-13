@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-unlinked
 date: 2021-01-25
 title: "It Is What It Is"
 image:
