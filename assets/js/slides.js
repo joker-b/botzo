@@ -18,6 +18,7 @@ function currentSlide(n) {
 }
 
 function plusSlides(delta) {
+  var Delta = delta | 1;
   if (slideTimer) clearTimeout(slideTimer);
   var slides = document.getElementsByClassName("mySlides");
   if (slides.length < 1) return;
@@ -25,6 +26,10 @@ function plusSlides(delta) {
   slideIndex = Math.max(1, Math.min(slides.length, slideIndex));
   slideIndex --;
   showSlides();
+}
+
+function negSlides() {
+  plusSlides(-1);
 }
 
 function stopStartSlides() {
@@ -50,6 +55,9 @@ function showSlides(Delay, ForcePlay) {
   if (slides.length < 1) return;
   var dots = document.getElementsByClassName("slide-dot");
   var dotsOkay = (slides.length == dots.length);
+  if (!dotsOkay) {
+    console.log("slides.length = " + slides.length + ", dots.length = " + dots.length);
+  }
   for (var i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
     if (dotsOkay) dots[i].style.backgroundColor = "#b0b0b0";

@@ -18,6 +18,18 @@ sitemap: false
     margin-bottom: 1.5rem;
 }
 
+.page-subtitle {
+  @include fluid-type($min-vw, $max-vw, 24px, 32px);
+  margin-bottom: 0.5em;
+  font-family: $title-font-family;
+  font-weight: $page-title-weight;
+  /* font-style: italic; */
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+
+
 .site-inline-nav {
   display: block;
   margin-bottom: 1em;

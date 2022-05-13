@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Market at Taylor"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2015/bjorke_PIC25683.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2015/bjorke_PIC25683.jpg

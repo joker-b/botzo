@@ -1,0 +1,35 @@
+---
+layout: default
+
+---
+
+{% assign nameless = page.nameless | default: false %}
+
+<main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    <!-- post -->
+    <div class="page-wrapper">
+        {% unless nameless %}
+            <header class="page-header">
+                {% assign title = page.title | markdownify | strip_html %}
+                {% if page.link %}
+                    <h1 id="page-title" class="page-subtitle p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+                {% else %}
+                    <h1 id="page-title" class="page-subtitle p-name">{{ title }}</h1>
+                {% endif %}
+            </header>
+        {% endunless %}
+            
+      <div class="page-content">
+        {% include page-image-smaller.html %}
+        {% include slideshow.html %}
+        {% comment %}
+        <div class="e-content" style="text-align: center">
+          {{ content }}
+        </div>
+        {% endcomment %}
+        {% include page-pagination.html %}  
+      </div>
+    </div>
+  </article>
+</main>

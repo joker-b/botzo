@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Fourth Before Minna"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0595.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0595.jpg
