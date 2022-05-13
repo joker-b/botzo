@@ -144,10 +144,33 @@ sitemap: false
 .statement {
   background-color: #ddd;
   padding: 1em;
+  margin-bottom: 1em;
 }
 
 .statement-title {
-  font-size: 1.5em;
   font-weight: bold;
-  margin-bottom: 1em;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.statement-content {
+  -webkit-animation-name: statement_fade;
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-timing-function: ease-in;
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 0;
+  animation-name: statement_fade;
+  animation-duration: 0.75s;
+  animation-timing-function: ease-in;
+}
+
+@-webkit-keyframes statement_fade {
+  from {opacity: 0}
+  to {opacity: 1}
+}
+
+@keyframes statement_fade {
+  from {opacity: 0}
+  to {opacity: 1}
 }
