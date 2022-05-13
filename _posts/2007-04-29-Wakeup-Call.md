@@ -2,7 +2,7 @@
 layout: post
 title: "Wakeup Call"
 categories: [PhotoRant]
-tags: [Photojournalism, History, B&W]
+tags: [Photojournalism, History, B&W, Education]
 ---
 
 

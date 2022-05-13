@@ -22,7 +22,7 @@ function plusSlides(delta) {
   if (slideTimer) clearTimeout(slideTimer);
   var slides = document.getElementsByClassName("mySlides");
   if (slides.length < 1) return;
-  slideIndex += delta;
+  slideIndex += Delta;
   slideIndex = Math.max(1, Math.min(slides.length, slideIndex));
   slideIndex --;
   showSlides();

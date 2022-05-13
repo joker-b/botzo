@@ -2,7 +2,7 @@
 layout: post
 title: "every man for himself"
 categories: [PhotoRant]
-tags: [Books,Movies, Exhibits, Minneapolis]
+tags: [Books,Movies, Exhibits, Minneapolis, Education]
 ---
 ![Every]({{ 'https://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
 
