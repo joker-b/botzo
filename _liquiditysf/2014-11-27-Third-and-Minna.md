@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Third and Minna"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF5369.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF5369.jpg

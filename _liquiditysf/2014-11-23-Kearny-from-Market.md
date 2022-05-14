@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Kearny from Market"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1251.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1251.jpg

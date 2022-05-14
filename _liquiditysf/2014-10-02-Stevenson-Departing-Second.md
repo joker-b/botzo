@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Stevenson Departing Second"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0391.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS0391.jpg

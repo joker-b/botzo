@@ -2,7 +2,7 @@
 layout: post
 title: "More Portraits"
 categories: [PhotoRant]
-tags: [Portrait, Links, Books, Exhibit, B&W]
+tags: [Portrait, Links, Books, Exhibit, B&W, Education]
 ---
 ![Paper Cut]( {{ 'https://www.botzilla.com/pix2005/paperCut2.jpg' | absolute_url }}){: .align-right }
 

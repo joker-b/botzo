@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Market to New Montgomery"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1285.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_PICS1285.jpg

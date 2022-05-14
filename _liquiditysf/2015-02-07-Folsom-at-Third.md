@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Folsom at Third"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2015/bjorke_DSCF7482.jpg

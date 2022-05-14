@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post-coll
 title: "Clementina at Third"
+mastless: true
 image:
   path: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF5864.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF5864.jpg
