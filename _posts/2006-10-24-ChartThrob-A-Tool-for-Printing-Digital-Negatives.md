@@ -2,16 +2,16 @@
 layout: post
 title: "ChartThrob: A Tool for Printing Digital Negatives"
 categories: [GearHead]
-tags: [Tools,Analog,Film,Digital,Darkroom,Printing, Scanning, Photoshop, Education]
+tags: [Tools,Analog,Film,Digital,Darkroom,Printing, Scanning, Photoshop, Education, Books]
 markdown: kramdown
 ---
 ![The ChartThrob Chart]({{ 'https://www.botzilla.com/blog/pix2007/CT107.jpg' | absolute_url }}){: .align-center }
 
-_Updated Jan 2019_
+_Updated May 2022_
 
-In 2006, at a <a href="http://www.pacificartleague.org/">Pacific At League</a> meeting, I met <a href="http://www.luminaryarts.com/">Thomas Howard,</a> and saw how he was using charts to hand-profile his process to make <a href="http://luminaryarts.com/Reference/Articles/PPDN/">digital negatives for platinum-process contact printing.</a>
+In 2006, at a <a href="http://www.pacificartleague.org/">Pacific At League</a> meeting, I met platinum printer Thomas Howard, and saw how he was using charts to hand-profile his process to make <a href="https://www.photrio.com/forum/threads/digital-negatives-for-alternative-process.183253/"><strong>large-format digital negatives for any alternative-process contact prints.</strong></a>
 
-I figured this labor-intensive process could be automated, so: I automated it, and made a tool called <a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's available for public, free-for-everyone <s>ab</s>use.
+I figured this expensive (sometimes >$20/print in materials) and labor-intensive process could be automated, so: I automated it.The result is a tool called <a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx"><strong><em>ChartThrob,</em></strong></a> which runs right inside _Adobe Photoshop._ It's available for public, free-for-everyone <s>ab</s>use.
 
 <!--more-->
 
@@ -23,35 +23,35 @@ I figured this labor-intensive process could be automated, so: I automated it, a
 
 <h3>Downloading and Installing <em>ChartThrob</em></h3>
 
-<p class="notice">Current Version:<br />Right-Mouse-Click and Select "Save Link As..." <strong><a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx">HERE</a></strong></p>
+<p class="notice">Right-Mouse-Click and Select "Save Link As..." <strong><a href="https://www.botzilla.com/blog/archives/ChartThrob.jsx">HERE</a></strong> for the Current Version.</p>
 
-Typically, "Save As..." this (for Windows - Mac is similar):<br /><tt>C:\Program Files\Adobe\\[Current_Photoshop\]\Presets\Scripts\ChartThrob.jsx</tt><br />where "Current_Photoshop" is any installed version from CS2 to the latest CC 2019.
+Typically, "Save As..." this (for Windows - Mac is similar):<br /><tt class="small text-center">C:\Program Files\Adobe\\[Current_Photoshop\]\Presets\Scripts\ChartThrob.jsx</tt><br />where <tt>"Current_Photoshop"</tt> is any installed version from CS2 to the latest CC 2023.
 
-_That's it!_ The next time you start Photoshop, <em>ChartThrob</em> will appear as an option under Photoshop's "File&#8212;>Scripts" menu.
+_That's it!_ The script is installed. The next time you start Photoshop, <em>ChartThrob</em> will appear as an option under Photoshop's "File&rarr;Scripts" menu.
 
 <em>The very latest ChartThrob and updates are <a href="https://github.com/joker-b/ChartThrob">also available on GitHub.</a></em> The version here on Botzlla should be current with the GitHub master branch. You may also find more info and alternative branches on the git repo, if you are wise in the ways of git..
 
-(Tiny aside: if you update to a new version of Photoshop, you'll need to move the ChartThrob.jsx to your new application)
+(Tiny aside: if you update to a new version of Photoshop, you'll need to move the ChartThrob.jsx to your new application folder -- Adobe creates a new folder for each edition of Photshop)
 
 <h3>Using <em>ChartThrob</em> </h3>
 
-<em>ChartThrob</em> is really two scripts in one: First, it's a script for creating grayscale calibration charts, which you can print using amost any grayscale process. Second, it's a tool for automatically evaluating scanned prints of those charts and setting up appropriate profiles depending on the nature of your printing process.
+<em>ChartThrob</em> is really two scripts in one: First, it's a script for creating grayscale calibration charts, which you can print using almost any grayscale process: platinum, cyanotype, newsprint, Blurb, ambrotype... Second, CharThrob is a tool for automatically evaluating scanned prints of those charts and setting up appropriate profiles depending on the nature of your printing process.
 
 The <em>ChartThrob</em> workflow for digital negatives has a few basic steps:
 
-  - <strong>Create</strong> a Grayscale chart in <em>ChartThrob.</em>
-  - <strong>Print</strong> a digtial negative from that chart (on Pictorico material etc).
-  - <strong>Contact-print</strong> that negative onto your medium of choice (platinum, mimeo, silver-gelatine paper, sun prints, etc).
-  - <strong>Scan</strong> the resultant positive print.
-  - <strong>Crop</strong> the scan back to the original chart boundaries.
-  - <strong>Analyze</strong> the chart in <em>ChartThrob</em> &#151; the result will be a new Curves layer containing a Printing Curve, which you can use on the spot or save for repeated use later.
-  - <strong>Apply</strong> that curve to any B&W images you like, before printing them to digital negatives. The curve will correct the original image grayscale values to neatly fit to the grayscale range of your chosen medium.
+  1. <strong>Create</strong> a Grayscale chart in <em>ChartThrob.</em>
+  2. <strong>Print</strong> a digtial negative from that chart (on Pictorico material etc).
+  3. <strong>Contact-print</strong> that negative onto your medium of choice (platinum, mimeo, silver-gelatine paper, sun prints, etc).
+  4. <strong>Scan</strong> the resultant positive print.
+  5. <strong>Crop</strong> the scan back to the original chart boundaries.
+  6. <strong>Analyze</strong> the chart in <em>ChartThrob</em> &#151; the result will be a new Curves layer containing a Printing Curve, which you can use on the spot or save for repeated use later.
+  7. <strong>Apply</strong> that curve to any B&W images you like, before printing them to digital negatives. The curve will correct the original image grayscale values to neatly fit to the grayscale range of your chosen medium.
 
 So let's begin!
 
 <h4>Create a Chart</h4>
 
-From any Photoshop session, you can start-up <em>ChartThrob</em> by selecting "File&#8212;>Scripts&#8212;>ChartThrob."
+From any Photoshop session, you can start-up <em>ChartThrob</em> by selecting "File&rarr;Scripts&rarr;ChartThrob."
 
 <img alt="ctCreate106.jpg" src="https://www.botzilla.com/blog/pix2006/ctCreate106.jpg" class="align-center"  />
 
@@ -155,7 +155,14 @@ If things have gone well, you can take your original chart (as created by <em>Ch
    <dd>You can use Photoshop's 'Image Size' command for now. I'm considering adding more print-size options, though they will make the dialog box more complicated.</dd>
 
 <dt>Should I be setting stuff up using "Relative Colormetric" in the print dialog? What color space should I use?</dt>
-   <dd>It doesn't really matter what your print settings are, as long as they are always the same each time you make a printing negative. In general, try to avoid anything in your printing or scanning processes described as "automatic," since such functions may be changing stuff behind your back &#151; and be sure that your scan is in the same color space (particularly w.r.t. gamma) as the B&W images you plan to print.<br />&nbsp;<br />Be sure that your scan covers the full print range from darkest to lightest within the <em>straight-line portion</em> of the scan. Some scanners will "roll-off" the shadows and/or highlights. This sort of compression of the original print values will give <em>ChartThrob</em> a distorted input.<br /><img alt="ChartScan-WrongRight.jpg" src="https://www.botzilla.com/blog/pix2006/ChartScan-WrongRight.jpg" class="align-center" /><br /><em><small class="align-center">You want the <strong>full range</strong> when scanning. These dialogs from EpsonScan&#8482;<br />show that the Automatic exposure of a printed ChartThrob chart<br />distorts the grayscale values. Instead, <strong>manually</strong> set the max and min pointers <br />to beyond the brightest and darkest vales, &amp; <strong>set the gamma to 1.00.</strong><br />Note that the entire grayscale will thus be linear: the "shoulder" &amp; "toe" buttons will be ignored.<br />&nbsp;</small></em></dd>
+   <dd><div>It doesn't really matter what your print settings are, as long as they are always the same each time you make a printing negative. In general, try to avoid anything in your printing or scanning processes described as "automatic," since such functions may be changing stuff behind your back &#151; and be sure that your scan is in the same color space (particularly w.r.t. gamma) as the B&W images you plan to print.
+
+   Be sure that your scan covers the full print range from darkest to lightest within the <em>straight-line portion</em> of the scan. Some scanners will "roll-off" the shadows and/or highlights. This sort of compression of the original print values will give <em>ChartThrob</em> a distorted input.
+
+<img alt="ChartScan-WrongRight.jpg" src="https://www.botzilla.com/blog/pix2006/ChartScan-WrongRight.jpg" class="align-center" />
+
+<p class="small text-center" style="padding-right:2em; padding-left:2em"><em>You want the <strong>full range</strong> when scanning. These dialogs from EpsonScan&#8482; show that the Automatic exposure of a printed ChartThrob chart distorts the grayscale values. Instead, <strong>manually</strong> set the max and min pointers to beyond the brightest and darkest vales, &amp; <strong>set the gamma to 1.00.</strong>Note that the entire grayscale will thus be linear: the "shoulder" &amp; "toe" buttons will be ignored.</em></p>
+</div></dd>
 
 <dt>I have a fax scanner and the quality is not so great. I'm losing light (or dark) tones in the printed chart! I can see them, but my scanner can't</dt>
 <dd>Either get a better scanner, borrow a better scanner, or try creating a "camera scan" &#151; take a glare-free, evenly-lit photo of the printed chart using a good-quality digital camera &#151; this may also be a solution for printing materials where the dark tones are more reflective than the light tones, thus "fooling" the scanner and not scanning well.</dd>
@@ -164,7 +171,7 @@ If things have gone well, you can take your original chart (as created by <em>Ch
    <dd>Get a better grip on your printing! Some people print directly from a positive image to a negative and let their print driver do the inversion for them. Others need to print from an inverted image. <em>ChartThrob</em> can't know if you are a negative person or a positive person. So it looks on the bright side and assumes that everyone is positive.</dd>
 
 <dt>Why does <em>ChartThrob</em> use the font 'Myriad Pro,' which I don't have? I have to click lots of stupid 'okay' dialog boxes when I generate a new chart.</dt>
-   <dd>First: <em>Upgrade your version of (free) ChartThrob and/or (not free but worth it) Photoshop.</em> <em>ChartThrob</em> doesn't actually use "Myriad" &#151; it only uses "Arial." I'm told it's "an Adobe Thing" which was also updated in Photoshop CS3. That was a _long_ time ago! <em>IFF</em> you get those (annoying but harmless) "font not found" messages: Just upgrade to V1.06 or later. <em>Or,</em> if you're insanely determined to use an old version, install 'Myriad' and those dialog boxes will vanish forever.</dd>
+   <dd>First: <em>Upgrade your version of (free) ChartThrob and/or (not free but worth it) Photoshop.</em> <em>ChartThrob</em> doesn't actually use "Myriad" &#151; it only uses "Arial." I'm told it's "an Adobe Thing" which was also updated in Photoshop CS3. That was a <b>long</b> time ago! <em>IFF</em> you get those (annoying but harmless) "font not found" messages: Just upgrade to V1.06 or later. <em>Or,</em> if you're insanely determined to use an old version, install 'Myriad' and those dialog boxes will vanish forever.</dd>
 
 <dt>Where can I find out more about <em>ChartThrob,</em> and compare results with other users?</dt>
    <dd>See <a href="http://www.hybridphoto.com/forums/showthread.php?t=36">this discussion thread</a> at HybridPhoto.com. In addition, check out this page by Michael Koch-Schulte, who has done additional work in understanding how to get the most out of the varying color sensitivities of different alt-process materials: <a href="http://www.inkjetnegative.com/images/RNP/quick_guide_to_making_digital_ne.htm"><em>A Quick Guide to Making Digital Negatives with RNP-Arrays and ChartThrob.</em></a> Or just poke it into Google &#151; it's been encouraging to see that <em>ChartThrob</em> users have cropped up all over the net.</dd>
