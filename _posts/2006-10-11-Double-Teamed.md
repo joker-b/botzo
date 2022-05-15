@@ -2,7 +2,7 @@
 layout: post
 title: "Double Teamed"
 categories: [PhotoRant]
-tags: [3D,Digital,Books,Movies, Photojournalism]
+tags: [3D,Digital,Books,Movies, Photojournalism, Shaders]
 ---
 
 

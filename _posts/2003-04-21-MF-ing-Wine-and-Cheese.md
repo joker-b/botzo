@@ -2,7 +2,7 @@
 layout: post
 title: "MF'ing Wine and Cheese"
 categories: [GearHead]
-tags: [Canon,Contax,3D, TechBiz]
+tags: [Canon,Contax,3D, TechBiz, NVIDIA]
 ---
 Okay, so Saturday night.
 

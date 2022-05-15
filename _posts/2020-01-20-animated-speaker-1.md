@@ -2,7 +2,7 @@
 layout: post
 title: "Animated Speaker, Part One"
 categories: [PhotoRant]
-tags: [Books, Machine Learning, Painting, History, France, Evolution, Photoshop]
+tags: [Books, Machine Learning, Painting, History, France, Evolution, Photoshop, Poetry]
 image:
   path: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg

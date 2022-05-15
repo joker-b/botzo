@@ -2,7 +2,7 @@
 layout: post
 title: "My good days..."
 categories: [Desk]
-tags: [3D, Digital]
+tags: [3D, Digital, Shaders, NVIDIA]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Pixels in Flight"
 categories: [Desk]
-tags: [3D,Digital,China,Japan,Korea]
+tags: [3D,Digital,China,Japan,Korea, NVIDIA]
 ---
 
 
