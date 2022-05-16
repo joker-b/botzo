@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Notes on Photo Method, 2003"
+title: "Notes on My Own Methods, 2003"
 categories: [GearHead]
 tags: [Methods, Canon, Contax, Yashica, Nikon, Zeiss, Analog, Darkroom, Ilford, Agfa, Medium Format, Scanning, Printing, B&W, Film, Flash, Lenses, Photojournalism, Photoshop]
 ---
 Documenting my typical photography working methods, May 2003.
+
+This is a long, dry post: you've been warned.
 
 <!--more-->
 
