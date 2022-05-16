@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Crystallizing My Methods (2003)"
+title: "Notes on Photo Method, 2003"
 categories: [GearHead]
-tags: [Methods, Canon,Contax,Analog,3D, Darkroom, Ilford, Yashica, Medium Format,Scanning, Printing, B&W, Film, Flash, Nikon, Zeiss, Lenses, Photojournalism, Photoshop]
+tags: [Methods, Canon, Contax, Yashica, Nikon, Zeiss, Analog, Darkroom, Ilford, Agfa, Medium Format, Scanning, Printing, B&W, Film, Flash, Lenses, Photojournalism, Photoshop]
 ---
-<i>This is a very long entry. I think I may move it to its own page after a couple of days, so it won't overwhelm the rest of the journal.</i>
+Documenting my typical photography working methods, May 2003.
 
-In one of Mike Johnston's first installments <a href="http://www.luminous-landscape.com/columns/sm-02-04-31.shtml">(http://www.luminous-landscape.com/columns/sm-02-04-31.shtml)</a> of his column <i>Sunday Morning,</i> he writes that working methods are the most important thing that photographers never talk about. He then seems to stop talking about them in almost all subsequent columns. Go figure.
 <!--more-->
-
-
 
 ![Laptops, San Fransisco (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/mar03i-20.jpg' | absolute_url }}){: .align-right}
 I've written-out my basic workflow and suite of working methods here &#151; mostly the technical bits, to get them out of the way and let my mind worry about the more problematic bits. Or who knows, maybe writing this down will reveal some hidden hypocrisy, and removing it will help me leap forward. Or not.

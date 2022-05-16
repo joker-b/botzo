@@ -2,7 +2,7 @@
 layout: post
 title: "Big Negativity"
 categories: [fStop]
-tags: [Fujifilm,Bronica,Darkroom, Medium Format]
+tags: [Neopan,Bronica,Darkroom, Medium Format]
 ---
 
 

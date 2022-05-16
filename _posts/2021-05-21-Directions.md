@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg
   thumbnail: https://www.botzilla.com/pix2021/2021-01-02-yash-C1-002-M1.jpg
 categories: [GearHead]
-tags: [Film, Analog, Yashica, Fujifilm, Review, Medium Format]
+tags: [Film, Analog, Yashica, Neopan, Review, Medium Format]
 ---
 
 <center><i>Neopan, YashicaMat 124G</i></center>

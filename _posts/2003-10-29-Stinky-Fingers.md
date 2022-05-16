@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Stinky Fingers"
+title: "Stinky Fingers, 2003"
 categories: [fStop]
-tags: [Analog,Darkroom,Japan, Scanning, Printing, Photoshop]
+tags: [Analog, Darkroom, Japan, Scanning, Printing, Photoshop, Agfa, Neopan]
 ---
 
 
@@ -17,6 +17,6 @@ Before I started scanning regularly, I would always make a contact sheet, and st
 
 Photoshop can make what it calls "contact sheets," but they are a very poor substitute for a real, silver-paper contact proof. They just don't carry anywhere near the detail of the old-style contact, making photo assesment for the sheet near-impossible.
 
-Yeah, sure, you could open all the original scans &#151; but that doesn't let you see a whole roll at a time, and it takes forever to load all those photos. It's even worse when the scans have been archived to CD or DVD. I've tried slideshows, Extensis Pro, Powerpoint, browsers of all kinds... I'm just about ready to go buy a <i>big</i> honkin' box of 8&#189;&#215;11 photo paper and start getting my fingers full of fixer small, making contact sheets for these scanned rolls in bulk.
+Yeah, sure, you could open all the original scans &#151; but that doesn't let you see a whole roll at a time, and it takes forever to load all those photos. It's even worse when the scans have been archived to CD or DVD. I've tried slideshows, Extensis Pro, Powerpoint, browsers of all kinds... I'm just about ready to go buy a <i>big</i> honkin' box of 8&#189;&#215;11 photo paper and start getting my fingers full of fixer making contact sheets for these scanned rolls in bulk.
 
 If anyone has a better idea for how to manage the digital "contact problem," please let me know.

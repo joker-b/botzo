@@ -2,7 +2,7 @@
 layout: post
 title: "So Much Confusion"
 categories: [GearHead]
-tags: [Lenses, Methods, Leica,Canon,Contax,Fujifilm,Nikon,Zeiss, Review, Rangefinder]
+tags: [Lenses, Methods, Leica,Canon,Contax,Neopan,Nikon,Zeiss, Review, Rangefinder]
 ---
 
 

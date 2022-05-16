@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
   thumbnail: https://www.botzilla.com/pix2021/PXL_20210514_134917011.jpg
 categories: [GearHead]
-tags: [Methods, Analog, Darkroom, Ilford, B&W, Scanning, Sonoma, Sketchbook, Leica, Film]
+tags: [Methods, Analog, Darkroom, Ilford, B&W, Scanning, Sonoma, Sketchbook, Leica, Film, Neopan, Agfa]
 ---
 
 I'm not going to pay $2000 for a drying cabinet but $23 for a 9x12" USB-powered LED light panel seems okay. I've gotten into the habit of connecting it to a spare phone battery: I can then use it as handheld light source to preview wet negatives fresh out of the wash. Snap a view from my phone and flip it in Snapseed and boom, super-trashy, super-quick, scans.

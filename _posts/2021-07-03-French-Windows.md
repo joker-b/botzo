@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
 categories: [fStop]
-tags: [Books, France]
+tags: [Books, France, Exhibits]
 ---
 
 <a href="https://www.blurb.com/b/11043226-france-a-guide">Book Available</a> &mdash; complete online preview link below.
