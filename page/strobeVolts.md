@@ -10,7 +10,7 @@ picless: true
 mastless: true
 nameless: true
 ---
-This list was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years! The list is still hosted here but rarely expanded. Really, just get yourself a new Godox and be very happy.
+This list was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Monolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new Godox and be very happy.
 {:.notice}
 
 <h2>Is your old strobe safe to use on your new electronic camera?</h2>
@@ -21,15 +21,15 @@ Some older strobes (and infrared strobe triggers) use high voltages in the trigg
 
 <h2>Camera Info (as of around 2005)</h2>
 
-Canon US has verified (to me, and <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg226">here</a>) that the Powershot G doesn't like voltages over 6V.
+*Canon* US has verified (to me, and <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg226">here</a>) that the Powershot G doesn't like voltages over 6V.
 
-Similarly, Nikon has specified 12V for their speedlight circuits... (though reader Steve Francesoni called Nikon.uk to check, and their tech rep said that his N80 was good to 250V &#151; so there may be more complexity to this story). I've heard some <i>rumours</i> that some Coolpix models have been restricted to 5V! (see <a href="#nikon250">below</a> for more details)
+Similarly, *Nikon* has specified 12V for their speedlight circuits... (though reader Steve Francesoni called Nikon.uk to check, and their tech rep said that his N80 was good to 250V &#151; so there may be more complexity to this story). I've heard some <i>rumours</i> that some Coolpix models have been restricted to 5V! (see <a href="#nikon250">below</a> for more details)
 
-Marco Fortin-Metzgen checked with Olympus Europe on his C4040 &#151; that digicam has a trigger voltage of 10V, so Olympus too recommends strobe triggering in the 3V to 6V range.
+Marco Fortin-Metzgen checked with *Olympus* Europe on his C4040 &#151; that digicam has a trigger voltage of 10V, so Olympus too recommends strobe triggering in the 3V to 6V range.
 
-Pentax users may want to read <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg200">this related story</a> from Gene Poon.
+*Pentax* users may want to read <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg200">this related story</a> from Gene Poon.
 
-Ron Alexander claims his Fuji is astonishingly tolerant of high voltages... interesting (This has since been verified by Rob Scrimgeour of the <a href="http://groups.yahoo.com/groups/fujigroup/">FujiGroup.net forum</a> &#151; their members got a message from Fuji also stating the 400V center pin limit).
+Ron Alexander claims his *Fuji* is astonishingly tolerant of high voltages... interesting (This has since been verified by Rob Scrimgeour of the <a href="http://groups.yahoo.com/groups/fujigroup/">FujiGroup.net forum</a> &#151; their members got a message from Fuji also stating the 400V center pin limit).
 
 (According to <a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=000Dwt">some opinions,</a> high voltages can even endanger mechanical cameras, albeit after years of use)
 
