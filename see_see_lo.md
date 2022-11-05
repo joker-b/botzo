@@ -1,13 +1,12 @@
 ---
-layout: seesee/post
+layout: seesee/post-unlinked
 date: 2022-05-16
 title: "See See Lo"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
----
-<!-- mastless: true
+mastless: true
 inline_nav: true
---- -->
+---
 
 <!-- from See See:
 Artist’s Statement 
