@@ -5,7 +5,7 @@ title: "See See Lo"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
 mastless: true
-inline_nav: true
+inline_nav: false
 ---
 
 <!-- from See See:

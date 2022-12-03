@@ -48,6 +48,7 @@ search_full_content: false
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 copyright: "All site content ©1997-2022 by <a href=\"https://www.botzilla.com/about.html\">Kevin Bjorke</a>"
+ss_copyright: "All artworks ©2012-2022 See See Lo."
 
 plugins:
   - jekyll-sitemap
@@ -60,6 +61,12 @@ plugins:
 # Collections
 collections:
   liquiditysf:
+    output: true
+    permalink: /:collection/:path/
+  paintings:
+    output: true
+    permalink: /:collection/:path/
+  boxes:
     output: true
     permalink: /:collection/:path/
 
@@ -117,6 +124,11 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+ss_footer_links:
+  - title: Instagram
+    url: https://instagram.com/seeseeloca
+    icon: fab fa-instagram
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
