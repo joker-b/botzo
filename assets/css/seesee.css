@@ -1,9 +1,23 @@
 /* see see font etc overrides */
 
-.ssFont {
-    font-family: Merriweather, serif;
+.ssText {
+    font-family: "Merriweather", serif;
 }
 
-.ssTitle {
-    color: #333;
-}
+.ss-page-title {
+    margin-bottom: 0.5em;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    color: #555;
+    /* font-style: italic; */
+    text-transform: uppercase;
+    letter-spacing: -2px; }
+    .ss-page-title {
+      font-size: 48px; }
+      @media screen and (min-width: 320px) {
+        .ss-page-title {
+          font-size: calc(48px + 12 * ((100vw - 320px) / 960)); } }
+      @media screen and (min-width: 1280px) {
+        .ss-page-title {
+          font-size: 60px; } }
+  
