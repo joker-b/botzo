@@ -14,9 +14,9 @@ layout: seesee/default
           {% assign title = page.title %}
         {% endif %}
         {% if page.link %}
-          <h1 id="page-title" class="page-title ssFont ssTitle"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          <h1 id="page-title" class="ss-page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}
-          <h1 id="page-title" class="page-title ssFont ssTitle">{{ title }}</h1>
+          <h1 id="page-title" class="ss-page-title">{{ title }}</h1>
         {% endif %}
       </header>
       <div class="page-content">
