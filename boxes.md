@@ -10,8 +10,8 @@ show_excerpts: false
 mastless: true
 ---
 
-Cigar boxes
-{:.text-center}
+Painted Cigar Boxes
+{:.text-center .ssText }
 
 <!-- <div class="statement">
     <button class="statement-title" onClick="(() => {var d = Number(document.getElementById('proj').style.display == 'none'); var s = ['none', 'block'][d]; console.log(s); document.getElementById('proj').style.display = s;})()">Project Statement:</button>
