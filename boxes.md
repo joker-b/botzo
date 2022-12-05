@@ -1,5 +1,5 @@
 ---
-title: "See See Lo: Boxes"
+title: "See See Lo: Painting on Boxes"
 layout: seesee/collection
 permalink: /boxes/
 collection: boxes
@@ -10,8 +10,9 @@ show_excerpts: false
 mastless: true
 ---
 
-Painted Cigar Boxes
+<!-- Painted Cigar Boxes
 {:.text-center .ssText }
+-->
 
 <!-- <div class="statement">
     <button class="statement-title" onClick="(() => {var d = Number(document.getElementById('proj').style.display == 'none'); var s = ['none', 'block'][d]; console.log(s); document.getElementById('proj').style.display = s;})()">Project Statement:</button>

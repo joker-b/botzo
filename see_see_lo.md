@@ -19,7 +19,7 @@ Through my work, I share things that I’m passionate about: nature, food, how t
 
 -->
 
-See See Lo is a Sonoma County artist.  Her artworks are percolations of small wonders in life, mixed with doses of imagination, humor and observation of the human condition. Viewers are reminded to savor special moments in everyday life.
+<br/>See See Lo is a Sonoma County artist.  Her artworks are percolations of small wonders in life, mixed with doses of imagination, humor and observation of the human condition. Viewers are reminded to savor special moments in everyday life.
 {: .ssText }
 
 Studying with teachers at the Art Students League in NYC, her works are mostly representational. Growing up in Hong Kong and in England, her multicultural background permeates through her paintings in oil, acrylic and watercolor. She paints on canvases, panels, papers and even cigar boxes.
