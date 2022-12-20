@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Away from the Desk: WD Wireless Pro"
+published: false
 image:
   path: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg

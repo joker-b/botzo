@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Wrong Side: Wriststraps"
+published: false
 image:
   path: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
