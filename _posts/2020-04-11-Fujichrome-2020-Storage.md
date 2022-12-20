@@ -28,7 +28,7 @@ We'll compare a few different archiving methods:
 
 * **Google Drive** backup 
 * Just copy the camera DCIM folder via **Files** 
-* Wireless drive like the <a href="{{ site.baseurl }}{% post_url 2020-04-10-WD-Wireless-Pro %}">**Western Digital Wireless Pro**</a> or Gnarbox
+* Wireless drive (e.g., Western Digital Wireless Pro), Gnarbox, etc
 * Linux command-line apps like <a href="{{ site.baseurl }}{% post_url 2020-04-09-kbImport %}">**kbImport**</a>
 * **Adobe Lightroom** import
 * **Fujifilm Camera Remote**
@@ -85,7 +85,7 @@ Comparing to my Macs and a Windows 10 desktop, Chromebook is... slower. The cham
 
 #### Western Digital Wireless Pro
 
-Wireless, standalone devices can provide storage without the computer being turned on. They range from the luxury <a href="https://www.gnarbox.com/">Gnarbox SSD</a> to inexpensive spinning disks like my <a href="https://shop.westerndigital.com/products/portable-drives/wd-my-passport-wireless-pro-hdd#WDBVPL0010BBK-NESN">Western Digital Wireless Pro,</a> which I described in a <a href="{{ site.baseurl }}{% post_url 2020-04-10-WD-Wireless-Pro %}">previous article.</a>
+Wireless, standalone devices can provide storage without the computer being turned on. They range from the luxury <a href="https://www.gnarbox.com/">Gnarbox SSD</a> to inexpensive spinning disks like the Western Digital Wireless Pro.
 
 The general usage for all such drives: plug in the card, press "backup," and let it work. Later, access the drive either wirelessly or with a cord.
 
