@@ -2,8 +2,8 @@
 layout: post
 title: "Leica M-Mount Lenses on L-Mount Cameras: As Simple as Possible"
 image:
-  path: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
-  thumbnail: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
+  path: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
+  thumbnail: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
 categories: [GearHead]
 tags: [Leica, Lumix, Lenses, Zeiss, B&W, Monochrom, Panasonic, Panaleica]
 ---
@@ -36,7 +36,9 @@ Of course, anything can be improved. Let's add a bit of optional polish, to help
 
 * The **exposure preview** button, on the front of the camera near your right middle or ring finger: I like having "shutter speed preview" set to ON. Poke the button repeatedly if you want to alter it.
 
-I use four **custom "Fn" button settings** for manual photography. Specifically, the directional buttons embedded in the large dial around MENU button on the back. They're easy to press with your thumb without having to look away from the viewfinder. By default those buttons are unassigned, so setting them doesn't alter anything else on the camera. You can assign Fn buttons by holding them down for a couple of seconds, and when a menu appears, select the feature you like and touch MENU to save your selection.
+I use four **custom "Fn" button settings** for manual photography. Specifically, the directional buttons embedded in the large dial around MENU button on the back. They're easy to press with your thumb without having to look away from the viewfinder. By default those buttons are unassigned, so setting them doesn't alter anything else on the camera.
+
+You can assign each Fn button by pressing it for a couple of seconds: when a menu appears, select the feature you like and touch MENU to save your selection.
 
 * The "up" button to control the **Metering Mode:** spot, average, etc.
 
@@ -46,7 +48,7 @@ I use four **custom "Fn" button settings** for manual photography. Specifically,
 
 * The "down" button: **Focus Peaking ON/OFF.** Focus peaking is great except when it's distracting, which is a lot of the time (especially if you're shooting at, say ƒ/11 instead of ƒ/2). By placing the on/off control at your thumb, peaking use is very fluid in operation -- unlike, say, the peaking on the Visoflex that requires taking the camera away from your eye and finding the setting in a menu.
 
-**That's the entire guide.**
+**_That's the entire guide._**
 
 All of the other camera complexities: monochrome or color style settings, video frame rates, highlight metering, 96-Megapixel shooting, touch screen buttons, stabilization, user menus, bluetooth, tethered shooting, "expressive" scene filters, autofocus lenses, video LUTs, etc etc -- can come later. There's still the rest of that 800-page manual waiting for you, after all.
 
