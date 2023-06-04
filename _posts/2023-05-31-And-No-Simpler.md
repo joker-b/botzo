@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M-Mount Lenses on L-Mount Cameras: As Simple as Possible"
+title: "Leica M-Mount Lenses on L-Mount Cameras: As Simple as Possible"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
@@ -10,17 +10,17 @@ tags: [Leica, Lumix, Lenses, Zeiss, B&W, Monochrom, Panasonic, Panaleica]
 
 ...and no simpler.
 
-This post is a brief -- and simple -- guide to start photographing stills using Leica M-mount lenses on the L-mount Lumix S5II. All S5 variants have essentially the same controls, so this guide also applies to the original S5 and newest S5IIX. In spirit, maybe to its cousin the Leica SL2-S, as well.
+This post is a brief -- and simple -- guide to start photographing stills using Leica M-mount lenses on the L-mount Lumix S5II. All S5 variants have essentially the same controls, so this guide also applies to the original S5 and newest S5IIX. In spirit if not specifics, Sigma or Leica cameras too.
 
-I'm writing this up in part because there's really very little practical information about using M-mount on L, even today, 8 years after L was introduced. <a href="https://youtu.be/p3-DWpYhuNU">Advertisements,</a> sure. Guides: almost none.
+I'm writing this up in part because there's really very little practical information about using M-mount on L, even today, 8 years after L-mount was introduced. <a href="https://youtu.be/p3-DWpYhuNU">Advertisements,</a> sure. But quick practical guides? Didn't find one.
 
-My goal is to _add_ the S5II to my M system -- not to replace it. You may eventually use all of the tricks and video methods in <a href="https://help.na.panasonic.com/wp-content/uploads/2023/02/DCS5M2_DVQP2839ZA_ENG.pdf">the S5II's 800+ page manual,</a> but just a few simple one-time settings provide a solid fiddling-free experience for M-lens photography. Follow these steps to skip ahead and save yourself a long dictionary-like read.
+The purpose here is to _add_ the L camera to an existing M system -- not to replace it. You may eventually use all of the tricks and video methods in <a href="https://help.na.panasonic.com/wp-content/uploads/2023/02/DCS5M2_DVQP2839ZA_ENG.pdf">the S5II's 800+ page manual,</a> but just a few simple one-time settings provide a solid fiddling-free experience for M-lens photography. Follow these steps to skip ahead and save yourself a long dictionary-like read while proceeding with confidence.
 
-## Four Basic Steps toward feeling at home with the S5II:
+## Three Basic Steps toward feeling at home with the S5II:
 
 <!--more-->
 
-* Obviously you'll need a **mount adapter.** I bought the Leica one, others may be okay. When it's connected the camera automatically knows it's in manual focus. This is the first step, but to make the experience more M-like:
+Obviously you'll need a **mount adapter.** I bought the Leica one, others may be okay. When it's connected the camera automatically knows to use manual focus. This is the first and only _required_ step, but to make the experience more M-like, do three things:
 
 * **Close the flippy screen.**
 
@@ -44,10 +44,10 @@ I use four **custom "Fn" button settings** for manual photography. Specifically,
 
 * The "left" button to call up the **Lens Information** display -- this is a list of lenses you can assign to the one(s) you commonly use, including a name that will be written into the EXIF of your image files.
 
-* The bottom button: **Focus Peaking ON/OFF.** Focus peaking is great except when it's distracting, which is a lot of the time. By putting the on/off control on your thumb, it's very fluid in operation -- unlike, say, the peaking on the Visoflex that requires taking the camera away from your eye and finding the setting in a menu.
+* The bottom button: **Focus Peaking ON/OFF.** Focus peaking is great except when it's distracting, which is a lot of the time (especially if you're shooting at, say ƒ/11 instead of ƒ/2). By placing the on/off control at your thumb, its use is very fluid in operation -- unlike, say, the peaking on the Visoflex that requires taking the camera away from your eye and finding the setting in a menu.
 
 **That's the entire guide.**
 
-All of the other camera complexities: monochrome or color style settings, highlight metering, 96-Megapixel shooting, touch screen buttons, stabilization, user menus, bluetooth, tethered shooting, "expressive" scene filters, video LUTs, etc etc -- can come later. There's the rest of that 800-page manual waiting for you, after all.
+All of the other camera complexities: monochrome or color style settings, highlight metering, 96-Megapixel shooting, touch screen buttons, stabilization, user menus, bluetooth, tethered shooting, "expressive" scene filters, Autofocus lenses, video LUTs, etc etc -- can come later. There's the rest of that 800-page manual waiting for you, after all.
 
-But to get started with your M lenses: just follow the guide above to begin. You'll have a simple, working M-system companion. The rest: learn the documentation by doing, it's much funner that way.
+But to get started with your M lenses: just follow the guide above to begin. You'll have a simple, working M-system companion. The rest? Choose your own adventure, learn the documentation by doing. It's much funner that way.
