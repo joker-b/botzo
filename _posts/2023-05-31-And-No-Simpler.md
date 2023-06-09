@@ -10,15 +10,15 @@ tags: [Leica, Lumix, Lenses, Zeiss, B&W, Monochrom, Panasonic, Panaleica]
 
 ...and no simpler.
 
-This post is a brief -- and simple -- guide for Leica M-mount lens user to shoot photos using their lenses on the L-mount Lumix S5II.
+This post is a brief -- and simple -- guide to setting up the L-Mount Lumix S5ii camera (or any S5 variant) afor use with Leica M-mount lenses.
 
-All S5 variants have essentially the same controls, so this guide also applies to the original S5 and newest S5IIX. In spirit if not specifics, it applies to Sigma or Leica cameras too.
+By "guide" I mean: "this is what I did, and why."
 
-I'm posting this minimal guide because there's really very little practical information about using M-mount on L on the net, even today, 8 years after L-mount was introduced. There are <a href="https://youtu.be/p3-DWpYhuNU">advertisements,</a> sure. But quick practical guides? Didn't find one.
+There's very little practical information about using M-mount on L on the net, even today, 8 years after L-mount was introduced. There are <a href="https://youtu.be/p3-DWpYhuNU">advertisements,</a> sure. But quick practical guides? Didn't find one.
 
-The purpose here is to _add_ the L camera to your existing M system -- not to replace it. When shooting events, I use two bodies, with different lenses, and want a smooth mental transition when I switch. _Keep it simple._
+The goal here is to _add_ the S5ii camera to my existing M system -- not to replace it. When shooting events, I use two bodies, with different-length lenses, and want a smooth mental transition when I switch. _Keep it simple._
 
-You may eventually use all of the tricks and video methods in <a href="https://help.na.panasonic.com/wp-content/uploads/2023/02/DCS5M2_DVQP2839ZA_ENG.pdf">the 800+ page user manual,</a> but for a  familiar shooting experience, applying a very few simple one-time settings will provide a solid, fiddling-free workflow for M-lens photography.
+There are a lot of tricks and video methods in <a href="https://help.na.panasonic.com/wp-content/uploads/2023/02/DCS5M2_DVQP2839ZA_ENG.pdf">the 800+ page S5ii user manual,</a> unneeded here. Applying just a few simple one-time settings will provide a solid, fiddling-free workflow for M-lens photography.
 
 ## Three Basic Steps:
 
@@ -28,7 +28,7 @@ Obviously you'll need a **mount adapter.** I bought the Leica one, others may be
 
 1. **Close the flippy screen.**
 
-2. **Swap the functions of the front and back dials, so the shutter speds are on the front:** instead of the default which puts the aperture on that dial. For M lenses, you're setting aperture on the lens, not the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement). To swap the dials (this is the _only_ deep menu-dive in this guide), press **MENU->Gear Icon->Dial Icon->"Dial Set."** and then **"Assign Dial (F/SS)"** and choose **"SET 3".**
+2. **Swap the functions of the front and back dials, so the shutter speds are on the front:** instead of the default setting, which puts the aperture on front dial and shutter on the back. For M lenses, you're setting aperture on the lens, not on the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement). To swap the dials (this is the _only_ deep menu-dive in this guide), press **MENU->Gear Icon->Dial Icon->"Dial Set."** and then **"Assign Dial (F/SS)"** and choose **"SET 3".**
 
 3. For manual focusing, **zoom the "punch-in" magnifier all the way in:** press the magifier button (AF pattern, a rectangle with a little cross inside) and then using the dials (there's an on-screen guide) zoom it in to maximum (6x) magnification. Just leave the magnification at 6x  from now on. Remember, you have an M lens and it still has a focus scale. We're not replacing it. Just shoot the way you're already used to.
 
