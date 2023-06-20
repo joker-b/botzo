@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2020/bjorke_LakeCty_XEKB0615.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_LakeCty_XEKB0615.jpg
 categories: [fStop]
-tags: [Sonoma, Epidemic, Fire]
+tags: [Sonoma, Pandemic, Fire]
 comments: true
 ---
 

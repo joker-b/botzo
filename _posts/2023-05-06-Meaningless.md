@@ -26,9 +26,13 @@ Yet beyond the simple and obvious identity of the moment -- that Norma/Marilyn w
 
 The deuce of it is that the meaning -- whatever it really is -- is in the mind and reactions of the observer. A great picture is less a statement than an arbitrary expression that engages you, the viewer, in the process of assigning meaning. The meaning comes from the collision of that picture and your self.
 
-If we think of images this way -- as a mechanism for _unlocking_ meanings in the viewer, rather than just _having_ them -- then it's much easier to see a commonality between all images, between all arts. This idea doesn't require that we ignore the differences that come from production methods, time, or medium. It instead lets us think of all those attributes as merely contributing factors in the creation of meaning within our own hearts. And the artist: not as someone who forces meaning into an image but as someone who through craft or accident grants us the gift of seeing for ourselves.
+If we think of images this way -- as a mechanism for _unlocking_ meanings in the viewer, rather than as _containing_ meanings -- then it's much easier to see a commonality between all images, between all arts.
 
-Paul Klee once said "Art does not reproduce the visible, rather, it makes visible."
+This idea doesn't require that we ignore the differences that come from specific production methods, era, or medium. Instead it lets we the viewers accept those attributes as merely contributing factors for the creation of meaning within our own hearts.
+
+And the artist: not as someone who forces meaning into an image, but as someone who through craft or accident grants us the gift of seeing for ourselves.
+
+Paul Klee once said "Art does not reproduce the visible; rather, it makes visible."
 
 <hr />
 

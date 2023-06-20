@@ -2,7 +2,7 @@
 layout: post
 title: "Perfect Foods in Japan"
 categories: [fStop]
-tags: [Japan, Gaming]
+tags: [Japan]
 ---
 
 

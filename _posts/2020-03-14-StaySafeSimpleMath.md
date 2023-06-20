@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_Empty_KBXF7884d.jpg
 categories: [Desk]
-tags: [Health, Covid, Pandemic, Epidemic, Math, Algorithms, Python]
+tags: [Health, Pandemic, Math, Algorithms, Python]
 published: false
 
 ---
