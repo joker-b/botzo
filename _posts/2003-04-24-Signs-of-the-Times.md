@@ -2,7 +2,7 @@
 layout: post
 title: "Signs of the Times"
 categories: [PhotoRant]
-tags: [Books, Printing, Theft]
+tags: [Books, Printing]
 ---
 John Bolgiano, aka "coldmarble," runs <a title="ColdMarble Musings" href="http://www.dgbn.com/coldmarble/musings.html">ColdMarble Musings,</a>the only <a href="http://www.alternativephotography.com/">alternative-process</a> (Cyanotype, Van Dyke process, etc) blog I've seen &#151; so far. Looks like <a href="http://www.geekychick.net/">Courtney</a> might give him <a href="http://www.newdags.com/">some competition</a> soon.
 

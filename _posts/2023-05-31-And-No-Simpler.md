@@ -5,14 +5,14 @@ image:
   path: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
 categories: [GearHead]
-tags: [Leica, Lumix, Lenses, Zeiss, B&W, Monochrom, Panasonic, Panaleica]
+tags: [Leica, Lumix, Lenses, Zeiss, B&W, Monochrom]
 ---
 
 ...and no simpler.
 
 This post is a brief -- and simple -- description of how I set up my L-Mount Lumix S5ii camera for use with my existing M kit.
 
-There's very little practical information on the about using M-mount on L, even today, 8 years after L-mount was introduced. There are <a href="https://youtu.be/p3-DWpYhuNU">advertisements,</a> sure. But quick practical guides? Didn't find one. So maybe tis is helpful info for someone.
+There's very little practical information on the about using M-mount on L, even today, eight years after L-mount was introduced. There are <a href="https://youtu.be/p3-DWpYhuNU">advertisements,</a> sure. But quick practical guides? So maybe this is helpful info for someone.
 
 There are _many_ tricks and video methods in <a href="https://help.na.panasonic.com/wp-content/uploads/2023/02/DCS5M2_DVQP2839ZA_ENG.pdf">the 800+ page S5ii user manual,</a> but nearly all are unneeded here. Just a couple of steps:
 
@@ -24,15 +24,15 @@ There are _many_ tricks and video methods in <a href="https://help.na.panasonic.
 
 2. **Swap the functions of the front and back dials, so the shutter speeds are on the front:** instead of the default video-style setting, which puts the aperture on front dial and shutter on the back. For M lenses, you're setting aperture on the lens, not on the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement).
 
-To swap the dials (this is the _only_ deep menu-dive in this guide), press **MENU->Gear Icon->Dial Icon->"Dial Set."** and then **"Assign Dial (F/SS)"** and choose **"SET 3".**
+To swap the dials (this is the _only_ deep menu-dive in this guide), press <br/>&nbsp;&nbsp;**MENU->Gear Icon->Dial Icon->"Dial Set."** and then <br/>&nbsp;&nbsp;**"Assign Dial (F/SS)"** and choose <br/>&nbsp;&nbsp;**"SET 3".**
 
-That's most all of it, really. Anython past this is
+That's most all you need, really. Anything past this is
 
 ### Bonus Round: 
 
-Of course, anything can be improved. Let's add a bit of optional polish, to keep your eye at the viewfinder while shooting, rather than looking at menus:
+Of course, anything can be improved. For a bit of optional polish, to keep your eye at the viewfinder while shooting, rather than looking at menus:
 
-* For manual focusing, **zoom the "punch-in" magnifier all the way in:** press the magifier button (AF pattern, a rectangle with a little cross inside) and then using the dials (there's an on-screen guide) zoom it in to maximum (6x) magnification. Just leave the magnification at 6x  from now on. Remember, you have an M lens and it still has a focus scale. We're not replacing it. Just shoot the way you're already used to.
+* For manual focusing, **zoom the "punch-in" magnifier all the way in:** press the magifier button (AF pattern, a rectangle with a little cross inside) and then using the dials (there's an on-screen guide) zoom it in to maximum (6x) magnification. Just leave the magnification at 6x  from now on.
 
 * The **exposure preview** button, on the front of the camera near your right middle or ring finger: I like having "shutter speed preview" set to ON. Poke the button repeatedly if you want to alter it, then leave it alone.
 
