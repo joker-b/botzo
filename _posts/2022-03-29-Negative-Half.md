@@ -2,7 +2,7 @@
 layout: post
 title: "Negative Half-Life"
 categories: [Hacking]
-tags: [Javascript, Algorithms, Digital, San Francisco, History, TechBiz]
+tags: [Javascript, Algorithms, Digital, San Francisco, History, TechBiz, Featured]
 image:
   path: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
   thumbnail: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg

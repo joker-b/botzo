@@ -2,7 +2,7 @@
 layout: post
 title: "Is Photography Inherently Humanizing? (1 of 3)"
 categories: [PhotoRant]
-tags: [Photojournalism, Portrait, Media, War, Policy, Books]
+tags: [Photojournalism, Portrait, Media, War, Policy, Books, Featured]
 ---
 
 

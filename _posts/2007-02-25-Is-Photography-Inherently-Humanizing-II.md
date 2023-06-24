@@ -2,7 +2,7 @@
 layout: post
 title: "Is Photography Inherently Humanizing? (2 of 3)"
 categories: [PhotoRant]
-tags: [Photojournalism, Portrait, Media, War, Policy, Books, Korea]
+tags: [Photojournalism, Portrait, Media, War, Policy, Books, Korea, Featured]
 ---
 
 ![Closed railway gate into North Korea, 2003]({{ 'https://www.botzilla.com/blog/pix2007/Aug03r-08.jpg' | absolute_url }}){: .align-right}

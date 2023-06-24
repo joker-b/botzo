@@ -50,6 +50,11 @@ You can assign each Fn button by pressing it for a couple of seconds: when a men
 
 You've reached the end! **_That's the entire guide._**
 
+<figure class="align-center">
+<img alt="Back dial function" src="https://www.botzilla.com/pix2023/s5ii-function-circle.jpg">
+<figcaption>Back dial: Meter, Histogram, Peaking, Lens-select</figcaption>
+</figure>
+
 All of the other Lumix complexities: style settings, video frame rates, highlight metering, 96-Megapixel shooting, touch screen buttons, stabilization, user menus, bluetooth, tethered shooting, "expressive" scene filters, autofocus lenses, video LUTs, etc etc -- can come later. There's still the rest of that 800-page manual waiting for you, after all.
 
 Good luck!
