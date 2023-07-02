@@ -29,6 +29,8 @@ layout: default
         </div>
 
         <!-- related -->
+        {% include page-pagination.html %}
+
         {% if site.related_posts.size >= 1 %}
         <div>
           <h3>Related Posts</h3>
@@ -47,7 +49,6 @@ layout: default
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}
         {% endif %}
-        {% include page-pagination.html %}
       </div>
     </div>
   </article>

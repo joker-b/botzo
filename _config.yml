@@ -70,6 +70,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+#social share off july 2023 -- what is #recipes?
 # Front Matter Defaults
 defaults:
   # Post defaults
@@ -79,7 +80,7 @@ defaults:
     values:
       layout: post
       comments: true
-      share: true
+      share: false
   # Recipe defaults
   - scope:
       path: "_recipes"
@@ -87,11 +88,11 @@ defaults:
     values:
       layout: post
       comments: true
-      share: true
+      share: false
 
-# commenting
-disqus:
-    shortname: botzilla
+# commenting - disabled july 2023
+# disqus:
+#    shortname: botzilla
 
 # Site Author
 author:
