@@ -2,7 +2,7 @@
 layout: post
 title: "Veni, Vidi, Valori"
 categories: [PhotoRant]
-tags: [Books, History, Critique]
+tags: [Books]
 ---
 
 

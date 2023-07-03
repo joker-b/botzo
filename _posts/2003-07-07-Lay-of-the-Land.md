@@ -2,7 +2,6 @@
 layout: post
 title: "Lay of the Land"
 categories: [PhotoRant]
-tags: [TechBiz, Links, Photojournalism]
 ---
 Photoblogs are all the rage and while journos are busy smugly comparing them to <a href="http://www.nytimes.com/2003/05/25/arts/design/25BOXE.html?ex=1056513600&en=4b29f81134e86828&ei=5070">"Walker Evans and  Nan Goldin rolled together on your computer screen,"</a> the articles seem little more than catalogs, lists of someone's favorites from an afternoon sweeping of the blogroll links on <a href="http://www.photojunkie.com">photojunkie</a> or maybe a swipe through the top tops on <a href="http://photoblogs.org/vote">photoblogs.org.</a>
 

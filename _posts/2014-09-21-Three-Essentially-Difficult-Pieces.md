@@ -2,7 +2,7 @@
 layout: post
 title: "Three Essentially Difficult Pieces"
 categories: [PhotoRant]
-tags: [Books,Digital,Painting, Exhibits, Flickr]
+tags: [Books]
 ---
 <img title="Art Party SJ" class="img-responsive" src="https://www.botzilla.com/blog/archives/pix2014/bjorke_DSCF2339.jpg"  border="0" />
 

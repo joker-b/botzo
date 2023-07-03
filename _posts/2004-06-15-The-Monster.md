@@ -2,7 +2,6 @@
 layout: post
 title: "The Monster"
 categories: [GearHead]
-tags: [Canon, Lenses, Review]
 ---
 
 

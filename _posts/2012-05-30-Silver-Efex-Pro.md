@@ -2,7 +2,6 @@
 layout: post
 title: "Silver Efex Pro"
 categories: [fStop]
-tags: [Lumix,Darkroom]
 published: false
 
 ---

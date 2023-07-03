@@ -2,7 +2,6 @@
 layout: post
 title: "Garage, Pajamas, Nintendo"
 categories: [fStop]
-tags: [Silicon Valley, Portrait, Games]
 ---
 
 

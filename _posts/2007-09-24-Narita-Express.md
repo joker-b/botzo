@@ -2,7 +2,6 @@
 layout: post
 title: "Narita Express"
 categories: [fStop]
-tags: [Japan]
 ---
 
 

@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/mono-bouq-trio.jpg
   thumbnail: https://www.botzilla.com/pix2021/mono-bouq-trio.jpg
 categories: [GearHead]
-tags: [Leica, Darkroom, B&W, Monochrom, Photoshop]
+tags: [Leica]
 ---
 
 Adobe Camera Raw (ACR) has supported Leica Monchrom files for most of the past decade, yet the support seems to have been pretty modest -- a linear mapping of the grayscale-source DNG values. Setting your preferences for "Camera Matching" has essentially no effect - the contrast adjustments in the Monochrom are ignored.

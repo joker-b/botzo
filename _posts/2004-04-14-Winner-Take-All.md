@@ -2,7 +2,6 @@
 layout: post
 title: "Winner Take All"
 categories: [PhotoRant]
-tags: [Photojournalism, Exhibits, Media, TechBiz, Painting, Japan]
 ---
 
 

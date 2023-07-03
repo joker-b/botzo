@@ -2,7 +2,6 @@
 layout: post
 title: "Buddha Says"
 categories: [fStop]
-tags: [Photojournalism,Japan]
 ---
 
 

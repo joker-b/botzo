@@ -2,7 +2,6 @@
 layout: post
 title: "Bonus Round"
 categories: [PhotoRant]
-tags: [Japan, Games]
 ---
 
 

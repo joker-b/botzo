@@ -2,7 +2,7 @@
 layout: post
 title: "Why I started this blog"
 categories: [PhotoRant]
-tags: [Methods, Links, Books, Streetphoto]
+tags: [Books, Film]
 ---
 
 
