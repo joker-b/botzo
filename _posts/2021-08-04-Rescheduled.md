@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_LXCycle_P1090173.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_LXCycle_P1090173.jpg
 categories: [Desk]
-tags: [Bike, Sonoma]
+tags: [Sonoma]
 published: false
 ---
 

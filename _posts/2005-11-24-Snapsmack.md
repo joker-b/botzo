@@ -2,7 +2,7 @@
 layout: post
 title: "Snapsmack"
 categories: [GearHead]
-tags: [Canon,Bronica, Medium Format]
+tags: [Film]
 published: false
 ---
 On Tuesday Canon told me they can fix (actually replace) my whacked shutter for marginally less than the cost of a new camera, so that's what we'll do. Not sure if it will return before the holidays... in the meantime I always have my celphone cam and the new old <a href="http://opd.usa.canon.com/html/cameras_slr/elan7_index.html">Elan 7E</a>, which  has been a real joy to use, alongside the Bronica. The Elan is quick, light, and impressively quiet. I really don't know why DSLRs are all much louder than Canon's film cameras.. makes no sense to me!

@@ -2,7 +2,6 @@
 layout: post
 title: "My Portable Office"
 categories: [Desk]
-tags: [Bike]
 ---
 
 

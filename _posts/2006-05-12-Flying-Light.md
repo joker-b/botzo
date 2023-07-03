@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Light"
 categories: [fStop]
-tags: [Bronica, Medium Format]
+tags: [Film]
 ---
 
 

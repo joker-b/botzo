@@ -2,7 +2,7 @@
 layout: post
 title: "My Private Africa"
 categories: [PhotoRant]
-tags: [Books, Photojournalism, Pandemic]
+tags: [Books]
 ---
 Today was a good reading day and saw as its centepiece Okwui Enwezor's <a href="http://www.photoeye.com/templates/mShowDetailsbyCat.cfm?Catalog=dp386&CFID=4740042&CFTOKEN=11251732"><cite>Snap Judgements: New Positions in Contemporary African Photography.</cite></a>
 
