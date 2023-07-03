@@ -2,6 +2,11 @@
 
 * {box-sizing:border-box}
 
+/* Slideshow player contains the slideshow and controls */
+.slideshow-player {
+  /* nothing yet */
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -62,6 +67,12 @@
   padding: 8px 12px;
   position: absolute;
   top: 0;
+}
+
+.slide-dot-controls {
+    text-align: center;
+    position: relative;
+    bottom: 0px;
 }
 
 /* The dots/bullets/indicators */
