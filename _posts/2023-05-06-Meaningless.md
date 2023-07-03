@@ -4,7 +4,7 @@ title: "Pictures Have No Meaning"
 image:
   path: https://www.botzilla.com/pix2023/avedon_marilyn_1957.jpg
   thumbnail: https://www.botzilla.com/pix2023/avedon_marilyn_1957.jpg
-categories: [Photorant]
+categories: [PhotoRant]
 tags: [Neurography]
 ---
 

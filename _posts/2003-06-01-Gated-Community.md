@@ -9,7 +9,9 @@ tags: [Film]
 ![Golden Gate, May 2003 (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/may03i-22.jpg' | absolute_url }}){: .align-right}
 <i>Three rolls Delta 400, 11.5 mins @ 20C Xtol 1::1. Mixed at 24C, brought the temperature down by tossing some ice cubes in a baggie and floating it in the already-diluted Xtol.
 
-Yesterday afternoon I spooled about 20 rolls of Delta from a 100' bulkroll &#151; as I was cranking along, I read the Ilford label for the box, which recommended Xtol 1::1 for Delta 400 at no speed slower than ISO 500... 13 mins @ 20C. Hmmm, wonder why they don't like Xtol?</i>
+Yesterday afternoon I spooled about 20 rolls of Delta from a 100' bulkroll &#151; as I was cranking along, I read the Ilford label for the box, which recommended Xtol 1::1 for Delta 400 at no speed slower than ISO 500... 13 mins @ 20C. Hmmm, wonder why they don't like Xtol?
+
+<!--more-->
 
 When I was living in Marin, I started work on a collection of photos of the Golden Gate bridge. Shot quite a few. My thought was to do something faintly echoing Hiroshige's <a href="http://www.japaneseprint.com/fuji.html"><cite>36 Views of Fuji.</cite></a> One or two "straight" shots of the bridge itself, and all the rest photos of the city and countryside surrounding it, with the bridge merely a constant presence. The I moved to Hawaii and had to set this project aside.
 

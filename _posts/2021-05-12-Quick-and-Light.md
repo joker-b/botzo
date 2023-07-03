@@ -79,9 +79,8 @@ For the M5 (sync 1/50 sec) and the EF-X20, no filter, on HP-5 or Tri-X film:
 
 * **Outdoor Daylight:** ƒ/22, focus to 2 meters, 1/2 or 1/4 power. _It's going to be overexposed_ if it's sunny -- but.... okay? Or _find that shade._
 
+&nbsp;
 
-<hr>
-
-<a name="TLA"></a>_PS: A (Non-Stylish) Contax Flash for Everyone_
+<h5><a name="TLA"></a>PS: A (Non-Stylish) Contax Flash for Everyone</h5>
 
 If you are a Contax user, or even if not, the non-stylish <a href="https://www.mir.com.my/rb/photography/hardwares/classics/contax/shared/flash/index1.htm">Contax TLA 360 flash</a> is twelve times the tool than the expensive stylish one is, and can be found for about $50-60 these days. It's a cool flash that can be used manually, with Contax TTL, _or_ (and this is a rare combination) with on-flash thyristor "auto" sensor on any manual camera. A great flash for anyone.

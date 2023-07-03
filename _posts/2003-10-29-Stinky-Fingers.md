@@ -11,6 +11,8 @@ tags: [Film]
 
 After running a bit of <a href="http://unblinkingeye.com/Articles/Rodinal/rodinal.html">Rodinal</a> a few days ago, I'm all enamoured with it again, after a long hiatus. The Acros was particularly impressive for the short range and high contrast that the combination delivers, but the TriX had a look that's also hard for any other combo to beat &#151; even with digital hackery.
 
+<!--more-->
+
 Scanning all the negs as soon as they're dry has both good and bad aspects. The good ones are that if I'm happy with the Photoshopable result, I can be churning out 8&#215;10's in less than an hour, or blasting them off via the net to all parts worldwide. The biggest downside is storage.
 
 Before I started scanning regularly, I would always make a contact sheet, and store the contacts in three-ring binders. I'd page through them regularly, looking for photos I might have not been interested in one upon a time.

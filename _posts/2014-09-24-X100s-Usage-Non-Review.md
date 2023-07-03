@@ -2,7 +2,6 @@
 layout: post
 title: "X100s: Usage & Non-Review"
 categories: [GearHead]
-tags: [Liquidity]
 ---
 ![Market and Powell]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR8806.jpg' | absolute_url }})
 

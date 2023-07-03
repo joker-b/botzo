@@ -4,7 +4,7 @@ title: "Digital Alternative"
 image:
   path: https://www.botzilla.com/pix2023/bjorke_photogram2023.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_photogram2023.jpg
-categories: [fStop, Photorant]
+categories: [PhotoRant]
 tags: [Neurography]
 ---
 

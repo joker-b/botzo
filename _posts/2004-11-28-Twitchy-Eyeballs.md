@@ -15,6 +15,7 @@ perhaps nutty thing with photo books: trying to view them through
 a camera viewfinder, to get a better grasp on what might have
 been seen by the original shooter (something worth doing once, but if it's persistent,
 call a doctor).
+<!--more-->
 
 No, but I think my new plateau comes from a similar leap of imagination, of having a stronger sense of what was in the maker's mind for each image: where to stand with the camera, when to press the shutter; how to lay down the colors broadly and then to refine them with each successive stroke of the brush. The reading is slower but the enjoyment deeper.
 
@@ -22,7 +23,6 @@ Since <cite>Red Color News Soldier,</cite> which I'd <a href="{{ site.baseurl }}
 about earlier</a>, I've managed to make it through these books:
 
 
-<!--more-->
 Picture Books &#151; most new, and a few old friends from the bookshelf: 
 
 | <cite>Flamingo</cite> | Robert Frank |

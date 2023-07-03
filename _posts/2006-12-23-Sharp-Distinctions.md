@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sharp Distinctions"
-categories: [GearHead, Zeiss]
+categories: [GearHead]
+tags: [Zeiss]
 ---
 
 ![SharpDistinct.jpg]({{ 'https://www.botzilla.com/blog/pix2006/SharpDistinct.jpg' | absolute_url }})

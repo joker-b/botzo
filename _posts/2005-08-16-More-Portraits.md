@@ -10,11 +10,11 @@ Here are a few more portrait gallery additions to the Gray Scale. And some of th
 
 Why so much emphasis on B&amp;W portraiture? Mostly because I continue to believe that portraiture is one of B&amp;W's stronger genres, and that portraiture in general is one of the most-difficult forms of photography &#151; despite its universal appeal, look how many sites and portfolios one can find without a single portrait. Instead we see rocks, we see skyscrapers, we see trees and flowers but portraiture... that's hard. Even most of the portraits that one <i>does</i> find online tend to be driven more by fashionable stylings rather than portraiture's implicit promise: <i>that through this image you will touch.</i> It will touch you, and perhaps you will even feel the opposite is true as well. Fashion is a mask &#151; portraiture's revelation tries to find the unmasked individual.
 
+<!--more-->
+
 Why then, should B&amp;W be more compelling? Doesn't B&amp;W also mask, hiding the true colors in favor of stylized ones? Yes, but it strikes us because the color is rarely what we remember about a person. Instead it's the curve of the eyes, the particular smile, the <i>form</i> &#151; even for a blue-eyed freckled redhead. Instead of seeing the uneven ruddiness &amp; blemishes, what we see in our mind's eye: the face. And within that, is where the illusion of human connection can be found.
 
 At times I have pointed a link to just part of a site &#151; of course, the purpose for having the following links in the first place is as an invitation to explore:
-
-<!--more-->
 
  - <a href="http://www.chrisgroenhout.com/people.html" target="_blank">Chris Groenhout</a>
 

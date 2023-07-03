@@ -20,6 +20,6 @@ picless: true
 
 Motorcycling to the beach on a Saturday morning, in search of elephant seals.
 
-<!-- more -->
+<!--more-->
 
 

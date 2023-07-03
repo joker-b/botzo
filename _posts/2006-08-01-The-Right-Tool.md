@@ -11,6 +11,8 @@ tags: [Film]
 
 <a href="http://people.csail.mit.edu/soonmin/CV/CV.pdf">Soonmin Bae</a> is a Ph.D. student at MIT and this week she published a new Siggraph Paper: <a href="http://people.csail.mit.edu/soonmin/photolook/">"Two-Scale Tone Management for Photographic Look."</a>
 
+<!--more-->
+
 Analog purists may reel at the technical jargon, but in her paper Bae shows several interesting effects for B&W photographs (and some color ones) that she's discovered simply by examining come well-known classical "fine printing" photographs of the Ansel Adams variety &#151; and then reduces the general feeling of those effects to a set of functional algorithms.
 
 The computer may not understand the "feeling" of a "fine arts" print, but Bae's results, to this viewer, seem to work pretty darned well &#151; associating texture and detail to contrast range corrections, in particular, seems perfectly sensible and maps perfectly to common darkroom techniques like dodging, burning, and split-contrast printing.

@@ -8,6 +8,8 @@ tags: [Film]
 
 Big bursts like this seem to make a compelling argument for digital. As I type this I can look over <a href="http://www.geekychick.net/">C's</a> shoulder and see her downloading color frame after color frame from her Elph. Fast and (once the gear is paid for) free.
 
+<!--more-->
+
 By comparison, the film cost is... well, let's run the numbers. Two and a half 100' spools of B&W film, about $60. Two Costco special packs of Kodak color neg, $18. About $50 of film from <a href="http://www.yodobashi.co.jp/">Yodobashi Camera</a> (<a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=000x6f">Neopan Super Presto</a> for $3 a roll... couldn't resist!). Two five-liter bags of Xtol, about $16. I changed batteries, about $9. Some stop bath ($0.50). Sixty negative-sleeve pages, about $5. Process-only at the color lab, another $55. Total: about $165. Or to put it another way &#151; If I shot at this rate (around 5 rolls per day) for a year, it would be about half the cost of a Canon EOD 1Ds body (and I'd need new batteries, storage, and EOS lenses from 20mm to 85mm &#151; or 15mm to 70mm for a camera with a smaller sensor, like the EOS 1D).
 
 Then let's add the time: if I do a run each night, I should have the B&W done in a week and a half. The color neg of course will be done almost instantly, and the slides are due tomorrow. <a href="http://www.konicaphoto.co.uk/film/kifilm.htm">Konica Impresa 50 Pro</a> I ran through a lab  in Japan while testing my <a href="https://www.botzilla.com/blog/archives/000129.html">dropped lens</a> (everything was fine). Then of course I have to scan everything, at which point film pix and digital pix are on more-or-less an even footing, save for the potential hassle of spotting.

@@ -11,13 +11,13 @@ tags: [Film]
 
 While I was typing <a href="{{ site.baseurl }}{% post_url 2005-03-23-Natural-Colors %}">Pt I</a> (without even thinking that it would become Pt I), part of the paradox vexing me was there on the desk, staring intently from the cover of the January <a href="http://www.pdnonline.com/"><cite>PDN</cite></a> in the form of Jude Law, shot in classicly-crisp B&W by <a href="www.davidbaileyphotography.com/">David Bailey,</a> with the tag: "The Legends Issue." So here we have Jude Law, promoting <cite>Alfie</cite> and dressed-up in 60's Saville Row. Knockout pic, but &#151; part of The Problem of B&W Nostalgia, right?
 
+<!--more-->
 The "Legends" in PDN have a little gallery <a href="http://www.pdnonline.com/photodistrictnews/feature/article_display.jsp?vnu_content_id=1000768964">here</a> &#151; Bailey, <a href="http://digitaljournalist.org/issue0205/donna_intro.htm">Donna Ferrato</a>, <a href="http://www.brown.edu/Facilities/David_Winton_Bell_Gallery/lyon.html">Danny Lyon</a>, and <a href="http://www.junebateman.com/artists/plachy/abt.html">Sylvia Plachy.</a> Last year's Legends Issue included <a href="http://www.terra.com.br/sebastiaosalgado/">Sebastaio Salgado</a>, who was mentioned on the last post's comments. 
 
 Such "Legends" present their own paradox &#151; photographers who continue to do new and inspiring work even as the world seems to be moving off in some other direction. Plachy's last couple of books, for example, have knocked me flat &#151; terrific, inspiring, humbling stuff throughout. But are artists like these exceptions partly because they can carry that history with them like a shield?
 
 The problem that was picking at me in the previous entry really was: <i>where are the great new B&W photographers?</i>
 
-<!--more-->
 I admit, I'm showing some awkward bias here. Why is <i>new</i> so important? Maybe it's not. There are plenty of folks for whom pictures are pictures. The subject of my pondering is black and white work that isn't the continuation of work begun long ago, and simultaneously work that doesn't lean so heavily on nostalgia for its interest and authority. As the ever-contentious <a href="http://www.beeflowers.com/">Bee</a> pointed out, for him all B&W that he sees these days he considers "morally suspect." As much as I hate it, I'm more than a little inclined to agree with him.
 
 Years ago Walker Evans derided color, saying it "sentimentalized" images. He chose not to use it. Today, due to changing fashion, it seems like it's B&W that all too often sentimentalizes.

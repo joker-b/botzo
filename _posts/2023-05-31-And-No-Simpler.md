@@ -18,37 +18,29 @@ There are _many_ tricks and video methods in <a href="https://help.na.panasonic.
 
 <!--more-->
 
-1. Obviously you'll need a **mount adapter.** I bought the Leica one, others may be okay. When it's connected, the camera automatically knows to use manual focus mode. To make the experience more M-like:
+<ol><li>Obviously you'll need a <b>mount adapter.</b> I bought the Leica one, others may be okay. When it's connected, the camera automatically knows to use manual focus mode. To make the experience more M-like:</li>
+<li><b>Close the flippy screen.</b></li>
+<li><b>Swap the functions of the front and back dials, so the shutter speeds are on the front:</b> instead of the default video-style setting, which puts the aperture on front dial and shutter on the back. For M lenses, you're setting aperture on the lens, not on the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement).<br />To swap the dials (this is the _only_ deep menu-dive in this guide), press <br/>&nbsp;&nbsp;<b>MENU->Gear Icon->Dial Icon->"Dial Set."</b> and then <br/>&nbsp;&nbsp;<b>"Assign Dial (F/SS)"</b> and choose <br/>&nbsp;&nbsp;<b>"SET 3".</b></li></ol>
 
-1. **Close the flippy screen.**
-
-2. **Swap the functions of the front and back dials, so the shutter speeds are on the front:** instead of the default video-style setting, which puts the aperture on front dial and shutter on the back. For M lenses, you're setting aperture on the lens, not on the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement).
-
-To swap the dials (this is the _only_ deep menu-dive in this guide), press <br/>&nbsp;&nbsp;**MENU->Gear Icon->Dial Icon->"Dial Set."** and then <br/>&nbsp;&nbsp;**"Assign Dial (F/SS)"** and choose <br/>&nbsp;&nbsp;**"SET 3".**
-
-That's most all you need, really. Anything past this is
+That's all you need, really. Anything past this is...
 
 ### Bonus Round: 
 
 Of course, anything can be improved. For a bit of optional polish, to keep your eye at the viewfinder while shooting, rather than looking at menus:
 
-* For manual focusing, **zoom the "punch-in" magnifier all the way in:** press the magifier button (AF pattern, a rectangle with a little cross inside) and then using the dials (there's an on-screen guide) zoom it in to maximum (6x) magnification. Just leave the magnification at 6x  from now on.
+<ul><li>For manual focusing, <b>zoom the "punch-in" magnifier all the way in:</b> press the magifier button (AF pattern, a rectangle with a little cross inside) and then using the dials (there's an on-screen guide) zoom it in to maximum (6x) magnification. Just leave the magnification at 6x  from now on.</li>
+<li>The <b>exposure preview</b> button, on the front of the camera near your right middle or ring finger: I like having "shutter speed preview" set to ON. Poke the button repeatedly if you want to alter it, then leave it alone.</li></ul>
 
-* The **exposure preview** button, on the front of the camera near your right middle or ring finger: I like having "shutter speed preview" set to ON. Poke the button repeatedly if you want to alter it, then leave it alone.
-
-I use four **custom "Fn" button settings** for manual photography. Specifically, the otherwise-unassigned directional buttons embedded in the large dial around MENU button at the back. Once set, they're easy to use without having to look away from the viewfinder.
+I use four <b>custom "Fn" button settings</b> for manual photography. Specifically, the otherwise-unassigned directional buttons embedded in the large dial around MENU button at the back. Once set, they're easy to use without having to look away from the viewfinder.
 
 You can assign each Fn button by pressing it for a couple of seconds: when a menu appears, select the feature you like and touch MENU to save your selection.
 
-* The "up" button to control the **Metering Mode:** spot, average, etc.
+<ul><li>The "up" button to control the <b>Metering Mode:</b> spot, average, etc.</li>
+<li>The "right" button to call up or dismiss a live <b>Histogram</b> (it's usually off).</li>
+<li>The "left" button to call up the <b>Lens Information</b> display -- this is a list of lenses you can assign to the one(s) you commonly use, including a name that will be written into the EXIF of your image files.</li>
+<li>The "down" button: <b>Focus Peaking ON/OFF.</b> Focus peaking is great, except when it's distracting. Which is a lot of the time (especially if you're shooting with wide lenses or at, say ƒ/11 instead of ƒ/2). By placing the on/off control at your thumb, peaking is very quick and easy in operation -- unlike using the M Visoflex that requires taking the camera away from your eye and finding the setting in a menu.</li></ul>
 
-* The "right" button to call up or dismiss a live **Histogram** (it's usually off).
-
-* The "left" button to call up the **Lens Information** display -- this is a list of lenses you can assign to the one(s) you commonly use, including a name that will be written into the EXIF of your image files.
-
-* The "down" button: **Focus Peaking ON/OFF.** Focus peaking is great, except when it's distracting. Which is a lot of the time (especially if you're shooting with wide lenses or at, say ƒ/11 instead of ƒ/2). By placing the on/off control at your thumb, peaking is very quick and easy in operation -- unlike using the M Visoflex that requires taking the camera away from your eye and finding the setting in a menu.
-
-You've reached the end! **_That's the entire guide._**
+You've reached the end! <b>_That's the entire guide._</b>
 
 <figure class="align-center">
 <img alt="Back dial function" src="https://www.botzilla.com/pix2023/s5ii-function-circle.jpg">

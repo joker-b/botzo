@@ -6,6 +6,8 @@ tags: [Books]
 ---
 Yesterday I received a Fedex envelope from Mexico, and within it was a bright yellow giftwrap containing a shrinkwrap containing [Mark Alor Powell's](http://www.markalor.com/daypops/1/) book [_V.I.P._](http://2point8.whileseated.org/?p=112) (Mark is also known as ["locaburg"](http://www.flickr.com/photos/locaburg/) on flickr). It's only March but I'm considering it a Best of 2007 already.
 
+<!--more-->
+
 At least I managed to pull-open the shrinkwrap! Far too often in 2006, I compulsively purchased books that never had much of a life past the point of purchase. This is especially true of art books that I purchased while traveling. I like the _idea_ of buying local-artist books, but when it comes to taking the time to dig into them.... they often get the short shrift.
 
 Part of this may be that when I'm heading home they get buried in my luggage, then once home they go straight to the bookshelves where they're forgotten. But I'm making excuses. A lot of them sit out in plain sight for a long while.

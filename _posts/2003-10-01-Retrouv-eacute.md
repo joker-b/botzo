@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retrouv&eacute;"
-categories: [Gearhead, Zeiss]
+categories: [GearHead]
 ---
 
 

@@ -13,6 +13,8 @@ I thought of using the photo at right &#151; already posted in this journal <a h
 
 An object lesson in impermanence, pride turned quickly to humiliation by a few errant lines of bad code.
 
+<!--more-->
+
 Putting it in a print, I thought, might make some faintly-ironic statement about the fragilty of the web, its mercurial nature and the perhaps unfounded faith we place in it &#151; replaced by a stiff archival chunk of heavy stock.
 
 But I've since realized that it would be an empty gesture. Few had seen the photo in the first place, the irony would be lost. Pick a different shot.

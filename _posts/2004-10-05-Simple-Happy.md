@@ -13,6 +13,8 @@ Today:
 
 Two new PDF books from <a href="http://www.bumbutz.com" target="cosmin">Cosmin Bumbut</a> (you know, the <a href="/blog/archives/000063.html" target="cosmin">7 days</a> guy who also cropped-up later on in <a href="http://www.lenswork.com/lwqindex2003.htm##50" target="cosmin"><cite>Lenswork</cite></a>): <a href="http://editura.liternet.ro/carte.php?carte=104" target="cosmin"><cite>Tilted Land</cite></a> and <a href="http://editura.liternet.ro/carte.php?carte=98" target="cosmin"><cite>Dimineti</cite></a>
 
+<!--more-->
+
 Multiple hand-picked drip and espresso selections at <a href="http://www.barefootcoffeeroasters.com/" target="feet">Barefoot Coffee</a> with Courtney, under the supervision of BF's Andy.
 
 The ongoing household purge, emptying another massive bag of trash from the shelves and closets (including the last five yours or so of <a href="http://www.pdnonline.com/photodistrictnews/index.jsp" target="_blank">PDN</a> magazine &#151; I tore an article out of most every issue, more or less, but the rest got chucked: reduced the stack by over 90%. A good rag, but one that has a hard time acknowledging that artwork has any purpose other than sales).

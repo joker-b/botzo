@@ -14,15 +14,16 @@ To get on with things:
 
 &#149; <i>"To photograph is to hold one's breath, when all faculties converge to  capture fleeting reality. It's at that precise moment that mastering an  image becomes a great physical and intellectual joy."
  
-"Photography has not changed since its origin except in its technical aspects, which for me are not important."
+"Photography has not changed since its origin except in its technical aspects, which for me are not important."</i>
  
-"Photography appears to be an easy activity; in fact it is a varied andambiguous process in which the only common denominator among its  practitioners is in the instrument."
+
+<!--more-->
+
+<i>"Photography appears to be an easy activity; in fact it is a varied andambiguous process in which the only common denominator among its  practitioners is in the instrument."
  
 "Photographers deal in things which are continually vanishing and when  they have vanished there is no contrivance on earth which can make them come back again."
 
 "Reality offers us such wealth that we must cut some of it out on the spot, simplify. The question is, do we always cut out what we should?  While we're working, we must be conscious of what we're doing. Sometimes we have the feeling that we've taken a great photo, and yet we continue to unfold. We must avoid however, snapping away, shooting quickly and without thought, overloading ourselves with unnecessary images that clutter our memory and diminish the clarity of the whole."
-
-<!--more-->
 
 "Of all the means of expression, photography is the only one that fixes a precise moment in time. We play with subjects that disappear; and when they're gone, it's impossible to bring them back to life. We can't alter our subject afterward.... Writers can reflect before they put words on paper.... As photographers, we don't have the luxury of this reflective time....We can't redo our shoot once we're back at the hotel. Our job consists of observing reality with help of our camera (which serves as a kind of sketchbook), of fixing reality in a moment, but not manipulating it, neither during the shoot nor in the darkroom later on. These types of manipulation are always noticed by anyone with a good eye."
 
