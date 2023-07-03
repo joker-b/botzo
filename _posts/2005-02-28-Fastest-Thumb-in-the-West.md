@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West: The Story of the Contax Kid"
 categories: [GearHead]
-tags: [Contax,Film]
+tags: [Contax, Zeiss, Film]
 ---
 
 
