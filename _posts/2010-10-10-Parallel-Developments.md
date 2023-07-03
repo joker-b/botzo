@@ -2,7 +2,7 @@
 layout: post
 title: "Parallel Developments"
 categories: [PhotoRant]
-tags: [Painting, Exhibits, Books, 3D, Games]
+tags: [Books]
 ---
 
 

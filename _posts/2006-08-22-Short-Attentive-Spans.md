@@ -2,7 +2,7 @@
 layout: post
 title: "Short, Attentive Spans"
 categories: [Desk]
-tags: [3D, Books, Painting, Poetry, NVIDIA]
+tags: [Books]
 ---
 When we lived in Hawaii I enjoyed what seemed like a relatively short commute: only twenty minutes from Leeward to Windward sides of Oahu, traffic permitting. I could have the sunrise over the sea going in and up the Pali, and the sunset over the sea driving back away from the harbor.
 

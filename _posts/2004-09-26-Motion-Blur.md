@@ -2,7 +2,7 @@
 layout: post
 title: "Tokyo Motion Blur"
 categories: [fStop]
-tags: [Canon,Contax,Analog,Japan]
+tags: [Film]
 ---
 
 

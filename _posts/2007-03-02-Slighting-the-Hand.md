@@ -2,8 +2,8 @@
 layout: post
 title: "Slighting the Hand"
 categories: [PhotoRant]
-tags: [TechBiz, Media, 3D, Evolution, Painting]
 ---
+
 Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one below, which he asserts represents the "traditional" value curve associated with industrial products:
 
 ![GodinChart1957.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg' | absolute_url }}){: .align-center}

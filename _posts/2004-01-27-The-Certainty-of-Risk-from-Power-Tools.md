@@ -2,7 +2,7 @@
 layout: post
 title: "The Certainty of Risk from Power Tools"
 categories: [PhotoRant]
-tags: [Books, Photojournalism, Critique]
+tags: [Books]
 ---
 
 

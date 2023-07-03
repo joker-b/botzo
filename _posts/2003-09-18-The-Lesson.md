@@ -2,7 +2,6 @@
 layout: post
 title: "The Lesson"
 categories: [fStop]
-tags: [Japan, Photojournalism]
 ---
 
 

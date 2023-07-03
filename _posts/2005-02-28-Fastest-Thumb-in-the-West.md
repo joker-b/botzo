@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West: The Story of the Contax Kid"
 categories: [GearHead]
-tags: [Tools, Contax,Rangefinder,Leica,Analog,Film,Review,Zeiss,Lenses,Methods]
+tags: [Contax, Zeiss, Film]
 ---
 
 

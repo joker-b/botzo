@@ -2,7 +2,7 @@
 layout: post
 title: "Mr Merton is the Subject of My Sentence"
 categories: [Desk]
-tags: [Books, Movies]
+tags: [Books]
 ---
 Social scientists, take note:
 

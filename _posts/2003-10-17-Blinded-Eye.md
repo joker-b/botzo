@@ -2,7 +2,6 @@
 layout: post
 title: "Blinded Eye"
 categories: [Desk]
-tags: [Korea, War, TechBiz, Photojournalism]
 ---
 
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Stereo at GDC"
 categories: [Hacking]
-tags: [3D, Stereo, Conference, Games, NVIDIA]
 ---
 
 

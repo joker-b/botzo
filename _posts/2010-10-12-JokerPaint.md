@@ -2,7 +2,7 @@
 layout: post
 title: "JokerPaint"
 categories: [Hacking]
-tags: [Books, Tools, Painting]
+tags: [Books]
 ---
 
 

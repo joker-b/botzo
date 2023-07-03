@@ -2,7 +2,6 @@
 layout: post
 title: "Sepia Blues"
 categories: [GearHead]
-tags: [B&W, Methods, Digital, Lumix, Photoshop]
 ---
 
 

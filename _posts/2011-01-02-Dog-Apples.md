@@ -2,7 +2,6 @@
 layout: post
 title: "Dog Apples"
 categories: [PhotoRant]
-tags: [3D,Digital,Painting, Exhibits]
 ---
 
 

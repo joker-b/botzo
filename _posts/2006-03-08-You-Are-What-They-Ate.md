@@ -2,7 +2,6 @@
 layout: post
 title: "You Are What They Ate"
 categories: [Desk]
-tags: [Media, Policy, History]
 ---
 
 

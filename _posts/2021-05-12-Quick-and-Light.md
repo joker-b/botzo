@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-2021-05_08-BirdClub-025.jpg
 categories: [GearHead]
-tags: [Film, Flash, Analog, Leica, Review, Contax]
+tags: [Film, Leica, Fujifilm, Contax]
 ---
 
 <!-- Visitor above the bird feeders. -->

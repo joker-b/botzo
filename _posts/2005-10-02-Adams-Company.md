@@ -2,7 +2,6 @@
 layout: post
 title: "Adams & Company"
 categories: [PhotoRant]
-tags: [3D, Exhibits, Museum]
 ---
 Friday saw the members' reception for the new SFMOMA Photo Exhibit, <a href="http://www.sfmoma.org/exhibitions/exhib_detail.asp?id=188"><b>Robert Adams:</b> Turning Back.</a> I missed my friend Graham but did run into a pair of double former colleagues, Matt Pharr & Craig Kolb; like myself veterans of both NVIDIA and Pixar (though I'm still at NVIDIA every day, thank you). As it happens, Craig's wife <a href="http://sfmoma.com/press/pressroom.asp?arch=y&id=190">Corey</a> is one of the curators for photography, and besides having mysterious powers over the bartenders, she also introduced me directly to Sandra Philips, senior curator of photography, whom I'd seen at events but never met (Sandy had introduced Eikoh Hosoe last week, for example &#151; a role she regularly assumes for PhotoAlliance, which I had thought was simply due not to her official station but to her obvious personal knowledge and appreciation of, and friendship to, Hosoe).
 

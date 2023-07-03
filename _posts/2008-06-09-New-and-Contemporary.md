@@ -5,7 +5,6 @@ categories: [PhotoRant]
 image:
     path: https://www.botzilla.com/blog/pix2008/P1000352.jpg
     thumbnail: https://www.botzilla.com/blog/pix2008/P1000352.jpg
-tags: [Exhibits, B&W, Methods, Flickr, History]
 ---
 
 There is little that can lead you to treasure good photography more than to look at a lot of bad photography, interspersed with an occasional gem. Which is exactly what I was doing a few weeks ago on (where else?) flickr, where I was editing group pools.

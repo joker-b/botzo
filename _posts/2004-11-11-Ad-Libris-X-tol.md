@@ -2,7 +2,7 @@
 layout: post
 title: "Ad Libris, X-tol"
 categories: [fStop]
-tags: [Leica,Books,Film,Analog,Darkroom,Korea]
+tags: [Film]
 ---
 
 

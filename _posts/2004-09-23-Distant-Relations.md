@@ -2,7 +2,7 @@
 layout: post
 title: "Distant Relations"
 categories: [PhotoRant]
-tags: [Canon, Contax, Japan, Methods, Photojournalism,Film, Silicon Valley]
+tags: [Film]
 ---
 
 

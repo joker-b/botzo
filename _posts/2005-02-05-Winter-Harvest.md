@@ -2,7 +2,6 @@
 layout: post
 title: "Winter Harvest"
 categories: [fStop]
-tags: [Digital, Methods]
 ---
 
 

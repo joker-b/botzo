@@ -2,7 +2,7 @@
 layout: post
 title: "Tonjoubi Omedetou"
 categories: [fStop]
-tags: [Contax,Analog,Japan, Scanning, Photojournalism, Film]
+tags: [Film]
 ---
 
 

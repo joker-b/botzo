@@ -2,7 +2,7 @@
 layout: post
 title: "Memory Pool"
 categories: [PhotoRant]
-tags: [Analog,Neopan, History, Photojournalism, Books, B&W]
+tags: [Film, Books]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "All Nature Shall Paint Herself"
 categories: [PhotoRant]
-tags: [Books, History]
+tags: [Books]
 ---
 
 <img src="https://www.botzilla.com/img/pix2019/bjorke_LXSonomaRide_P1090004.jpg" class="align-center"  />

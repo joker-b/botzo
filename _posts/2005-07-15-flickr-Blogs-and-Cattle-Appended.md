@@ -2,7 +2,6 @@
 layout: post
 title: "flickr, Blogs, and Cattle (Appended)"
 categories: [PhotoRant]
-tags: [Photojournalism, Digital, Exhibits, Media, Markets, Flickr, TechBiz, Copyright]
 ---
 
 

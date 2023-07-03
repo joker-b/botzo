@@ -2,7 +2,7 @@
 layout: post
 title: "Is Photography Inherently Humanizing? (3 of 3)"
 categories: [PhotoRant]
-tags: [Photojournalism, Portrait, Media, War, Policy, Books, Featured]
+tags: [Books, Featured]
 ---
 <!-- <i>I've been in Seattle for the past couple of days, attending and speaking at the <a href="https://www.gamedeveloper.com/pc/ogdc-announces-call-for-submissions">Online Games Developer Conference.</a></i> -->
 

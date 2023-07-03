@@ -2,7 +2,6 @@
 layout: post
 title: "KID Stuff Update"
 categories: [Hacking]
-tags: [Robot, Hardware]
 ---
 
 

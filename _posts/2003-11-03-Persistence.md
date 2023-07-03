@@ -2,7 +2,7 @@
 layout: post
 title: "Persistence"
 categories: [PhotoRant]
-tags: [Exhibits, Photojournalism, Analog, B&W]
+tags: [Film]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Stinky Fingers, 2003"
 categories: [fStop]
-tags: [Analog, Darkroom, Japan, Scanning, Printing, Photoshop, Agfa, Neopan]
+tags: [Film]
 ---
 
 

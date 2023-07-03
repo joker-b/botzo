@@ -2,7 +2,7 @@
 layout: post
 title: "Kevin's blog"
 categories: [PhotoRant]
-tags: [Methods, Art Theory, Exhibits, Books, Education]
+tags: [Books]
 ---
 
 

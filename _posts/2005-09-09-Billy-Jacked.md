@@ -2,7 +2,7 @@
 layout: post
 title: "Billy-Jacked: Mortensen's Stand Method"
 categories: [PhotoRant]
-tags: [Analog,Darkroom,Books,Bronica, Medium Format, Scanning, Film, B&W, Methods, Portrait, Agfa, Neopan]
+tags: [Film]
 ---
 
 

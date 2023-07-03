@@ -2,7 +2,6 @@
 layout: post
 title: "Back to China"
 categories: [fStop]
-tags: [China]
 ---
 
 

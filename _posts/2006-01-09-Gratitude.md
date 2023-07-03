@@ -2,7 +2,7 @@
 layout: post
 title: "Gratitude"
 categories: [fStop]
-tags: [Books, Philosophy, Methods]
+tags: [Books]
 ---
 
 

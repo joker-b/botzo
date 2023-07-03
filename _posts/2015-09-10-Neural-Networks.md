@@ -2,7 +2,7 @@
 layout: post
 title: "Neural Networks"
 categories: [fStop]
-tags: [Machine Learning,Neurography]
+tags: [Neurography]
 ---
 
 

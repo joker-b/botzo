@@ -2,7 +2,6 @@
 layout: post
 title: "Artista Studio"
 categories: [PhotoRant]
-tags: [Media, Photojournalism, Painting, Portrait, History, Flickr]
 ---
 
 

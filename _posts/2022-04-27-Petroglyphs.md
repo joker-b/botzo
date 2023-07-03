@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
 categories: [fStop]
-tags: [Sketchbook, B&W]
+tags: [Sketchbook]
 slides: [ [ pix2022/petro/bjorke_NM_DSCF7400.jpg, the hotel ],
    [ pix2022/petro/bjorke_NM_DSCF7491.jpg, the message ],
    [ pix2022/petro/bjorke_NM_DSCF7461.jpg, the museum ],

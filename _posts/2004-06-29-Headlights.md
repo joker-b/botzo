@@ -2,7 +2,6 @@
 layout: post
 title: "Headlights"
 categories: [fStop]
-tags: [Flash, Links]
 ---
 
 

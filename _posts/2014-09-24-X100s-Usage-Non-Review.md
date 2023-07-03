@@ -2,7 +2,7 @@
 layout: post
 title: "X100s: Usage & Non-Review"
 categories: [GearHead]
-tags: [Leica,Fujifilm,Liquidity,LiquiditySF,Review]
+tags: [Liquidity]
 ---
 ![Market and Powell]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR8806.jpg' | absolute_url }})
 

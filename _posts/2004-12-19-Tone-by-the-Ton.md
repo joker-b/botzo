@@ -2,7 +2,7 @@
 layout: post
 title: "Tone by the Ton"
 categories: [fStop]
-tags: [Darkroom, Yashica, Medium Format, B&W, Printing, Scanning, Agfa]
+tags: [Film]
 ---
 
 
