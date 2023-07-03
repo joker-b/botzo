@@ -62,14 +62,17 @@ h1 {
 
 h2 {
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  margin-bottom: 0.6rem; /* dicey way to override? */
 }
 
 h3 {
   @include fluid-type($min-vw, $max-vw, $h3-min, $h3-max);
+  margin-bottom: 0.6rem; /* dicey way to override? */
 }
 
 h4 {
   @include fluid-type($min-vw, $max-vw, $h4-min, $h4-max);
+  margin-bottom: 0.6rem; /* dicey way to override? */
 }
 
 h5 {
