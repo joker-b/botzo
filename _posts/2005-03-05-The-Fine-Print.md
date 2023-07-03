@@ -2,7 +2,7 @@
 layout: post
 title: "The Fine Print"
 categories: [fStop]
-tags: [Analog,Printing, Contax, Zeiss, Lenses, Yashica, Medium Format, Exhibits]
+tags: [Film]
 ---
 
 

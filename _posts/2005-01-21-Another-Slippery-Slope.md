@@ -2,7 +2,7 @@
 layout: post
 title: "Another Slippery Slope"
 categories: [fStop]
-tags: [Analog,Kodak,Neopan,Darkroom, Scanning]
+tags: [Film]
 ---
 
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Toronto Contact Photo 2008"
 categories: [PhotoRant]
-tags: [Canon,Analog,Exhibits,Printing,Canada]
 ---
 
 

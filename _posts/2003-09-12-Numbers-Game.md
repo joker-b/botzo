@@ -2,7 +2,7 @@
 layout: post
 title: "Numbers Game"
 categories: [GearHead]
-tags: [Analog,Kodak,Neopan,Darkroom,Methods]
+tags: [Film]
 ---
 <i>Three rolls TMX, 9.5 mins Xtol 1+1 @ 20C. That leaves 42 rolls of black &amp; white unprocessed, and a color lab backlog of an additional 18 rolls &#151; I'm guessing almost 2000 frames shot over the past couple of weeks.</i>
 

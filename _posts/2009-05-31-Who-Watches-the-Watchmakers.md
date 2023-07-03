@@ -2,7 +2,6 @@
 layout: post
 title: "Who Watches the Watchmakers?"
 categories: [Desk]
-tags: [Religion, England, Spain]
 ---
 
 

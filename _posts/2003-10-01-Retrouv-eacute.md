@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Retrouv&eacute;"
-categories: [fStop]
-tags: [Canon, Contax, Rangefinder, Lenses]
+categories: [Gearhead]
 ---
 
 

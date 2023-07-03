@@ -2,7 +2,6 @@
 layout: post
 title: "White Xmas"
 categories: [fStop]
-tags: [Minneapolis]
 ---
 
 
