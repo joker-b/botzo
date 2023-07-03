@@ -2,7 +2,6 @@
 layout: post
 title: "Frustrating Choices"
 categories: [GearHead]
-tags: [B&W]
 published: false
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Filing Systems: The Virus"
 categories: [Hacking]
-tags: [Digital, Media, Links]
 ---
 So during the <a href="http://www.sfbaybloggers.com/">South Bay Bloggers'</a> Meetup on Tuesday Night, I discovered a new sport: <i>Google Voyeur.</i>
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Stevens Creek"
 categories: [fStop]
-tags: [Silicon Valley]
 ---
 
 

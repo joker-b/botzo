@@ -2,7 +2,6 @@
 layout: post
 title: "Cardiac Unit"
 categories: [fStop]
-tags: [Silicon Valley]
 ---
 
 

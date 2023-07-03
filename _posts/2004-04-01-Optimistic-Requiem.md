@@ -2,7 +2,7 @@
 layout: post
 title: "Optimistic Requiem"
 categories: [PhotoRant]
-tags: [Photojournalism, B&W, Books]
+tags: [Books]
 ---
 
 ![]({{ 'https://www.botzilla.com/bpix/mem_mori.jpg' | absolute_url }}){: .align-right}

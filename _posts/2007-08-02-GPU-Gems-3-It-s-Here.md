@@ -2,7 +2,7 @@
 layout: post
 title: "GPU Gems 3 - It's Here!"
 categories: [Hacking]
-tags: [3D,Digital,Books]
+tags: [Books]
 ---
 
 

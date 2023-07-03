@@ -2,7 +2,6 @@
 layout: post
 title: "Hitched, Watsonville"
 categories: [fStop]
-tags: [Silicon Valley]
 ---
 
 

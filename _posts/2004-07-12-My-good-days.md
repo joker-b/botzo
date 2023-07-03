@@ -2,7 +2,6 @@
 layout: post
 title: "My good days..."
 categories: [Desk]
-tags: [3D]
 ---
 
 

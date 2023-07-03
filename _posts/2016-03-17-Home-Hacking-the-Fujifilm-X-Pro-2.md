@@ -2,6 +2,7 @@
 layout: post
 title: "Home-Hacking the Fujifilm X-Pro-2"
 categories: [GearHead]
+tags: [Fujifilm]
 ---
 
 

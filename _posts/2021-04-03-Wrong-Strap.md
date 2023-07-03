@@ -6,7 +6,6 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-pxl-straps.jpg
 categories: [GearHead]
-tags: [Leica, Fujifilm]
 ---
 
 What if the whole world really is... wrong?

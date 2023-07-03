@@ -2,7 +2,6 @@
 layout: post
 title: "More Concrete"
 categories: [PhotoRant]
-tags: [Photojournalism]
 ---
 
 

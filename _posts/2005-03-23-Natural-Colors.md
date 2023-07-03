@@ -2,7 +2,6 @@
 layout: post
 title: "Natural Colors"
 categories: [PhotoRant]
-tags: [B&W, Photojournalism, Analog, Leica]
 ---
 
 

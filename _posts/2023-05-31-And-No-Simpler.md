@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_MBlog__XPK4465b.jpg
 categories: [GearHead]
+tags: [Leica, Zeiss]
 ---
 
 ...and no simpler.

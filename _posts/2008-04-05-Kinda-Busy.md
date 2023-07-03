@@ -2,7 +2,6 @@
 layout: post
 title: "Kinda Busy"
 categories: [Desk]
-tags: [Digital]
 ---
 
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Double Teamed"
 categories: [PhotoRant]
-tags: [3D]
 ---
 
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Natural Colors Part 3 (and counting)"
 categories: [PhotoRant]
-tags: [Analog, B&W]
 ---
 
 

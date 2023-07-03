@@ -2,7 +2,6 @@
 layout: post
 title: "Filing Systems"
 categories: [PhotoRant]
-tags: [Methods]
 ---
 
 

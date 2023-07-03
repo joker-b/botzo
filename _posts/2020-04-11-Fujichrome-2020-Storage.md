@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/pix2020/P1090143-p20.JPG
   thumbnail: https://www.botzilla.com/pix2020/P1090143-p20.JPG
 categories: [GearHead]
+tags: [Fujifilm]
 ---
 
 It's been almost three years since the <a href="{{ site.baseurl }}{% post_url 2017-07-19-The-New-Fuji-Chrome-Fujifilm-X-and-Chromebook %}">previous post on using a Chromebook with Fujifilm cameras.</a> How are things today, in 2020, after several newly-released cameras, OS editions, and improved Chromebooks? What about... iPad? Have other camera brands started to catch up?
