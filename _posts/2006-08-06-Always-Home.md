@@ -2,7 +2,6 @@
 layout: post
 title: "Always Home"
 categories: [Desk]
-tags: [Policy, Silicon Valley]
 ---
 
 

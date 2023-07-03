@@ -2,7 +2,7 @@
 layout: post
 title: "More Delta"
 categories: [GearHead]
-tags: [Analog, Film, Darkroom, Ilford, San Francisco]
+tags: [Film]
 ---
 
 

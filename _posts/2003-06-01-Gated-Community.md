@@ -2,7 +2,7 @@
 layout: post
 title: "Gated Community"
 categories: [PhotoRant]
-tags: [Analog, Film, Books, San Francisco]
+tags: [Film]
 ---
 
 

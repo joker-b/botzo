@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke-elegant-octo.jpg
 categories: [fStop]
-tags: [Machine Learning, Neurography, Math]
+tags: [Neurography]
 ---
 
 Been away for a few weeks: in the meanwhile, my computers have been happily synthesizing.

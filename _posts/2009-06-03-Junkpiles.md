@@ -2,7 +2,6 @@
 layout: post
 title: "Junkpiles"
 categories: [Hacking]
-tags: [Robot, Hardware]
 ---
 
 

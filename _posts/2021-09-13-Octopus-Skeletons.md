@@ -9,7 +9,7 @@ image:
 
 
 categories: [fStop]
-tags: [Machine Learning, Neurography, Math]
+tags: [Neurography]
 ---
 
 More CLIP-Guided VQGAN. I like that it can guess at how to draw things that might not exist in nature: in this case, a 19-century textbook illustration about drying octopus bones on the shore at Marseille.

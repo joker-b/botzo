@@ -9,7 +9,7 @@ image:
 
 
 categories: [fStop]
-tags: [Machine Learning, Neurography, Math]
+tags: [Neurography]
 ---
 
 This image is synthesized using the Flickr <a href="https://github.com/NVlabs/ffhq-dataset">"Faces HQ" dataset.</a> This entry's listicle-tease text supplied by <a href="https://github.com/kingoflolz/mesh-transformer-jax">GPT-J</a> based on the same bold-text prompt:

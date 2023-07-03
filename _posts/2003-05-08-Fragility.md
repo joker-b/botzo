@@ -2,7 +2,7 @@
 layout: post
 title: "Fragility"
 categories: [PhotoRant]
-tags: [Contax, Film, Flash, Analog, England, Printing]
+tags: [Film]
 ---
 
 

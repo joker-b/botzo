@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the Delta"
 categories: [fStop]
-tags: [Analog, Neopan, Darkroom, Ilford, Agfa]
+tags: [Film]
 ---
 
 
