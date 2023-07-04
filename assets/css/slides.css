@@ -12,7 +12,12 @@
   max-width: 1000px;
   position: relative;
   margin: auto;
+  aspect-ratio: 1.5;
 }
+
+/* .slideshow-container > img {
+  object-fit: cover;
+} */
 
 /* Hide the images by default */
 .mySlides {
