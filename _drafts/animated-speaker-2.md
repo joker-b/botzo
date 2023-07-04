@@ -3,7 +3,6 @@
 layout: post
 title: "Animated Speaker, Part One"
 categories: [The Open Conspiracy]
-tags: [Books, Machine Learning]
 ---
 
 And yet...

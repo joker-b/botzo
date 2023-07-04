@@ -5,7 +5,6 @@ categories: [PhotoRant]
 image:
   path: https://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_F11_KBXP1291-2021.jpg
-tags: [Algorithms, Economics]
 ---
 
 <a href="https://www.instagram.com/p/BPJUpRTAtij/">跑馬地</a> : Happy Valley Ding Ding

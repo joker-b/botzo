@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "NYC: The Center of Entropy"
-categories: [Botzilla]
-tags: [Javascript, Algorithms, Machine Learning]
+categories: [Desk]
 ---
 
 Why do NYC and LA have area codes 212 and 213? Why is Tulsa 918?

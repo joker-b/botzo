@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_2021-03-20-F2-046.jpg
 categories: [fStop]
-tags: [PhotoRant, Analog, Contax]
+tags: [Contax, Film, Zeiss]
 ---
 
 The first roll of film through this camera was a revelation, even before I'd printed a single frame. Then, as now, I liked to do my own black and white processing. I remember raising the uncut negatives to the light for a quick once-over view. I hadn't really expected to see much more than if they were properly exposed. What I was surprised to immediately see was the pop: crisp razored contrastiness of the frames, depth and clarity, even in the neg. I knew the Zeiss lenses would be good, but hadn't anticipated that they'd leave all other 35mm glass so far behind.

@@ -4,8 +4,7 @@ title: "Shelter Order, Day 17"
 image:
   path: https://www.botzilla.com/pix2020/20200403_153851_Shelter.jpg
   thumbnail: https://www.botzilla.com/pix2020/20200403_153851_Shelter.jpg
-categories: [fStop, Botzilla]
-tags: [Epidemic, Fujifilm]
+categories: [Sketchbook]
 ---
 
 Bicycling today.

@@ -2,7 +2,6 @@
 layout: post
 title: "Das Kapital"
 categories: [The Open Conspiracy]
-tags: [Javascript, Algorithms, Machine Learning]
 ---
 
 When is Capitalism not Capitalism?

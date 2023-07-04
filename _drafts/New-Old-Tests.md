@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_Oldies_XEKB0345_pair.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_Oldies_XEKB0345_pair.jpg
 categories: [fStop]
-tags: [Sonoma, PhotoRant, Analog]
+tags: [Sonoma, Film]
 ---
 
 You found your mom's old Minolta, or bought a fourth-hand on Ebay. How can you know if this new old camera is any good?

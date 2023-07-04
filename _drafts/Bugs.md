@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/tiny-port-1.jpg
   thumbnail: https://www.botzilla.com/pix2023/tiny-port-1.jpg
 categories: [Photorant]
-tags: [Machine Learning, Neurography, Math]
+tags: [Neurography]
 ---
 
 In the present moment:

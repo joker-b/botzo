@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
 categories: [fStop]
-tags: [Sketchbook, Grayscale]
+tags: [Sketchbook]
 slides: [ [ https://www.botzilla.com/pix2022/senti/408_0869],
   [ https://www.botzilla.com/pix2022/senti/409_0967.jpg],
   [ https://www.botzilla.com/pix2022/senti/388_8846.jpg],

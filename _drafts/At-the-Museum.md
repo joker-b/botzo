@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2022/guopei/bjorke_GuoPei_DSCF7877c.jpg
   thumbnail: https://www.botzilla.com/pix2022/guopei/bjorke_GuoPei_DSCF7877c.jpg
 categories: [fStop]
-tags: [Sketchbook, B&W, Exhibits, Museum, Fashion, Instagram, Media, San Francisco]
+tags: [Sketchbook]
 slides: [ 
     [ pix2022/guopei/bjorke_GuoPei_DSCF7930.jpg ],
     [ pix2022/guopei/bjorke_GuoPei_DSCF7894.jpg ],

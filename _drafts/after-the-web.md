@@ -2,7 +2,6 @@
 layout: post
 title: "After the Web"
 categories: [The Open Conspiracy]
-tags: [Machine Learning]
 ---
 
 I'll let you Google it yourself: Prince's 2010 interview where he declared "the internet is completely over."
