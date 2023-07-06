@@ -38,7 +38,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 
 ---
 
-<h2>The Strobe List</h2>
+<h1>The Strobe List</h1>
 
 <div class="notice">
 <p>The following list is based on either manufacturer specs or direct measurements (To measure the trigger voltage of your own strobe, follow the instructions <a href="https://www.botzilla.com/photo/g1strobe.html">here</a>).  If you can add to this list, <a href="mailto:strobes@botzilla.com">mail me</a> your numbers, along with a description of how you obtained them (measurement, from the web, from the manufacturer, etc).</p>

@@ -128,7 +128,7 @@ If things have gone well, you can take your original chart (as created by <em>Ch
   <dd>If the printer is reasonably consistent from run to run, then absolutely yes.</dd>
 
 <dt>How do I contact you to make a report or tell you my great idea for an enhancement or to send you money?</dt>
-  <dd><em>ChartThrob is free.</em> You are, however, welcome to buy my photos. You can contact me here at PhotoRant as either 'kevin' or 'bjorke' at photorant.com.</dd>
+  <dd><em>ChartThrob is free.</em> You are, however, welcome to <a href="http://www.botzilla.com/fstop/2023/07/05/Prints.html">buy my photos.</a> You can contact me here at PhotoRant as either 'kevin' or 'bjorke' at photorant.com.</dd>
 
 <dt>How can I be notified of new versions of <em>ChartThrob?</em></dt>
    <dd>Click "Watch" on <a href="https://github.com/joker-b/ChartThrob" target="blank">the GitHub page.</a></dd>

@@ -16,6 +16,13 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   {% endif %}
 
+  <!-- Analytics? -->
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% else %}
+    <!-- no gtag in debug generation -->
+  {% endif %}
+
   <script>
     /* Cut the mustard */
     if ( 'querySelector' in document && 'addEventListener' in window ) {

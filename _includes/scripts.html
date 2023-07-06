@@ -14,17 +14,7 @@
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 {%- endif -%}
 
-{%- if jekyll.environment == 'production' and site.google_analytics -%}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4450500-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', 'UA-4450500-3');
-    </script>
-{%- endif %}
 
 {% if site.mathjax == true %}
 <!-- MathJax -->

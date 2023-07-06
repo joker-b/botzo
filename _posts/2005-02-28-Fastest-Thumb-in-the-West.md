@@ -5,30 +5,31 @@ categories: [GearHead]
 tags: [Contax, Zeiss, Film]
 ---
 
-
 ![Contax G2 the RIGHT way]({{ 'https://www.botzilla.com/pix2005/thumb.jpg' | absolute_url }})
 
 
 AF, MF, VF, SAF.
 
-After having to answer this over and over again, and <a href="http://www.apug.org/forums/showthread.php?p=103926#post103926">by request,</a> I'm making a permanent entry here on the subject of <b>fast accurate focusing with the Contax G2.</b> The next time a purist Leica collector starts up about "slow AF" (this from a guy with <i>no</i> AF), I'll at least be able to lean back and type a URL to them with a smooth, authoritarian air.
+After having to answer this over and over again, and <a href="http://www.apug.org/forums/showthread.php?p=103926#post103926">by request,</a> I'm making a permanent entry here on the subject of <b>fast accurate focusing with the <a href="https://www.botzilla.com/tags/#contax">Contax G2.</a></b> The next time a purist Leica collector starts up about "slow AF" (this from a guy with <i>no</i> AF), I'll at least be able to lean back and type this URL to them with a smooth, authoritative air.
 
 So here goes:
 
 <!--more-->
 The trick to using a G2 quickly is to _ride the AF lock button._ There, that's it. Really. Treat it a bit like you would a good EOS (Canon-speak: think "Custom Function #4," sorta).
 
-<i>It's all about the grip.</i> Keep your thumb where it gives you image-control leverage.
+<i>It's all about the grip.</i> Keep your thumb where it gives you image-control leverage. Focus, hold the button, reframe if you need to, _click._
 
 Here are the standard complaints I hear about the Contax G2: I hear them on the web, in emails, in person. The truth is they're pretty well dispatched as long as you know how to hold the camera.
 
-<ul><li>The AF is slow.</li><li>The AF is noisy.</li><li>The lens moves back and forth between shots and it causes a delay.</li><li>The AF is never as good as a good manual focus.</li><li>It's just a fancy point-n-shoot.</li><li>The manual focus is impossible to use because the distance scale is on the top of the body, rather than the viewfinder.</li><li>It's not fair that it costs 1/5 of the Leica and has such good lenses.</li><li>See? It has no red dot!</li></ul>
+<ul><li>The AF is slow.</li><li>The AF is noisy.</li><li>The lens moves back and forth between shots and it causes a delay.</li><li>The AF is never as good as a good manual focus.</li><li>It's just a fancy point-n-shoot.</li><li>The manual focus is impossible to use because the distance scale is on the top of the body, rather than the viewfinder.</li><li>It's not fair that it costs 1/5 of the Leica and has <a href="https://www.botzilla.com/tags/#zeiss">such good lenses.</a></li><li>See? It has no red dot!</li></ul>
 
-Universally, these complaints come from folks who hold the camera wrongly (if at all &#151; often such comments are prefaced with "the guy at the camera store told me...," or "I heard on photo.net..."). Part of the problem, surely, is a nearly-universal human tendency to avoid <i>any</i> sort of work and assume that if convenient technology is available, that it must be used; a attitude which is deeply wrong-headed imo.
+Universally, these complaints come from folks who hold the camera incorrectly (if at all &#151; often such comments are prefaced with "the guy at <s>the camera store</s> a meeteup told me...," or "I heard on <s>photo.net</s> reddit...").
 
-The Contax G (like the Nikon F6) <i>can</i> be used as a point-n-shoot. Sometimes that's all you need. But just because the camera can be operated by a three-year-old <i>doesn't mean that's the way it should always be used</i> (this is a problem many users have with all sorts of equipment, BTW. In the face of technology that's increasingly idiot-proofed, people often think that it gives them a free license to be an idiot, or even the belief that idiocy is required).
+Part of the problem, surely, is a nearly-universal human tendency to avoid <i>any</i> sort of work and assume that if convenient technology is available, that it must be used; a attitude which is deeply wrong-headed imo. Use the autofocus, don't let it be your boss.
 
-The solutions are actually all in the Contax manual! But bits and pieces of crucial info are scattered on odd pages. Further, the siren song of automation probably keeps a lot of folks from ever reading the Contax manual (here's a Leica advantage, all right &#151; you need to know at least a <i>little bit</i> about what you're doing before you start. The manual struggle of just loading a camera like the M7 keeps most three year olds at bay).
+<tt>&lt;rant&gt;</tt>The Contax G (like the Nikon F6) <i>can</i> be used as a point-n-shoot. Sometimes that's all you need. But just because the camera can be operated by a three-year-old <i>doesn't mean that's the way it should always be used</i> (this is a problem many users have with all sorts of equipment, BTW. In the face of technology that's increasingly idiot-proofed, people often think that it gives them a free license to be an idiot, or even the belief that idiocy is required).<tt>&lt;/rant&gt;</tt>
+
+The solutions are actually all in the Contax manual! Just hard to find. Bits and pieces of crucial info are scattered on odd pages. Further, the siren song of automation probably keeps a lot of folks from ever reading the Contax manual (here's a Leica advantage, all right &#151; you need to know at least a <i>little bit</i> about what you're doing before you start. The manual struggle of just loading a camera like the M7 keeps most three year olds at bay).
 
 <hr width="20%" align="center">
 
@@ -54,12 +55,14 @@ If instead you ride the AF lock, you would focus on the face to one side, lock t
 
 
 
-![Lock then re-compose -- just like Leica]({{ 'https://www.botzilla.com/pix2005/thumb2.jpg' | absolute_url }})
-
+<figure class="align-center">
+<img alt="M+" src="https://www.botzilla.com/pix2005/thumb2.jpg">
+<figcaption>Lock focus, then re-compose</figcaption>
+</figure>
 
 Of course, there are a few differences:
 
-<ul><li>You can use the Contax in dark conditions, especially at close range (the Contax IR will kick in and can focus in complete darkness. You can shoot, if you have a strobe).</li><li>You can use it with <i>one hand</i> &#151; even wearing <a href="{{ site.baseurl }}{% post_url 2005-01-21-Another-Slippery-Slope %}">winter gloves.</a></li><li>You can use it in a pinch <i>without even looking through the VF</i> (takes a little practice, but the Contax is a terrific hipshooter).</li></ul>
+<ul><li>You can use the Contax in dark conditions, especially at close range (the Contax IR will kick in and can focus in complete darkness. You can shoot, if you have a <a href="https://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html#TLA">Contax strobe</a>).</li><li>You can use it with <i>one hand</i> &#151; even wearing <a href="{{ site.baseurl }}{% post_url 2005-01-21-Another-Slippery-Slope %}">winter gloves.</a></li><li>You can use it in a pinch <i>without even looking through the VF</i> (takes a little practice, but the Contax is a terrific hipshooter).</li></ul>
 
 <hr width="20%" align="center">
 
@@ -77,8 +80,9 @@ One handy bit of extra info: I printed up a wee hyperfocal-distance chart and ta
 
 So there you have it &#151; my complete kit of fast and quiet focus tips for the Contax G.
 
-HEGR-biased backpedallers will be unconvinced, of course. "The camera is too loud, it has a motor." As do M cameras with Leicavits. As do the Konica Hexar RF and the Xpan. "The shutter is metal, not that quiet Leica *kfik* that you get from a cloth shutter." True enough, it has a metal shutter just like the Voigtl&auml;nders, the Konicas, and the Xpans. Or most any SLR. Not that you could tell with the motor running. I'm totally convinced that these subtle differences are worth four or five thousand dollars to some people, though I suspect that many of them would pay more for the red dot than the fabric shutter.
+HEGR-biased backpedallers will be unconvinced, of course. "The camera is too loud, it has a motor." As do M cameras with Leicavits, or all the Leica digital M's. As do the Konica Hexar RF and the Xpan. "The shutter is metal, not that quiet Leica *kfik* that you get from a cloth shutter." True enough, it has a metal shutter just like the Voigtl&auml;nders, the Konicas, and the Xpans (or digital Leica M's). Or most any SLR. Not that you could tell with the motor running. I'm totally convinced that these subtle differences are worth four or five thousand dollars to some people, though I suspect that many of them would pay more for the red dot than the fabric shutter.
 
 One final handy fact about the correct Contax grip:
 
-When you use your thumb firmly, it's a lot easier to use the AE lock too. Your index finger is freer to move around. Of course, AE is one of those foolish modern features that no proper rangefinder user would want. I mean, not before 2002, at which point autoexposure was added to the M7 and declared  perfect.
+When you use your thumb firmly, it's a lot easier to use the AE lock too. Your index finger is freer to move around. Of course, AE is one of those foolish modern features that no proper rangefinder user would want. I mean, not before 2002, at which point autoexposure was added to the M7 and declared perfect.
+

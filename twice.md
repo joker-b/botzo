@@ -1,4 +1,6 @@
 ---
+title: Twice the Bjorke
+skip_title: true
 layout: page_bare
 ---
 
