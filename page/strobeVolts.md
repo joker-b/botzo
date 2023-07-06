@@ -4,16 +4,15 @@ title: "Photo Strobe Trigger Voltages"
 image:
   path: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
-categories: [fStop]
-tags: [Flash, Tools]
+categories: [GearHead]
 picless: true
 mastless: true
 nameless: true
 ---
-This list was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Monolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new Godox and be very happy.
+This <a href="http://www.botzilla.com/categories/#gearhead">GearHead</a> list was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Minolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new <a href="http://www.botzilla.com/fstop/2023/06/17/Traffic.html">Big Godox</a> or <a href="http://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html">Tiny Fuji</a> and be very happy. The old and flexible <a href="https://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html#TLA">Contax TLA 360</a> can be had for a steal, these days.
 {:.notice}
 
-<h2>Is your old strobe safe to use on your new electronic camera?</h2>
+<h1>Is your old strobe safe to use on your new electronic camera?</h1>
 
 Some older strobes (and infrared strobe triggers) use high voltages in the trigger circuit.  For mechanical cameras, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltages.
 
