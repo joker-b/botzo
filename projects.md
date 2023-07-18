@@ -8,13 +8,7 @@ skip_title: true
 slugless: true
 mastless: true
 ---
-<h1>Selected Projects</h1>
-
-<p class="close_p"><b>Information Overload</b> has dominated our
-    lives as visual tools have multiplied &#8212; from Gutenberg and GoPro to GANs. How can people navigate through the flood of
-      ideas that try to shape and limit us each day? Which images are tools that serve us, and which do we serve?</p>
-
-<h2>Photography</h2>
+<h1>Kevin Bjorke: Selected Projects</h1>
 
 <div class="entries-grid">
     <div class="entry h-entry">
@@ -67,6 +61,15 @@ mastless: true
             </div>
         </header>
     </div>
+     <div class="entry h-entry">
+        <header class="entry-header">
+            <h3 class="entry-title p-name">WIP: Humdingers</h3>
+            <div class="entry-image-container">
+                <img class="entry-image u-photo"
+                        src="https://www.botzilla.com/pix2023/humd-thumb.jpg" alt="">
+            </div>
+        </header>
+    </div>
     <div class="entry h-entry">
         <header class="entry-header">
             <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/576501#" rel="bookmark">Color Sentimentalizes Everything, 2008</a></h3>
@@ -97,9 +100,18 @@ mastless: true
             </div>
         </header>
     </div>
+   <div class="entry h-entry">
+        <header class="entry-header">
+            <h3 class="entry-title p-name">WIP: Chinese Sonoma</h3>
+            <div class="entry-image-container">
+                <img class="entry-image u-photo"
+                        src="https://www.botzilla.com/pix2023/reca-thumb.jpg" alt="">
+            </div>
+        </header>
+    </div>
     <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/72157632815829981#" rel="bookmark">Ring a Ding</a></h3>
+            <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/72157632815829981#" rel="bookmark">Ring a Ding, 2005</a></h3>
             <div class="entry-image-container">
                 <a href="https://www.flickr.com/photos/bjorke/albums/72157632815829981#" class="u-photo" rel="bookmark">
                 </a><a href="https://www.flickr.com/photos/bjorke/albums/72157632815829981#" class="" rel="bookmark"><img class="entry-image u-photo"
@@ -122,25 +134,17 @@ mastless: true
 
 <!-- https://www.blurb.com/b/11043226-france-a-guide -->
 
-<h2>Work in Progress</h2>
+<!-- <h2>Work in Progress</h2>
 <ul>
-    <li>Humdinger</li>
     <li>Fun guy at Home</li>
-    <li>Chinese Sonoma</li>
     <li><a href="{% post_url 2021-10-06-Engraved %}">Temple of the Steam Engine</a></li>
     <li><a href="{% post_url 2022-03-12-Monument-9-0015 %}">Monuments to Victory over Extinct Species</a></li>
-</ul>
+</ul> -->
 
-<h2>Open-Source Tools</h2>
-<ul>
-    <li><a href="{% post_url 2006-10-24-ChartThrob-A-Tool-for-Printing-Digital-Negatives %}"><i>ChartThrob:</i></a> A Tool for Printing Digital Negatives</li>
-    <li><a href="{% post_url 2019-01-08-SkinToner-Fast-Skintones-for-Photoshop %}"><i>SkinToner:</i></a> Quick Skintones for Photoshop</li>
-    <li><a href="{% post_url 2020-04-09-kbImport %}">kbImport: A Media Filing System</a></li>
-    <!-- <li>AllMine</li>
-    <li>Calendar tools</li> -->
-</ul>
+<hr class="open_hr" />
 
-<h2>Films, Games, and Publications</h2>
+
+<h1>Films, Games, and Publications</h1>
 <ul>
     <li><a href="https://www.pixar.com/feature-films/toy-story"><i>Toy Story</i></a> and <a href="https://www.pixar.com/feature-films/a-bugs-life"><i>A Bug's Life</i></a></li>
     <li><i>Final Fantasy: The Spirits Within</i> (<i>Ars Technica</i> <a href="https://archive.arstechnica.com/wankerdesk/01q3/ff-interview/ff-interview-3.html">interview</a> )</li>
@@ -150,10 +154,23 @@ mastless: true
 </ul>
 
 
+<h1>Open-Source Tools</h1>
+<ul>
+    <li><a href="{% post_url 2006-10-24-ChartThrob-A-Tool-for-Printing-Digital-Negatives %}"><i>ChartThrob:</i></a> A Tool for Printing Digital Negatives</li>
+    <li><a href="{% post_url 2019-01-08-SkinToner-Fast-Skintones-for-Photoshop %}"><i>SkinToner:</i></a> Quick Skintones for Photoshop</li>
+    <li><a href="{% post_url 2020-04-09-kbImport %}">kbImport: A Media Filing System</a></li>
+    <!-- <li>AllMine</li>
+    <li>Calendar tools</li> -->
+</ul>
 
 <hr class="open_hr" />
 
-<h2 class="close_p">Some Older Featured Blog Posts</h2>
+<h2 class="close_p">Featured Blog Posts</h2>
+
+<!-- <p class="close_p"><b>Information Overload</b> has dominated our
+    lives as visual tools have multiplied &#8212; from Gutenberg and GoPro to GANs. How can people navigate through the flood of
+      ideas that try to shape and limit us each day? Which images are tools that serve us, and which do we serve?</p> -->
+
 <ul>
   <li><a href="{% post_url 2021-11-28-Browser-Pope %}">The Browser and the Pope</a></li>
   <li><a href="{% post_url 2023-05-06-Meaningless %}">Pictures Have No Meaning</a></li>

@@ -18,7 +18,7 @@ There are _many_ tricks and video methods in <a href="https://help.na.panasonic.
 
 <!--more-->
 
-<ol><li>Obviously you'll need a <b>mount adapter.</b> I bought the Leica one, others may be okay. When it's connected, the camera automatically knows to use manual focus mode. To make the experience more M-like:</li>
+<ol><li>Obviously you'll need a <b>mount adapter.</b> I bought the Leica one, others may be okay. When it's connected, the camera automatically knows to use manual focus mode after a few seconds, but for faster, near-instant start-up set the focus-mode dial to "M" and leave it there. To make the experience a little more M-like:</li>
 <li><b>Close the flippy screen.</b></li>
 <li><b>Swap the functions of the front and back dials, so the shutter speeds are on the front:</b> instead of the default video-style setting, which puts the aperture on front dial and shutter on the back. For M lenses, you're setting aperture on the lens, not on the camera. So the front dial is a more natural place for the shutter speed (the M5 has a similar placement).<br />To swap the dials (this is the _only_ deep menu-dive in this guide), press <br/>&nbsp;&nbsp;<b>MENU->Gear Icon->Dial Icon->"Dial Set."</b> and then <br/>&nbsp;&nbsp;<b>"Assign Dial (F/SS)"</b> and choose <br/>&nbsp;&nbsp;<b>"SET 3".</b></li></ol>
 
