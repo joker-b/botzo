@@ -72,6 +72,16 @@ mastless: true
     </div>
     <div class="entry h-entry">
         <header class="entry-header">
+            <h3 class="entry-title p-name"><a href="{{ site.url }}/fstop/2023/07/26/Sea.html" rel="bookmark">Seeing the Sea</a></h3>
+            <div class="entry-image-container">
+                <a href="{{ site.url }}/fstop/2023/07/26/Sea.html" class="u-photo" rel="bookmark">
+                </a><a href="{{ site.url }}/fstop/2023/07/26/Sea.html" class="" rel="bookmark"><img class="entry-image u-photo"
+                        src="https://www.botzilla.com/pix2023/lighthouse/bjorke_Nkn__KEV2277.jpg" alt=""></a>
+            </div>
+        </header>
+    </div>
+    <div class="entry h-entry">
+        <header class="entry-header">
             <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/576501#" rel="bookmark">Color Sentimentalizes Everything, 2008</a></h3>
             <div class="entry-image-container">
                 <a href="https://www.flickr.com/photos/bjorke/albums/576501#" class="u-photo" rel="bookmark">
@@ -109,7 +119,7 @@ mastless: true
             </div>
         </header>
     </div>
-    <div class="entry h-entry">
+    <!-- <div class="entry h-entry">
         <header class="entry-header">
             <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/72157632815829981#" rel="bookmark">Ring a Ding, 2005</a></h3>
             <div class="entry-image-container">
@@ -118,7 +128,7 @@ mastless: true
                         src="https://www.botzilla.com/pix2023/ring/ring-thumb.jpg" alt=""></a>
             </div>
         </header>
-    </div>
+    </div> -->
     <div class="entry h-entry">
         <header class="entry-header">
             <h3 class="entry-title p-name"><a href="https://www.flickr.com/photos/bjorke/albums/72157645627157985#" rel="bookmark">WIP: Marginal Artists</a></h3>
