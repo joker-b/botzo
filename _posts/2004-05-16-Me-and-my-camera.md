@@ -2,7 +2,7 @@
 layout: post
 title: "Me and My Camera, 2004"
 categories: [PhotoRant]
-tags: [Film, Contax]
+tags: [Film, Contax, Tri-X]
 ---
 
 

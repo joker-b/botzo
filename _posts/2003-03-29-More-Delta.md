@@ -2,7 +2,7 @@
 layout: post
 title: "More Delta"
 categories: [GearHead]
-tags: [Film]
+tags: [Film, Ilford]
 ---
 
 
