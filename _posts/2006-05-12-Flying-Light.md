@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Light"
 categories: [fStop]
-tags: [Film]
+tags: [Film, Review]
 ---
 
 
