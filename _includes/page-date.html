@@ -1,4 +1,9 @@
 <time class="page-date dt-published" datetime="{{ page.date | date_to_xmlschema }}">
-  {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
-  <a class="u-url" href="{{ entry.url | relative_url }}">{{ page.date | date: date_format }}</a>
+  {%- assign day_format = site.day_format | default: '%-d %B' -%}
+  {%- assign year_format = site.year_format | default: '%Y' -%}
+  <a class="u-url" href="{{ entry.url | relative_url }}">
+  {{ page.date | date: day_format }}
+  <br/>
+  <span class="hYear">{{ page.date | date: year_format }}</span>
+  </a>
 </time>
