@@ -2,6 +2,7 @@
 layout: post
 title: "The Lesson"
 categories: [fStop]
+tags: [_Japan]
 ---
 
 

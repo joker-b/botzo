@@ -2,6 +2,7 @@
 layout: post
 title: "Pixels in Flight"
 categories: [Desk]
+tags: [_Japan, _Korea, _China]
 ---
 
 

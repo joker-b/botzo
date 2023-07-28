@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
   thumbnail: https://www.botzilla.com/pix2019/bjorke_Scoot_KBXF6569.jpg
 categories: [fStop]
+tags: [_Japan]
 ---
 
 A slice of American <i>mono no aware</i> amid San Francisco's building boom.

@@ -2,6 +2,7 @@
 layout: post
 title: "Perfect Foods in Japan"
 categories: [fStop]
+tags: [_Japan]
 ---
 
 

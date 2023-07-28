@@ -2,6 +2,7 @@
 layout: post
 title: "Yosemite Villas, Shanghai"
 categories: [Desk]
+tags: [_China]
 ---
 
 ![Shanghai (C)2004 K. Bjorke]({{ 'https://www.botzilla.com/pix2004/Yosemite.jpg' | absolute_url }})

@@ -13,12 +13,16 @@ layout: page
   {% endfor %}
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
-      {% if tag[1].size == i %}
-        <li>
-          <a href="#{{ tag[0] | slugify }}">
-            <strong>{{ tag[0] }}</strong> <span class="taxonomy-count">{{ i }}</span>
-          </a>
-        </li>
+      {% if tag[0] contains "_" %}
+          <!-- ${{ tag[0] }} -->
+      {% else %}
+	  {% if tag[1].size == i %}
+	    <li>
+	      <a href="#{{ tag[0] | slugify }}">
+		<strong>{{ tag[0] }}</strong> <span class="taxonomy-count">{{ i }}</span>
+	      </a>
+	    </li>
+	  {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
@@ -33,16 +37,20 @@ layout: page
 
 {% for i in (1..tags_max) reversed %}
   {% for tag in site.tags %}
-    {% if tag[1].size == i %}
-      <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy-section">
-        <h2 class="taxonomy-title">{{ tag[0] }}</h2>
-        <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for entry in tag.last %}
-            {% include entry.html %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
+    {% if tag[0] contains "_" %}
+      <!-- skip {{ tag[0] }} entries -->
+    {% else %}
+	{% if tag[1].size == i %}
+	  <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy-section">
+	    <h2 class="taxonomy-title">{{ tag[0] }}</h2>
+	    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+	      {% for entry in tag.last %}
+		{% include entry.html %}
+	      {% endfor %}
+	    </div>
+	    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+	  </section>
+	{% endif %}
     {% endif %}
   {% endfor %}
 {% endfor %}

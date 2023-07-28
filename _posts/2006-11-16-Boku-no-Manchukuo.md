@@ -2,6 +2,7 @@
 layout: post
 title: "Boku no Manchukuo"
 categories: [fStop]
+tags: [_Japan]
 ---
 
 
