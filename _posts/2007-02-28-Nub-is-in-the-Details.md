@@ -2,6 +2,7 @@
 layout: post
 title: "Nub is in the Details"
 categories: [Hacking]
+tags: [Software]
 ---
 This is a little game development (or general graphics) tip that I've been thinking about for the past couple of nights, with additional applications for photographic and other images.
 
