@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2022/tree/dec05d-29.jpg
   thumbnail: https://www.botzilla.com/pix2022/tree/dec05d-29.jpg
 categories: [fStop]
-tags: [Sketchbook, Film, Slides]
+tags: [Sketchbook, Film, Slides, Contax]
 slides: [ 
     [ pix2022/tree/dec05d-29.jpg ],
     [ pix2022/tree/dec05d-21.jpg ],
