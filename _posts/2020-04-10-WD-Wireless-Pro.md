@@ -6,6 +6,7 @@ image:
   path: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_Putnam_KBXF7797.jpg
 categories: [GearHead]
+tags: [Software]
 ---
 
 Wireless, standalone devices can provide camera archive storage without a laptop. They range from the luxury <a href="https://www.gnarbox.com/">Gnarbox SSD</a> to inexpensive spinning disks like my <a href="https://shop.westerndigital.com/products/portable-drives/wd-my-passport-wireless-pro-hdd#WDBVPL0010BBK-NESN">Western Digital Wireless Pro</a>, which trades speed and weight for price (the Gnarbox also provides "folder presets" to allow custom structured-on-import storage like the system I described <a href="{{ site.baseurl }}{% post_url 2020-04-09-kbImport %}">here</a>).

@@ -2,7 +2,7 @@
 layout: post
 title: "Negative Half-Life"
 categories: [Hacking]
-tags: [Featured]
+tags: [Featured, Essay]
 image:
   path: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg
   thumbnail: https://www.botzilla.com/pix2022/bjorke-Half-1-1.jpg

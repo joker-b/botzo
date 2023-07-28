@@ -2,6 +2,7 @@
 layout: post
 title: "SkinToner: Fast Easy Skin Tones in Photoshop"
 categories: [GearHead]
+tags: [Software]
 publish: false
 markdown: kramdown
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "flickr, Blogs, and Cattle (Appended)"
-categories: [PhotoRant]
+categories: [PhotoRant, Essay]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "TMax I hardly knew ye"
 categories: [GearHead]
-tags: [Film]
+tags: [Film, Darkroom]
 ---
 
 
