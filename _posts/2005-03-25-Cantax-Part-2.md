@@ -2,7 +2,7 @@
 layout: post
 title: "Cantax Part 2"
 categories: [GearHead]
-tags: [Contax, Zeiss]
+tags: [Contax, Zeiss, Canon]
 ---
 
 
