@@ -2,7 +2,7 @@
 layout: post
 title: "Off Course, 23 Nov"
 categories: [fStop]
-tags: [Sketchbook, Sonoma, Slides, Motor]
+tags: [Sketchbook, Sonoma, _Slides, _Motor]
 slides: [
   [ pix2019/bjorke_Lighthouse_XT1A8892.jpg, "County line" ],
   [ pix2019/bjorke_Lighthouse_XT1A8899.jpg, "7AM temperature, 37F" ],
