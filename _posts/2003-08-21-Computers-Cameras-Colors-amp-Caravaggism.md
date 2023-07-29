@@ -2,7 +2,7 @@
 layout: post
 title: "Computers, Cameras, Colors, &amp; Caravaggism"
 categories: [PhotoRant]
-tags: [Film]
+tags: [Film, _Ancient]
 ---
 
 ![Santa Clara, 2002 (C)2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/sep02l-37b.jpg' | absolute_url }}){: .align-right}

@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/bjorke_J19_KBXF1568.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_J19_KBXF1568.jpg
 categories: [fStop]
-tags: [Sonoma]
+tags: [Sonoma, _Phase4]
 ---
 
 The Washoe House up the road has been open since 1859, making it possibly America's oldest continuously-operating tavern.

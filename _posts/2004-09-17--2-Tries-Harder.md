@@ -2,7 +2,7 @@
 layout: post
 title: "Tokyo's #2 Tries Harder"
 categories: [PhotoRant]
-tags: [_Japan]
+tags: [_Japan, _Phase1]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The New Fuji/Chrome: Fujifilm-X and Chromebook"
 categories: [GearHead]
-tags: [Books, Fujifilm, Software]
+tags: [Books, Fujifilm, Software, _Phase4]
 ---
 ![Many Possibilities]({{ 'https://www.botzilla.com/blog/archives/pix2017/Fuji-Chrome-C.jpg' | absolute_url }})
 

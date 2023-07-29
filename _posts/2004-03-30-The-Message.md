@@ -5,7 +5,7 @@ image:
     path: https://www.botzilla.com/bpix/artista.jpg
     thumbnail: https://www.botzilla.com/bpix/artista.jpg
 categories: [PhotoRant]
-tags: [Film, Books]
+tags: [Film, Books, _Ancient]
 ---
 
 Emese asks: <a title="Is photoblogging good for photography?" href="{{ site.baseurl }}{% post_url 2006-07-18-Dag %}">"Is photoblogging good for photography?"</a> Though it's not clear if she means <i>her</i> photography or the general world of all photography (or more likely, some particular slice of it, like advertising photography).

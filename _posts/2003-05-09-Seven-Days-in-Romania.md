@@ -2,7 +2,7 @@
 layout: post
 title: "Seven Days in Romania"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Ancient]
 ---
 Not by me, sadly.
 

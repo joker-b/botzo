@@ -2,7 +2,7 @@
 layout: post
 title: "The Cantax"
 categories: [GearHead]
-tags: [Contax, Zeiss, Canon]
+tags: [Contax, Zeiss, Canon, _Ancient]
 ---
 
 ![The Cantax]({{ 'https://www.botzilla.com/bpix/cantax2.jpg' | absolute_url }}){: .align-right }

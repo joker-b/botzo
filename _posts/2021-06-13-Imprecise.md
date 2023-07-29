@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/L1014651-2021c.jpg
   thumbnail: https://www.botzilla.com/pix2021/L1014651-2021c.jpg
 categories: [GearHead]
-tags: [Leica]
+tags: [Leica, _Phase4]
 ---
 
 For the previous post, I had to dig out some of my old files from a brief 2014 affair with the original Leica Monochrom.

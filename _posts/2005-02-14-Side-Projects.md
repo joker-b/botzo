@@ -2,7 +2,7 @@
 layout: post
 title: "Side Projects"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Phase1]
 ---
 ![Free view pair]({{ 'https://www.botzilla.com/pix2005/sides.jpg' | absolute_url }})
 

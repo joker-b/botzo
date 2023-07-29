@@ -2,7 +2,7 @@
 layout: post
 title: "Photography Made Difficult"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Phase1]
 ---
 
 

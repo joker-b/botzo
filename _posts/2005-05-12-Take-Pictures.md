@@ -2,7 +2,7 @@
 layout: post
 title: "Take Pictures"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Phase1]
 ---
 
 

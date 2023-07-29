@@ -6,7 +6,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2021/cumulus_iter_2.jpg
 
 categories: [Hacking]
-tags: [Neurography]
+tags: [Neurography, _Phase4]
 ---
 
 A challenge for "neural pictures" is the amount of memory required for rendering even a small photo-like picture. Applying the largest GPUs and TPUs available at Google still may only produce a 2K image. 

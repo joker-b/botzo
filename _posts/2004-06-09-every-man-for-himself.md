@@ -2,7 +2,7 @@
 layout: post
 title: "every man for himself"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Phase1]
 ---
 ![Every]({{ 'https://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
 

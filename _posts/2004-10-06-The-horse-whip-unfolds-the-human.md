@@ -2,7 +2,7 @@
 layout: post
 title: "The horse whip unfolds the human"
 categories: [PhotoRant]
-tags: [Books, _China]
+tags: [Books, _China, _Phase1]
 ---
 
 

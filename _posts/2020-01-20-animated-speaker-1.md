@@ -2,7 +2,7 @@
 layout: post
 title: "Animated Speaker, Part One"
 categories: [PhotoRant]
-tags: [Books, Essay]
+tags: [Books, Essay, _Phase4]
 image:
   path: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg
   thumbnail: https://www.botzilla.com/pix2020/bjorke_SDC_KBXF0780.jpg

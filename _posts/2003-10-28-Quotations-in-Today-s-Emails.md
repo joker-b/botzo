@@ -2,7 +2,7 @@
 layout: post
 title: "Quotations from Today's Emails"
 categories: [PhotoRant]
-tags: [Books, Film]
+tags: [Books, Film, _Ancient]
 ---
 
 ![(C)2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/103_0319.jpg' | absolute_url }}){: .align-right}

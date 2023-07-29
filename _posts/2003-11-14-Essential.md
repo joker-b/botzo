@@ -2,7 +2,7 @@
 layout: post
 title: "Essential"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Ancient]
 ---
 ![SC82]({{ 'https://www.botzilla.com/bpix/104_0418.jpg' | absolute_url }}){: .align-right}
 I was reading a recent <a href="http://artforum.com/inprint/id=5497" target="linkframe">ArtForum article</a> about moblog photos, and the reviewer hit upon a key word: <b><i>inessential.</i></b> Photos that run counter to the notion of "a perfect flower," they are just: "a flower."

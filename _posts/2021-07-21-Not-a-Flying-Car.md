@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_MonoQuick_LKAB6169.jpg
 categories: [GearHead]
-tags: [Leica, Film, Zeiss, Ilford, Darkroom]
+tags: [Leica, Film, Zeiss, Ilford, Darkroom, _Phase4]
 ---
 
 In the spirit of the <a href="{{ site.baseurl }}{% post_url 2021-05-14-Impatient %}">previous post about impatient film photography,</a> I tried using a "proper" digital camera and macro lens to scan these negatives, rather than a phone. Shot them right through the PrintFile page, still in their sleeves -- on very close inspection you can see occasional tiny bubbles and reflections from the transparent sheet.

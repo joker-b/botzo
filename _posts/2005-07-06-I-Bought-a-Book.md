@@ -2,7 +2,7 @@
 layout: post
 title: "I Bought a Book"
 categories: [PhotoRant]
-tags: [Books]
+tags: [Books, _Phase1]
 ---
 
 

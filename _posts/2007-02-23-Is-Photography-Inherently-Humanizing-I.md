@@ -2,7 +2,7 @@
 layout: post
 title: "Is Photography Inherently Humanizing? (1 of 3)"
 categories: [PhotoRant]
-tags: [Books, Featured, Essay]
+tags: [Books, Featured, Essay, _Phase1]
 ---
 
 

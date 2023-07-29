@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on My Own Methods, 2003"
 categories: [GearHead]
-tags: [Film, Zeiss, Ilford, Darkroom]
+tags: [Film, Zeiss, Ilford, Darkroom, _Ancient]
 ---
 Documenting my typical photography working methods, May 2003.
 
