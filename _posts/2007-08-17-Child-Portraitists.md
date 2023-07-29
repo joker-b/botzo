@@ -2,7 +2,7 @@
 layout: post
 title: "Child Portraitists"
 categories: [PhotoRant]
-tags: [Books, Film, _Phase1, _Phase2]
+tags: [Books, Film, Essay, _Phase1, _Phase2]
 ---
 
 
@@ -20,10 +20,9 @@ As Jeff Curto describes well in his <a href="http://www.cod.edu/photo/curto/1105
 
 There are a handful of exceptions, particularly moderns like <a href="http://www.keithcarterphotographs.com/">Keith Carter</a> (is Ralph Gibson an adult alternative?), or stray iconic images like Elliot Erwitt's <a href="http://www.jmcfaber.at/images/erwitt03.jpg">nursing mother</a> or W. Eugene Smith's postcard perennial <a href="http://images.google.com/imgres?imgurl=http://imagecache2.allposters.com/images/pic/IMC/g1801~Walk-to-Paradise-Garden-Posters.jpg&imgrefurl=http://www.allposters.com/-sp/Walk-to-Paradise-Garden-Posters_i325202_.htm&h=450&w=338&sz=41&hl=en&start=2&um=1&tbnid=zHMJQ50ZESVKDM:&tbnh=127&tbnw=95&prev=/images%3Fq%3Dsmith%2Bparadise%2Bgarden%26svnum%3D10%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official%26sa%3DN">Walk Through Paradise Garden</a>, pictures that are notable for <i>not</i> being the work for which those photographers are acclaimed, regardless of whatever commercial success those individual pictures have found (Erwitt has commented that his snap, made of his wife & baby daughter, essentially paid for that daughter's college education).
 
-<a href="https://www.botzilla.com/photo/2001/bat.html">
-
-![(C)1995]({{ 'https://www.botzilla.com/blog/pix2007/batman-07.jpg' | absolute_url }})
-</a>
+<figure class="align-center">
+<img alt="Batman" src="https://www.botzilla.com/blog/pix2007/batman-07.jpg">
+</figure>
 
 There are a few men approaching but skirting past this dream landscape. An obvious example and another APUG wanderer might be Napa's <a href="http://www.michaelmcblane.com/">Michael McBlane,</a> whose black and whites similarly revel in the beauty of children's clear faces in soft light but like most male portraitists seems a bit more formal, more distanced, more willing to work in the studio... dare I say a more results-oriented approach?
 
@@ -35,9 +34,9 @@ One of the more interesting dad photographers is one I actually know: <a href="h
 
 Conclusions? None. Then again, I prefer photos that are questions.
 
-
-
-![(C)2007]({{ 'https://www.botzilla.com/blog/pix2007/IMG_0581.jpg' | absolute_url }})
+<figure class="align-center">
+<img alt="Green Machine" src="https://www.botzilla.com/blog/pix2007/IMG_0581.jpg">
+</figure>
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Flick flake"
 categories: [PhotoRant]
-tags: [_Phase1]
+tags: [_Phase1, Essay]
 ---
 
 

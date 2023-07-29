@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Back to China"
+image:
+  path: https://www.botzilla.com/blog/pix2007/250_5071sq.jpg
+  thumbnail: https://www.botzilla.com/blog/pix2007/250_5071sq.jpg
 categories: [fStop]
 tags: [_China, _Phase1, _Phase2]
 ---
 
 
-![Shanghai (C)2004/2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/250_5071sq.jpg' | absolute_url }})
+<!-- ![Shanghai (C)2004/2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/250_5071sq.jpg' | absolute_url }}) -->
 
 
 After my first visit to China I knew I would <i>have</i> to return. I love it.
