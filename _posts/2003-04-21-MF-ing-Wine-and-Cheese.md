@@ -2,6 +2,7 @@
 layout: post
 title: "MF'ing Wine and Cheese"
 categories: [GearHead]
+tags: [Canon]
 ---
 Okay, so Saturday night.
 

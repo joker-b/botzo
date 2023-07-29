@@ -2,6 +2,7 @@
 layout: post
 title: "Art Endures"
 categories: [Desk]
+tags: [Essay]
 ---
 
 

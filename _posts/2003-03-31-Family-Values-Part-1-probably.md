@@ -2,6 +2,7 @@
 layout: post
 title: "Family Values (Part 1, probably)"
 categories: [PhotoRant]
+tags: [Essay]
 ---
 
 
