@@ -2,6 +2,7 @@
 layout: post
 title: "Hacked-Up Life"
 categories: [Desk]
+tags: [_Phase1, Essay]
 ---
 
 ![Empty Desk = Empty Mind]({{ 'http://static.flickr.com/30/52514628_4e7af5a74c_m.jpg' | absolute_url }}){: .align-right}

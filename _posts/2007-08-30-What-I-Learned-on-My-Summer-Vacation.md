@@ -2,6 +2,7 @@
 layout: post
 title: "What I Learned on My Summer Vacation"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 ![San Jose Station]({{ 'https://www.botzilla.com/blog/pix2007/station-P1070937.jpg' | absolute_url }})
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Dog Apples"
 categories: [PhotoRant]
+tags: [_Phase2, Essay]
 ---
 
 

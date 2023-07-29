@@ -2,6 +2,7 @@
 layout: post
 title: "Bonus Round"
 categories: [PhotoRant]
+tags: [_Phase1, _Japan]
 ---
 
 

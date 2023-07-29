@@ -2,6 +2,7 @@
 layout: post
 title: "Natural Colors"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 
 

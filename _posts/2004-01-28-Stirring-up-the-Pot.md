@@ -2,6 +2,7 @@
 layout: post
 title: "Stirring up the Pot"
 categories: [GearHead]
+tags: [_Ancient]
 published: false
 ---
 Right on the heels of my <a href="{{ site.baseurl }}{% post_url 2004-01-30-So-Much-Confusion %}">previous post</a> about DSLR circles of confusion and sensor size, Canon goes and releases (well, leaked) news of the 1D Mk II, with an 8MP sensor and a new multiplier factor: 1.3&#215; &#151; my guess got the exact sensor size wrong, but the trend (and apparently price) just about nailed.

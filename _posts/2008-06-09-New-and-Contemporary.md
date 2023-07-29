@@ -2,6 +2,7 @@
 layout: post
 title: "New and Contemporary"
 categories: [PhotoRant]
+tags: [_Phase2]
 image:
     path: https://www.botzilla.com/blog/pix2008/P1000352.jpg
     thumbnail: https://www.botzilla.com/blog/pix2008/P1000352.jpg

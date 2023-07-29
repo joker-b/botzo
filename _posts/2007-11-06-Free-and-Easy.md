@@ -2,6 +2,7 @@
 layout: post
 title: "Free and Easy"
 categories: [fStop]
+tags: [_Phase1, _Japan]
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The Monster"
 categories: [GearHead]
+tags: [_Ancient, Canon]
 ---
 
 

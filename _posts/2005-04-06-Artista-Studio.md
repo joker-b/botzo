@@ -2,6 +2,7 @@
 layout: post
 title: "Artista Studio"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 
 

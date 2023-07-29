@@ -2,6 +2,7 @@
 layout: post
 categories: [Desk]
 title: "More on Presentations, GDC, PDF, PPT"
+tags: [_Phase1]
 --
 Garr's <a href="http://presentationzen.blogs.com/presentationzen/2006/04/slideuments_and.html">recent post on slideuments</a> got me thinking about my current Powerpoint method.
 

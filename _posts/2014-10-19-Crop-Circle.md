@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/blog/pix2009/P1020027.jpg
   thumbnail: https://www.botzilla.com/blog/pix2009/P1020027.jpg
 categories: [fStop]
+tags: [_Phase3]
 published: false
 ---
 

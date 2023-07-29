@@ -2,6 +2,7 @@
 layout: post
 title: "The Right Way"
 categories: [PhotoRant]
+tags: [Leica, Essay, Film, _Ancient]
 ---
 
 

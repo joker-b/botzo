@@ -2,6 +2,7 @@
 layout: post
 title: "The Price is Right"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 
 

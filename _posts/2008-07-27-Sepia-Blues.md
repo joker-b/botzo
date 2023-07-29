@@ -2,6 +2,7 @@
 layout: post
 title: "Sepia Blues"
 categories: [GearHead]
+tags: [_Phase2, Darkroom]
 ---
 
 

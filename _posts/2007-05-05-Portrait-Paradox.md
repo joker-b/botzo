@@ -2,6 +2,7 @@
 layout: post
 title: "Portrait Paradox"
 categories: [PhotoRant]
+tags: [_Phase1]
 ---
 
 

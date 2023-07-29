@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2017/bjorke_Cuba_KBXP8127.jpg
 categories: [fStop]
+tags: [_Phase3, _Cuba]
 ---
 <i>"Don't shoot what it looks like. Shoot what it feels like."</i> - <a href="https://www.davidalanharvey.com/">David Alan Harvey</a>
 

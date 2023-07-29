@@ -2,6 +2,7 @@
 layout: post
 title: "April Art in Palo Alto"
 categories: [fStop]
+tags: [_Phase3]
 ---
 ![Hidden Layers]({{ "https://www.botzilla.com/blog/archives/pix2016/bjorke_HiddenLayer_KBXP1039.jpg" | absolute_url }})
 <i>Hidden Layers 3, 2016</i>

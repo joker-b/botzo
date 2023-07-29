@@ -2,6 +2,7 @@
 layout: post
 title: "What You Choose to See"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 
 

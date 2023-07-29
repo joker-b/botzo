@@ -2,6 +2,7 @@
 layout: post
 title: "Toronto Contact Photo 2008"
 categories: [PhotoRant]
+tags: [_Phase1]
 ---
 
 

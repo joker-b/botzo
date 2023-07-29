@@ -3,6 +3,7 @@ layout: post
 title: "FujiFilm X-Pro2 Film Simulations"
 categories: [GearHead]
 published: false
+tags: [_Phase3, Fujifilm]
 ---
 
 

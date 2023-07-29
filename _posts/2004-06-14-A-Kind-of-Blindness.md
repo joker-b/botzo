@@ -2,6 +2,7 @@
 layout: post
 title: "A Kind of Blindness"
 categories: [fStop]
+tags: [_Ancient, Essay]
 ---
 
 

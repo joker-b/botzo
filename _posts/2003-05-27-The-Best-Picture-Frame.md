@@ -2,6 +2,7 @@
 layout: post
 title: "The Best Picture Frame"
 categories: [GearHead]
+tags: [_Ancient, Software]
 ---
 ...is one that helps make the picture.
 

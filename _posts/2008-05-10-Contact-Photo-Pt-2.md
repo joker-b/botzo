@@ -2,6 +2,7 @@
 layout: post
 title: "Contact Photo, Pt 2"
 categories: [PhotoRant]
+tags: [_Phase1]
 ---
 
 

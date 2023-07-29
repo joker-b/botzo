@@ -2,6 +2,7 @@
 layout: post
 title: "Buddha Says"
 categories: [fStop]
+tags: [_Phase1, _Japan]
 ---
 
 

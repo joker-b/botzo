@@ -2,6 +2,7 @@
 layout: post
 title: "Reversals"
 categories: [PhotoRant]
+tags: [_Phase2, Essay]
 ---
 
 
