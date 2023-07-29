@@ -2,6 +2,7 @@
 layout: post
 title: "Winner Take All"
 categories: [PhotoRant]
+tags: [_Ancient, _Phase1, Essay]
 ---
 
 

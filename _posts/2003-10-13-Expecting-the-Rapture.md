@@ -2,6 +2,7 @@
 layout: post
 title: "Expecting the Rapture"
 categories: [PhotoRant]
+tags: [Essay, _Japan, _Ancient]
 ---
 
 

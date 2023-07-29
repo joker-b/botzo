@@ -2,6 +2,7 @@
 layout: post
 title: "Magic Number"
 categories: [Desk]
+tags: [Essays, _Ancient, _Movies]
 ---
 ![Back Home at Dawn]({{ 'https://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right }
 

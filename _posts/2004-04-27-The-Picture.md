@@ -2,6 +2,7 @@
 layout: post
 title: "The Picture"
 categories: [PhotoRant]
+tags: [_Phase1, Essay]
 ---
 
 

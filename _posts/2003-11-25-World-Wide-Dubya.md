@@ -2,6 +2,7 @@
 layout: post
 title: "World Wide Dubya"
 categories: [Desk]
+tags: [Essay, _Ancient, _England]
 ---
 
 <figure class="align-right">

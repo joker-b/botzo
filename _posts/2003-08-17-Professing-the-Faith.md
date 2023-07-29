@@ -2,6 +2,7 @@
 layout: post
 title: "Professing the Faith"
 categories: [PhotoRant]
+tags: [Essay, _Ancient]
 ---
 <p>During my visit to San Diego I stayed at a seafront hotel and above my bed was a large frame holding four photographs, 11x14 color prints. The matte board was signed and numbered: <i>Xxxx Xxxx, 1/250.</i> The photographs were unremarkable &#151; simple graphic triangles of spinakers, probably from a boat or <a href="http://www.sdmaritime.com/ContentPage.asp?ContentID=9">ship</a> in the local harbor. 1 of 250... I wondered how many of those 250 had been purchased by the hotel.</p>
 

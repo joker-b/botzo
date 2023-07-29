@@ -2,6 +2,7 @@
 layout: post
 title: "Slow News Day"
 categories: [PhotoRant]
+tags: [Essay, _Ancient]
 ---
 
 
