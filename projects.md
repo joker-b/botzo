@@ -182,9 +182,10 @@ mastless: true
       ideas that try to shape and limit us each day? Which images are tools that serve us, and which do we serve?</p> -->
 
 <ul>
+  <li><a href="{% post_url 2020-01-20-animated-speaker-1 %}">Animated Speaker: How Motion Became Art</a></li>
   <li><a href="{% post_url 2021-11-28-Browser-Pope %}">The Browser and the Pope</a></li>
   <li><a href="{% post_url 2023-05-06-Meaningless %}">Pictures Have No Meaning</a></li>
-  <li><a href="{% post_url 2022-03-29-Negative-Half %}">Negative Half-Life</a></li>
+  <li><a href="{% post_url 2022-03-29-Negative-Half %}">Negative Half-Life: or, Javascript Gets Worse</a></li>
   <li><a href="{% post_url 2007-02-23-Is-Photography-Inherently-Humanizing-I %}">Is Photography Inherently Humanizing? Part 1</a> |
     <a href="{% post_url 2007-02-25-Is-Photography-Inherently-Humanizing-II %}">Part 2</a> |
     <a href="{% post_url 2007-05-11-Is-Photography-Inherently-Humanizing-III %}">Part 3</a></li>
