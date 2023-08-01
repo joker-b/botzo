@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on My Own Methods, 2003"
 categories: [GearHead]
-tags: [Film, Zeiss, Ilford, Darkroom, _Ancient]
+tags: [Film, Zeiss, Contax, Ilford, Darkroom, _Ancient, _Mono]
 ---
 Documenting my typical photography working methods, May 2003.
 
@@ -15,6 +15,8 @@ I've written-out my basic workflow and suite of working methods here &#151; most
 
 This is not a manifesto, just a current assessment. YMMV.
 
+## Why, How
+
 As I see it, working methods divide into two major parts &#151; _why_ you are making pictures and _how_ you are making them. Hopefully one leads to the other. I have been trying to keep my working process consistent and methodical, which gives me a steady reference point. I don't spend a lot of time struggling with changes to my method or in dealing with technical uncertainties. By reducing change in areas I think are just necessary evils to the picture-making process, I think I can be more open to change in the other areas. At least that's the theory.
 
 I like pictures with at least a little meat on them. I'm not much interested macro, in landscapes, in flowers, colorful birds, sport, sailboats, rustic barns, old cars, sunsets, architecture, classic airplanes, driftwood, crosslit nudes on black backgrounds, politicians, celebrities, or other inanimate, emotionless objects. As a momentary diversion, sure. But not day in and day out. I want something with verbs.
@@ -22,6 +24,8 @@ I like pictures with at least a little meat on them. I'm not much interested mac
 I like to photograph people, and to photograph people in an emotionally responsive way requires speed and favors a simple, low-impact profile. So I use 35mm-format cameras for almost all of my shooting. They are small and always ready. I've used <a href="http://www.nikon.co.jp/main/eng/society/rhnc/rhnc04f2-e.htm">Nikon</a> and then <a href="http://www.canonfd.com/choose.htm">Canon</a> manual SLRs, and a variety of rangefinders. These days I usually carry my <a href="http://www.gontaxg.com">Contax G2,</a> though I also use an ancient <a href="http://www.kjps.net/user/t-kikuchi/page006.html">Canon IIIc</a> (a clone) or the <a href="http://www.canon.co.jp/Camera-muse/camera/1976-1986/data/1978_a1.html">Canon A-1.</a> The A-1 has been in continuous service since around 1980, never once in the shop (but my <a href="http://www.kjsl.com/canon-fd/cameras/f1/hxf1.html">F-1</a> was stolen). I have two old <a href="http://www.mir.com.my/rb/photography/companies/canon/fdresources/SLRs/ae1/">AE-1P's</a> as backups and the <a href="http://www.csi.uottawa.ca/~debruijn/4107/yashica_124G/">Yashica TLR</a> I had in high school, along with a <a href="/photo/G1links.html">Canon digital camera.</a> DSLR's are still too big and clunky for me, to say nothing of expensive, and all but the top ones are lacking at the wide-angle end of available lenses.
 
 I've joked that my technique in street shooting is to just keep pushing-in until someone takes a swing at me. It's not really true, though I do like that 20mm lens.
+
+## How Now
 
 I shoot black and white film partly because I am cheap and like to do the work myself, and partly because I think that B&amp;W gets at the essence of what I like in a photograph &#151; to add more just confuses things. Color rarely adds emotional content to the sorts of pictures I make, unless it's a controlled studio context or one is using an orange sunset to enhance the sort of sentimentality that I dislike anyway. I currently like <a href="http://www.photographic.com/showarchives.cgi?63">Delta 400</a> and have been shooting more <a href="http://www.slavin.org/archives/000168.html">TMax 100.</a> I buy them both in bulk and have been recycling the same film cartridges for several years. I keep two loaders, one with 100ISO film and the other with 400ISO film.
 
@@ -33,6 +37,8 @@ Over and again, I've told myself that I'd come back to such-and-such for the pho
 
 I carry a camera every day, though mostly it's unused &#151; but it's there, and ready.
 
+## The Contax Kit
+
 If I know I am going to be shooting outdoors, I have a coat from Eddie Bauer that is both warm and well-supplied with pockets. It can carry a Canon SLR with a 20mm lens in one pocket, two Zeiss lenses, several rolls of film, cel phone &amp; PDA in the other pockets. On warmer days I can carry a small Domke bag, or just the loose camera on a strap. If possible, I carry the camera in my right hand with the strap wrapped around my wrist &#151; not on my shoulder or neck.
 
 The Contax has AF and I <a href="{{ site.baseurl }}{% post_url 2005-02-28-Fastest-Thumb-in-the-West %}">ride the focus-lock button quite a bit.</a> It took me a while to hit the rhythm of it but it's eventually become second nature. Aim, lock, recompose, shoot, release. I had my doubts about using an AF camera because I think that there's a lot of value in having a physical relationship with the actions of shooting. Holding the camera at arm's length is not conducive to immediacy. I've gotten over it once I figured out how to have control of the AF lock. I used to do zone-focus hipshooting. Now I sometimes do AF hipshooting, but I've done progressively less in recent months.
@@ -42,6 +48,8 @@ The Contax has no DoF markers. This is too bad, though it makes mechanical sense
 I have the 28, 45, and 90mm Zeiss lenses but use the 28mm 70% of the time and the 45mm 25% of the time. When I first had my Canons I used to use an 85mm most of the time, so I've been trying to understand what changed in my tastes to change this. I have Canon lenses from 20mm to 200mm, and likewise lean to the wide end. The SLRs are definitely better for long lenses, the 135 f/2 Canon is a terrific portrait lens but heavy and hard to focus quickly.
 
 I have a Sunpak 555 "potato masher" strobe with TTL metering for the Contax, but have recently used a tiny un-dedicated Metz more often. The Sunpak is very bright, which can be a good thing outdoors (even in daylight). I really wish I could find a slick wireless package for the Contax. I have Canon's 550EX with the wireless controller for EOS, and it's really excellent for the digicam &#151; small and very flexible. It's great to be able to just put a strobe in a carefully-chosen corner and subsequently forget about it while working.
+
+## After the Click, the Slosh and Scan
 
 I keep written records of all my shooting. Sometimes when I'm shooting rapidly I screw up, but generally I have an exposure log for every roll. The rolls are indexed by date, and easily identified when processing because I keep recycling the cartridges. Each little can has a different ID written on it, so I can quickly figure of that undeveloped roll "FF" corresponds to roll "May03b." I keep my records using a Palm PDA program called <a href="http://www.home.eznet.net/~rlmsmw/gpx_overview.htm">Go-Pix.</a> I like it because it's flexible &#151; you can be very detailed per-exposure or very loose per-roll or per-session.
 
