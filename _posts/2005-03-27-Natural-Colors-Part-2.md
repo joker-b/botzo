@@ -2,7 +2,7 @@
 layout: post
 title: "Natural Colors Part 2"
 categories: [PhotoRant]
-tags: [Film, Tri-X, _Phase1]
+tags: [Film, Tri-X, _Phase1, _Mono]
 ---
 
 

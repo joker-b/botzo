@@ -2,7 +2,7 @@
 layout: post
 title: "As If I Were Surprised"
 categories: [PhotoRant]
-tags: [_Phase1]
+tags: [_Phase1, _Press]
 ---
 From the <cite>Merc:</cite> <a href="http://www.mercurynews.com/mld/mercurynews/news/local/states/california/the_valley/12841155.htm"><cite>Silicon Valley Hurting for Culture</cite></a>
 

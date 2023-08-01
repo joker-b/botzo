@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2005/nat3.jpg
   thumbnail: https://www.botzilla.com/pix2005/nat3.jpg
 categories: [PhotoRant]
-tags: [_Phase1, Essay]
+tags: [_Phase1, Essay, _Mono]
 ---
 
 <!-- ![Natural Colors Part 3 (and counting)]({{ 'https://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }}){: .align-right width=200 height=200 } -->

@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/VS0095.jpg
   thumbnail: https://www.botzilla.com/bpix/VS0095.jpg
 categories: [Desk]
-tags: [Essay, _Ancient, _England, _Iraq]
+tags: [Essay, _Ancient, _England, _Iraq, _Amreeka]
 ---
 
 <i>(Explaining US Foreign Policy, London)</i>

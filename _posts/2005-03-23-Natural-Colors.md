@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2005/natural.jpg
   thumbnail: https://www.botzilla.com/pix2005/natural.jpg
 categories: [PhotoRant]
-tags: [_Phase1, Essay]
+tags: [_Phase1, Essay, _Mono]
 ---
 
 <!-- ![San Francisco, 2005]({{ 'https://www.botzilla.com/pix2005/natural.jpg' | absolute_url }}) -->

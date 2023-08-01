@@ -2,7 +2,7 @@
 layout: post
 title: "Blinded Eye"
 categories: [Desk]
-tags: [_Ancient]
+tags: [_Ancient, _Amreeka]
 ---
 
 

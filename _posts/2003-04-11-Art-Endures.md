@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/apr03c-09.jpg
   thumbnail: https://www.botzilla.com/bpix/apr03c-09.jpg
 categories: [Desk]
-tags: [Essay, _Iraq]
+tags: [Essay, _Iraq, _Amreeka]
 ---
 
 <!-- ![Circus Circus (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/apr03c-09.jpg' | absolute_url }}){: .align-right} -->

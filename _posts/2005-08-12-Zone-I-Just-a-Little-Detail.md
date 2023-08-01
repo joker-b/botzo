@@ -2,7 +2,7 @@
 layout: post
 title: "Zone I - Just a Little Detail"
 categories: [PhotoRant]
-tags: [Books, _Phase1]
+tags: [Books, _Phase1, _Mono]
 ---
 ![ZI]({{ 'https://www.botzilla.com/pix2005/zonei.jpg' | absolute_url }})
 

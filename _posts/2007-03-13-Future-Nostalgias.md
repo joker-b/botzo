@@ -2,7 +2,7 @@
 layout: post
 title: "Future Nostalgias"
 categories: [PhotoRant]
-tags: [Books, _Phase1]
+tags: [Books, _Phase1, _Mono]
 ---
 
 

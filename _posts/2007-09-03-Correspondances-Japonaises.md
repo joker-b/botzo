@@ -18,4 +18,4 @@ Here's hoping, anyway. In three weeks I will be back in Japan, hopefully not get
 
 <hr align="center" width="20%">
 
-An hour after posting this, I ran into <a href="http://www.talk-pix.com/bluesky/121lostblonde/cornfield.html">this most unlikely newspaper photography.</a>
+An hour after posting this, I ran into <a href="https://www.rutlandherald.com/features/lost-blonde-in-a-cornfield/article_94a713a3-472d-5dbd-b225-c125d374effd.html">this most unlikely newspaper photography.</a>
