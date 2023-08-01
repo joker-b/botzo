@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "Artista Studio"
+image:
+  path: https://www.botzilla.com/pix2005/artista.jpg
+  thumbnail: https://www.botzilla.com/pix2005/artista.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
+<i>(With apologies to W. Evans)</i>
 
-![With apologies to W. Evans (C) 2005 K Bjorke]({{ 'https://www.botzilla.com/pix2005/artista.jpg' | absolute_url }})
+<!-- ![With apologies to W. Evans (C) 2005 K Bjorke]({{ 'https://www.botzilla.com/pix2005/artista.jpg' | absolute_url }}) -->
 
 
 <a href="http://www.jmcolberg.com/weblog/">Joerg</a> wonders if <a href="http://www.jmcolberg.com/weblog/archives/001537.html">our lives are drowning in pictures</a> &#151; or in his specific words, "photographic white noise." Specifically, are people overwhelmed by their own portraiture? A child born today can expect thousands of photos to be emailed and archived on CDs before their first month of age. Byt the time they are old enough to pay attention, will they even be aware of any in particular?

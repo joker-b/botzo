@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Family, Immediate"
+image:
+  path: https://www.botzilla.com/bpix/famImm.jpg
+  thumbnail: https://www.botzilla.com/bpix/famImm.jpg
 categories: [PhotoRant]
 tags: [_Ancient, _Phase1, Essay]
 ---
 
-
-![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/famImm.jpg' | absolute_url }})
+<!-- ![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/famImm.jpg' | absolute_url }}) -->
 
 
 <i>Many, many snaps. Many CDs + duplicates.</i>

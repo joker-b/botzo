@@ -1,10 +1,15 @@
 ---
 layout: post
 title: "What I Learned on My Summer Vacation"
+image:
+  path: https://www.botzilla.com/blog/pix2007/station-P1070937.jpg
+  thumbnail: https://www.botzilla.com/blog/pix2007/station-P1070937.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
-![San Jose Station]({{ 'https://www.botzilla.com/blog/pix2007/station-P1070937.jpg' | absolute_url }})
+<i>(San Jose Station)</i>
+
+<!-- ![San Jose Station]({{ 'https://www.botzilla.com/blog/pix2007/station-P1070937.jpg' | absolute_url }}) -->
 
 * There is nothing to deter you from making lots of photographs with your full heavy kit bag like an intense peeling sunburn across your shoulders and back.
 * Spending time with your son being hurled down the "Pacific Spin" at the water park while being seriously sunburned across your shoulders and back is 100% worth the trouble.

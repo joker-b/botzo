@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "World Wide Dubya"
+image:
+  path: https://www.botzilla.com/bpix/VS0095.jpg
+  thumbnail: https://www.botzilla.com/bpix/VS0095.jpg
 categories: [Desk]
 tags: [Essay, _Ancient, _England, _Iraq]
 ---
 
-<figure class="align-right">
-	<img src="https://www.botzilla.com/bpix/VS0095.jpg">
-	<figcaption class="align-center">London, 2003</figcaption>
-</figure>
+<i>(Explaining US Foreign Policy, London)</i>
 
 <!-- ![London, 2003 (C) 2003 K. Bjorke]({{ 'https://www.botzilla.com/bpix/VS0095.jpg' | absolute_url }}){: .align-right} -->
 

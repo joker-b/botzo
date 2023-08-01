@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "Wake Up Call"
+image:
+  path: https://www.botzilla.com/bpix/map.jpg
+  thumbnail: https://www.botzilla.com/bpix/map.jpg
 categories: [PhotoRant]
 tags: [_Ancient, _Phase1, Essay]
 ---
-<a href="/journal/map.jpg">
+<i>(Demilitarized Zone, 2003)</i>
 
-![Demilitarized Zone, 2003 (C) K. Bjorke]({{ 'https://www.botzilla.com/bpix/map.jpg' | absolute_url }}){: .align-left}
+<!-- ![Demilitarized Zone, 2003 (C) K. Bjorke]({{ 'https://www.botzilla.com/bpix/map.jpg' | absolute_url }}){: .align-left} -->
+
 Yesterday I intended to write about some vague notion connecting suburban anthropology and focal lengths.  It'll have to wait &#151; a day of illness knocked me down and I barely left the house.
 
 I did have the computer around though, and between working on some 3D models I got a chance to look at the April issue of <a href="http://www.digitaljournalist.org/">The Digital Journalist,</a> which contains a few items about the <a href="http://digitaljournalist.org/issue0404/smith.html">new <i>New York Times</i> contract for freelancers.</a> As recounted in the <a href="http://www.asmp.org/news/spec2004/nytcontract.php">American Socitety of Media Photographers analysis</a> and the <a href="http://digitaljournalist.org/issue0404/nytletter.html">letter to <i>NYT</i> from freelancers who say they cannot sign the new contract,</a> the basic consensus for most shooters is clear: the contract simply appropriates all value for <i>NYT</i> and leaves the photographers with all the expenses and legal liabilities. <i>Great.</i> <a href="http://editorialphoto.com/">Editorial Photographers,</a> mentioned here only <a href="/blog/archives/000303.html">one entry ago,</a> has also  entered the fray, urging its members not to sign.

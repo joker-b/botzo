@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Dog Apples"
+image:
+  path: https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg
 categories: [PhotoRant]
 tags: [_Phase2, Essay]
 ---
 
-
-![bjorke_P1110968cr.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg' | absolute_url }})
+<!-- ![bjorke_P1110968cr.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg' | absolute_url }}) -->
 
 
 <a href="http://www.paulgrahamarchive.com/writings_by.html">Paul Graham</a> was kind enough not to name the unthinking reviewer who he says doesn't "get" photography -- which is odd, because you'd think he'd want to protect others from the potentially-insulting opinions he cites in <a href="http://www.artinfo.com/news/story/33711/beyond-a-snapshot/">this one-paragraph Jeff Wall book blurb by Carnelia Garcia</a> in ArtInfo's February <a href="http://www.artinfo.com/artandauction/f">ART+AUCTION</a> (Garcia claims to be a museum "PR Associate" according to her LinkedIn profile -- I won't speculate further).

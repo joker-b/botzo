@@ -1,11 +1,16 @@
 ---
 layout: post
 title: "Hacked-Up Life"
+image:
+  path: https://static.flickr.com/30/52514628_4e7af5a74c_m.jpg
+  thumbnail: https://static.flickr.com/30/52514628_4e7af5a74c_m.jpg
 categories: [Desk]
 tags: [_Phase1, Essay]
 ---
+<i>(Empty Desk = Empty Mind)</i>
 
-![Empty Desk = Empty Mind]({{ 'http://static.flickr.com/30/52514628_4e7af5a74c_m.jpg' | absolute_url }}){: .align-right}
+<!-- ![Empty Desk = Empty Mind]({{ 'https://static.flickr.com/30/52514628_4e7af5a74c_m.jpg' | absolute_url }}){: .align-right} -->
+
 I had meant to spend a couple of brief minutes this morning writing about how incredibly busy I have been in recent days, how fragmented it often seems as I leap between multiple tasks roles/mental frameworks/whatever hat-related-metaphors. Funny thing is that I was too busy to get to it. Well, not that funny.
 
 The five computers (sharing four monitors) on my desk (plus the hidden sixth one, used to snap the pic) are only the start &#151; the snap doesn't show the other three computers on my workdesk at home (augmented by the traveling Dell as #4) or the Tivo or the kids or the actual physical <a href="http:/43folders.com/">43 folders</a> sitting next to the kitchen phone or the developer events or the time spent trying to prove to myself that I am actually a social person or the workouts or the latest stack of books that's been growing and spreading in the space around my bed (still no time for <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0743222989/qid=1129929479/sr=8-1/ref=pd_bbs_1/104-4212019-0416766?v=glance&s=books&n=507846"><cite>Happiness</cite></a> BTW).

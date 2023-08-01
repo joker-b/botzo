@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Natural Colors Part 3 (and counting)"
+image:
+  path: https://www.botzilla.com/pix2005/nat3.jpg
+  thumbnail: https://www.botzilla.com/pix2005/nat3.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
-
-![Natural Colors Part 3 (and counting)]({{ 'https://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }}){: .align-right width=200 height=200 }
+<!-- ![Natural Colors Part 3 (and counting)]({{ 'https://www.botzilla.com/pix2005/nat3.jpg' | absolute_url }}){: .align-right width=200 height=200 } -->
 
 
 <i>Two rolls of TXP 220, Xtol 1+1.</i>

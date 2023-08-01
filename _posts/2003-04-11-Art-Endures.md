@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Art Endures"
+image:
+  path: https://www.botzilla.com/bpix/apr03c-09.jpg
+  thumbnail: https://www.botzilla.com/bpix/apr03c-09.jpg
 categories: [Desk]
 tags: [Essay, _Iraq]
 ---
 
-
-![Circus Circus (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/apr03c-09.jpg' | absolute_url }}){: .align-right}
+<!-- ![Circus Circus (C) 2003 Kevin Bjorke]({{ 'https://www.botzilla.com/bpix/apr03c-09.jpg' | absolute_url }}){: .align-right} -->
 Watching the "Raw Video" clips over at <a href="http://www.reuters.com/">reuters.com</a> and as usual they rock. Being able to just watch the lightly-edited raw footage, without voiceover or some dopey camerahog doing a standup in front of a safe gate or highway berm, is a monumentally great and apparently not-well-known resource.
 
 Today the feeds were full of Iraqi looting, of course. And a quick snip of the departing Iraqi delegate to the UN: "I love New York." One long clip covered a tour one of Qusay Hussein's so-far largely-unlooted palaces, along with the associated undestroyed yacht.

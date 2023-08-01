@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Crunch Mope"
+image:
+  path: https://www.botzilla.com/blog/archives/P1000609.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/P1000609.jpg
 categories: [Desk]
 tags: [_Phase1, Essay]
 ---
 <i>This is one of those never-quite-finished entries that's been long-lingering due to lack of time and attention &#151; in this case it's been months (there are some that are older... what can I say?) &#151; the original save date was early 2005, and it's lingered in "draft mode" ever since.</i>
 
 
-
-![P1000609.jpg]({{ 'https://www.botzilla.com/blog/archives/P1000609.jpg' | absolute_url }})
+<!-- ![P1000609.jpg]({{ 'https://www.botzilla.com/blog/archives/P1000609.jpg' | absolute_url }}) -->
 
 
 I was digging around on <a href="http://del.icio.us/bjorke/">del.icio.us</a> one afternoon and saw that after a lot of web traffic and game-industry furor back in November 2004, <a href="http://www.livejournal.com/users/ea_spouse/">ea_spouse</a> was still drawing hits from across the del.icio.us spectrum.

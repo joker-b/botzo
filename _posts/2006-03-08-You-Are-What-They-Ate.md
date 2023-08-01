@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "You Are What They Ate"
+image:
+  path: https://www.botzilla.com/blog/archives/pix2006/WhatYouEat.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2006/WhatYouEat.jpg
 categories: [Desk]
 tags: [_Phase1, Essay]
 ---
 
-
-![WhatYouEat.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/WhatYouEat.jpg' | absolute_url }})
+<!-- ![WhatYouEat.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/WhatYouEat.jpg' | absolute_url }}) -->
 
 
 Measured in "blog years" perhaps I haven't posted for a while, but it's good to keep it in perspective. Consider the timeline above, for instance, which describes part of our relationship to foods.

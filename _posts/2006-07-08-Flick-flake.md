@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Flick flake"
+image:
+  path: https://www.botzilla.com/blog/archives/pix2006/flickflake.jpg
+  thumbnail: https://www.botzilla.com/blog/archives/pix2006/flickflake.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
-
-![flickflake.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/flickflake.jpg' | absolute_url }})
+<!-- ![flickflake.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2006/flickflake.jpg' | absolute_url }}) -->
 
 
 Over the past month or two I've pretty-well given up on trying to make any sense of my <a href="http://www.flickr.com/people/bjorke/contacts/">flickr contacts list.</a> Too many people listing me, too many people whose photos I want to see.

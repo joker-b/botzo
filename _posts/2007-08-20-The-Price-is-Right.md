@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "The Price is Right"
+image:
+  path: https://www.botzilla.com/blog/pix2007/Moffet-P1060937.jpg
+  thumbnail: https://www.botzilla.com/blog/pix2007/Moffet-P1060937.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
+<i>(7th Psychological Operations Group, US Naval Air Station Sunnyvale, Moffet Field)</i>
 
-![7th Psychological Operations Group, US Naval Air Station Sunnyvale, Moffet Field (C) 2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/Moffet-P1060937.jpg' | absolute_url }})
+<!-- ![7th Psychological Operations Group, US Naval Air Station Sunnyvale, Moffet Field (C) 2007 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2007/Moffet-P1060937.jpg' | absolute_url }}) -->
 
 
 In my <a href="{{ site.baseurl }}{% post_url 2007-08-19-Timeless %}">blog draining</a> from yesterday: <a href="http://www.kstallworth.com/">Kristopher Stallworth</a> of Bakersfield found a poster of Gursky's "99 Cent Store" hanging in -- where else? -- a 99 Cent Store, and <a href="http://www.jmcolberg.com/weblog/2007/08/99_cents_at_99_cents_only_stor.html">Conscientious has the shot.</a> 

@@ -1,10 +1,15 @@
 ---
 layout: post
 title: "Magic Number"
+image:
+  path: https://www.botzilla.com/bpix/118_1872.jpg
+  thumbnail: https://www.botzilla.com/bpix/118_1872.jpg
 categories: [Desk]
-tags: [Essays, _Ancient, _Movies]
+tags: [Essay, _Ancient, _Movies]
 ---
-![Back Home at Dawn]({{ 'https://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right }
+
+<i>(Back Home at Dawn)</i>
+<!-- ![Back Home at Dawn]({{ 'https://www.botzilla.com/bpix/118_1872.jpg' | absolute_url }}){: .align-right } -->
 
 <i>I think that I shall never see<br>
 A number lovelier than three.</i>
