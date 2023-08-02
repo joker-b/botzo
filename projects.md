@@ -167,6 +167,7 @@ mastless: true
 <h1>Open-Source Tools</h1>
 <ul>
     <li><a href="{% post_url 2006-10-24-ChartThrob-A-Tool-for-Printing-Digital-Negatives %}"><i>ChartThrob:</i></a> A Tool for Printing Digital Negatives</li>
+    <li><a href="https://botzilla.com/page/strobeVolts.html">The Photo Strobe Trigger Voltage Page</a> for Camera/Strobe Safety</li>
     <li><a href="{% post_url 2019-01-08-SkinToner-Fast-Skintones-for-Photoshop %}"><i>SkinToner:</i></a> Quick Skintones for Photoshop</li>
     <li><a href="{% post_url 2020-04-09-kbImport %}">kbImport: A Media Filing System</a></li>
     <!-- <li>AllMine</li>

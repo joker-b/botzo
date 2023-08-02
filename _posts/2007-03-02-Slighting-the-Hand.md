@@ -8,13 +8,13 @@ categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
-Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one above, which he asserts represents the "traditional" value curve associated with industrial products, with teh value of _Production_ at the top...
+Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one above, which he asserts represents the "traditional" value curve associated with industrial products, with the value of _Production_ at the top, adding more value than marketing or innovative ideas...
 
 <!--more-->
 
-So the success formula was:
+The success formula was:
 
-<ol><li>Figure out what to make</li><li>Make tons of it cheaply.</li></ol>
+<ol><li>Figure out what to make, and</li><li>Make tons of it cheaply.</li></ol>
 
 ...and marketing, as long as it manages its basic functions, will have a secondary effect compared to good manufacturing and distribution skills.
 

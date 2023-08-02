@@ -9,14 +9,14 @@ picless: true
 mastless: true
 nameless: true
 ---
-This <a href="http://www.botzilla.com/categories/#gearhead">GearHead</a> list was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Minolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new <a href="http://www.botzilla.com/fstop/2023/06/17/Traffic.html">Big Godox</a> or <a href="http://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html">Tiny Fuji</a> and be very happy. The old and flexible <a href="https://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html#TLA">Contax TLA 360</a> can be had for a steal, these days.
+This <a href="http://www.botzilla.com/categories/#gearhead">GearHead</a> page was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Minolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new <a href="http://www.botzilla.com/fstop/2023/06/17/Traffic.html">Big Godox</a> or <a href="http://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html">Tiny Fuji</a> and be very happy. The old and flexible <a href="https://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html#TLA">Contax TLA 360</a> can be had for a steal, these days.
 {:.notice}
 
-<h1>Is your old strobe safe to use on your new electronic camera?</h1>
+<h1>Is your old flash unit safe to use on your new electronic camera?</h1>
 
 Some older strobes (and infrared strobe triggers) use high voltages in the trigger circuit.  For mechanical cameras, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltages.
 
-<i>How much is too much? What voltage might my own strobe generate?</i> This page tries to help answer those questions.  It contains a table of strobe trigger voltages, a few measured by myself but most contributed by readers of this site, along with some information about specific camera makes and the strobes that light them:
+<i>How much is too much? What voltage might my own strobe generate?</i> This page tries to help answer those questions.  It contains a table of strobe trigger voltages, a few measured by myself but most contributed by readers of this site, along with some information about specific camera makes and the strobes that light them... first cameras, then strobes. 
 
 <h2>Camera Info (as of around 2005)</h2>
 
