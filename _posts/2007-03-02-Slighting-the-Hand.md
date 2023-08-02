@@ -1,23 +1,30 @@
 ---
 layout: post
 title: "Slighting the Hand"
+image:
+  path: https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg
+  thumbnail: https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg
 categories: [PhotoRant]
 tags: [_Phase1, Essay]
 ---
 
-Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one below, which he asserts represents the "traditional" value curve associated with industrial products:
-
-![GodinChart1957.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart1957.jpg' | absolute_url }}){: .align-center}
+Iz has been recently reading parts of Seth Godin's <a href="http://www.sethgodin.com/purple/"><cite>Purple Cow,</cite></a> which reminded me of  another later Godin book,  <a href="http://www.npr.org/templates/story/story.php?storyId=5222377"><cite>All Marketers Are Liars.</cite></a> Godin includes along the way a chart kind of like the one above, which he asserts represents the "traditional" value curve associated with industrial products, with teh value of _Production_ at the top...
 
 <!--more-->
-That is, get an idea, make <i>lots</i> of it, and marketing, as long as it manages its basic functions, will have a secondary effect compared to good manufacturing and distribution skills.
 
-He follows it with this chart, to represent the modern condition:
+So the success formula was:
 
-![GodinChart2007.jpg]({{ 'https://www.botzilla.com/blog/pix2007/GodinChart2007.jpg' | absolute_url }}){: .align-center}
+<ol><li>Figure out what to make</li><li>Make tons of it cheaply.</li></ol>
 
+...and marketing, as long as it manages its basic functions, will have a secondary effect compared to good manufacturing and distribution skills.
 
-If production is computerized, or transplanted to a remote factory in Vietnam (Nike) or perhaps to the lowest external bidder (most fabless electronics companies, like NVIDIA), then &#151; while production isn't <i>entirely</i> unimportant<a href="#note0302">*</a> &#151; the real big ways to get value from industry are via two mechanisms:
+He follows it with this chart, to represent the current condition:
+
+<figure class="align-center">
+<img alt="G2007" src="https://www.botzilla.com/blog/pix2007/GodinChart2007.jpg">
+</figure>
+
+If production is computerized ("dark factory" operations like Pilot Pen), or transplanted to a remote overseas facility (Nike) or perhaps to the lowest external bidder (most fabless electronics companies, like NVIDIA), then &#151; while production isn't <i>entirely</i> unimportant<a href="#note0302">*</a> &#151; the real big ways to get value from industry are via two mechanisms:
 
 <ol><li>Invent stuff worth talking about.</li><li>Tell compelling stories about what you've invented.</li></ol>
 
