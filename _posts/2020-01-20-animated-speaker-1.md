@@ -85,7 +85,9 @@ Photography removes the hand from visual expression. The same little squeeze of 
 
 In the aftermath of the "Daguerromania" of 1850 or so, there were some reactions from painters who would prefer to say that photography "freed" them from strict mimesis-of-nature, rather than relegating them to the margins: Impressionists, Abstract Expressionists, Dadaists, or Conceptual Artists of every stripe (many of whom gave in to use photography, typically as a medium to record themselves creating gestures to drive the images' ideas). Only in recent years has painting seemed to be coming back from its century of fitful dreams to reassert its ability to connect seeing and time and gesture onto a canvas again, to let the painter tell a story through poetic means without feeling the need to either meticulously recreate the static appearance of a thing or to run away from representation as somehow "untrue."
 
-As with photography, the arrival of moveable type for uniform printing began a similar slide away from the personal in the written word, which was often no longer written at all. Printing had previously been expensive, regulated by church and state, and that lent its official dullness an element of authority. It became prefered to an expressive pen. So too the later typewriter, which began a widespread standard of rigid presentation that in turn led to the laser writer (no "type" to be moved) and the screen (no object to carry - no ink to page, nor pen to paper).
+As with photography, the arrival of moveable type for uniform printing began a similar slide away from the personal in the written word, which was often no longer written at all. Printing had previously been expensive, regulated by church and state, and that lent its official dullness an element of authority. It became prefered to an expressive pen.
+
+Not long after photography came the typewriter, banishing pens from newsrooms and garrets, setting widespread standard of rigid presentation that in turn led to the laser writer (no "type" to be moved) and the screen (no object to carry - no ink to page, nor pen to paper).
 
 The banishment of the hand was nearly complete.
 

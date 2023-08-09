@@ -8,6 +8,8 @@ categories: [PhotoRant]
 tags: [Film, Books, _Ancient]
 ---
 
+<br/>
+
 Emese asks: <a title="Is photoblogging good for photography?" href="{{ site.baseurl }}{% post_url 2006-07-18-Dag %}">"Is photoblogging good for photography?"</a> Though it's not clear if she means <i>her</i> photography or the general world of all photography (or more likely, some particular slice of it, like advertising photography).
 
 Here on PhotoRant, <a href="http://www.unicircuits.com/" rel="acquaintance">Dirk</a> asks: <a href="/blog/archives/000270.html">Is the chef with three Michelin stars getting upset about people cooking their daily meals?</a>
