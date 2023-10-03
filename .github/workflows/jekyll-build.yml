@@ -34,10 +34,10 @@ jobs:
 
       - name: Send zip to Botzilla
         env:
-	   SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 	   SSH_PORT: ${{ secrets.SSH_PORT }}
 	   SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
 	   SSH_HOST: ${{ secrets.SSH_HOST }}
+	   SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
         run: |
 	    mkdir -p ~/.ssh
 	    echo "${SSH_KEY}" > ~/.ssh/id_rsa
