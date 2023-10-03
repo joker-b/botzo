@@ -33,11 +33,16 @@ jobs:
           path: botzo.tar.gz
 
       - name: Send zip to Botzilla
+        env:
+	   SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+	   SSH_PORT: ${{ secrets.SSH_PORT }}
+	   SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+	   SSH_HOST: ${{ secrets.SSH_HOST }}
         run: |
-          mkdir -p ~/.ssh
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          scp -P ${{ secrets.SSH_PORT }} -o StrictHostKeyChecking=no botzo.tar.gz ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:html/botzo.tar.gz
+	    mkdir -p ~/.ssh
+	    echo "${SSH_KEY}" > ~/.ssh/id_rsa
+	    chmod 600 ~/.ssh/id_rsa
+	    scp -P ${SSH_PORT} -o StrictHostKeyChecking=no botzo.tar.gz ${SSH_USERNAME}@${SSH}:html/botzo.tar.gz
         shell: bash
 
 
