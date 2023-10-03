@@ -139,6 +139,7 @@ ss_footer_links:
 exclude:
   - _retired/
   - _dotfiles/
+  - vendor/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
