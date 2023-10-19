@@ -2,7 +2,7 @@
 layout: post
 title: "Scotopic Photo Topic"
 categories: [PhotoRant]
-tags: [Books, _Ancient]
+tags: [Books, _Ancient, _Portrait]
 ---
 
 

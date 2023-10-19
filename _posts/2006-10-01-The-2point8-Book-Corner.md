@@ -2,7 +2,7 @@
 layout: post
 title: "The 2point8 Book Corner"
 categories: [PhotoRant]
-tags: [Books, _Phase1]
+tags: [Books, _Phase1, _Portrait]
 ---
 
 

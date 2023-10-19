@@ -2,7 +2,7 @@
 layout: post
 title: "More Portraits"
 categories: [PhotoRant]
-tags: [Books, _Phase1]
+tags: [Books, _Phase1, _Portrait]
 ---
 ![Paper Cut]( {{ 'https://www.botzilla.com/pix2005/paperCut2.jpg' | absolute_url }}){: .align-right }
 

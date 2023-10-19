@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/blog/pix2006/558_5875.jpg
   thumbnail: https://www.botzilla.com/blog/pix2006/558_5875.jpg
 categories: [PhotoRant]
-tags: [_Phase1, Essay]
+tags: [_Phase1, Essay, _Portrait]
 ---
 
 <!-- ![(C)2006 K Bjorke]({{ 'https://www.botzilla.com/blog/pix2006/558_5875.jpg' | absolute_url }}) -->

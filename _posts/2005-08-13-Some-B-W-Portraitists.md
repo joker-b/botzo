@@ -2,7 +2,7 @@
 layout: post
 title: "Some B&W Portraitists"
 categories: [PhotoRant]
-tags: [_Phase1, _Mono]
+tags: [_Phase1, _Mono, _Portrait]
 ---
 ![ports]({{ 'https://www.botzilla.com/pix2005/ports.jpg' | absolute_url }})
 

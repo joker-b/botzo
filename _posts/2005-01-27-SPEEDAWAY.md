@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SPEEDAWAY"
-tags: [_Phase1]
+tags: [_Phase1, _Portrait]
 categories: [PhotoRant]
 image:
     path: https://www.botzilla.com/pix2005/speedaway.jpg

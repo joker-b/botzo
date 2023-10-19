@@ -2,7 +2,7 @@
 layout: post
 title: "X100s: Usage & Non-Review"
 categories: [GearHead]
-tags: [Review, Fujifilm, _Phase3]
+tags: [Review, Fujifilm, _Phase3, _Portrait]
 ---
 ![Market and Powell]({{ 'https://www.botzilla.com/blog/archives/pix2014/bjorke_JOKR8806.jpg' | absolute_url }})
 

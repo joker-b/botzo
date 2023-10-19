@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/thePicture.jpg
   thumbnail: https://www.botzilla.com/bpix/thePicture.jpg
 categories: [PhotoRant]
-tags: [_Phase1, Essay]
+tags: [_Phase1, Essay, _Portrait]
 ---
 
 <!-- ![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/thePicture.jpg' | absolute_url }}){: .align-center} -->

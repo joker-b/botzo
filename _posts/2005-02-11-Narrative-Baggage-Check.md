@@ -2,7 +2,7 @@
 layout: post
 title: "Narrative Baggage Check"
 categories: [PhotoRant]
-tags: [Books, _Phase1]
+tags: [Books, _Phase1, _Portrait]
 ---
 
 

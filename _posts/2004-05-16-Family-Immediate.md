@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/famImm.jpg
   thumbnail: https://www.botzilla.com/bpix/famImm.jpg
 categories: [PhotoRant]
-tags: [_Ancient, _Phase1, Essay]
+tags: [_Ancient, _Phase1, Essay, _Portrait]
 ---
 
 <!-- ![(C)2004 K Bjorke]({{ 'https://www.botzilla.com/bpix/famImm.jpg' | absolute_url }}) -->

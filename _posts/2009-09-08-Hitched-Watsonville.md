@@ -2,7 +2,7 @@
 layout: post
 title: "Hitched, Watsonville"
 categories: [fStop]
-tags: [_Phase2]
+tags: [_Phase2, _Portrait]
 ---
 
 

@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/blindness.jpg
   thumbnail: https://www.botzilla.com/bpix/blindness.jpg
 categories: [fStop]
-tags: [_Ancient, Essay, _Mono]
+tags: [_Ancient, Essay, _Mono, _Portrait]
 ---
 
 <!-- ![(C)2004]({{ 'https://www.botzilla.com/bpix/blindness.jpg' | absolute_url }}) -->

@@ -2,7 +2,7 @@
 layout: post
 title: "Child Portraitists"
 categories: [PhotoRant]
-tags: [Books, Film, Essay, _Phase1, _Phase2]
+tags: [Books, Film, Essay, _Phase1, _Phase2, _Portrait]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The Fine Print"
 categories: [fStop]
-tags: [Film, Zeiss, _Phase1]
+tags: [Film, Zeiss, _Phase1, _Portrait]
 ---
 
 

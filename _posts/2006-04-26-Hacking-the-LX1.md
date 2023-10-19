@@ -2,7 +2,7 @@
 layout: post
 title: "Hacking the Lumix LX1"
 categories: [GearHead]
-tags: [_Phase1, Lumix]
+tags: [_Phase1, Lumix, _Portrait]
 ---
 
 

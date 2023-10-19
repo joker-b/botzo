@@ -2,7 +2,7 @@
 layout: post
 title: "Garage, Pajamas, Nintendo"
 categories: [fStop]
-tags: [_Phase1]
+tags: [_Phase1, _Portrait]
 ---
 
 

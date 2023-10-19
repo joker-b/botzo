@@ -2,7 +2,7 @@
 layout: post
 title: "Margo Davis Workshop"
 categories: [fStop]
-tags: [_Phase1, margodavis, _Mono]
+tags: [_Phase1, margodavis, _Mono, _Portrait]
 ---
 
 

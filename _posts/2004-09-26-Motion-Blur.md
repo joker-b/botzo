@@ -2,7 +2,7 @@
 layout: post
 title: "Tokyo Motion Blur"
 categories: [fStop]
-tags: [Film, _Phase1]
+tags: [Film, _Phase1, _Portrait, _Japan]
 ---
 
 
