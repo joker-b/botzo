@@ -39,8 +39,9 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
 /* Serif was unused in so-simple so using SS's prefered Merriweather */
-$serif-font-family: "Merriweather", serif !default;
-$sans-serif-font-family: "Dosis", sans-serif !default;
+/* $serif-font-family: "Merriweather", serif !default; */
+$serif-font-family: "Lora", serif !default;
+$sans-serif-font-family: "Barlow Semi Condensed", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
 $base-font-family: $sans-serif-font-family !default;

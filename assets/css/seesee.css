@@ -1,13 +1,13 @@
 /* see see font etc overrides */
 
 .ssText {
-    font-family: "Merriweather", serif;
+    font-family: "Lora", serif;
     text-transform: none;
 }
 
 .ss-page-title {
     margin-bottom: 0.5em;
-    font-family: "Merriweather", serif;
+    font-family: "Lora", serif;
     font-weight: 300;
     text-transform: none;
     color: #888;
@@ -26,7 +26,7 @@
 .ss-page-subtitle {
   @include fluid-type($min-vw, $max-vw, 24px, 32px);
   margin-bottom: 0.5em;
-  font-family: "Merriweather", serif;
+  font-family: "Lora", serif;
   font-weight: 300;
   font-style: italic;
   text-align: center;
@@ -41,7 +41,7 @@
   -ms-flex-order: 1;
   order: 1;
   margin-bottom: 2px;
-  font-family: "Merriweather", serif;
+  font-family: "Lora", serif;
   font-weight: 300;
   text-transform: none;
   color: #888;
