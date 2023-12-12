@@ -4,8 +4,7 @@ layout: seesee/collection
 permalink: /paintings/
 collection: paintings
 entries_layout: grid
-sort_by: date
-sort_order: reverse
+sort_by: rank
 show_excerpts: false
 mastless: true
 ---

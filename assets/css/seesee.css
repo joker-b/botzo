@@ -2,15 +2,17 @@
 
 .ssText {
     font-family: "Merriweather", serif;
+    text-transform: none;
 }
 
 .ss-page-title {
     margin-bottom: 0.5em;
     font-family: "Merriweather", serif;
-    font-weight: bold;
+    font-weight: 300;
+    text-transform: none;
     color: #888;
-    /* font-style: italic; */
-    /* text-transform: uppercase; */
+    text-align: center;
+    font-style: italic;
     letter-spacing: -2px; }
     .ss-page-title {
       font-size: 48px; }
@@ -21,3 +23,27 @@
         .ss-page-title {
           font-size: 60px; } }
   
+.ss-page-subtitle {
+  @include fluid-type($min-vw, $max-vw, 24px, 32px);
+  margin-bottom: 0.5em;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+  color: #888;
+  text-transform: none;
+  letter-spacing: -2px;
+}
+
+.ss-entry-title {
+  @include fluid-type($min-vw, $max-vw, 18px, 24px);
+  -webkit-box-ordinal-group: 2;
+  -ms-flex-order: 1;
+  order: 1;
+  margin-bottom: 2px;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  text-transform: none;
+  color: #888;
+  text-align: center;
+}

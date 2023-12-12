@@ -1,7 +1,8 @@
 ---
 layout: seesee/post-coll
-title: "Imortal"
+title: "Immortal"
 mastless: true
+rank: 160
 image:
   path: "https://www.botzilla.com/pix_ssl/Imortal.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/Imortal.jpg"

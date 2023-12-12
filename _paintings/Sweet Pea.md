@@ -2,6 +2,7 @@
 layout: seesee/post-coll
 title: "Sweet Pea"
 mastless: true
+rank: 250
 image:
   path: "https://www.botzilla.com/pix_ssl/Sweet Pea.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/Sweet Pea.jpg"

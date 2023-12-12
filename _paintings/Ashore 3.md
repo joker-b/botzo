@@ -2,6 +2,7 @@
 layout: seesee/post-coll
 title: "Ashore 3"
 mastless: true
+rank: 450
 image:
   path: "https://www.botzilla.com/pix_ssl/Ashore 3.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/Ashore 3.jpg"

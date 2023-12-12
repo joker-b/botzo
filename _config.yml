@@ -67,9 +67,11 @@ collections:
     permalink: /:collection/:path/
   paintings:
     output: true
+    sort_by: rank
     permalink: /:collection/:path/
   boxes:
     output: true
+    sort_by: rank
     permalink: /:collection/:path/
 
 #social share off july 2023 -- what is #recipes?
