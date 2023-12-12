@@ -26,7 +26,6 @@ Studying with teachers at the Art Students League in NYC, her works are mostly r
 {: .ssText }
 
 Paintings from See See's studio are available at <b>The Art Hatchery</b>: <a href="https://www.google.com/maps/place/401+7th+St+%2315,+Petaluma,+CA+94952/@38.2277193,-122.6387623,17z/data=!3m1!4b1!4m5!3m4!1s0x8085b6ae32af4d9f:0xc97691bca74b59ee!8m2!3d38.2277193!4d-122.636182?entry=ttu">401 7th Street #15, Petaluma, CA 94952</a>
-
 {: .ssText }
 
 Explore, and share her joy of creation!
