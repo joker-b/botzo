@@ -16,7 +16,7 @@ A number lovelier than three.</i>
 
 Some examples:
 
-_We Try Harder: Part Three_
+## We Try Harder: Part Three
 
 One of the &#151; ahem &#151; features of longer air travel is
 that you get to see a lot of movies on the inflight screens that
@@ -25,6 +25,8 @@ movies, in the past couple of weeks, was <i>Terminator 3:
 Rise of the Machines.</i>
 
 <!--more-->
+
+## T3
 
 <i>Terminator 3</i> seems to be one of those films that was
 years and years in the making &#151; that is, years and years of
@@ -47,6 +49,8 @@ and with a computerized security system). The "plot" was just a
 thin premise for lurching between More Of The Same set
 pieces, essentially a film built from commercials for the
 previous film.
+
+## M3
 
 One could say that <i>Matrix Revolutions</i> suffered from the
 same disease, and to a degree it probably did (the scenes with
@@ -140,6 +144,8 @@ electronic vagina, and the marginal characters, added only for
 the sake of the sequels and their lifeless plot mechanics, stride
 off into a cheerfully multicolored sunset reminiscent of a Lisa Frank
 catalog.
+
+## C3
 
 As a counterpoint to <i>Terminator,</i> United Air was also
 playing <i>Charlie's Angels: Full Throttle.</i> No surprise that

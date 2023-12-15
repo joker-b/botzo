@@ -17,9 +17,9 @@ __"I think that's great, 900 fewer assholes in the world."__
 
 So imagine my surprise when I discover this morning, on <a href="http://www.wernerherzog.com/" target="_blank">Werner Herzog's own site,</a> a little manifesto he calls:
 
-> <b>The Minnesota Declaration:</b>
+> ## The Minnesota Declaration:
 > 
-> 1. By dint of declaration the so-called <i>Cinema Verit&eacute;<i> is devoid of <i>verit&eacute;.</i> It reaches a merely superficial truth, the truth of accountants.
+> 1. By dint of declaration the so-called <i>Cinema Verit&eacute;</i> is devoid of <i>verit&eacute;.</i> It reaches a merely superficial truth, the truth of accountants.
 > 2. One well-known representative of <i>Cinema Verit&eacute;</i> declared publicly that truth can be easily found by taking a camera and trying to be honest. He resembles the night watchman at the Supreme Court who resents the amount of written law and legal procedures. "For me," he says, "there should be only one single law: the bad guys should go to jail."<br />Unfortunately, he is part right, for most of the many, much of the time.
 > 3. <i>Cinema Verit&eacute;</i> confounds fact and truth, and thus plows only stones. And yet, facts sometimes have a strange and bizarre power that makes their inherent truth seem unbelievable.
 > 4. Fact creates norms, and truth illumination.
