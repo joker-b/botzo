@@ -38,9 +38,9 @@ Assuming, for one instant, that the purpose of news gathering and publishing is 
 
 Part of it, surely, has to do with the fact that propaganda is profitable. The Fox Newses of the world have seen the value of letting people avoid having to use information to inform their moral and ethical judgement &#151; rather, it's easier to just give them a narrow range of factoids intended to reinforce a predetermined framing of the world, to ensure that all new information is either bent or filtered into a form that fits the existing, simple-to-grasp and continuously self-affirming story.
 
-I don't think the story is inherently partisan, <i>&aacute; la</i> Fox. Rather, Fox is just one variation of the larger simple story: <i>Everything is fine here but the faraway world is bad. Here, buy something.</i>
+I don't think the story is inherently partisan, <i>&aacute; la</i> Fox. Rather, Fox is just one variation of the larger simple story: <i>Everything is fine here but the faraway world is bad. Time for an ad! Feel better, buy something.</i>
 
-And that's a story whose foundations are chipped at by Platt's photo. 
+And that's a moral narrative whose foundations are chipped at by Platt's hammering photo. 
 
 (<a href="{{ site.baseurl }}{% post_url 2007-02-25-Is-Photography-Inherently-Humanizing-II %}">Part II here,</a> Part III <a href="https://www.botzilla.com/blog/archives/000599.html">here.</a>)
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Every Man for Himself: Werner Herzog"
 categories: [PhotoRant]
-tags: [Books, _Phase1, Essay, _Movies]
+tags: [Books, _Phase1, Essay, _Movies, _Minnesota]
 ---
 ![Every]({{ 'https://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
 
 A few years back (okay, a bunch of years back), I attended a session at the <a href="http://www.mnfilmarts.org/" target="_blank">University Film Society,</a> at the Bell Museum on the University of Minnesota campus. Guest for the evening, Werner Herzog, I think to promote <a href="http://www.lesblank.com/more/shoe.html" target="_blank"><i>Werner Herzog Eats His Shoe,</i></a> though that night we watched <a href="http://www.imdb.com/title/tt0068182/" target="_blank"><i>Aguirre, the Wrath of God.</i></a>
 
-Afterwards, we went for drinks with Herzog. A hot topic -- <a href="http://www.brasscheck.com/jonestown/" target="_blank">Jonestown</a> <a href="http://www.rickross.com/groups/jonestown.html" target="_blank">People's Temple</a> mass suicide -- came up in the cnversation. The Jonestown Massacre. It was still very much in the press. What did Herzog think?
+Afterwards, we went for drinks with Herzog. A hot topic -- the <a href="http://www.brasscheck.com/jonestown/" target="_blank">Jonestown</a> <a href="http://www.rickross.com/groups/jonestown.html" target="_blank">People's Temple</a> mass suicide -- came up in the ocnversation. The Jonestown Massacre. It was still very much in the press. What did Herzog think?
 
 __"I think that's great, 900 fewer assholes in the world."__
 
@@ -19,7 +19,7 @@ So imagine my surprise when I discover this morning, on <a href="http://www.wern
 
 > <b>The Minnesota Declaration:</b>
 > 
-> 1. By dint of declaration the so-called <i>Cinema Verit&eacute;<i> is devoid of <i>verit&eacute;.</a> It reaches a merely superficial truth, the truth of accountants.
+> 1. By dint of declaration the so-called <i>Cinema Verit&eacute;<i> is devoid of <i>verit&eacute;.</i> It reaches a merely superficial truth, the truth of accountants.
 > 2. One well-known representative of <i>Cinema Verit&eacute;</i> declared publicly that truth can be easily found by taking a camera and trying to be honest. He resembles the night watchman at the Supreme Court who resents the amount of written law and legal procedures. "For me," he says, "there should be only one single law: the bad guys should go to jail."<br />Unfortunately, he is part right, for most of the many, much of the time.
 > 3. <i>Cinema Verit&eacute;</i> confounds fact and truth, and thus plows only stones. And yet, facts sometimes have a strange and bizarre power that makes their inherent truth seem unbelievable.
 > 4. Fact creates norms, and truth illumination.

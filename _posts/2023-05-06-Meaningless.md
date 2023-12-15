@@ -20,11 +20,13 @@ For all the deserved accolades, in this brief post I'd like to assert that this 
 
 Avedon: _"There is no such person as Marilyn Monroe. Marilyn Monroe was an invention of hers. A genius invention that she created like an author creates a character."_
 
-A photo like this starts to peel-apart the casual notion that a photo is _real_ and that it has a particular meaning. It's a little bit consoling to think that a photo is intrinsically _true_ -- it's hard to argue against the ideas that a certain number of photons bounced here, were refracted there, caused such-and-such a chemical reaction inside Avedon's Rolleiflex.
+A photo like this starts to peel-apart the casual notion that a photo is _real_ and that it has a particular meaning. It's a little bit consoling to think that a photo is intrinsically _"true":_  it's hard to argue against the simple physical ideas that on some particular day a certain number of photons bounced here, were refracted there, caused such-and-such a chemical reaction inside Avedon's Rolleiflex.
 
-Yet beyond the simple and obvious identity of the moment -- that Norma/Marilyn was there on this day and was exposed correctly -- the interpretation of the photo confounds the viewer, the reader of commentary, the press agent, the fan.
 
-The deuce of it is that the meaning -- whatever it really is -- is in the mind and reactions of the observer. A great picture is less a statement than an arbitrary expression that engages you, the viewer, in the process of assigning meaning. The meaning comes from the collision of that picture and your self.
+Yet beyond the simple and obvious identity of the moment, <a href="{{ site.baseurl }}{% post_url 2004-06-09-every-man-for-himself %}">a truth of accountants</a>
+ -- that Norma/Marilyn was there on this day and was exposed correctly -- the interpretation of the photo confounds the viewer, the reader of commentary, the press agent, the fan.
+
+The deuce of it is that the _meaning_ -- whatever it really is -- is in the mind and reactions of the observer, not in the photo. A great picture is less a statement than an arbitrary expression that engages you, the viewer, in the process of assigning meaning. The meaning comes from the collision of that picture and your self.
 
 If we think of images this way -- as a mechanism for _unlocking_ meanings in the viewer, rather than as _containing_ meanings -- then it's much easier to see a commonality between all images, between all arts.
 
@@ -34,16 +36,20 @@ And the artist: not as someone who forces meaning into an image, but as someone 
 
 Paul Klee once said "Art does not reproduce the visible; rather, it makes visible."
 
-<hr />
+## The Hazards of Outsourcing Your Eyes
 
 When you looked at the photo above, what had reached your eye, physically, are lightrays from a screen, assembled by a computer program from data sent via some local CDN and further on across the network to the datacenter that contains botzilla.com, which in turn is filled with pixel values that I found on the internet courtesy The Richard Avedon foundation that digitized them via unspecified methods from a print made in the 1950's of a black and white negative on Kodak film inside a German twin lens camera, lit by bulbs of some sort whose own light rays reacted with Marilyn's skin, emitting a radiance that we normally associate with her, even here.
 
-_You already know this._ Okay, so, which part of that chain _understands_ the photo? Do JPG algorithms understand it? Does Tri-X?
+_You already know this._
+
+Okay, so, which part of that chain _understands_ the photo? Do JPG algorithms understand it? Does Tri-X?
 
 I ask because these questions of understanding hew very close to John Searle's famous <a href="https://plato.stanford.edu/entries/chinese-room/">Chinese Room Argument.</a> In his philosphical imagination, Searle proposes someone alone in a room, translating lone Chinese characters into English or vice versa, by simply following the instructions of a computerized dictionary. Does the person... understand Chinese? English? Does the computer? This puzzle challenges our understanding... of understanding.
 
 (For myself, I think that a small level of understanding _is_ required in Searle's puzzle -- an understanding that a certain kind of mark on paper should trigger a series of steps which will result in a new mark or marks on a different piece of paper. This is a question, and has a response. It is a tiny language of its own. The need for _additional_ meaning comes not from the hapless translator, but from the philosophy professor in the next room.)
 
-Which leads me back to Marilyn, to meaning, to photography and AI (this is, after all, botzilla.com). An image: still, silent, devoid of agency, is _up to you the viewer_ to interpret. How it was made is only a part of how an artist might use their crafts to bring you a chance: to see something beautiful, terrifying, grating or elegant. It's your eye that chooses if it will see.
+Which leads me back to Marilyn, to meaning, to photography and AI and media platforms (this is, after all, botzilla.com).
+
+An image: still, silent, devoid of agency, is _up to you the viewer_ to interpret. How it was made is only a part of how an artist might use their crafts to bring you a chance: to see something beautiful, terrifying, grating or elegant. It's your eye that chooses if it will see.
 
 
