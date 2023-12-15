@@ -24,6 +24,8 @@ tags: [_Ancient, Essay]
 
 <p><a href="/photo/L2002/">Walking around with other photographers</a> is a useful alternative, if you have any handy &#151; they understand the need to photograph based on what you see <i>now.</i> They can buy into the idea of "I'll meet you at the corner over there in five minutes." One is reminded of the many parallel walks taken in the 60's by Winogrand and Meyerowitz, happy to be anti-social together.</p>
 
+## Signal
+
 <p>These thoughts come just after receiving a comment from <a href="http://consumptive.org/" target="_blank">James Luckett</a> on the recent entry <a href="/blog/archives/000313.html">The 3 C's,</a> particularly this passage:</p>
 
 <blockquote><p><i>photography is an immensely difficult thing to talk about, requiring time, patience and understanding. i've been working in this field for 18 years, 14 of those in school as a student and a teacher, and can mark on one hand the personally meaningful discussions i've had.</i></p></blockquote>
@@ -35,5 +37,7 @@ tags: [_Ancient, Essay]
 <p>When panning for gold, a lot of the process can be automated. Posts about equipment I don't have? In the trash. So long HP, sayonara Pentax, Tokina, and Sanyo... hey, that's 85% of most photo posts. Arguments about digital and film, "rules of composition," B&amp;W or color... that's another 10% and now with 95% of the traffic gone that 1:1000 ratio's down to 1:50. Worth the trouble? It keeps me busy.</p>
 
 <p>One idea, and I've tried working it into my own forum posts when possible, is trying to emphasize pictures over words. Every post has a photo, or a link to a photo. The goal is to keep your ideas visual. I've yet to see a forum successfully <i>require</i> pictures, though a low-traffic private list run by <a href="http://www.motorcycletours.com/northeastern/" target="_blank">Sean Reid</a> and <a href="http://www.benlifson.com/" target="_blank">Ben Lifson</a> has come the closest, and despite difficulties it's been one of my favorites.</p>
+
+## Hypo Check
 
 <p>A good litmus of worthlessness in a forum, imo, is a focus on easy friendliness. It's a sure sign that they tolerate mediocrity easily and will be quick to praise the lamest of bird, flower, and adorable grandchildren sunsets. And the obverse can be the best indicator for a group where people are likely to actually get some value from inclusion: the group's anti-social nature.</p>

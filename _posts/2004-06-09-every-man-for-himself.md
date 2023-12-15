@@ -8,7 +8,7 @@ tags: [Books, _Phase1, Essay, _Movies, _Minnesota]
 
 A few years back (okay, a bunch of years back), I attended a session at the <a href="http://www.mnfilmarts.org/" target="_blank">University Film Society,</a> at the Bell Museum on the University of Minnesota campus. Guest for the evening, Werner Herzog, I think to promote <a href="http://www.lesblank.com/more/shoe.html" target="_blank"><i>Werner Herzog Eats His Shoe,</i></a> though that night we watched <a href="http://www.imdb.com/title/tt0068182/" target="_blank"><i>Aguirre, the Wrath of God.</i></a>
 
-Afterwards, we went for drinks with Herzog. A hot topic -- the <a href="http://www.brasscheck.com/jonestown/" target="_blank">Jonestown</a> <a href="http://www.rickross.com/groups/jonestown.html" target="_blank">People's Temple</a> mass suicide -- came up in the ocnversation. The Jonestown Massacre. It was still very much in the press. What did Herzog think?
+Afterwards, we went for drinks with Herzog. A hot topic -- the <a href="http://www.brasscheck.com/jonestown/" target="_blank">Jonestown</a> <a href="http://www.rickross.com/groups/jonestown.html" target="_blank">People's Temple</a> mass suicide -- came up in the conversation. The Jonestown Massacre. It was still very much in the press. What did Herzog think?
 
 __"I think that's great, 900 fewer assholes in the world."__
 

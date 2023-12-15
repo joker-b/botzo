@@ -50,7 +50,8 @@ Not-so-many-pictures Books:
 	    Critical Judgement of Pictures</cite> | Henry Rankin Poore |
 | <cite>Between the Eyes</cite> | David Levi Strauss |
 | <cite>The Five Love Languages</cite> | Gary Chapman |
-| <cite>Avedon at Work in the American West</cite> | Laura Wilson |<tr><td align="right"><cite>The Crisis of the Real</cite></td><td>Andy Grundberg</td></tr>
+| <cite>Avedon at Work in the American West</cite> | Laura Wilson |
+| <cite>The Crisis of the Real</cite> | Andy Grundberg |
 | <cite>Stepfamilies</cite> | Dr. James H. Bray &amp; John Kelly |
 | <cite>Ways of Seeing</cite> | John Berger |
 

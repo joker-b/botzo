@@ -19,6 +19,8 @@ The trick to using a G2 quickly is to _ride the AF lock button._ There, that's i
 
 <i>It's all about the grip.</i> Keep your thumb where it gives you image-control leverage. Focus, hold the button, reframe if you need to, _click._
 
+## Haters Gotta Hate
+
 Here are the standard complaints I hear about the Contax G2: I hear them on the web, in emails, in person. The truth is they're pretty well dispatched as long as you know how to hold the camera.
 
 <ul><li>The AF is slow.</li><li>The AF is noisy.</li><li>The lens moves back and forth between shots and it causes a delay.</li><li>The AF is never as good as a good manual focus.</li><li>It's just a fancy point-n-shoot.</li><li>The manual focus is impossible to use because the distance scale is on the top of the body, rather than the viewfinder.</li><li>It's not fair that it costs 1/5 of the Leica and has <a href="https://www.botzilla.com/tags/#zeiss">such good lenses.</a></li><li>See? It has no red dot!</li></ul>
@@ -27,13 +29,13 @@ Universally, these complaints come from folks who hold the camera incorrectly (i
 
 Part of the problem, surely, is a nearly-universal human tendency to avoid <i>any</i> sort of work and assume that if convenient technology is available, that it must be used; a attitude which is deeply wrong-headed imo. Use the autofocus, don't let it be your boss.
 
-<tt>&lt;rant&gt;</tt>The Contax G (like the Nikon F6) <i>can</i> be used as a point-n-shoot. Sometimes that's all you need. But just because the camera can be operated by a three-year-old <i>doesn't mean that's the way it should always be used</i> (this is a problem many users have with all sorts of equipment, BTW. In the face of technology that's increasingly idiot-proofed, people often think that it gives them a free license to be an idiot, or even the belief that idiocy is required).<tt>&lt;/rant&gt;</tt>
+> <tt>&lt;rant&gt;</tt>The Contax G (like the Nikon F6) <i>can</i> be used as a point-n-shoot. Sometimes that's all you need. But just because the camera can be operated by a three-year-old <i>doesn't mean that's the way it should always be used</i> (this is a problem many users have with all sorts of equipment, BTW. In the face of technology that's increasingly idiot-proofed, people often think that it gives them a free license to be an idiot, or even the belief that idiocy is required).<tt>&lt;/rant&gt;</tt>
 
 The solutions are actually all in the Contax manual! Just hard to find. Bits and pieces of crucial info are scattered on odd pages. Further, the siren song of automation probably keeps a lot of folks from ever reading the Contax manual (here's a Leica advantage, all right &#151; you need to know at least a <i>little bit</i> about what you're doing before you start. The manual struggle of just loading a camera like the M7 keeps most three year olds at bay).
 
 <hr width="20%" align="center">
 
-<h4>Here's What to Do:</h4>
+## Here's What to Do:
 
 Set the camera in <b>SAF</b> mode, hold it with your thumb on the lock button, ready to press &#151; aim the AF patch appropriately, press the lock button to focus and lock. Repeat as appropriate. Once you're happy with the focus, <i>keep your thumb pressed.</i>
 
@@ -46,6 +48,8 @@ The focus-lock button does the same magic for manual focus &#151; drives the len
 And an even less-known feature: if you focus using the AF lock in <b>SAF</b> mode, hold down the button while turning the mode-select collar from <b>SAF</b> to <b>MF.</b> Now you'll be in manual focus mode, but the distance setting has been automagically copied from the <b>SAF</b> value (this works best on a body that's seen some use &#151; the collar tends to be a bit stiff on brand-new bodies, but it's easy to turn once you've had a bit of practice and time to break-in the controls (and your fingers)).
 
 <hr width="20%" align="center">
+
+## Example
 
 Look at the illustration below (visitors to <a href="http://www.contaxg.com">contaxg.com</a> may recognize the source images from a folder of G-series <a href="http://contaxg.com/document.php?id=9315">bloopers</a>). The little <b>[&nbsp;]</b> marks show where the central AF markers are placed.
 
@@ -66,6 +70,8 @@ Of course, there are a few differences:
 
 <hr width="20%" align="center">
 
+## Finders and Fingers
+
 The viewfinder is cited variously as a strong or weak point of the Contax. YMMV. It's a telescoping finder, so it doesn't show you areas outside the frame. Then again, neither do SLR finders. It zooms-in for using the 90mm lens, and zooms-out for the 28mm, without changing the overall size of the finder. Just like an SLR. Some people like that. I do. I keep around a Voigtl&auml;nder 50mm outboard finder for use with the Contax 45mm, but I rarely, <i>rarely</i> have found it to be useful.
 
 The finder in the Contax does have one lack w.r.t. a traditional mechanical split-image rangefinder patch &#151; sometimes it can be tricky to verify where you're focused, other than looking (when in <b>SAF</b> mode) at the LCD panel. But the viewfinder, like a Leica M, is parallax-correcting. With a small amount of practice, you'll find that you can pretty accurately tell where the lens is focusing just based on the amount of right-to-left shift in the VF window (relative to the meter info and RF marker) as you adjust focus. Window moves to the right: close-up. Moves to the left: far.
@@ -79,6 +85,8 @@ Fortunately, you can do the same sort of focus-by-feel with the Contax, though w
 One handy bit of extra info: I printed up a wee hyperfocal-distance chart and taped it onto the back of my G (you can see it in the top pix). I based it on <a href="https://docs.google.com/spreadsheets/d/159PD2XGJ66xASOEP6GsePScOd5anhj45rnE65ebopFk/edit?usp=sharing">this Google chart</a> that prints a tiny, pocketable guide to DoF for every Zeiss lens at each f/stop (I keep the guide in my wallet, for occasional but rare reference).  The little on-camera chart makes it easy to use the Contax with hyperfocal or zone focusing, which I do a fair deal (often I leave my AF set to 2.7 meters &#151; a favored fixed distance for the 28mm at f/11).
 
 So there you have it &#151; my complete kit of fast and quiet focus tips for the Contax G.
+
+## Yeah, yeah
 
 HEGR-biased backpedallers will be unconvinced, of course. "The camera is too loud, it has a motor." As do M cameras with Leicavits, or all the Leica digital M's. As do the Konica Hexar RF and the Xpan. "The shutter is metal, not that quiet Leica *kfik* that you get from a cloth shutter." True enough, it has a metal shutter just like the Voigtl&auml;nders, the Konicas, and the Xpans (or digital Leica M's). Or most any SLR. Not that you could tell with the motor running. I'm totally convinced that these subtle differences are worth four or five thousand dollars to some people, though I suspect that many of them would pay more for the red dot than the fabric shutter.
 
