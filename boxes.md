@@ -1,5 +1,5 @@
 ---
-title: "See See Lo: Painting on Boxes"
+title: "Painting on Boxes"
 layout: seesee/collection
 permalink: /boxes/
 collection: boxes

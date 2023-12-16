@@ -12,9 +12,9 @@ layout: seesee/default
             <header class="page-header">
                 {% assign title = page.title | markdownify | strip_html %}
                 {% if page.link %}
-                    <h1 id="page-title" class="ss-page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+                    <h1 id="page-title" class="ss-page-title p-name"><a href="{{ page.link }}"><span class="ss-crunch">{{ title }}</span> <span class="link-arrow">&rarr;</span></a></h1>
                 {% else %}
-                    <h1 id="page-title" class="ss-page-title p-name">{{ title }}</h1>
+                    <h1 id="page-title" class="ss-page-title p-name"><span class="ss-crunch">{{ title }}</span></h1>
                 {% endif %}
             </header>
         {% endunless %}
