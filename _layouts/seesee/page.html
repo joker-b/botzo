@@ -13,10 +13,11 @@ layout: seesee/default
         {% else %}
           {% assign title = page.title %}
         {% endif %}
+        {% assign artist = "See See Lo:" %}
         {% if page.link %}
-          <h1 id="page-title" class="ss-page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          <h1 id="page-title" class="ss-page-title"><a href="{{ page.link }}"><span class="ss-slim">{{ artist }}</span> <span class=""ss-crunch">{{ title }}</span> <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}
-          <h1 id="page-title" class="ss-page-title">{{ title }}</h1>
+          <h1 id="page-title" class="ss-page-title"><span class="ss-slim">{{ artist }}</span> <span class="ss-crunch">{{ title }}</span></h1>
         {% endif %}
       </header>
       <div class="page-content">
