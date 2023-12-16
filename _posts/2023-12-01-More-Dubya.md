@@ -8,9 +8,11 @@ categories: [Desk]
 tags: [Essay, _England, _Iraq, _Amreeka, _Portrait, _Press]
 ---
 
-> <i>A repost: the 2003 photo above, "Explaining US Foreign Policy, London," is currently part of the 15th-Anniversary Members' Show show at the <a href="https://petalumaartscenter.org/">Petaluma Arts Center.</a> It was used here on Botzilla previously, in the post reprinted below.</i>
-> 
-> <i>I'll be giving a brief talk about it and some related photos at the Arts Center on December 16th, 1PM.</i>
+<div class="notice">
+A repost: the 2003 photo above, "Explaining US Foreign Policy, London," is currently part of the 15th-Anniversary Members' Show show at the <a href="https://petalumaartscenter.org/">Petaluma Arts Center.</a> It was used here on Botzilla previously, in the post reprinted below.</i>
+
+I'll be giving a brief talk about it and some related photos at the Arts Center on December 16th, 1PM.</i>
+</div>
 
 ## ReDubya: From <a href="{{ site.baseurl}}{% post_url 2003-11-25-World-Wide-Dubya %}">November, 2003</a>
 
