@@ -2,7 +2,7 @@
 layout: post
 title: "flickr, Blogs, and Cattle (Appended)"
 categories: [PhotoRant, Essay]
-tags: [_Phase1]
+tags: [_Phase1, _Exhibits]
 ---
 
 

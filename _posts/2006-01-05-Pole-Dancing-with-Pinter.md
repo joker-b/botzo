@@ -47,6 +47,8 @@ Pinter too makes such a call, but obliquely, and by the time he reaches it we ha
 
 Pinter's statement of hope seems melancholy, while Murrow's is full of force. I cannot believe that Pinter would be blind to this. And his call for "fierce intellectual determination" is not made of casually-chosen words.
 
+** The Sermon and the Funeral
+
 Listening to Pinter's Bush parody, I was reminded of another speech I had heard, back in the days of Ronald Reagan (another target of Pinter's needle). It was a speech given not by a proper politician, but a fictional one.
 
 <blockquote><i>In the seventeenth chapter of St. Luke, it is written that the kingdom of God is within man, not one man nor a group of men, but in all men! In you! You, the people, have the power, the power to create machines, the power to create happiness! You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure. Then in the name of democracy, let us use that power. Let us all unite. Let us fight for a new world, a decent world that will give men a chance to work, that will give youth a future and old age a security. By the promise of these things, brutes have risen to power. But they lie! They do not fulfill that promise. They never will! Dictators free themselves but they enslave the people. Now let us fight to fulfill that promise. Let us fight to free the world! To do away with national barriers! To do away with greed, with hate and intolerance! Let us fight for a world of reason, a world where science and progress will lead to all men's happiness. Soldiers, in the name of democracy, let us all unite!</i></blockquote>
@@ -62,6 +64,8 @@ The Athens Pericles describes as the home of "equal justice to all" not only dem
 George Bush did not invent political duplicity, nor did Hitler create the deceptive feel-good-about-your-country dodge. No, it is an old dance, and one whose rhythms must surely be reflected in some basic part of our human character and biology. It has been a part of us for a very, very long time.
 
 Had I only listened to Pinter, and had these same connections linking-up in my mind, I would be in a sorry state today indeed. His words are wilting. The history of our species has many faults we'd like to forget. And yet they are not the full story.
+
+** Ongoing Betrayals
 
 Harold Pinter was not the only Nobel Prize recipient this year. There are other prizes, such as the Peace Prize given to <a href="http://nobelprize.org/peace/laureates/2005/index.html">Mohamed ElBaradei</a> and, important to me today, the joint prize in <a href="http://nobelprize.org/economics/">Economics,</a> given to two prominent theorists of game theory: <a href="http://nobelprize.org/economics/laureates/2005/index.html">Robert Aumann</a> and <a href="http://nobelprize.org/economics/laureates/2005/index.html">Thomas Schelling.</a> Their presentations too are preserved on video and available on the web. And they too stray from what a casual observer might consider the core topic of their awards.
 
@@ -82,6 +86,8 @@ Aumann and Scheller, building upon the work of prior Nobel laureate game theoris
 <i>Using private information reveals it.</i> That time reveals all truths. Repeated games are ultimately about the very issue Pinter addresses: truth. Eventually the players strike a mutual equilibrium, a cooperative outcome in which dominance cannot be sustained.
 
 Aumann's analysis surely comes from a warm-hearted man, but it is also an analysis built of cold unsentimental bricks, with evidence and ramifications that are social, biological, economic, rational, mathematical. As surely as Einstein's equations laid-out principles that can describe both the a-bomb and television, so do these game-theory principles lay down the case for hope.
+
+** Stumbling Upward, 'Round the Pole
 
 Yes, duplicity and the lust for power have always been with us. But over repetitions, things do improve. Slavery in Athens has been gone for a very long time. Hitler's gas chambers may not be the end of state brutality and democide, but such horrors would be hard to hide in today's world. There are no weapons of mass destruction in Iraq, and the world has come to know it. Truth will prevail.
 

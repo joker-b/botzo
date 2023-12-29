@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/blog/pix2007/station-P1070937.jpg
   thumbnail: https://www.botzilla.com/blog/pix2007/station-P1070937.jpg
 categories: [PhotoRant]
-tags: [_Phase1, Essay]
+tags: [_Phase1, Essay, _Exhibits]
 ---
 <i>(San Jose Station)</i>
 

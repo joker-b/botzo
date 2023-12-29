@@ -2,7 +2,7 @@
 layout: post
 title: "Every Man for Himself: Werner Herzog"
 categories: [PhotoRant]
-tags: [Books, _Phase1, Essay, _Movies, _Minnesota]
+tags: [Books, _Phase1, Essay, _Movies, _Minnesota, _Exhibits]
 ---
 ![Every]({{ 'https://www.botzilla.com/bpix/every.jpg' | absolute_url }}){: .align-right }
 
