@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Holiday Visitor"
+title: "A Holiday Visitor"
 image:
   path: https://botzilla.com/pix2024/bjorke_Xmas__KEV7373-sq.jpg
   thumbnail: https://botzilla.com/pix2024/bjorke_Xmas__KEV7373-sq.jpg
