@@ -69,7 +69,7 @@ function showSlides(Delay, ForcePlay) {
   if (slideIndex > slides.length) {
     slideIndex = 1;
   }
-  slides[slideIndex-1].style.display = "block";
+  slides[slideIndex-1].style.display = "flex";
   if (dotsOkay) dots[slideIndex-1].style.backgroundColor = "black";
   if ((adjDelay > 0) && (!slidePause)) {
     slideTimer = setTimeout(showSlides, adjDelay);

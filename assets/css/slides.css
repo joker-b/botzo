@@ -9,10 +9,13 @@
 
 /* Slideshow container */
 .slideshow-container {
+  display: flex;
   max-width: 1000px;
   position: relative;
   margin: auto;
   aspect-ratio: 1.5;
+  justify-content: center;
+  align-items: center;
 }
 
 /* .slideshow-container > img {
@@ -23,6 +26,16 @@
 .mySlides {
   display: none;
   text-align: center;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.mySlides img {
+  max-height: 100%;
+  width: auto;
 }
 
 /* Next & previous buttons */
@@ -45,6 +58,11 @@
 /* Position the "next button" to the right */
 .slide-next {
   right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* prev button to the left  */
+.slide-prev {
+  left: 0;
   border-radius: 3px 0 0 3px;
 }
 

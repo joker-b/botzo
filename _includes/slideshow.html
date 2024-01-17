@@ -3,13 +3,30 @@
     <div class="slideshow-container">
       {% for slide in page.slides %}
         <div class="mySlides slide-fade">
-          <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
-          {% if slide[1] %}
-            <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px"
-              alt="{{ slide[1] }}" onclick="stopStartSlides()">
-            <div class="slideshow-caption">{{ slide[1] }}</div>
+          {% if page.numberless %}
+            <!-- No Slide Number: {{ forloop.index }} / {{ forloop.length }} -->
           {% else %}
-            <img src="https://www.botzilla.com/{{ slide[0] }}" style="max-height: 670px" onclick="stopStartSlides()">
+            <div class="slideshow-counter">{{ forloop.index }} / {{ forloop.length }}</div>
+          {% endif %}
+          {% if slide[2] %}
+            {% if slide[1] %}
+              <a href="{{ slide[2] }}"><img src="https://www.botzilla.com/{{ slide[0] }}" 
+                alt="{{ slide[1] }}"></a>
+              {% if slide[1] != "" %}
+                <div class="slideshow-caption">{{ slide[1] }}</div>
+              {% endif %}
+              <div class="slideshow-caption">{{ slide[1] }}</div>
+            {% else %}
+              <a href="{{ slide[2] }}"><img src="https://www.botzilla.com/{{ slide[0] }}""></a>
+            {% endif %}
+          {% else %}
+            {% if slide[1] %}
+              <img src="https://www.botzilla.com/{{ slide[0] }}" 
+                alt="{{ slide[1] }}" onclick="stopStartSlides()">
+              <div class="slideshow-caption">{{ slide[1] }}</div>
+            {% else %}
+              <img src="https://www.botzilla.com/{{ slide[0] }}" onclick="stopStartSlides()">
+            {% endif %}
           {% endif %}
         </div>
       {% endfor %}
@@ -22,10 +39,14 @@
     <script>
       showSlides({{ page.slideDelay }}, true);
     </script>
-    <div class="slide-dot-controls" id="slide-dots">
-      {% for slide in page.slides %}
-        <span class="slide-dot" onclick="currentSlide({{ forloop.index }})"></span>
-      {% endfor %}
-    </div>
+    {% if page.dotless == true %}
+      <!-- No Selector Dots -->
+    {% else %}
+      <div class="slide-dot-controls" id="slide-dots">
+        {% for slide in page.slides %}
+          <span class="slide-dot" onclick="currentSlide({{ forloop.index }})"></span>
+        {% endfor %}
+      </div>
+    {% endif %}
   </div>
 {% endif %}

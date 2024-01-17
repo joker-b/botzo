@@ -10,11 +10,47 @@ inline_nav: true
 skip_title: true
 layout: page
 slides: [ 
-    [ pix2022/b-DSCF4949-988.jpg ],
+    [ pix2022/b-DSCF4949-988.jpg, "first" ],
     [ pix2023/bjorke_IMG_9875.jpg ],
-    [ pix2023/bjorke_Pgrv__XPK1399L.jpg ],
+    [ pix2023/bjorke_Pgrv__XPK1399L.jpg, "other" ],
     [ pix2023/bjorke_Allegory1.jpg ],
-    [ pix2022/petro/bjorke_NM_DSCF7816.jpg ],
+    [ blog/pix2007/batman-07.jpg, "batman", "projects.html" ],
+    [ pix2022/petro/bjorke_NM_DSCF7816.jpg, "", "see_see_lo.html" ],
+   [  blog/pix2009/bjorke-P1050253cr.jpg ],
+    [ blog/pix2009/_MG_3365.jpg ],
+    [ blog/pix2008/P1010577.jpg ], #shape
+    [ blog/pix2008/IMG_0562.jpg ],
+    [ blog/pix2008/IMG_9743_bjRide.jpg ],
+    [ blog/pix2007/IMG_6724.jpg ],
+    [ bpix/feb03i-30.jpg ] #shape
+]
+slideDelay: 6000
+picless: true
+dotless: true
+numberless: true
+---
+
+{% include slideshow.html %}
+
+<!-- <p class="close_p"><a href="projects.html"><img src="https://www.botzilla.com/pix2022/b-DSCF4949-988.jpg"
+  title="Always under construction -- Botzilla.com is the website of Kevin Bjorke"
+  alt="Always under construction -- Botzilla.com is the website of Kevin Bjorke"></a></p> -->
+
+   <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <nav id="inline-nav" class="site-inline-nav">
+      <ul>
+        <li><a href="./projects.html">Projects</a></li>
+        <li><a href="./photorant.html">Latest</a></li>
+        <li><a href="./about.html">About</a></li>
+      </ul>
+    </nav>
+  </div>
+    
+<!--
+   [ blog/pix2006/IMG_7908.jpg ],
+    [ blog/pix2006/IMG_6301.jpg ],
+    [ blog/pix2005/millions.jpg ],
     [ pix2021/bjorke_L50K6823.jpg ],
     [ pix2021/L1014651-2021c.jpg ],
     [ pix2020/bjorke_Shelter_XT1A9711.jpg ],
@@ -57,24 +93,5 @@ slides: [
     [ bpix/sep03zj-36.jpg ],
     [ bpix/apr03i-22.jpg ],
     [ bpix/jun02b-01.jpg ], #shape
-    [ bpix/feb03i-30.jpg ] #shape
-]
-slideDelay: 6000
-picless: true
----
-
-<p class="close_p"><a href="projects.html"><img src="pix2022/b-DSCF4949-988.jpg"
-  title="Always under construction -- Botzilla.com is the website of Kevin Bjorke"
-  alt="Always under construction -- Botzilla.com is the website of Kevin Bjorke"></a></p>
-
-   <div class="navigation-wrapper">
-    <a href="#menu-toggle" id="menu-toggle">Menu</a>
-    <nav id="inline-nav" class="site-inline-nav">
-      <ul>
-        <li><a href="./projects.html">Projects</a></li>
-        <li><a href="./photorant.html">Latest</a></li>
-        <li><a href="./about.html">About</a></li>
-      </ul>
-    </nav>
-  </div>
-    
+ 
+-->
