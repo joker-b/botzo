@@ -24,7 +24,8 @@ slides: [
     [ blog/pix2007/IMG_6724.jpg ],
     [ bpix/feb03i-30.jpg ] #shape
 ]
-slideDelay: 6000
+slideDelay: 4000
+slidesFinalDelay: 1
 picless: true
 dotless: true
 numberless: true

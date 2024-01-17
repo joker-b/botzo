@@ -37,7 +37,16 @@
     </div>
     <br> <!-- make some space for captions if present -->
     <script>
-      showSlides({{ page.slideDelay }}, true);
+      document.addEventListener('DOMContentLoaded', function() {
+        {% if page.slidesFinalDelay %}
+          setSlidesFinal({{ page.slidesFinalDelay }}); 
+        {% endif %}
+        {% if page.slideDelay %}
+          currentSlide(0, {{ page.slideDelay }});
+        {% else %}
+          currentSlide(0, 6000);
+        {% endif %}
+      });
     </script>
     {% if page.dotless == true %}
       <!-- No Selector Dots -->

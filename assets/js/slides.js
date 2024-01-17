@@ -6,15 +6,16 @@ var slideTimer = 0;
 var slidesDelay = 5000;
 var slidesFinalDelay = 2; // if zero, don't cycle, just hold on end slide
 var slidePause = false;
-showSlides();
 
-function currentSlide(n) {
+// besr way to start the slideshow: currentSlide(0, slideDelayValue)
+function currentSlide(n, Delay) {
+  slidesDelay = Delay || slidesDelay;
   if (slideTimer) clearTimeout(slideTimer);
   var slides = document.getElementsByClassName("mySlides");
   if (slides.length < 1) return;
   slideIndex = Math.max(1, Math.min(slides.length, n));
   slideIndex --;
-  showSlides();
+  showSlides(slidesDelay);
 }
 
 function plusSlides(delta) {
@@ -25,7 +26,7 @@ function plusSlides(delta) {
   slideIndex += Delta;
   slideIndex = Math.max(1, Math.min(slides.length, slideIndex));
   slideIndex --;
-  showSlides();
+  showSlides(slidesDelay);
 }
 
 function negSlides() {
@@ -43,21 +44,22 @@ function stopStartSlides() {
   } else {
     if (pauseMark) pauseMark.style.display = "none";
     if (playMark) playMark.style.display = "block";
-    showSlides();
+    showSlides(slidesDelay);
   }
 }
 
+function setSlidesFinal(delayFactor) {
+  slidesFinalDelay = delayFactor;
+}
+
 function showSlides(Delay, ForcePlay) {
-  if (Delay) slidesDelay = Delay;
+  slidesDelay = Delay || slidesDelay;
   if (ForcePlay) slidePause = false;
   var adjDelay = slidesDelay;
   var slides = document.getElementsByClassName("mySlides");
   if (slides.length < 1) return;
   var dots = document.getElementsByClassName("slide-dot");
   var dotsOkay = (slides.length == dots.length);
-  if (!dotsOkay) {
-    console.log("slides.length = " + slides.length + ", dots.length = " + dots.length);
-  }
   for (var i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
     if (dotsOkay) dots[i].style.backgroundColor = "#b0b0b0";
@@ -72,7 +74,7 @@ function showSlides(Delay, ForcePlay) {
   slides[slideIndex-1].style.display = "flex";
   if (dotsOkay) dots[slideIndex-1].style.backgroundColor = "black";
   if ((adjDelay > 0) && (!slidePause)) {
-    slideTimer = setTimeout(showSlides, adjDelay);
+    slideTimer = setTimeout(showSlides, adjDelay, Delay);
   } else {
     slideTimer = 0;
   }

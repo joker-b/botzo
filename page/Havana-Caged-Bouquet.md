@@ -29,6 +29,7 @@ slideDelay: 6000
 picless: true
 mastless: true
 nameless: true
+numberless: true
 ---
 
 
