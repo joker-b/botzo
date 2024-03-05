@@ -1,0 +1,48 @@
+.scrolling-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .images-wrapper {
+    display: flex;
+  }
+  
+  .images-wrapper img {
+    flex: 0 0 auto;
+  }
+  
+  .scroll-button {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  
+  @media (max-width: 600px) {
+    .scrolling-container {
+      overflow-x: auto;
+      overflow-y: hidden;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch; /* For smoother scrolling on iOS */
+    }
+  
+    .images-wrapper {
+      display: inline-block;
+      white-space: nowrap;
+    }
+  
+    .images-wrapper img {
+      display: inline-block;
+      vertical-align: top;
+    }
+  
+    .scroll-button {
+      display: none; /* Hide button on mobile */
+    }
+  }
+  
