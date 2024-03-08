@@ -27,7 +27,14 @@
         <div class="carousel__track">
           <ul>
             {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            {% assign imgVec = item.image | split: ' ' %}
+            <!-- {{ imgVec }}  -->
+            <!-- {{ imgVec[0] }} // {{ imgVec[1] }}  -->
+            {% if imgVec[1] %}
+              <li class="carousel__slide" onclick="location.href='{{ imgVec[1] }}'" style="background-image: url('{{ imgVec[0] }}');"></li>
+            {% else %}
+              <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            {% endif %}
             {% endfor %}
           </ul>
         </div>

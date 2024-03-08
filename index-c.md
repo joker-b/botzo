@@ -64,7 +64,7 @@ carousels:
     - image: https://www.botzilla.com/blog/pix2008/IMG_9743_bjRide.jpg
     - image: https://www.botzilla.com/blog/pix2006/IMG_7908.jpg
     - image: https://www.botzilla.com/blog/pix2006/IMG_6301.jpg
-    - image: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg
+    - image: https://www.botzilla.com/pix2021/bjorke_L50K6823.jpg ./seeseelo.html
   - images: 
     - image: https://www.botzilla.com/bpix/bjorke_tranc.jpg
     - image: https://www.botzilla.com/bpix/sep03zj-36.jpg
