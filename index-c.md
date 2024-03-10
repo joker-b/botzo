@@ -70,21 +70,24 @@ carousels:
     - image: https://www.botzilla.com/bpix/sep03zj-36.jpg
     - image: https://www.botzilla.com/bpix/apr03i-22.jpg
     - image: https://www.botzilla.com/bpix/feb03i-30.jpg
-slideDelay: 6000
 slide_easing: 0.2s
 slide_time: 0.75s
+slideDelay: 6000
 picless: true
 ---
 
 
-
+<!--
   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-  {% include carousel.html height="50" unit="%" duration="5" number="2" %}
+  {% include carousel.html height="50" unit="%" duration="5" number="2" %} -->
 
-<p class="close_p"><a href="projects.html"><img src="pix2022/b-DSCF4949-988.jpg"
+<p class="close_p"><!-- <a href="projects.html"> -->
+  {% include carousel.html height="66" unit="%" duration="7" number="1" %}
+<!-- <img src="pix2022/b-DSCF4949-988.jpg"
   title="Always under construction -- Botzilla.com is the website of Kevin Bjorke"
-  alt="Always under construction -- Botzilla.com is the website of Kevin Bjorke"></a></p>
+  alt="Always under construction -- Botzilla.com is the website of Kevin Bjorke"></a> -->
+  </p>
 
    <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle">Menu</a>
