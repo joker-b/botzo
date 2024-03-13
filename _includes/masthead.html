@@ -4,12 +4,12 @@
 <header class="masthead">
   <div class="wrap">
     {% if site.logo %}
-      <a href="{{ '/blog.html' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
+      <a href="{{ '/photorant.html' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
         <img src="{{ site.logo | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
       </a>
     {% endif %}
     {% unless page.image.path or slugless %}
-      <h1 class="site-title animated fadeIn"><a href="{{ '/blog.html' | relative_url }}">{{ site.title }}</a></h1>
+      <h1 class="site-title animated fadeIn"><a href="{{ '/photorant.html' | relative_url }}">{{ site.title }}</a></h1>
       <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
     {% endunless %}
   </div>
