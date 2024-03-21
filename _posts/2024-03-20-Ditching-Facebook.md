@@ -68,8 +68,8 @@ I applied the same method repeatedly, one network after another. My "free" time,
 
 Social networks do play upon genuine, natural desires to connect to others. I've repeatedly found myself being lured by other feeds: Reddit, or an online forum. Twitter had a run. Google News. Youtube. Oh, Youtube. Online shopping.
 
-A trick to defer that dopamine dizziness is simply to _delay._ Found something cool on Amazon? Put it in the cart, because you only actually buy anything on Fridays, and nothing over $5 should ever linger in the cart for _less_ than 24 hours -- at which point it might be less appealing. Likewise Youtube -- for every suggested video I do watch, a dozen go into the "Watch Later," probably to never be seen.
+A trick to defer that dopamine dizziness is simply to _delay._ Found something cool on Amazon? Put it in the cart, because you have a rule to only actually buy anything on Fridays, and nothing over $5 should ever linger in the cart for _less_ than 24 hours -- at which point it might be less appealing. Likewise Youtube -- for every suggested video I do watch, a dozen go into the "Watch Later," probably to never be seen.
 
-AA related useful rule: ignore my phone for at least one hour after waking. Have a coffee, watch the world light up, write -- let my mind be my own for at least the start of each day, in response to nothing but my own thoughts, not an advertiser's.
+A related rule: ignore my phone for at least one hour after waking. Have a coffee, watch the world light up, write -- let my mind be my own for at least the start of each day, in response to nothing but my own thoughts, not an advertiser's.
 
 It's amazing how much time there is.
