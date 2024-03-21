@@ -9,7 +9,9 @@ categories: [Hacking]
 tags: [_Phase4, Essay, Software]
 ---
 
-Five or six years ago, I found a simple way to squash social-media addiction, one that I haven't seen in any of the many 240+ page self-help books offering a way to escape the modern Attention Machine. My method didn't require erasing, cancelling, or closing  my various accounts on [Facebook](https://www.facebook.com/bjorke), [Twitter](https://twitter.com/bjorke), [LinkedIn](https://www.linkedin.com/in/kevinbjorke/), or the rest. The de-FOMO method is quite simple:
+Five or six years ago, I found a simple way to squash social-media addiction, one that I haven't seen in any of the many 240+ page self-help books offering a path to escape from the modern internet Attention Machine.
+
+My method didn't require erasing, cancelling, or closing  my various accounts on [Facebook](https://www.facebook.com/bjorke), [Twitter](https://twitter.com/bjorke), [LinkedIn](https://www.linkedin.com/in/kevinbjorke/), or the rest. The de-FOMO method is quite simple:
 
 _Make it a chore, and schedule it._
 <!--more-->
