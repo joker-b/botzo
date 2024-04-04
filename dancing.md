@@ -1,14 +1,14 @@
 ---
-permalink: /nophotomerci/
+permalink: /dancing/
 layout: page
-title: "No Photo Merci."
+title: "Dancing with No One"
 image:
   path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
 mastless: false
 inline_nav: true
 ---
 
-# _No Photo Merci._
+# _Dancing with No One_
 
 First Printing, 2024
 
