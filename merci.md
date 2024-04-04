@@ -3,7 +3,7 @@ permalink: /merci/
 layout: page
 title: "No Photo Merci."
 image:
-  path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  path: https://www.botzilla.com/pix2024/cover-merci.jpg
 mastless: false
 inline_nav: true
 ---
