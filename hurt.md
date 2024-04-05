@@ -3,7 +3,7 @@ permalink: /hurt/
 layout: page
 title: "Sooner of Later Someone's Going to Get Hurt"
 image:
-  path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  path: https://www.botzilla.com/pix2024/cover-hurt.jpg
 mastless: false
 inline_nav: true
 ---

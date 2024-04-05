@@ -3,7 +3,7 @@ permalink: /dancing/
 layout: page
 title: "Dancing with No One"
 image:
-  path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  path: https://www.botzilla.com/pix2024/cover-dancing.jpg
 mastless: false
 inline_nav: true
 ---

@@ -12,6 +12,8 @@ inline_nav: true
 
 First Printing, 2024
 
+ISBN: 9798881455224
+
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
 <figcaption>See You on June First</figcaption>
