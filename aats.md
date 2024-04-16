@@ -18,6 +18,7 @@ The AatS venue is new for me, I am documenting the preparation in a series of po
 
 * [5 March: _Sonoma Sources_]({% post_url 2024-03-05-Sources %})
 * [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
+* [9 April: _Sailing: Eight Weeks to Go, or Maybe Two_]({% post_url 2024-04-09-Sailing %})
 
 <hr />
 

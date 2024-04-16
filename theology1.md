@@ -1,14 +1,16 @@
 ---
-permalink: /dancing/
+permalink: /theology1/
 layout: page
-title: "Dancing with No One"
+title: "Cryptotheology (1)"
 image:
   path: https://www.botzilla.com/pix2024/cover-dancing.jpg
 mastless: false
 inline_nav: true
 ---
 
-# _Dancing with No One_
+_Cryptotheology: (Alleged Noun):<br/>Philosophical forms used in order to convey a "secret message" which cannot find an open articulation._
+
+# __Cryptotheology (1)_
 
 Hardcover Standalone Edition
 

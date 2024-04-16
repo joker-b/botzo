@@ -1,14 +1,12 @@
 ---
 permalink: /hurt/
 layout: page
-title: "Sooner of Later Someone's Going to Get Hurt"
+title: "Sooner or Later Someone's Going to Get Hurt"
 image:
   path: https://www.botzilla.com/pix2024/cover-hurt.jpg
 mastless: false
 inline_nav: true
 ---
-
-# _Sooner or Later Someone's Going to Get Hurt_
 
 First Printing, 2024
 
