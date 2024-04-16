@@ -5,6 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
   thumbnail: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
 categories: [fStop]
+published: false
 tags: [Books, _France, _Phase4, _Sales, _Projects]
 ---
 
