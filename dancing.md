@@ -8,7 +8,7 @@ mastless: false
 inline_nav: true
 ---
 
-<a class="btn btn--info btn--large" href="mailto:kevin+dancing@vumondo.com?subject=Updates%20on%20the%20Book%20%22Dancing%20with%20No%20One%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Dancing%20with%20No%20One.%22">Click Here to Receive Updates on Book and Print Availability</a>
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20the%20Book%20%22Dancing%20with%20No%20One%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Dancing%20with%20No%20One.%22">Click Here to Receive Updates on Book and Print Availability</a>
 
 Hardcover Standalone Edition
 
