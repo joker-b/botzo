@@ -25,4 +25,6 @@ On this page you'll soon be able to subscribe to (rare) updates and to order or 
 
 Along with some additional surprise titles and instagrammable events.
 
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Book and Print Availability</a>
+
 _See You on June First_

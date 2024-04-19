@@ -30,3 +30,6 @@ Paintings from See See's studio are available at <b>The Art Hatchery</b>: <a hre
 
 Explore, and share her joy of creation!
 {: .ssText }
+
+<a class="btn btn--inverse" href="mailto:kevin+see@vumondo.com?subject=See%20See%20Lo%20Updates&body=Please%20inform%20me%20of%20occasional%20art%20updates%20from%20See%20See%20Lo.">Click Here to Receive Updates on Events and Availability</a>
+

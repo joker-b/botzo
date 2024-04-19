@@ -10,7 +10,8 @@ inline_nav: true
 
 _Made in the Financial District, San Francisco_
 
-# _Market Hours_
+<a class="btn btn--info btn--large" href="mailto:kevin+market@vumondo.com?subject=Updates%20on%20the%20Book%20%22Market%20Hours%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Market%20Hours.%22">Click Here to Receive Updates on Book and Print Availability</a>
+
 
 Hardcover Standalone Edition
 
