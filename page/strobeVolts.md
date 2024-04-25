@@ -18,7 +18,7 @@ This <a href="{{ site.url }}/categories/#gearhead">GearHead</a> page was origina
 
 <figure class="align-center">
 <a href="{% post_url 2021-05-12-Quick-and-Light %}"><img alt="Fuji EF-X20 flash + Leica M5" src="https://www.botzilla.com/pix2021/rps20210513_151901_806.jpg"></a>
-<figcaption><a href="{% post_url 2021-05-12-Quick-and-Light %}">Modern flash, 1970's Camera: Made for each other!</a> but what about the opposite?</figcaption>
+<figcaption>A May/September romance: <a href="{% post_url 2021-05-12-Quick-and-Light %}">Modern flash, 1970's Camera.</a> Made for each other! but what about the opposite?</figcaption>
 </figure>
 
 
@@ -56,7 +56,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 
 | Mfgr | Model | Safe | Trigger Voltage |
 | ----- | ----- | ----- | ----- |
-| <a name="Achiever">Achiever</a> | TZ250 | Yes(?) | A mere 0.5V (!), measured (with some due incredulity!) by Russ Kendall, G&ouml;ran Samuelsson reported 8.5V on his test |
+| <a name="Achiever"><b>Achiever</b></a> | TZ250 | Yes(?) | A mere 0.5V (!), measured (with some due incredulity!) by Russ Kendall, G&ouml;ran Samuelsson reported 8.5V on his test |
 | | 115 A/S | Your Call  | A mere <i>2V,</i> reported by "KC", but 10.6V from Paul Turton |
 | | TZ 250 | Your Call | 8.5V, also reported by "KC" |
 | | 260AF | Yes  | A mere 3V, measured by Jeremy Tan, (Note this is <i>not</i> the Achiever 260T) |
@@ -64,7 +64,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 260T | No  | 220V, reported by "KC" and 253V from <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg210">Mike Marty</a> |
 | | 321AZ | No | 297.6V, measured by David Gonzalez |
 | | 632LCD | Yes  | ~4.7, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg19">Tanguy Kervahut</a> |
-| Agfatronic | 2A | No | 185V-210V, measured by Juha Kopsa |
+| <a name="Agfatronic"><b>Agfatronic</b></a> | 2A | No | 185V-210V, measured by Juha Kopsa |
 | | 201B | No | 80.3V, measured by Oliver Karstens |
 | | 240B | No  | 238V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg120">EJ Boeve</a> |
 | | 261CB | No | 64V reported by Stephan Kruisman |
@@ -72,17 +72,17 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 383 CS | Your Call | 6.5V reported by Oliver Schrinner |
 | | 401BCS | No  | 212V, <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg38">measured by Martin Stein</a> |
 | | 643CS | Your Call  | 6.3V & 6.7V measured on two different strobes by Craig Schroeder |
-| Albinar | 90 MDT | Yes (?) | 3.2V, measured by Wirak Lim but without any luck using it with a G1 |
+| <a name="Albinar"><b>Albinar</b></a> | 90 MDT | Yes (?) | 3.2V, measured by Wirak Lim but without any luck using it with a G1 |
 | | 100 MDT-Twin | Yes | 3.02V, measured by Richard Moore |
-| Argus | Automatic 9138 | No | 270V, measured by Rich Grochowski |
-| Armatar | 90 MDT | Your Call | 10V, measured by Tony Bonanno |
-| Ascor, Light | CD2400 | Your Call | 14.5V from WDFlannery |
-| Balcar | Super A2400 | No | 202V &amp; reverse polarity reported by Bak&#243; Imre |
-| Bauer | E528 AB | No | 253V, measured by "Grigory" in Belarus |
-| Blacks | DZ 40 | Your Call | 8V, measured by Rob Thacker |
+| <a name="Argus"><b>Argus</b></a> | Automatic 9138 | No | 270V, measured by Rich Grochowski |
+| <a name="Armatar"><b>Armatar</b></a> | 90 MDT | Your Call | 10V, measured by Tony Bonanno |
+| <a name="Ascor"><b>Ascor Light</b></a> | CD2400 | Your Call | 14.5V from WDFlannery |
+| <a name="Balcar"><b>Balcar</b></a> | Super A2400 | No | 202V &amp; reverse polarity reported by Bak&#243; Imre |
+| <a name="Bauer"><b>Bauer</b></a> | E528 AB | No | 253V, measured by "Grigory" in Belarus |
+| <a name="Blacks"><b>Blacks</b></a> | DZ 40 | Your Call | 8V, measured by Rob Thacker |
 | | TDZ 120 | Yes | 2.6V, measured by Paul Clements |
 | | DM360BT | Yes | 4V, measured by David Treble |
-| Braun | Hobby | No | 225V, from G&ouml;ran Samuelsson |
+| <a name="Braun"><b>Braun</b></a> | Hobby | No | 225V, from G&ouml;ran Samuelsson |
 | | 28 | No | 220V, measured by Ernst Albert |
 | | 32M | Yes  | 2.56-3.56V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg198">"laaarrd"</a> |
 | | 34 | Your Call | 11.7V, measured by Ted Coffey |
@@ -97,20 +97,20 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 410VC | Your call | 21.4V measured by Stephan Bruckmann |
 | | 420BVC | Your Call | 11.6V, measured by Jean Taillon |
 | | 440VC | Your call | 16V measured by Ulrich H&ouml;xtermann |
-| Britek | AS-36 | Yes | 5.3V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg248">Peter P</a> |
+| <a name="Britek"><b>Britek</b></a> | AS-36 | Yes | 5.3V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg248">Peter P</a> |
 | | SP 250 Monolight | Your Call | 6.7V measured by "Everett" |
-| Broncolor | Pulso 4 | Your call | 6.5-10.8V depending on the charge, according to Leon Obers |
+| <a name="Broncolor"><b>Broncolor</b></a> | Pulso 4 | Your call | 6.5-10.8V depending on the charge, according to Leon Obers |
 | | one channel IR transmitter | Your call  | 13.5V, per Leon Obers, Fred Phillips reported just 3.2V |
-| Paul <a name="Buff">Buff</a>, (White Lightning) | Radio Remote 1, Transmitter | Yes | 4.84V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg201">Bryce Turner</a> |
+| <a name="Buff"><b>Paul Buff</b></a> (White Lightning) | Radio Remote 1, Transmitter | Yes | 4.84V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg201">Bryce Turner</a> |
 | | Remote RC-1 | Your call  | (same part?) 9.23V, measured by <a a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
 | | UltraZap | Yes  | 6V spec reported by Peter Timaratz, (though sync with G1 is dicey), Ed White reported varying results, from 4.8V to 13.3V on his Ultra Zap 800, according to the power settings |
 | | Ultra 600 | Your call  | 9.3-13.6V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg201">Bryce Turner</a> on multiple units |
 | | Ultra 1200 | Your call  | 10.02V, measured by <a a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
 | | 10000 | Your call | 24.1V, per Toney Hall |
-| <a href="http://www.calumetphoto.com/">Calumet</a> (Bowens) | PS | No | 30V according to Bob Atkin's<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a> |
+| <a href="http://www.calumetphoto.com/" name="Calumet"><b>Calumet</b></a> <a name="Bowens">(Bowens)</a> | PS | No | 30V according to Bob Atkin's<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a> |
 | | Monolite 400 | No | 170V per Teemu Virtanen |
 | | Traveller | No  | 15V (<a href="http://bobatkins.com/photography/eosfaq/">EOS FAQ</a>) |
-| <a href="http://www.usa.canon.com">Canon</a> | 220EX, 380EX, 420EX, 550EX | Yes |  All less than 6V (Per Canon and verified by Benny Khaw).  These are the strobes specified by Canon for the Powershot, <a href="ETTL1.html">More info Here</a> |
+| <a href="http://www.usa.canon.com" name="Canon"><b>Canon</b></a> | 220EX, 380EX, 420EX, 550EX | Yes |  All less than 6V (Per Canon and verified by Benny Khaw).  These are the strobes specified by Canon for the Powershot, <a href="ETTL1.html">More info Here</a> |
 | | ML-3 | Yes  | 4.99V measured by Kevin Omura, full power only &#151; and wouldn't trigger on the D30 |
 | | 011A | Your Call | 16.9V measured by Derek Woodlands |
 | | AB56 | Your Call | 7.8V measured by Bharat Mistry |
@@ -130,7 +130,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 420EZ | Yes, (See Note)  | 4V, measured by Joe Filer, 4.71V with a Quantum battery per Kevin Omura. (See note for 300EZ above) |
 | | 533g | Yes?   | 4.95V measured by Pierre Hurtubise, but it doesn't seem to fire..., Kevin Omura also reports G2 problems with this unit |
 | | 577G | Yes  | 4.7V measured by Kevin Omura, and tested on a G2 (in manual and auto thyristor modes) |
-| Centon | FG20 | No | 275V, according by Mike Johnson in London |
+| <a name="Centon"><b>Centon</b></a> | FG20 | No | 275V, according by Mike Johnson in London |
 | | MR20 Ringflash | Yes | 4.38V, measured by Geoff Kitt |
 | | FG30 | No | ~200V, according by Harvey Shieff |
 | | FG30DX | Yes | 3-6V, according by Iam Hill |
@@ -138,35 +138,35 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | FH85 | Yes | 3-4V, according by Dave Anderton |
 | | FH95 | Yes | ~5V, according by Philip Bennett |
 | | FG105D | Yes  | ~5-6V, according by Tom Sou &#151; <b>but</b>, he also reported spotty performance with the newest EOS cameras (a polarity issue?) |
-| Cinon | Pro 1090C | No | 180V, measured by G&ouml;ran Samuelsson |
-| Chinon | S-250, Zoom | Yes | 5.17V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg333">Scott Martin</a> |
+| <a name="Cinon"><b>Cinon</b></a> | Pro 1090C | No | 180V, measured by G&ouml;ran Samuelsson |
+| <a name="Chinon"><b>Chinon</b></a> | S-250, Zoom | Yes | 5.17V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg333">Scott Martin</a> |
 | | AF280 TTL | Yes | 5.3V, reported by "Mike from Germany" |
 | | S-300 | Your call | 11V, reported by "emitc" |
-| Cobra | Auto 250 | No | 66V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg226">Susan Stewart</a> |
+| <a name="Cobra"><b>Cobra</b></a> | Auto 250 | No | 66V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg226">Susan Stewart</a> |
 | | 440AF | Yes | 3.5V, reported by Richard Lukey |
 | | D650 | Yes | 5.6V, reported by Russell Garner |
 | | 700AF | Yes | 4.4V, reported by "John-M" |
-| Comet | CX244 | No | 11V (<a href="http://bobatkins.com/photography/eosfaq/">EOS FAQ</a>) Tony Wu also called Comet's distributor, who measured 11.5V for him, right there on the phone! (now that's service!) |
-| <a href="http://www.contax-camera.com/">Contax</a> | TLA20 | Yes | ~4V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg120">Peter Dewdney</a> |
+| <a name="Comet"><b>Comet</b></a> | CX244 | No | 11V (<a href="http://bobatkins.com/photography/eosfaq/">EOS FAQ</a>) Tony Wu also called Comet's distributor, who measured 11.5V for him, right there on the phone! (now that's service!) |
+| <a href="http://www.contax-camera.com/" name="Contax"><b>Contax</b></a> | TLA20 | Yes | ~4V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg120">Peter Dewdney</a> |
 | | TLA 30 | Yes  | A trifling 2V, reported by Brad Grigor, (watch out for those extra pins...) |
 | | TLA200 | Yes | ~4.11V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg305">EJ Haas</a> |
-| Courtenay | ColorFlash 2 | Your Call | 17.12V reported by Charles Ward, (who reports problems using a Monolta 9xi &#151; might be polarity?) |
-| Cullman | SL 16 | Yes | 4.5V, measued by Frank Gaehler |
+| <a name="Courtenay"><b>Courtenay</b></a> | ColorFlash 2 | Your Call | 17.12V reported by Charles Ward, (who reports problems using a Monolta 9xi &#151; might be polarity?) |
+| <a name="Cullman"><b>Cullman</b></a> | SL 16 | Yes | 4.5V, measued by Frank Gaehler |
 | | SL28 | Yes | 4.3-5.2V, measured by Juha Kopsa |
 | | SL 28/C[br>(same?) | Your marginal call  | 6.3V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg227">Tom Crowning</a> |
 | | 34 AF/C | Yes | 4.47V, measured by Oliver Karstens |
 | | CX40 | Yes | 4.3-5.2V, also per Tom Crowning |
 | | MD 34S | Yes | 5.92V, measued by Michael Neuhaus |
 | | DC36 | Yes | 2.52V, also by Frank Gaehler |
-| Digislave | 2000 | No | 200V measured by Rich Scarlet |
+| <a name="Digislave"><b>Digislave</b></a> | 2000 | No | 200V measured by Rich Scarlet |
 | | 3000 | Yes | 7V measured by Rich Scarlet |
-| <a href="http://www.dynalite.com/">Dynalite</a> | Any | Iffy?  | 10V (<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a>) |
-| Elinchrom | (various) | Your Call | 9V these days, but back over 20 years they ran as high as 30V, according to Elinchrom Customer Service via Tony Wu |
-| Falcon Eyes | DE 250 | Your Call...  | -14.5V, center negative; measuered by Martin S&oslash;renson, who had no luck firing it from a 300D |
-| Fuji | GA | Yes | 3.52V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg305">EJ Haas</a> |
+| <a href="http://www.dynalite.com/" name="Dynalite"><b>Dynalite</b></a> | Any | Iffy?  | 10V (<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a>) |
+| <a name="Elinchrom"><b>Elinchrom</b></a> | (various) | Your Call | 9V these days, but back over 20 years they ran as high as 30V, according to Elinchrom Customer Service via Tony Wu |
+| <a name="Falcon"><b>Falcon Eyes</b></a> | DE 250 | Your Call...  | -14.5V, center negative; measuered by Martin S&oslash;renson, who had no luck firing it from a 300D |
+| <a name="Fuji"><b>Fuji</b></a> | GA | Yes | 3.52V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg305">EJ Haas</a> |
 | | FLMX29 | No  | 216V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg110">"Tom on AOL"</a> |
-| GMI | Infrared transmitter | No | 324V, measured by Sandy Levenberg, (just for IR?) |
-| Hanimex | TZ*2 | No | 225V measured by Simon Heath |
+| <a name="GMI"><b>GMI</b></a> | Infrared transmitter | No | 324V, measured by Sandy Levenberg, (just for IR?) |
+| <a name="Hanimex"><b>Hanimex</b></a> | TZ*2 | No | 225V measured by Simon Heath |
 | | TZ36 | Yes | 4.6V measured by David Cox |
 | | TX325 | Yes | 3V measured by Ulrich H&omlu;xterman |
 | | CX440 | No | 180V measured by "Dave L" |
@@ -174,36 +174,36 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | TZ755CP | Yes | 4.5V measured by Mike Mahoney |
 | | TS855 | No | 209V measured by Jonathom Holtom |
 | | tZ2500 | No | 196V measured by Alastair Cardwell |
-| <a href="http://www.hensel.de">Hensel</a> | Contra 500 | Your Call | 16.3V @10microAmps for all output ranges, as measured and reported by Jan de Vreij Dwingeloo |
+| <a href="http://www.hensel.de" name="Hensel"><b>Hensel</b></a> | Contra 500 | Your Call | 16.3V @10microAmps for all output ranges, as measured and reported by Jan de Vreij Dwingeloo |
 | | Super Miniflash 500 | No | 41.2V per "Mike from Germany" |
 | | 2-channel IR trigger | Your Call | 17V per Teemu Virtanen |
-| Hitacon | Mini | No | 190V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg180">BigWaveDave</a> |
-| Holgon | 2800 HC | Yes | ~5.4V measured by Whay Lee |
-| Honeywell | Auto Strobolite 52 | No | 115V as measured and reported by Karl Haug |
+| <a name="Hitacon"><b>Hitacon</b></a> | Mini | No | 190V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg180">BigWaveDave</a> |
+| <a name="Holgon"><b>Holgon</b></a> | 2800 HC | Yes | ~5.4V measured by Whay Lee |
+| <a name="Honeywell"><b>Honeywell</b></a> | Auto Strobolite 52 | No | 115V as measured and reported by Karl Haug |
 | | Strobonar 892S | Yes  | A tiny 1.25V (!?), measured by Neil Viglione, (who had to reverse the shoe polarity) |
-| Ikelite | Substrobe 50 | Yes | 5.28V from Harold Kroeker  |
+| <a name="Ikelite"><b>Ikelite</b></a> | Substrobe 50 | Yes | 5.28V from Harold Kroeker  |
 | | Substrobe DS-125 | Yes | 5.14V, also from Harold Kroeker  |
-| Image | CBD-30 | Yes | 2.9V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg145">Ray Watson</a> |
+| <a name="Image"><b>Image</b></a> | CBD-30 | Yes | 2.9V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg145">Ray Watson</a> |
 | | CZ-65 | No | 201V from Dave Stacey |
 | | CBZ-2500 | Yes | 3V from "Kelvin" |
-| Itorex | 3000Tw | Your Call...  | 23V, reported by Asle Feten |
-| Jessop | 220TBZ | No | 212V measured by David Aldred |
+| <a name="Itorex"><b>Itorex</b></a> | 3000Tw | Your Call...  | 23V, reported by Asle Feten |
+| <a name="Jessop"><b>Jessop</b></a> | 220TBZ | No | 212V measured by David Aldred |
 | | 280ABZ | No  | 70V measured by "TomCee" Cramer, 249V from Mark Butler |
-| Kakonet | 4500 | No | 210V measured by Aapo Tammisto |
-| Kalimar | 171A | No | 238V measured by Ted Coffey |
+| <a name="Kakonet"><b>Kakonet</b></a> | 4500 | No | 210V measured by Aapo Tammisto |
+| <a name="Kalimar"><b>Kalimar</b></a> | 171A | No | 238V measured by Ted Coffey |
 | | 175A | Your Call  | 4-5V measured by Michael Meissner, but <b>183V</b> measured by Derek Misener... |
 | | TW-3600 | Yes | 5.71V measured by Tom Altman |
-| Kenlock | TV45 | Your call | 10V measured by Barry Maufe |
-| Kitstar | 50BC | No | 160V measured by Greg Bloor |
-| KMart | Pro-700 | No | 229V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg235">Bob Rinelli</a> |
-| Kodak | Gear Auto | No | 222.1V, measured by Steve Spartz |
+| <a name="Kenlock"><b>Kenlock</b></a> | TV45 | Your call | 10V measured by Barry Maufe |
+| <a name="Kitstar"><b>Kitstar</b></a> | 50BC | No | 160V measured by Greg Bloor |
+| <a name="KMart"><b>KMart</b></a> | Pro-700 | No | 229V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg235">Bob Rinelli</a> |
+| <a name="Kodak"><b>Kodak</b></a> | Gear Auto | No | 222.1V, measured by Steve Spartz |
 | | 80030 (made by Tiffen) | No | 235.6V, measured by Jim Gatling |
-| Konica | Hexar HX-14 | Yes | 5.89V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg305">EJ Haas</a> |
+| <a name="Konica"><b>Konica</b></a> | Hexar HX-14 | Yes | 5.89V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg305">EJ Haas</a> |
 | | Hexar HX-18W | Your Call | 8.4V measured by Craig Schroeder |
-| Leica | CF | Your Call | 10-11V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg134">Joe Lim</a> |
-| <a href="http://www.lumedyne.com">Lumedyne</a> | All | Your call | 12V since 1992, about 100V before, reported; DIRECT INFO FROM LUMEDYNE at the bottom of this page |
-| Luxon | 132 AFc | Yes | 1.23V(!) measured by Tarmo Pekola |
-| <a href="http://www.metz.de/mecablitz/eng/Welcome.html">Metz</a> | 20 B3 | Nope | 168V reported by Gerardo Nieto |
+| <a name="Leica"><b>Leica</b></a> | CF | Your Call | 10-11V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg134">Joe Lim</a> |
+| <a href="http://www.lumedyne.com" name="Lumedyne"><b>Lumedyne</b></a> | All | Your call | 12V since 1992, about 100V before, reported; DIRECT INFO FROM LUMEDYNE at the bottom of this page |
+| <a name="Luxon"><b>Luxon</b></a> | 132 AFc | Yes | 1.23V(!) measured by Tarmo Pekola |
+| <a href="http://www.metz.de/mecablitz/eng/Welcome.html" name="Metz"><b>Metz</b></a> | 20 B3 | Nope | 168V reported by Gerardo Nieto |
 | | 20BC4 | No | 185V reported by G&ouml;ran Samuelsson |
 | | 20BC-6 | Yes | &lt;5V per Metz-Werke, reported by Duncan Burt |
 | | 23BC4 | No | 183V reported by Frantisek Daniel |
@@ -240,7 +240,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 402 | No  | 206V on this circa-1974 strobe, according to "ejb" from the UK |
 | | 404 | No | 80.2V from "Mike in Germany" |
 | | 2034BC | No | 207V from Ernst Albert |
-| <a href="http://www.minoltausa.com/">Minolta</a> | Auto 22 | No | 240.1 measured by Derek Woodlands |
+| <a href="http://www.minoltausa.com/" name="Minolta"><b>Minolta</b></a> | Auto 22 | No | 240.1 measured by Derek Woodlands |
 | | Auto 25 | No | 210V measured by Steven Ferland |
 | | Auto 28 | No  | 200V according to Wes Quigley, only 43V from <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg153">Gene West</a> |
 | | Auto 32 | No | 192V measured by Rob Babcock |
@@ -257,14 +257,14 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 3600HSD | Yes | 3.5V, per Toney Hall |
 | | 4000 AF | Yes | 1.85-2.5V, per Mark Vinsen |
 | | 5400HS | Yes | 4.7V, measured by Hardeep |
-| Minox | FC35 | No | 131V reported by Poul Bekker-Hansen |
+| <a name="Minox"><b>Minox</b></a> | FC35 | No | 131V reported by Poul Bekker-Hansen |
 | | MF35 | No | 194V reported by G&ouml;ran Samuelsson |
 | | TC35 | No | 170V reported by Poul Bekker-Hansen |
-| Miranda | ZF-3 Zoom | No | 246V, measured by Rich Grochowski |
+| <a name="Miranda"><b>Miranda</b></a> | ZF-3 Zoom | No | 246V, measured by Rich Grochowski |
 | | 630 CD | Your Call | 8.14-8.30V, measured by Robin Taylor |
 | | 930 TCD | Your Call | 6.5V, measured by Tony Williams |
-| <a href="http://www.multiblitz.de">Multiblitz</a> | Varilux 1000S | Your Call...  | 6.5V, measured by <a href="http://www.digitalfotograpfie.com" target="linkframe">Frank van der Pol</a> |
-| National, (Panasonic) | PE-20S | No | 6.16V, per <a href="http://www.californiagull.com">Akira So</a> |
+| <a href="http://www.multiblitz.de" name="Multiblitz"><b>Multiblitz</b></a> | Varilux 1000S | Your Call...  | 6.5V, measured by <a href="http://www.digitalfotograpfie.com" target="linkframe">Frank van der Pol</a> |
+| <a name="National"><b>National</b></a>, <a name="Panasonic">(Panasonic)</a> | PE-20S | No | 6.16V, per <a href="http://www.californiagull.com">Akira So</a> |
 | | PE-170 | No | 120V, measured by Nelson Pomeroy |
 | | PE-205 | No | 155V, per Mike Flynn |
 | | PE-256 | No | 270V from Piotr Szuszniak |
@@ -276,7 +276,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | PE-3057 | Your Call  | 10.44V, per <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg170">Luigi</a> |
 | | PE-3550 | Nope | 32V, per Harry Malmelin |
 | | PE-3557 | Your Call | 9.7V, per Robert Lee |
-| <a href="http://www.nikonusa.com/">Nikon</a> | SB-8E | Iffy | 21-28.4V, measured by Don Knull |
+| <a href="http://www.nikonusa.com/" name="Nikon"><b>Nikon</b></a> | SB-8E | Iffy | 21-28.4V, measured by Don Knull |
 | | SB-10 | Yes | 5.11V measured by Danny Manchester |
 | | SB-15 | Yes  | 1.55, per Teemu Vertinen, a little higher (4.25V) for Paul Crane &amp;, 3.4V from Jack McDermott |
 | | SB-16 | Yes | 4.14V, per Harry Malmelin |
@@ -293,8 +293,8 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | SB-30 | Yes | 4.5-4.6V, per Jack Azud |
 | | SB-50DX | Yes | 5-6V, reported by Nikon to Howard Forbes |
 | | SB-80DX | Yes  | 4.23-4.29V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg38">Dave Tewksbury</a> |
-| Nishika | Twin Light 3010 | Nope | 307V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg304">Brian Lindley</a> |
-| Nissin | Digislave | No | 200V measured by Juha Kopsa |
+| <a name="Nishika"><b>Nishika</b></a> | Twin Light 3010 | Nope | 307V, measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg304">Brian Lindley</a> |
+| <a name="Nissin"><b>Nissin</b></a> | Digislave | No | 200V measured by Juha Kopsa |
 | | EF20 | No  | 180V & 185V measured by G&ouml;ran Samuelsson |
 | | 21-A Auto | No | 130V, measured by Hans de Ru |
 | | 26T | No | 227V, per David Peat |
@@ -308,50 +308,50 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 2800G | No  | 137V from <a href="http://www.users.tpg.au/jamestom/jamestom.htm">James Tom</a> |
 | | 4500 GTE | Yes | 4.6V from Bill Otto |
 | | 4800 GT | Yes | 4.55V using NiMHs, per Leon Obers |
-| Norman | 24/24 pack | Your Call | 11.8V measured by Phil Shima |
+| <a name="Norman"><b>Norman</b></a> | 24/24 pack | Your Call | 11.8V measured by Phil Shima |
 | | 200B (Series 450) | No  | 100V, measured by Steve Wise, though, <a href="http://ozimages.com.au/portfolio.asp?MemberID=481">Brian Leonard</a> got only 29V... |
 | | 400B | Your Call  | 10.25V, measured by <a href="http://www.doddyphotography.com">Jan C.  Doddy,</a>, who found he had to flip polarity for it to function with his D-60 |
 | | Superlight 800 | Your Call  | 14.15V according to Phil Shima, (who mentioned it blew-out the sync circuit.. in a Leica M6!?!  (amperage? polarity?)) |
 | | P2000D Pack | No | 48V, measured by Peter ("gicleeman") |
-| Novatron | M-500 | Your Call | 7.5V measured by Lonnie Harrison |
+| <a name="Novatron"><b>Novatron</b></a> | M-500 | Your Call | 7.5V measured by Lonnie Harrison |
 | | 600VR Power Pack | Your Call  | 12V according to Novatron, per Neil Lubin, <i><b>Novatron will modify this pack to 6V for $15</b></i> |
 | | 1000 Pack | Your Call | 9.8V measured by Pat Taber |
-| <a href="http://www.olympus.com/">Olympus</a> | T18 | Your call | 4.8-8.5V, measured by "Andy" |
+| <a href="http://www.olympus.com/" name="Olympus"><b>Olympus</b></a> | T18 | Your call | 4.8-8.5V, measured by "Andy" |
 | | OM T-20 | Your call  | 5-7.4V as it charged, measured by Brian Zimmerman, only 2.6v from Greg Clark, who also, <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg52">has a few thoughts about varying voltage results</a> |
 | | OM T-32 | Your call  | 7.14V/8.4V, measured by J. Mark Morris/Russ Rosener,  9.5-11.3V from <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg215">Tom Mac Inerney</a> |
 | | FL-40 | Yes | 3V, measured by Harry M. Fetterman Jr |
 | | PS200 | No | 185V, measured by Stuart Lovell |
-| Osram | BCS25 Studio | No | 245V, according to G&ouml;ran Samuelsson, 168V &amp; 176V, measured from two different strobe units by Craig Schroeder (see below) |
+| <a name="Osram"><b>Osram</b></a> | BCS25 Studio | No | 245V, according to G&ouml;ran Samuelsson, 168V &amp; 176V, measured from two different strobe units by Craig Schroeder (see below) |
 | | BD25 Studio | Yes | 4.5V, measured by Craig Schroeder |
 | | VS340 | Yes | 5.3V, measured by Craig Schroeder |
 | | Sunny Boy | No | 188V measured by Craig Schroeder |
-| Pentax | AF-16 | Yes | 5V, measured by K.B. Lee |
+| <a name="Pentax"><b>Pentax</b></a> | AF-16 | Yes | 5V, measured by K.B. Lee |
 | | AF160 | Yes | 3.8V, measured by Gary Schaker for his 300D |
 | | AF200SA | Your Call | 7.65-7.72V, measured by Bill Miller |
 | | AF200T, AF280T | Your Call  | 7.8V according to Pentax, and reported by John Glover |
 | | AF240Z | Yes | 4.8V, measured by Richard Hartland |
-| <a href="http://www.pcaol.com/">Phoenix</a>, <a name="phoenix">Phenix</a> | BIF&nbsp;82c | Yes | 6.0V, measured by Greg Clark |
+| <a href="http://www.pcaol.com/" name="Phoenix"><b>Phoenix</b></a>, <a name="Phenix">Phenix</a> | BIF&nbsp;82c | Yes | 6.0V, measured by Greg Clark |
 | | D79-BZS | Yes  | Around 3.5-6V, reported by Phoenix Corp, and checked by "Tom" |
 | | BIF 82N | Yes | 5.5V, measured by Steve Spartz |
 | | HMS-98T | No | 250V, measured by Justin Kuo |
-| Philips | 16B | No | 252V, according to Arnoud Brouwer |
+| <a name="Philips"><b>Philips</b></a> | 16B | No | 252V, according to Arnoud Brouwer |
 | | 18 | No | 218V, also according to Arnoud Brouwer |
 | | 25B | No  | 65V, according to <a href="http://home.planet.nl/~lumen003/home.html">Theo Lumens</a> |
 | | P32GTC | No | 300V per Arnoud Brouwer |
 | | P36CTL | Yes  | 5.2V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg147">Bernd Schumacher</a> |
 | | P36TLS | Yes  | 4.3V measured by Arnoud Brouwer, and 5.64V from <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg83">J.E.  St-Laurent</a> |
 | | P536G | Yes  | 4.37-4.81V, measured by Fritz Washburn, using Philips's Canon A-series hotshoe |
-| Photogenic | AA-01A | Your Call | 10.3V per Jim Ngo |
+| <a name="Photogenic"><b>Photogenic</b></a> | AA-01A | Your Call | 10.3V per Jim Ngo |
 | | DR-1250 | Yes | ~3-4V measured by Richard Davis, (mail signed "John Smith"?) |
-| Popular | 606 | No | 61-71V, measured by Harry Malmelin |
-| Posso | Multi, Dedicated, ATD 25 | Your Call | 6.8V, measured by Pedro Gordinho |
-| <a href="http://www.praktica.de">Praktica</a> | B32LCD | Yes | 4V, according to Praktica in Dresden &amp;, forwarded by <a href="http://www.haakman.tk/" target="linkframe">Anton Haakman</a> |
+| <a name="Popular"><b>Popular</b></a> | 606 | No | 61-71V, measured by Harry Malmelin |
+| <a name="Posso"><b>Posso</b></a> | Multi, Dedicated, ATD 25 | Your Call | 6.8V, measured by Pedro Gordinho |
+| <a href="http://www.praktica.de" name="Praktica"><b>Praktica</b></a> | B32LCD | Yes | 4V, according to Praktica in Dresden &amp;, forwarded by <a href="http://www.haakman.tk/" target="linkframe">Anton Haakman</a> |
 | | 321A | No | 114V, measured by Jeroen Haringman |
 | | 1600A | No | 222V, measured by Jonathan Holtom |
 | | | | Bauke Coperus points out that Praktica also relabels <a href="#Achiever">Achiever</a> strobes |
-| Prinz | Jupiter 677TCB | No | 260V measured by Mark Salik |
-| <a href="http://www.profoto-usa.com/">Profoto</a> | Compact Plus | Your Call | 23V for the 600ws unit, according to Loring Palleske &#151;, which fits the 22-25V range reported by Profoto Customer Service and forwarded by Tony Wu |
-| <a href="http://www.promaster.com/">Promaster</a> | FM600 | No | 196V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg110">"Tom on AOL"</a> |
+| <a name="Prinz"><b>Prinz</b></a> | Jupiter 677TCB | No | 260V measured by Mark Salik |
+| <a href="http://www.profoto-usa.com/" name="Profoto"><b>Profoto</b></a> | Compact Plus | Your Call | 23V for the 600ws unit, according to Loring Palleske &#151;, which fits the 22-25V range reported by Profoto Customer Service and forwarded by Tony Wu |
+| <a href="http://www.promaster.com/" name="Promaster"><b>Promaster</b></a> | FM600 | No | 196V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg110">"Tom on AOL"</a> |
 | | FM 1000 | No  | 258V also reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg110">"Tom on AOL"</a> |
 | | FT1700 | Your Call | 6V according to Promaster, 207V as metered by Steve Seltzer, though <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg110">"Tom on AOL"</a> got 289V! |
 | | FTD 5200 | Yes | 4-5V metered by Raymond Smiley |
@@ -360,8 +360,8 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 5900 | Yes | 5.5V metered by Don Swanson |
 | | FTD 5950 | Yes | 5.12V metered by Jim Horky |
 | | 7000M | Yes | 3.0V, measured by Dennis Yep |
-| Promatic | FTD 4000 | Yes(?) | 6.16V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg76">Tom Deluca</a> |
-| Quantaray | PZ-1 | Yes | (also known as the SUNPAK 400AF), &lt;5V, according to Harold Lacadie |
+| <a name="Promatic"><b>Promatic</b></a> | FTD 4000 | Yes(?) | 6.16V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg76">Tom Deluca</a> |
+| <a name="Quantaray"><b>Quantaray</b></a> | PZ-1 | Yes | (also known as the SUNPAK 400AF), &lt;5V, according to Harold Lacadie |
 | | QB-350A | No | 130V, according to Joel Kiblen |
 | | QB-SZ370 | Yes | 5.87V, according to Chris Joubert |
 | | QB-350A | No  | 317V/290V, according to Adam Miller/Neil Viglione |
@@ -370,40 +370,40 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | QAF-6600 | Yes  | 3V, reported by Francois Candela, 5.14V from Keith L. (Rupe) Rupert |
 | | QTB 7500A | Yes | ~5V, reported by Mike Mantoudis |
 | | QTB 9500A | Yes | 4.93V, reported by Larry Haas |
-| Quantum | QFlash T2 | Your Call | 8V, reported by "Joel,", <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg56">who also had a talk to Quantum about flash safety and EOS cameras</a>, and <a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
+| <a name="Quantum"><b>Quantum</b></a> | QFlash T2 | Your Call | 8V, reported by "Joel,", <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg56">who also had a talk to Quantum about flash safety and EOS cameras</a>, and <a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
 | | 4 Radio Slave[br>(older?) | Your Call  | 6.8V, reported by Jeff MacWright (who also had a 4i)</a> |
 | | 4i Radio Transmitter | Your Call  | 8.45V, reported by "Lad", 7.5V from Toney Hall, and 8.71V from <a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
 | | Radio Slave II | Your Call  | 5-6V, measured by "Lloyd", aka "Sparky", 8.98V from <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg201">Bryce Turner</a> |
-| Raynox | DC-303 | No | 254V, measured by Mika Yrjola |
-| Regula | Variant 740-1 | Your Call | 13.4V, measured by Lukasz Wysokinski |
-| Revue | C35S | Your Call | 10.58V measured by DJ Szegecs |
+| <a name="Raynox"><b>Raynox</b></a> | DC-303 | No | 254V, measured by Mika Yrjola |
+| <a name="Regula"><b>Regula</b></a> | Variant 740-1 | Your Call | 13.4V, measured by Lukasz Wysokinski |
+| <a name="Revue"><b>Revue</b></a> | C35S | Your Call | 10.58V measured by DJ Szegecs |
 | | C4500 | No | 230V measured by Fred Huttinga |
-| Ricoh | 323 | Your Call | 10.25V, measured by "Piotrek" |
-| Rokinon | 3600 | Your Call...  | 24V, center positive; reported by Peter Ungar, who also reported that a Canon G1 wouldn't fire it |
-| Rollei | 100 XLC | Nope | 325V, reversed polarity, according to Gerardo Nieto, &amp;, 356V from Robin Taylor |
+| <a name="Ricoh"><b>Ricoh</b></a> | 323 | Your Call | 10.25V, measured by "Piotrek" |
+| <a name="Rokinon"><b>Rokinon</b></a> | 3600 | Your Call...  | 24V, center positive; reported by Peter Ungar, who also reported that a Canon G1 wouldn't fire it |
+| <a name="Rollei"><b>Rollei</b></a> | 100 XLC | Nope | 325V, reversed polarity, according to Gerardo Nieto, &amp;, 356V from Robin Taylor |
 | | 134B | No | 105V, measured by Olaf Ulrich |
 | | Beta 3 | No | 116V, measured by Craig Schroeder |
-| Sigma | EF 430 | Yes | 10-13V, measured by Dennis Deblois, only 4.63V from Tom Helge Hj&#248;rnevik |
+| <a name="Sigma"><b>Sigma</b></a> | EF 430 | Yes | 10-13V, measured by Dennis Deblois, only 4.63V from Tom Helge Hj&#248;rnevik |
 | | EF 500 Super | Yes | 5.9V, measured by Lou McLaughlin |
-| Soligor | MK-2 | No | 230V, measured by Rich Grochowski |
+| <a name="Soligor"><b>Soligor</b></a> | MK-2 | No | 230V, measured by Rich Grochowski |
 | | MK-24AS | No | 37-41V, measured by Michel Blanchet |
 | | 30DA | Yes | 5.25V, measured by Greg Clark |
 | | MZ-400AF | Yes | ~4V, measured by Jouni Pekkanen |
-| <a href="http://www.bkaphoto.com/">SP, Systems</a> | Excalibur 3200, Excalibur 6400 | Your Call | 8.4V, reported by Chris Rocca |
+| <a href="http://www.bkaphoto.com/" name="SP, Systems"><b>SP, Systems</b></a> | Excalibur 3200, Excalibur 6400 | Your Call | 8.4V, reported by Chris Rocca |
 | | 150 | Yes | 6V from Ted Coffey |
 | | 920MDLVP | Your Call | 8.4V from Ted Coffey |
-| <a href="http://www.speedotron.com/">Speedotron</a> | D604 | No | 64V (<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a>) |
+| <a href="http://www.speedotron.com/" name="Speedotron"><b>Speedotron</b></a> | D604 | No | 64V (<a href="http://bobatkins.com/photography/eosfaq/" target="linkframe">EOS FAQ</a>) |
 | | D802 | No | 69.7V from Don Swanson |
 | | 1205CX | No  | 60-70V per Speedotron customer service, and forwarded by Tom Bolton.<p> Speedotron makes a low-voltage afdapter, part #35248, with MSRP $36 |
 | | 2403CX | No  | 66V (<a href="http://bobatkins.com/photography/eosfaq/">EOS FAQ</a>) |
 | | 2405CX | No  | 70V reported by <a href="http://www.paulchaplo.com/">EOS Paul Chaplo, M.F.A.</a> &#151; whose dealer promptly put Safe Syncs on all their rental units |
-| <a href="http://www.adorama.com">Spiratone, (Adorama)</a> | Spira-Lite Sr | No | 186.9V measured by Don Swanson |
+| <a href="http://www.adorama.com" name="Spiratone"><b>Spiratone</b></a> <a name="Adorama">(Adorama)</a> | Spira-Lite Sr | No | 186.9V measured by Don Swanson |
 | | SS600 AC | No | 219V from Craig Schroeder |
-| <a href="http://www.srelectronics.com/">SR, Electronics</a> | DSF-1 | No | 218V, reported by "Brian Z", who also built this <a href="http://repairfaq.cis.upenn.edu/Misc/strbfaq.htm#strboaof" target="linkframe">adapter</a> |
+| <a href="http://www.srelectronics.com/" name="SR, Electronics"><b>SR, Electronics</b></a> | DSF-1 | No | 218V, reported by "Brian Z", who also built this <a href="http://repairfaq.cis.upenn.edu/Misc/strbfaq.htm#strboaof" target="linkframe">adapter</a> |
 | | Digi-Slave Pro | Yes  | 5V, reported by SR Inc via Paul Parlee |
 | | Digi-Slave Deluxe 2000 | Your Call  | 15V, reported by SR Inc via Paul Parlee |
 | | Digi-Slave Deluxe 3000 | Your Call  | 7.8V, reported by SR Inc via Paul Parlee |
-| Starblitz | 16 M Slave | No | 170V, reported by Ray Huttenmeister |
+| <a name="Starblitz"><b>Starblitz</b></a> | 16 M Slave | No | 170V, reported by Ray Huttenmeister |
 | | 200m-Quick | No  | 237V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg149">Jeff Oldbean</a> |
 | | 250 BAZ | Your Call  | 6.8V, reported by Mark Brooke-Smith |
 | | 320 BTZ | Yes, <i>but...</i>  | 5.66V reported by Dominique Dartois, but it won't fire on a G2 &#151; it actually turns off the flash circuitry in the camera! &#151; though it functions on his mechanical Nikon F2 |
@@ -415,7 +415,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 3600 BTV Twin | No  | 170V from Teemu Vertinen, 150V from Greg Clark |
 | | 3600 DS | Yes  | 4-5V, reported by Bob Ghysels |
 | | 4000AF | Yes  | slightly under 6V, reported by "Ed" &amp; Peter Cooke |
-| <a href="http://www.tocad.com/sunpak.html">Sunpak</a> | Ringflash | Your call | 6.85, measured by David Dodell |
+| <a href="http://www.tocad.com/sunpak.html" name="Sunpak"><b>Sunpak</b></a> | Ringflash | Your call | 6.85, measured by David Dodell |
 | | "Digital Flash" | Your call  | 6.4-6.6V, reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg12">Geert Bosch,</a>, 6.78V from Sandy Levenberg, (Though of course <i>zero</i> volts when used as a slave...) |
 | | Remotelite II | Yes | 4.12V, reported by Jeroen Haringman |
 | | MG-1 | Your Call | 6.99V, reported by Kai Zhu |
@@ -476,21 +476,21 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | MS-4000 monolight | Yes | 5.8V, measured by Alan Fairley |
 | | 4205G | Yes(?)  | 3.75V, measured by Igor Wesdorp, (6.*V from G&ouml;ran Samuelsson and Arnoud Brouwer) |
 | | PZ5000AF | Yes  | 5V, checked by "MikeTwo" thru ToCAD's (Sunpak's) own John Long |
-| Topca | 320BC | No | 100-105V measured by Martin Marusak |
+| <a name="Topca"><b>Topca</b></a> | 320BC | No | 100-105V measured by Martin Marusak |
 | | 330CX | Yes | 3.4V measured by Oto Durkovic |
-| Toshiba | ES-7 | No | 250V, measured by Anton Douwe |
+| <a name="Toshiba"><b>Toshiba</b></a> | ES-7 | No | 250V, measured by Anton Douwe |
 | | QCC-25MD | Your Call | 11.4V, measured by Sean Phillips |
 | | ES-30 | Your Call | 15V, measured by Ken Hardy |
 | | 312 | Nope | 197V, according to G&ouml;ran Samuelsson |
-| <a href="http://www.tumaxint.com/main_flash-update.htm">Tumax</a> | DS20S | Yes (?) | ~4-6V, measured by James K.W. Wong, who also received a mail from Tumax saying 6.8V! |
+| <a href="http://www.tumaxint.com/main_flash-update.htm" name="Tumax"><b>Tumax</b></a> | DS20S | Yes (?) | ~4-6V, measured by James K.W. Wong, who also received a mail from Tumax saying 6.8V! |
 | | 116 | No | 185V, measured by Kiriakos Triantafyllou |
 | | 988TWZ | Your Call | 7.6V from Woo Fei Wing |
-| Unomat | B14 Servo | No | 190V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg151">"Alchi"</a> |
+| <a name="Unomat"><b>Unomat</b></a> | B14 Servo | No | 190V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg151">"Alchi"</a> |
 | | B20C | No  | 210V measured by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg215">Tom Mac Inerney</a> |
 | | 320TCD | No  | 34V measured by <a href="http://www.users.tpg.au/jamestom/jamestom.htm">James Tom</a> |
 | | P360TCT | No | 160.3V measured by Luis Sousa |
-| Vesta | Auto 1200A | No | 25V measured by Louis Allard |
-| <a href="http://www.vivitar.com">Vivitar</a> | 100 | No | 270V, per Nigel Kirlew, and , 256V measured by Bambi Torres |
+| <a name="Vesta"><b>Vesta</b></a> | Auto 1200A | No | 25V measured by Louis Allard |
+| <a href="http://www.vivitar.com" name="Vivitar"><b>Vivitar</b></a> | 100 | No | 270V, per Nigel Kirlew, and , 256V measured by Bambi Torres |
 | | Auto Bounce 40D | Your Call  | an oh-so-close 6.2V, per S. Ciccarelli, who's happily using it on his Powershot G2 |
 | | AF-N 132, (Nikon) | Yes | ~4V, from Per G. &#216;sterlie |
 | | 161 | No | ~60V per Howie Hecht |
@@ -525,15 +525,15 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | 5200 | Your call | ~9.4V, checked by "Dr. Droo" Baxter |
 | | 5250 | Yup  | 5-6V depending on the module, checked by Jeff Wiseman |
 | | 7600 | Your Call | 7.5V w/new batteries, measured by Dennis Yep |
-| Voigtlander | VC21B | No | 118V measured by "rjsch" |
-| <a href="http://www.saundersphoto.com/html/wein.htm">Wein</a> | Pro Sync 1, IR transmitter | Your call | 15.18V, measured by Sandy Levenberg, (Newer model is reputedly 6V) |
+| <a name="Voigtlander"><b>Voigtlander</b></a> | VC21B | No | 118V measured by "rjsch" |
+| <a href="http://www.saundersphoto.com/html/wein.htm" name="Wein"><b>Wein</b></a> | Pro Sync 1, IR transmitter | Your call | 15.18V, measured by Sandy Levenberg, (Newer model is reputedly 6V) |
 | | Pro Sync LX-2 | Your call  | 10.36V, measured by <a a href="http://www.doddyphotography.com">Jan C.  Doddy</a> |
 | | 200 Flash | No | 122.7V measured Don Swanson |
-| White Lightning | All | See listing under "Paul Buff" | |
-| WOC | WOC | Yes | 5V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg179">Matt Dovner</a> |
-| Woctron ("WOC"?) | 250 PC Auto | Yes | 5V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg169">"Alex from Italy"</a> |
+| <b>White Lightning</b> | All | ? | See listing under <a href="#Buff">"Paul Buff"</a> | |
+| <a name="WOC"><b>WOC</b></a> | WOC | Yes | 5V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg179">Matt Dovner</a> |
+| <a name="Woctron"><b>Woctron</b></a> ("WOC"?) | 250 PC Auto | Yes | 5V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg169">"Alex from Italy"</a> |
 | | 2500 PC | Yes  | 5.5V reported by <a href="https://www.botzilla.com/photo/photoBook/pbook.html#msg228">Dmitrios Papadopoulos</a> |
-| <a href="http://www.yashica.com/">Yashica</a> | CS-202 | Your call | 11V, reported by Mike Flynn |
+| <a href="http://www.yashica.com/" name="Yashica"><b>Yashica</b></a> | CS-202 | Your call | 11V, reported by Mike Flynn |
 | | CS-201 Auto | Your call | 11.9V, reported by "Mike from Sweden" |
 | | CS-221 Auto | Yes | A wee 1.75V, reported by Ken Kane |
 | | CS-240 Auto | Your call | 7.2V, reported by Andrzej Sosnowski |
@@ -541,7 +541,7 @@ The ISO spec doesn't really seem to hold a lot of weight!
 <figure class="align-center">
 <a href="{% post_url 2023-06-17-Traffic %}"><img alt="Traffic Shot with AD200" src="
   https://www.botzilla.com/pix2023/bjorke_Low__KEV0700.jpg"></a>
-<figcaption><a href="{% post_url 2023-06-17-Traffic %}">Shot with Wireless: Godox AD200</a></figcaption>
+<figcaption>Mixed traffic: <a href="{% post_url 2023-06-17-Traffic %}">Shot with Wireless: Godox AD200</a></figcaption>
 </figure>
 
 ---
