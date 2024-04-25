@@ -16,7 +16,7 @@ Event-specific editions of [**artworks and books**]({{ site.url}}/book24) will b
 
 <a class="btn btn--info btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Book and Print Availability</a>
 
-While I have worked at a creator in many media for years, the AatS open-studio venue is new for me. I am documenting the preparation process in a series of posts:
+While I have worked at a creator in many media for years, AatS's open-studio venue is new for me. I am documenting the preparation process in a series of posts:
 
 * [5 March: _Sonoma Sources_]({% post_url 2024-03-05-Sources %})
 * [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
@@ -28,3 +28,9 @@ While I have worked at a creator in many media for years, the AatS open-studio v
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
 <figcaption>See You on June First</figcaption>
 </figure>
+
+<figure class="align-center">
+<a href="{{ site.url}}/book24"><img src="https://www.botzilla.com/pix2024/author-promo-card.jpg"></a>
+<figcaption>Click <a href="{{ site.url}}/book24">here</a> for book info</figcaption>
+</figure>
+
