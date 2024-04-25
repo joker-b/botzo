@@ -9,12 +9,20 @@ picless: true
 mastless: true
 nameless: true
 ---
-This <a href="http://www.botzilla.com/categories/#gearhead">GearHead</a> page was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Minolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new <a href="http://www.botzilla.com/fstop/2023/06/17/Traffic.html">Big Godox</a> or <a href="http://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html">Tiny Fuji</a> and be very happy. The old and flexible <a href="https://www.botzilla.com/gearhead/2021/05/12/Quick-and-Light.html#TLA">Contax TLA 360</a> can be had for a steal, these days.
-{:.notice}
+
 
 <h1>Is your old flash unit safe to use on your new electronic camera?</h1>
 
-Some older strobes (and infrared strobe triggers) use high voltages in the trigger circuit.  For mechanical cameras, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltages.
+This <a href="{{ site.url }}/categories/#gearhead">GearHead</a> page was originally compiled around 2001 to 2005, using generously crowd-sourced measurements. Many of the companies listed (and the links to the contributors) have been gone for years (Hi Minolta!). The list is still hosted here but rarely expanded. If you're really in doubt, just get yourself a new <a href="{% post_url 2023-06-17-Traffic %}">Big Godox</a> or <a href="{% post_url 2021-05-12-Quick-and-Light %}">Tiny Fuji</a> and be very happy. The old and flexible <a href="{% post_url 2021-05-12-Quick-and-Light %}#TLA">Contax TLA 360</a> can be had for a steal, these days.
+{:.notice}
+
+<figure class="align-center">
+<a href="{% post_url 2021-05-12-Quick-and-Light %}"><img alt="Fuji EF-X20 flash + Leica M5" src="https://www.botzilla.com/pix2021/rps20210513_151901_806.jpg"></a>
+<figcaption><a href="{% post_url 2021-05-12-Quick-and-Light %}">Modern flash, 1970's Camera: Made for each other!</a> but what about the opposite?</figcaption>
+</figure>
+
+
+Some older strobes (and infrared strobe triggers) use **high voltages in the trigger circuit.**  For mechanical cameras like the one shown above, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltages.
 
 <i>How much is too much? What voltage might my own strobe generate?</i> This page tries to help answer those questions.  It contains a table of strobe trigger voltages, a few measured by myself but most contributed by readers of this site, along with some information about specific camera makes and the strobes that light them... first cameras, then strobes. 
 
@@ -529,6 +537,12 @@ The ISO spec doesn't really seem to hold a lot of weight!
 | | CS-201 Auto | Your call | 11.9V, reported by "Mike from Sweden" |
 | | CS-221 Auto | Yes | A wee 1.75V, reported by Ken Kane |
 | | CS-240 Auto | Your call | 7.2V, reported by Andrzej Sosnowski |
+
+<figure class="align-center">
+<a href="{% post_url 2023-06-17-Traffic %}"><img alt="Traffic Shot with AD200" src="
+  https://www.botzilla.com/pix2023/bjorke_Low__KEV0700.jpg"></a>
+<figcaption><a href="{% post_url 2023-06-17-Traffic %}">Shot with Wireless: Godox AD200</a></figcaption>
+</figure>
 
 ---
 
