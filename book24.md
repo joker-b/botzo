@@ -1,23 +1,23 @@
 ---
 permalink: /book24/
 layout: page
-title: "Art and Photo Books for AATS2024"
+title: "Art and Photo Books: Art at the Source 2024"
 image:
   path: https://www.botzilla.com/pix2024/book-testprints.jpg
 mastless: false
 inline_nav: true
 ---
 
-I love books and expect that if you're reading this page that you do too. As an artist, I find books to be the best way yet invented to explore and share complex and beautiful ideas.
+I love books and expect that if you're reading this page that you do too. As an artist, I find books to be the best way yet invented to explore and share complex and beautiful visual ideas: a whole gallery in your hand.
 
-The short-run books listed here will first be available during _Art at the Source 2024,_ which is both a gallery show at [Sebastopol Center for the Arts](https://www.sebarts.org/) and an open studio event, also in Sebastopol at "Studio 16B" during the first two weekends of June.
+The new, short-run editioned books listed here will first be available during _Art at the Source 2024_ at [Sebastopol Center for the Arts](https://www.sebarts.org/) -- and especially at the open studio event, also in Sebastopol at "Studio 16B" during the first two weekends of June.
 
 * **Opening Reception:** 11 May<br/>_Sebastopol Center for the Arts Main Gallery_
 * **Studio Weekends:** 1-2nd & 8-9th of June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_
 
-Books will also be available for order or pre-order online.
+Books will also be available for order online once the event begins.
 
-### Titles for AATS 2024, available soon for pre-order and on-site during AATS:
+### Titles for AATS 2024
 
 * [_No Photo Merci_]({{ site.url}}/merci)
 * [_CHAMPIONS_]({{ site.url}}/champions)
