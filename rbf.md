@@ -8,7 +8,7 @@ mastless: false
 inline_nav: true
 ---
 
-Available as single cards or as a set of six; editioned and signed.
+Available during [Art at the Source]({{ site.url}}/aats) as single cards or as a set of six; editioned and signed.
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20RBF%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20of%20RBF">Click Here to Receive Updates on RBF Card and Print Availability</a>
 
