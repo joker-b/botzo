@@ -22,7 +22,7 @@ This <a href="{{ site.url }}/categories/#gearhead">GearHead</a> page was origina
 </figure>
 
 
-Some older strobes (and infrared strobe triggers) use **high voltages in the trigger circuit.**  For mechanical cameras like the one shown above, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltages.
+Some older strobes (and infrared strobe triggers) use **high voltages in the trigger circuit.**  For mechanical cameras like the one shown above, this is fine &#151; but many newer, electronically-driven or digital cameras can be damaged by excessive strobe voltage.
 
 <i>How much is too much? What voltage might my own strobe generate?</i> This page tries to help answer those questions.  It contains a table of strobe trigger voltages, a few measured by myself but most contributed by readers of this site, along with some information about specific camera makes and the strobes that light them... first cameras, then strobes. 
 
