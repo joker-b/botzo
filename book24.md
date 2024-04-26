@@ -10,7 +10,7 @@ inline_nav: true
 
 I love books and expect that if you're reading this page that you do too. As an artist, I find books to be the best way yet invented to explore and share complex and beautiful visual ideas: a whole gallery in your hand.
 
-The new, short-run editioned books listed here will first be available during _Art at the Source 2024_ at [Sebastopol Center for the Arts](https://www.sebarts.org/) -- and especially at the open studio event, also in Sebastopol at "Studio 16B" during the first two weekends of June.
+The new, short-run editioned books listed here will first be available during [_Art at the Source 2024_]({{ site.url}}/aats) at [Sebastopol Center for the Arts](https://www.sebarts.org/) -- and especially at the open studio event, also in Sebastopol at "Studio 16B" during the first two weekends of June.
 
 * **Opening Reception:** 11 May<br/>_Sebastopol Center for the Arts Main Gallery_
 * **Studio Weekends:** 1-2nd & 8-9th of June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_
