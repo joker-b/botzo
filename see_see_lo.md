@@ -16,13 +16,9 @@ My artwork draws inspiration from the everyday beauty of life and wonders of nat
 As a creative, I like to explore all kinds of creating techniques and styles. For my studio work, I focus on oil & acrylic paintings, exploring a variety of surfaces to paint on, from traditional canvases to upcycled cigar boxes.
 {: .ssText }
 
-<center>
-<b>Studio</b>
-The Art Hatchery<br/>
-401 7th St. Ste. 15<br/>
-Petaluma CA 94952
-{: .ssText }
-</center>
+
+**Studio**<br/>The Art Hatchery<br/>401 7th St. Ste. 15<br/>Petaluma CA 94952
+{: .ssAddress }
 
 <!-- from See See:
 Artist’s Statement 
@@ -49,5 +45,9 @@ Explore, and share her joy of creation!
 {: .ssText }
 -->
 
+<br/>
+
+<center>
 <a class="btn btn--inverse" href="mailto:kevin+see@vumondo.com?subject=See%20See%20Lo%20Updates&body=Please%20inform%20me%20of%20occasional%20art%20updates%20from%20See%20See%20Lo.">Click Here to Receive Updates on Events and Availability</a>
 
+</center>

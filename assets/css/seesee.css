@@ -1,8 +1,16 @@
 /* see see font etc overrides */
 
 .ssText {
-    font-family: "Open Sans", sans-serif;;
-    text-transform: none;
+  font-family: "Open Sans", sans-serif;;
+  text-transform: none;
+  color: #666;
+}
+
+.ssAddress {
+  font-family: "Open Sans", sans-serif;;
+  text-transform: none;
+  color: #666;
+  text-align: center;
 }
 
 .ss-page-title {
