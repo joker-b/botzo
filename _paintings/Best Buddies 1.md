@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Best Buddies 1"
 mastless: true
-rank: 400
+rank: 195
 image:
   path: "https://www.botzilla.com/pix_ssl/Best Buddies 1.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/Best Buddies 1.jpg"

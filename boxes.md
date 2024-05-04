@@ -10,6 +10,9 @@ show_excerpts: false
 mastless: true
 ---
 
+Paintings created on upcycled cigar boxes.
+{:.text-center .ssText }
+
 <!-- Painted Cigar Boxes
 {:.text-center .ssText }
 -->
