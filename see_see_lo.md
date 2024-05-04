@@ -45,9 +45,12 @@ Explore, and share her joy of creation!
 {: .ssText }
 -->
 
-<br/>
+<figure class="align-center">
+<a href="https://www.artatthesource.org/see-see-lo"><img src="https://www.botzilla.com/pix2024/ss-card-2024.jpeg"></a>
+<figcaption>See my work during <a href="https://www.artatthesource.org/see-see-lo">Art at the Source 2024,</a> Studio #133!</figcaption>
+</figure>
 
 <center>
-<a class="btn btn--inverse" href="mailto:kevin+see@vumondo.com?subject=See%20See%20Lo%20Updates&body=Please%20inform%20me%20of%20occasional%20art%20updates%20from%20See%20See%20Lo.">Click Here to Receive Updates on Events and Availability</a>
+<a class="btn btn--inverse" href="mailto:kevin+see@vumondo.com?subject=See%20See%20Lo%20Updates&body=Please%20inform%20me%20of%20occasional%20art%20updates%20from%20See%20See%20Lo.">Click Here to Receive Updates on Events and Artwork Availability</a>
 
 </center>
