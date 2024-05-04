@@ -8,7 +8,7 @@ mastless: false
 inline_nav: true
 ---
 
-_Dancing with No One_ is a product merging both years of synthetic image research and production reaching back for decades, and a history of fashion photography from my early professional years.
+_Dancing with No One_ merges years of synthetic image research and media production reaching back for decades with a history of fashion photography from my early professional years.
 
 Available in two forms: as an individual short-run hardcover book, or as a softcover book packaged with one of several editioned prints from the _Dancing with No One_ project.
 
@@ -20,6 +20,6 @@ Softcover Edition Available with Signed, Editioned Print
 
 First Printing, 2024
 
-More [books]({{ site.url }}/book24) for [AatS]({{ site.url }}/aats)
+<a href="{{ site.url }}/book24">New Books for 2024.</a>
 
 _See You on June First._

@@ -14,6 +14,9 @@ Available during [Art at the Source]({{ site.url}}/aats) as single cards or as a
 
 First Printing, 2024
 
+<a href="{{ site.url }}/book24">New Books for 2024.</a>
+
+
 <!-- <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
 <figcaption>See You on June First</figcaption>

@@ -18,6 +18,6 @@ Available as an individual book or packaged with one of several editioned prints
 
 First Printing, 2024
 
-More [books]({{ site.url }}/book24) for [AatS]({{ site.url }}/aats)
+<a href="{{ site.url }}/book24">New Books for 2024.</a>
 
 _See You on June First._

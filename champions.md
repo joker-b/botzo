@@ -17,6 +17,8 @@ _CHAMPIONS_ is available packaged with one of several editioned prints from the 
 
 First Printing, 2024<br/>ISBN: 9798881458096
 
+<a href="{{ site.url }}/book24">New Books for 2024.</a>
+
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">

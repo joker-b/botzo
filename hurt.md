@@ -18,6 +18,8 @@ Available as an individual book or packaged with one of several editioned prints
 
 First Printing, 2024
 
+<a href="{{ site.url }}/book24">New Books for 2024.</a>
+
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
 <figcaption>See You on June First</figcaption>

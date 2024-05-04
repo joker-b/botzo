@@ -23,20 +23,20 @@ mastless: true
     </div>
     <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name"><a href="https://www.blurb.com/b/11043226-france-a-guide" rel="bookmark">No Photo Merci</a></h3>
+            <h3 class="entry-title p-name"><a href="{{ site.url }}/merci" rel="bookmark">No Photo Merci</a></h3>
             <div class="entry-image-container">
-                <a href="https://www.blurb.com/b/11043226-france-a-guide" class="u-photo" rel="bookmark">
-                </a><a href="https://www.blurb.com/b/11043226-france-a-guide" class="" rel="bookmark"><img class="entry-image u-photo"
+                <a href="{{ site.url }}/merci" class="u-photo" rel="bookmark">
+                </a><a href="{{ site.url }}/merci" class="" rel="bookmark"><img class="entry-image u-photo"
                         src="https://www.botzilla.com/pix2021/merci-thumb.jpg" alt=""></a>
             </div>
         </header>
     </div>
     <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name"><a href="{{ site.url }}/page/Havana-Caged-Bouquet.html" rel="bookmark">Caged Bouquet</a></h3>
+            <h3 class="entry-title p-name"><a href="{{ site.url }}/cage" rel="bookmark">Caged Bouquet</a></h3>
             <div class="entry-image-container">
-                <a href="{{ site.url }}/page/Havana-Caged-Bouquet.html" class="u-photo" rel="bookmark">
-                </a><a href="{{ site.url }}/page/Havana-Caged-Bouquet.html" class="" rel="bookmark"><img class="entry-image u-photo"
+                <a href="{{ site.url }}/cage" class="u-photo" rel="bookmark">
+                </a><a href="{{ site.url }}/cage" class="" rel="bookmark"><img class="entry-image u-photo"
                         src="https://www.botzilla.com/pix2022/havana2017/bjorke_Cuba_KBXP8956.jpg" alt=""></a>
             </div>
         </header>
@@ -63,7 +63,7 @@ mastless: true
     </div>
      <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name">WIP: Humdingers</h3>
+            <h3 class="entry-title p-name">W.I.P.: Humdingers</h3>
             <div class="entry-image-container">
                 <img class="entry-image u-photo"
                         src="https://www.botzilla.com/pix2023/humd-thumb.jpg" alt="">
@@ -112,7 +112,7 @@ mastless: true
     </div>
    <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name">WIP: Chinese Sonoma</h3>
+            <h3 class="entry-title p-name">W.I.P.: Chinese Sonoma</h3>
             <div class="entry-image-container">
                 <img class="entry-image u-photo"
                         src="https://www.botzilla.com/pix2023/reca-thumb.jpg" alt="">
