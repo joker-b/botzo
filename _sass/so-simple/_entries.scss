@@ -22,6 +22,8 @@
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  text-align: center; /* also new */
+  align-items: flex-start; /* new */
 }
 
 .entry-title {
