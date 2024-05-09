@@ -4,8 +4,7 @@ layout: seesee/collection
 permalink: /boxes/
 collection: boxes
 entries_layout: grid
-sort_by: date
-sort_order: reverse
+sort_by: rank
 show_excerpts: false
 mastless: true
 ---

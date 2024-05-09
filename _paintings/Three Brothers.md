@@ -5,7 +5,7 @@ mastless: true
 rank: 220
 image:
   path: "https://www.botzilla.com/pix_ssl/Three Brothers.jpg"
-  thumbnail: "https://www.botzilla.com/pix_ssl/Three Brothers.jpg"
+  thumbnail: "https://www.botzilla.com/pix_ssl/thm/Three Brothers.jpg"
 categories: [Paintings]
 tags: [See See, Paintings]
 ---
