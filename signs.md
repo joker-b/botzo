@@ -3,7 +3,7 @@ permalink: /signs/
 layout: page
 title: "Forgotten Signs: A Zodiac for the Future"
 image:
-  path: https://www.botzilla.com/pix2024/cover-signs.jpg
+  path: https://www.botzilla.com/pix2024/cover-signs2.jpg
 mastless: false
 inline_nav: true
 ---

@@ -14,7 +14,7 @@ _The Caged Bouquet_ is available as an individual book or packaged with an editi
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22a=&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AMerci%21">Click Here to Receive Updates on Book and Print Availability</a>
 
-First Printing, 2024<!-- <br/>ISBN: 9798881455224 -->
+First Printing, 2024<br/>ISBN: 9798875465505
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
 

@@ -3,7 +3,7 @@ permalink: /champions/
 layout: page
 title: "CHAMPIONS"
 image:
-  path: https://www.botzilla.com/pix2024/cover-champions.jpg
+  path: https://www.botzilla.com/pix2024/cover-champions2.jpg
 mastless: false
 inline_nav: true
 ---

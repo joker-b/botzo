@@ -3,7 +3,7 @@ permalink: /merci/
 layout: page
 title: "No Photo Merci."
 image:
-  path: https://www.botzilla.com/pix2024/cover-merci.jpg
+  path: https://www.botzilla.com/pix2024/cover-merci2.jpg
 mastless: false
 inline_nav: true
 ---

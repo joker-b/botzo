@@ -3,14 +3,14 @@ permalink: /market/
 layout: page
 title: "Market Hours"
 image:
-  path: https://www.botzilla.com/blog/archives/pix2015/bjorke_KEVT8259.jpg
+  path: https://www.botzilla.com/pix2024/cover-market.jpg
 mastless: false
 inline_nav: true
 ---
 
 _Made in the Financial District, San Francisco_
 
-_Market Hours_ presents a larger slice of life in the Financial District, a "big brother" project to _Sooner or Later Somebody's Going to Get Hurt._ It collects more photographs and writings made daily over a year of continuous on San Francisco's busiest streets.
+_Market Hours_ presents a larger slice of life in the Financial District, a "big brother" project to [_Sooner or Later Somebody's Going to Get Hurt._]({{ site.url}}/hurt) It collects more photographs and writings made daily over a year of continuous photographing on San Francisco's busiest streets.
 
 In addition, _Market Hours_ is presented in a unique foldable form, to match the ever-changing flow of daily life among the thousands of bank, tech, and retail employees and customers encountered each day in the pre-pandemic FiDi.
 

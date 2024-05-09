@@ -3,7 +3,7 @@ permalink: /book24/
 layout: page
 title: "Art and Photo Books: Art at the Source 2024"
 image:
-  path: https://www.botzilla.com/pix2024/book-testprints.jpg
+  path: https://www.botzilla.com/pix2024/book-testprint2.jpg
 mastless: false
 inline_nav: true
 ---
@@ -19,12 +19,13 @@ Books will also be available for order online once the event begins.
 
 ### Book Titles for AATS 2024
 
+* [_Grafitti Generations_]({{ site.url}}/generations)
+* [_Forgotten Signs: A Zodiac for the Future_]({{ site.url}}/signs)
+* [_Sooner or Later Somebody's Going to Get Hurt_]({{ site.url}}/hurt)
+* [_The Caged Bouquet and the Most Famous Photograph in the World_]({{ site.url}}/cage)
 * [_No Photo Merci_]({{ site.url}}/merci)
 * [_CHAMPIONS_]({{ site.url}}/champions)
 * [_Dancing with No One_]({{ site.url}}/dancing)
-* [_Forgotten Signs: A Zodiac for the Future_]({{ site.url}}/signs)
-* [_Sooner or Later Someone's Going to Get Hurt_]({{ site.url}}/hurt)
-* [_The Caged Bouquet and the Most Famous Photograph in the World_]({{ site.url}}/cage)
 * [_Cryptotheology (1)_]({{ site.url}}/theology1)
 * [_Market Hours_]({{ site.url}}/market)
 
