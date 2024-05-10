@@ -3,7 +3,11 @@ permalink: /market/
 layout: page
 title: "Market Hours"
 image:
-  path: https://www.botzilla.com/pix2024/cover-market.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-market.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_market.jpg
+rank: 110
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---

@@ -3,12 +3,18 @@ permalink: /cage/
 layout: page
 title: "The Caged Bouquet and the Most Famous Photograph in the World"
 image:
-  path: https://www.botzilla.com/pix2024/cover-cage.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-cage.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_cage.jpg
+rank: 40
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---
 
 The photos in _The Caged Bouquet and the Most Famous Photograph in the World_ were made in Cuba during the brief gap between the death of Fidel Castro at the end of 2016 and the re-imposition of restrictions by the new US administration in 2017. What might be swept away by American influence, and what might the future of Cuba's young people become?
+
+<!-- more -->
 
 _The Caged Bouquet_ is available as an individual book or packaged with an editioned print from the project.
 

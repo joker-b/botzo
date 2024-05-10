@@ -3,7 +3,11 @@ permalink: /merci/
 layout: page
 title: "No Photo Merci."
 image:
-  path: https://www.botzilla.com/pix2024/cover-merci2.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-merci2.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_merci.jpg
+rank: 50
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---

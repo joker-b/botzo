@@ -71,6 +71,10 @@ collections:
   liquiditysf:
     output: true
     permalink: /:collection/:path/
+  books:
+    output: true
+    sort_by: rank
+    permalink: /:collection/:path/
   paintings:
     output: true
     sort_by: rank

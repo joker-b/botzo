@@ -3,7 +3,11 @@ permalink: /generations/
 layout: page
 title: "Grafitti Generations"
 image:
-  path: https://www.botzilla.com/pix2024/cover-grafgen.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-grafgen.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_grafgen.jpg
+rank: 10
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---

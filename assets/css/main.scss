@@ -101,7 +101,9 @@ sitemap: false
     -ms-flex-order: 1;
     order: 1;
     margin-bottom: 2px;
-  }
+    text-align: center; /* new */
+    width: 100%; /* new */
+}
 
   .entry-excerpt,
   .entry-content {
