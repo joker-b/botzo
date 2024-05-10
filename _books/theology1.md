@@ -28,4 +28,3 @@ First Printing, 2024
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
 
-_See You on June First._
