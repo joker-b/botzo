@@ -180,5 +180,11 @@ sitemap: false
   to {opacity: 1}
 }
 
+.entry-title {
+  text-align: center; /* new */
+  width: 100%; /* new */
+}
+
+
 /* will this win if at the end? */
 @import "seesee.css";
