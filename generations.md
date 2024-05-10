@@ -8,11 +8,11 @@ mastless: false
 inline_nav: true
 ---
 
-The 1973 movie American Graffiti is set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and in events throughout each year that regularly include NorCal Car Culture.
+The 1973 movie American Graffiti was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and in events throughout each year that always include NorCal Car Culture.
 
-Car Culture is a bigger-than-life partly-imaginary world with space for creativity, like the Old West of cowboy movies – but in the world of automotive nostalgia everyone is a Good Guy. All ages can and do join in: Dads, daughters, neighbors who in everyday life might never connect.
+NorCal Car Culture is a bigger-than-life, partly-imaginary world with space for creative interpretation, like the Old West of cowboy movies – but in the world of Car Culture nostalgia, everyone is a Good Guy. All ages can and do join in: Dads, daughters, neighbors who in everyday life might never otherwise connect.
 
-Truly great show cars are never preserved in factory-fresh condition. A true show car, like a perfectly-tattooed arm, rises above its original manufacture to be a work of art.
+Truly great show cars are never preserved in factory-fresh condition. Like a perfectly-tattooed arm, a true show car rises above its original manufacture to be a work of art.
 
 These photos share some of what I’ve seen over the past few years among local generations whose creative lives aim higher than the ready-made.
 

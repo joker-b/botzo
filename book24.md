@@ -15,10 +15,35 @@ The new, short-run editioned books listed here will first be available during [_
 * **Opening Reception:** 11 May<br/>_Sebastopol Center for the Arts Main Gallery_
 * **Studio Weekends:** 1-2nd & 8-9th of June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_
 
-Books will also be available for order online once the event begins.
+# New Book Titles for Art at the Source 2024:
 
-### Book Titles for AATS 2024
+<table>
+<tr>
+<td style="text-align:center"><a href="{{ site.url}}/generations"><img src="https://botzilla.com/pix2024/covers/front_cover_grafgen.jpg"><br/><i>Grafitti Generations</i></a></td>
+<td style="text-align:center"><a href="{{ site.url}}/signs"><img src="https://botzilla.com/pix2024/covers/front_cover_signs_sc.jpg"><br/><i>Forgotten Signs: A Zodiac for the Future</i></a></td>
+</tr><tr>
+<td style="text-align:center"><a href="{{ site.url}}/hurt"><img src="https://botzilla.com/pix2024/covers/front_cover_hurt.jpg"><br/><i>Sooner or Later Somebody's Going to Get Hurt</i></a></td>
+<td style="text-align:center"><a href="{{ site.url}}/cage"><img src="https://botzilla.com/pix2024/covers/front_cover_cage.jpg"><br/><i>The Caged Bouquet and the Most Famous Photograph in the World</i></a></td>
+</tr><tr>
+<td style="text-align:center"><a href="{{ site.url}}/merci"><img src="https://botzilla.com/pix2024/covers/front_cover_merci.jpg"><br/><i>No Photo Merci</i></a></td>
+<td style="text-align:center"><a href="{{ site.url}}/champions"><img src="https://botzilla.com/pix2024/covers/front_cover_champions.jpg"><br/><i>CHAMPIONS</i></a></td>
+</tr><tr>
+<td style="text-align:center"><a href="{{ site.url}}/dancing"><img src="https://botzilla.com/pix2024/covers/front_cover_dancing_Gallery.jpg"><br/><i>Dancing with No One</i></a></td>
+<td>
+<p><b>Still in Production:</b></p>
+<ul>
+<li><a href="{{ site.url}}/theology1"><i>Cryptotheology (1)</i></a></li>
+<li><a href="{{ site.url}}/market"><i>Market Hours</i></a></li>
+</ul>
+</td>
+</tr>
+</table>
 
+Along with some additional surprise titles and instagrammable events created just for Art at the Source.
+
+Books will be available on-site during studio hours and also available for order online once the event begins.
+
+<!--
 * [_Grafitti Generations_]({{ site.url}}/generations)
 * [_Forgotten Signs: A Zodiac for the Future_]({{ site.url}}/signs)
 * [_Sooner or Later Somebody's Going to Get Hurt_]({{ site.url}}/hurt)
@@ -28,8 +53,7 @@ Books will also be available for order online once the event begins.
 * [_Dancing with No One_]({{ site.url}}/dancing)
 * [_Cryptotheology (1)_]({{ site.url}}/theology1)
 * [_Market Hours_]({{ site.url}}/market)
-
-Along with some additional surprise titles and instagrammable events created just for Art at the Source.
+-->
 
 Using the link below you can subscribe to (rare) updates, or to (pre-)order online. Pre-ordered books will be shipped around the beginning of AatS, or you can pick them up during the show.
 

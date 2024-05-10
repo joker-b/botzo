@@ -8,7 +8,7 @@ mastless: false
 inline_nav: true
 ---
 
-_No Photo Merci_ collects photography from a one-month photographic excursion across France during the days just prior to the global pandemic. By using a very constrained set of compositional rules, it probes into components of essentially French visual culture in the early 21st century.
+_No Photo Merci_ collects photography from a one-month photographic excursion across France during the days just prior to the global pandemic. By using a very constrained set of compositional rules, it celbrates essentially French visual culture in the early 21st century.
 
 _No Photo Merci_ is available as an individual book or packaged with an editioned print from the project.
 
