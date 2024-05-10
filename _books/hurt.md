@@ -3,7 +3,11 @@ permalink: /hurt/
 layout: page
 title: "Sooner or Later Somebody's Going to Get Hurt"
 image:
-  path: https://www.botzilla.com/pix2024/cover-hurt2.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-hurt2.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_hurt.jpg
+rank: 30
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---

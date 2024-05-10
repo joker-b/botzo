@@ -3,7 +3,11 @@ permalink: /champions/
 layout: page
 title: "CHAMPIONS"
 image:
-  path: https://www.botzilla.com/pix2024/cover-champions2.jpg
+  path: https://www.botzilla.com/pix2024/covers/cover-champions2.jpg
+  thumbnail: https://botzilla.com/pix2024/covers/front_cover_champions.jpg
+rank: 60
+categories: [Books]
+tags: [Books]
 mastless: false
 inline_nav: true
 ---
