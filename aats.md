@@ -10,7 +10,7 @@ inline_nav: true
 
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
-<span style="font-size:20px">[**New artworks and books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the event begins. There are sure to be some surprise works and instagrammable situations at the studio.</span>
+<span style="font-size:20px">[**My Newest Artworks and Books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the event begins. There are sure to be some surprise works and instagrammable situations only availble at the studio.</span>
 
 ## Studio 16B, 583 Harrison Street, Sebastopol, CA 95472
 
