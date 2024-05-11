@@ -18,7 +18,7 @@ The photos in _The Caged Bouquet and the Most Famous Photograph in the World_ we
 
 _The Caged Bouquet_ is available as an individual book or packaged with an editioned print from the project.
 
-<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AGracias%21">Click Here to Receive Updates on Book and Print Availability</a>
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AGracias%21">Click Here to Receive Updates on _Caged Bouquet..._ Availability</a>
 
 First Printing, 2024<br/>ISBN: 9798875465505
 
