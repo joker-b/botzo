@@ -14,11 +14,11 @@ inline_nav: true
 
 **Cryptotheology** (Alleged Noun):<br/>_Philosophical forms used in order to convey a "secret message" which cannot find an open articulation._
 
-_The tao that can be named is not the tao._
+_CT1_ is part of an ongoing exploration into the nature of how new technology can provide previously-unthinkable ways to look at the oldest of questions.
 
-_CT1_ is part of an ongoing exploration into the nature of how new technology can provide new ways to look at the oldest of questions.
+_"The tao that can be named is not the tao."_
 
-Available as an individual book or packaged with editioned prints from the _Cryptotheology_ project.
+Available as an individual book or packaged with editioned prints.
 
 _This book may not be available from the printer before Art at the Source 2024 -- use the link below to request future updates._
 
