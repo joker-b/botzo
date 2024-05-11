@@ -16,7 +16,7 @@ _Dancing with No One_ merges years of synthetic image research and media product
 
 Available in two forms: as an individual short-run hardcover book, or as a gallery edition packaged with editioned prints from the _Dancing with No One_ project.
 
-<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20the%20Book%20%22Dancing%20with%20No%20One%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Dancing%20with%20No%20One.%22">Click Here to Receive Updates on Book and Print Availability</a>
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20the%20Book%20%22Dancing%20with%20No%20One%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Dancing%20with%20No%20One.%22">Click Here to Receive Updates on _Dancing with No One_ Availability</a>
 
 Hardcover Standalone Edition
 
