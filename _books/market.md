@@ -18,7 +18,7 @@ _Market Hours_ presents a larger slice of life in the Financial District, a "big
 
 In addition, _Market Hours_ is presented in a unique foldable form, to match the ever-changing flow of daily life among the thousands of bank, tech, and retail employees and customers encountered each day in the pre-pandemic FiDi.
 
-_This book may not be available from the printer before Art at the Source 2024 -- use the link below to request future updates._
+_Prints will be available but the final book may only be in preview form for Art at the Source 2024 -- use the button below to request future updates._
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20the%20Book%20%22Market%20Hours%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20for%20your%20book%20%22Market%20Hours.%22">Click Here to Receive Updates on Book and Print Availability</a>
 
