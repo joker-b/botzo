@@ -10,7 +10,7 @@ inline_nav: true
 
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
-<span style="font-size:20px">[**New artworks and books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the event begins. There are sure to be some surprise works and instagrammable situations at the studio.</span>
+<span style="font-size:20px">[**My Newest Artworks and Books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the event begins. There are sure to be some surprise works and instagrammable situations only availble at the studio.</span>
 
 ## Studio 16B, 583 Harrison Street, Sebastopol, CA 95472
 
@@ -37,6 +37,7 @@ While I have worked as a creator in many media for years, AatS's open-studio ven
 * [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
 * [9 April: _Sailing: Eight Weeks to Go, or Maybe Two_]({% post_url 2024-04-09-Sailing %})
 * [25 April: _In the Wings: Five Weeks to Go, or Today?_]({% post_url 2024-04-25-Wings %})
+* [11 May: _Orders and Deliveries: Three Weeks to Go in the Fuzzy Front End_]({% post_url 2024-05-11-Deliver %})
 
 Looking forward to seeing you during Art at the Source!
 
