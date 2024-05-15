@@ -1,7 +1,7 @@
 ---
 permalink: /generations/
 layout: page
-title: "Grafitti Generations"
+title: "Graffiti Generations"
 image:
   path: https://www.botzilla.com/pix2024/covers/cover-grafgen.jpg
   thumbnail: https://botzilla.com/pix2024/covers/front_cover_grafgen.jpg
@@ -20,7 +20,7 @@ Truly great show cars are never preserved in factory-fresh condition. Like a per
 
 These photos share some of what I’ve seen over the past few years among local generations whose creative lives aim higher than the ready-made.
 
-<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Grafitti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Grafitti Generations_ Availability</a>
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Graffiti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Graffiti Generations_ Availability</a>
 
 First Printing, 2024<!-- <br/>ISBN: 9798881455224 -->
 
