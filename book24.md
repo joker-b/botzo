@@ -12,14 +12,15 @@ mastless: false
 inline_nav: true
 ---
 
-I love books and expect that if you're reading this page that you do too. As an artist, I find books to be the best way yet invented to explore and share complex and beautiful visual ideas: a whole gallery in your hand.
+I love books and expect that if you're reading this page, you love books too. As an artist, I find books to be the best way yet invented to explore and share complex visual ideas: a whole gallery in your hand.
 
-The new, short-run editioned books and related art prints listed below will first be available during [_Art at the Source 2024_]({{ site.url}}/aats) at [Sebastopol Center for the Arts](https://www.sebarts.org/) -- and especially during the open studio event, in Sebastopol at "Studio 16B" during the first two weekends of June.
+These new short-run editioned books and related art prints will first be available during [_Art at the Source 2024_]({{ site.url}}/aats) at [Sebastopol Center for the Arts](https://www.sebarts.org/) -- and especially during the open studio event, in Sebastopol at "Studio 16B" during the first two weekends of June.
 
-* <span style="font-size:20px">**Opening Reception:** 11 May<br/>_Sebastopol Center for the Arts Main Gallery_</span>
-* <span style="font-size:20px">**Studio Weekends:** 1-2nd & 8-9th of June<br/>[_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_](https://maps.app.goo.gl/fvQh5nn2MRaHsZsz8)</span>
+* <span style="font-size:20px">**Studio Weekends in June:** 1-2 and 8-9 June<br/>[_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_](https://maps.app.goo.gl/fvQh5nn2MRaHsZsz8)</span>
+* <span style="font-size:20px">**Opening Reception:** 11 May<br/>_Sebastopol Center for the Arts Main Gallery_</span><br/>
+<b>Exhibitions remain in the SebArts Gallery through the 9<sup>th</sup>.</b>
 
-During the event there will be some additional surprise titles and instagrammable situations created just for [Art at the Source 2024.]({{ site.url}}/aats)
+During the event there will be some additional surprise titles and instagrammable situations at the studio created just for [Art at the Source 2024.]({{ site.url}}/aats)
 
 <center>
 <a class="btn btn--inverse btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Book and Print Availability or to Order Online</a>

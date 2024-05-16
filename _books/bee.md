@@ -5,7 +5,7 @@ title: "Joker B"
 image:
   path: https://www.botzilla.com/pix2024/covers/JBee-banner.jpg
   thumbnail: https://botzilla.com/pix2024/covers/JBee-thumb.jpg
-rank: 160
+rank: 76
 categories: [Books]
 tags: [Bee, Cards, Books]
 mastless: false

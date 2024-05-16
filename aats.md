@@ -14,12 +14,13 @@ inline_nav: true
 
 ## Studio 16B, 583 Harrison Street, Sebastopol, CA 95472
 
-* <span style="font-size:20px">**Opening Reception:** 11 May<br/>[_Sebastopol Center for the Arts Main Gallery_](https://www.google.com/maps/place/282+S+High+St,+Sebastopol,+CA+95472/@38.400196,-122.8253864,17z/data=!3m1!4b1!4m6!3m5!1s0x808430a6b493fbe5:0x6dd995d6a36c2ffe!8m2!3d38.400196!4d-122.8253864!16s%2Fg%2F11c22svkmt?entry=ttu)</span>
-* <span style="font-size:20px">**Preview:** _Already on display_ at [Gallery One in Petaluma.](https://petaluma-galleryone.com/)</span>
-* <span style="font-size:20px">**Studio Weekends:** 1-2nd & 8-9th of June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_</span>
+* <span style="font-size:20px">**Studio Weekends in June:** 1-2 & 8-9 June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_</span>
+* <span style="font-size:20px"><b>Gallery Exhibits until 9 June:</b></span>
+  * <span style="font-size:20px">[<b>Sebastopol Center for the Arts Main Gallery</b>](https://www.google.com/maps/place/282+S+High+St,+Sebastopol,+CA+95472/@38.400196,-122.8253864,17z/data=!3m1!4b1!4m6!3m5!1s0x808430a6b493fbe5:0x6dd995d6a36c2ffe!8m2!3d38.400196!4d-122.8253864!16s%2Fg%2F11c22svkmt?entry=ttu) -- <i>Reception: 11 May</i></span>
+  * <span style="font-size:20px">[<b>Gallery One in Petaluma.</b>](https://petaluma-galleryone.com/) -- <i>Reception: 4 May</i></span>
 
 
-_Special Thanks to Jeweler [Barbara Harris](https://www.artatthesource.org/barbara-harris) for providing studio gallery space! A bit like a photographer, Barbara seeks out rowdy and unusual materials to create unexpected one-of-a-kind pieces._
+_Special Thanks to Jeweler [Barbara Harris, @BarbaraHarris_Designs](https://instagram.com/BarbaraHarris_Designs) for providing [studio gallery space!](https://www.artatthesource.org/barbara-harris) A bit like a photographer, Barbara seeks out rowdy and unusual materials to create unexpected one-of-a-kind pieces._
 
 <center>
 <a class="btn btn--inverse btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Print and Book Availability</a>
