@@ -1,8 +1,31 @@
 {% assign slugless = page.slugless | default: false %}
 {% assign mastless = page.mastless | default: false %}
-{% unless mastless %}
+{% if mastless %}
+<header> <!-- no masthead -->
+{% if page.image %}
+  {% if page.image.social %}
+    <img src="{{ page.image.social }}" style="display: none;" /> <!-- social -->
+  {% elsif page.image.thumbnail %}
+    <img src="{{ page.image.thumbnail }}" style="display: none;" /> <!-- thumb -->
+  {% elsif page.image.path %}
+    <img src="{{ page.image.path }}" style="display: none;" /> <!-- base image -->
+  {% endif %}
+{% endif %}
+</header>
+{% else %}
 <header class="masthead">
   <div class="wrap">
+    {% if page.image %}
+      {% if page.image.social %}
+        <img src="{{ page.image.social }}" style="display: none;" /> <!-- social -->
+      {% elsif page.image.thumbnail %}
+        <img src="{{ page.image.thumbnail }}" style="display: none;" /> <!-- thumb -->
+      {% elsif page.image.path %}
+        <img src="{{ page.image.path }}" style="display: none;" /> <!-- base image -->
+      {% else %}
+            <!-- no social image -->
+      {% endif %}
+    {% endif %}
     {% if site.logo %}
       <a href="{{ '/photorant.html' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
         <img src="{{ site.logo | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
@@ -14,4 +37,4 @@
     {% endunless %}
   </div>
 </header><!-- /.masthead -->
-{% endunless %}
+{% endif %}
