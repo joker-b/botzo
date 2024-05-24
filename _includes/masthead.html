@@ -1,7 +1,7 @@
 {% assign slugless = page.slugless | default: false %}
 {% assign mastless = page.mastless | default: false %}
 {% if mastless %}
-<header> <!-- no masthead -->
+<!-- no masthead -->
 {% if page.image %}
   {% if page.image.social %}
     <img src="{{ page.image.social }}" style="display: none;" /> <!-- social -->
@@ -10,8 +10,9 @@
   {% elsif page.image.path %}
     <img src="{{ page.image.path }}" style="display: none;" /> <!-- base image -->
   {% endif %}
+{% else %}
+<!-- no social thumbnail -->
 {% endif %}
-</header>
 {% else %}
 <header class="masthead">
   <div class="wrap">
