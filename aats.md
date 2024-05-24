@@ -4,9 +4,18 @@ layout: page
 title: "Art at the Source 2024"
 image:
   path: https://www.botzilla.com/pix2024/aats-header-1.jpeg
+  thumbnail: https://www.botzilla.com/pix2024/aats-header-1.jpeg
+  social: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
 mastless: false
 inline_nav: true
 ---
+
+<figure class="align-center">
+<a href="{{ site.url}}/generations"><img src="https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg"></a>
+<figcaption>A slice of my images and books that will be 
+<a href="{{ site.url}}/book24">available at AatS 2024</a>
+</figcaption>
+</figure>
 
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
