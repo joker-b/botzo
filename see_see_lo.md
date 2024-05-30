@@ -3,7 +3,8 @@ layout: seesee/post-unlinked
 date: 2022-05-16
 title: "See See Lo"
 image:
-  path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  old_path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  path: https://www.botzilla.com/pix2024/ss-card-2024.jpeg
 mastless: true
 inline_nav: false
 ---
@@ -19,6 +20,8 @@ As a creative, I like to explore all kinds of creating techniques and styles. Fo
 
 **Studio**<br/>The Art Hatchery<br/>401 7th St. Ste. 15<br/>Petaluma CA 94952
 {: .ssAddress }
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d100295.6301766402!2d-122.636712!3d38.227574!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085b6afce3ca169%3A0xc87a42786446934!2s401%207th%20St%20%2315%2C%20Petaluma%2C%20CA%2094952!5e0!3m2!1sen!2sus!4v1717094309947!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 
 <!-- from See See:
 Artist’s Statement 
@@ -45,10 +48,13 @@ Explore, and share her joy of creation!
 {: .ssText }
 -->
 
+<!--
 <figure class="align-center">
 <a href="https://www.artatthesource.org/see-see-lo"><img src="https://www.botzilla.com/pix2024/ss-card-2024.jpeg"></a>
 <figcaption>See my work during <a href="https://www.artatthesource.org/see-see-lo">Art at the Source 2024,</a> Studio #133!</figcaption>
 </figure>
+
+-->
 
 <center>
 <a class="btn btn--inverse" href="mailto:kevin+see@vumondo.com?subject=See%20See%20Lo%20Updates&body=Please%20inform%20me%20of%20occasional%20art%20updates%20from%20See%20See%20Lo.">Click Here to Receive Updates on Events and Artwork Availability</a>
