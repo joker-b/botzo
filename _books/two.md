@@ -12,9 +12,18 @@ mastless: false
 inline_nav: true
 ---
 
-_The Two Alogrithms of Life_ is created specifically for Art at the Source 2024 as a 24x32" aluminum print. Edition one of one.
+In the Sebastopol Center for the Arts Gallery hangs a work made this year specifically for [Art at the Source 2024:]({{ site.url}}/aats) _The Two Algorithms of Life._
 
-During the AatS Open Studio, _Algorithms_-themed additional items will be available.
+It is made on a sheet of machined aluminum with a texture not unlike that of your favorite digital companions, who watch over and guide you each day.
+
+This original work, in an edition of _ONE,_ offers you the rare chance to make the right choice.
+
+<figure class="align-center">
+<img src="https://botzilla.com/pix2024/Two-Algo-Flat.jpg">
+<figcaption><i>The Two Algorithms of Life</i></figcaption>
+</figure>
+
+During the AatS Open Studio, additional _Algorithms_-themed items will be available at Studio 16B.
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
 
