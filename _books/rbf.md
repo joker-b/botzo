@@ -7,14 +7,14 @@ image:
   thumbnail: https://www.botzilla.com/pix2024/covers/RBF-thumb.jpg
 rank: 70
 categories: [Books]
-tags: [Bee, Cards, Books]
+tags: [Bee, Bear, Cards, Books]
 mastless: false
 inline_nav: true
 ---
 
 _Resting Bear Face_ cards, available during [Art at the Source]({{ site.url}}/aats) as single cards or as a set of six.
 
-**Caption Contest during Art at the Source:** There will be a book of caption ideas for the RBF series, enter yours to get a set of six sent to you if your caption truly captures the spirit!
+**Caption Contest during Art at the Source:** There will be a book of caption ideas for the RBF series, enter yours to get a set of eight -- the six originals, and two new unseen cards -- sent to you if your caption truly captures the spirit! It's the only way to get those latest cards.
 
 (You can enter via the link button below, too)
 
