@@ -5,7 +5,7 @@ title: "CT 1"
 image:
   path: https://www.botzilla.com/pix2024/CT1.jpg
   thumbnail: https://botzilla.com/pix2024/covers/front_cover_CT1.jpg
-rank: 100
+rank: 45
 categories: [Books]
 tags: [Books]
 mastless: false

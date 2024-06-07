@@ -5,7 +5,7 @@ title: "Dancing with No One"
 image:
   path: https://www.botzilla.com/pix2024/covers/cover-dancing.jpg
   thumbnail: https://botzilla.com/pix2024/covers/front_cover_dancing_Gallery.jpg
-rank: 80
+rank: 33
 categories: [Books]
 tags: [Books]
 mastless: false

@@ -5,7 +5,7 @@ title: "Market Hours"
 image:
   path: https://www.botzilla.com/pix2024/covers/cover-market.jpg
   thumbnail: https://botzilla.com/pix2024/covers/front_cover_market.jpg
-rank: 110
+rank: 55
 categories: [Books]
 tags: [Books]
 mastless: false
