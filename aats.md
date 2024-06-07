@@ -20,13 +20,13 @@ inline_nav: true
 
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
-<span style="font-size:20px">[**My Newest Artworks and Books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the event begins. There are sure to be some surprise works and instagrammable situations only availble at the studio.</span>
+<span style="font-size:20px">[**New Artworks and Books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the live event completes. There are sure to be some surprise works and instagrammable situations only availble at the studio.</span>
 
 ## Studio 16B, 583 Harrison Street, Sebastopol, CA 95472
 
 * <span style="font-size:20px">**Studio Weekends in June:** 1-2 & 8-9 June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_</span>
 * <span style="font-size:20px"><b>Gallery Exhibits until 9 June:</b></span>
-  * <span style="font-size:20px">[<b>Sebastopol Center for the Arts Main Gallery</b>](https://www.google.com/maps/place/282+S+High+St,+Sebastopol,+CA+95472/@38.400196,-122.8253864,17z/data=!3m1!4b1!4m6!3m5!1s0x808430a6b493fbe5:0x6dd995d6a36c2ffe!8m2!3d38.400196!4d-122.8253864!16s%2Fg%2F11c22svkmt?entry=ttu) -- <i>Reception: 11 May</i></span>
+  * <span style="font-size:20px">[<b>Sebastopol Center for the Arts Main Gallery</b>](https://www.google.com/maps/place/282+S+High+St,+Sebastopol,+CA+95472/@38.400196,-122.8253864,17z/data=!3m1!4b1!4m6!3m5!1s0x808430a6b493fbe5:0x6dd995d6a36c2ffe!8m2!3d38.400196!4d-122.8253864!16s%2Fg%2F11c22svkmt?entry=ttu) -- <i>Reception: 11 May</i></span><br/>Special Artwork available only at the gallery, through June 9th: <a href="{{ site.url }}/two"><i style="font-size:20px"><b>The Two Algorithms of Life</b></i></a>
   * <span style="font-size:20px">[<b>Gallery One in Petaluma.</b>](https://petaluma-galleryone.com/) -- <i>Reception: 4 May</i></span>
 
 
