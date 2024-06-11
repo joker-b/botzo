@@ -18,11 +18,27 @@ inline_nav: true
 </figcaption>
 </figure> -->
 
+<h1>FINAL WEEKEND!</h1>
+
+[_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) are available both at [Sebastopol Center for the Arts Gallery](https://www.sebarts.org/), and at the nearby <b>"Studio 16B"</b> during the **first two weekends of June.**
+
+<!--
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
-<span style="font-size:20px">[**New Artworks and Books**]({{ site.url}}/book24) will be available for purchase in-person, or via the web once the live event completes. There are sure to be some surprise works and instagrammable situations only availble at the studio.</span>
+<span style="font-size:20px">[**New Artworks and Books**]({{ site.url}}/book24) are available for purchase in-person, or via the web once the live event completes. There are sure to be some surprise works and instagrammable situations availble _only_ at the studio.</span>
 
-## Studio 16B, 583 Harrison Street, Sebastopol, CA 95472
+-->
+<center>
+<h2>Studio 16B, 583 Harrison Street, Sebastopol, CA 95472</h2>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100076.5295836525!2d-122.86417852012046!3d38.386194852380505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80843a0b9dd7e5ab%3A0x93ef178856d2d049!2s583%20Harrison%20St%2C%20Sebastopol%2C%20CA%2095472!5e0!3m2!1sen!2sus!4v1715361429608!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<p>&nbsp;</p>
+
+<a class="btn btn--info btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Art%20Studio%20Events&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints">Click Here to Receive Updates on More Upcoming Events</a>
+
+</center>
+<p>&nbsp;</p>
 
 * <span style="font-size:20px">**Studio Weekends in June:** 1-2 & 8-9 June<br/>_Studio 16B, 583 Harrison Street, Sebastopol, CA 95472_</span>
 * <span style="font-size:20px"><b>Gallery Exhibits until 9 June:</b></span>
@@ -31,12 +47,6 @@ inline_nav: true
 
 
 _Special Thanks to Jeweler [Barbara Harris, @BarbaraHarris_Designs](https://instagram.com/BarbaraHarris_Designs) for providing [studio gallery space!](https://www.artatthesource.org/barbara-harris) A bit like a photographer, Barbara seeks out rowdy and unusual materials to create unexpected one-of-a-kind pieces._
-
-<center>
-<a class="btn btn--inverse btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Print and Book Availability</a>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100076.5295836525!2d-122.86417852012046!3d38.386194852380505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80843a0b9dd7e5ab%3A0x93ef178856d2d049!2s583%20Harrison%20St%2C%20Sebastopol%2C%20CA%2095472!5e0!3m2!1sen!2sus!4v1715361429608!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-</center>
 
 <hr/>
 

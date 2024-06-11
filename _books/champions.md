@@ -5,7 +5,7 @@ title: "CHAMPIONS"
 image:
   path: https://www.botzilla.com/pix2024/covers/cover-champions2.jpg
   thumbnail: https://botzilla.com/pix2024/covers/front_cover_champions.jpg
-rank: 60
+rank: 38
 categories: [Books]
 tags: [Books]
 mastless: false
