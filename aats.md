@@ -18,25 +18,28 @@ inline_nav: true
 </figcaption>
 </figure> -->
 
-<h1>FINAL WEEKEND!</h1>
+<h1>Thanks for Visiting during <i>Art at the Source 2024</i></h1>
 
-[_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) are available both at [Sebastopol Center for the Arts Gallery](https://www.sebarts.org/), and at the nearby <b>"Studio 16B"</b> during the **first two weekends of June.**
+[_Art at the Source 2024_](https://www.artatthesource.org/) has been Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) may still be available both at [Sebastopol Center for the Arts.](https://www.sebarts.org/)
+
+For those who visited during the Open Studio Sessions at Studio 16B: thanks for your support, great conversations and ideas! Hope to see you at the next Sonoma County event and always here online.
 
 <!--
 [_Art at the Source 2024_](https://www.artatthesource.org/) is Sonoma County's largest-ever multi-venue art exhibition and open-studios event. Join the gallery reception at [Sebastopol Center for the Arts on the 11th of May](https://www.sebarts.org/), and please visit my  studio/gallery display in Sebastopol <b>"Studio 16B"</b> during the **first two weekends of June.**
 
 <span style="font-size:20px">[**New Artworks and Books**]({{ site.url}}/book24) are available for purchase in-person, or via the web once the live event completes. There are sure to be some surprise works and instagrammable situations availble _only_ at the studio.</span>
 
--->
 <center>
 <h2>Studio 16B, 583 Harrison Street, Sebastopol, CA 95472</h2>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100076.5295836525!2d-122.86417852012046!3d38.386194852380505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80843a0b9dd7e5ab%3A0x93ef178856d2d049!2s583%20Harrison%20St%2C%20Sebastopol%2C%20CA%2095472!5e0!3m2!1sen!2sus!4v1715361429608!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p>&nbsp;</p>
+-->
 
-<a class="btn btn--info btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Art%20Studio%20Events&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints">Click Here to Receive Updates on More Upcoming Events</a>
+<a class="btn btn--info btn--large" href="mailto:kevin+aats@vumondo.com?subject=Updates%20on%20Art%20Studio%20Events&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints">Click Here to Receive Updates on Upcoming Events</a>
 
+<!-- 
 </center>
 <p>&nbsp;</p>
 
@@ -44,7 +47,7 @@ inline_nav: true
 * <span style="font-size:20px"><b>Gallery Exhibits until 9 June:</b></span>
   * <span style="font-size:20px">[<b>Sebastopol Center for the Arts Main Gallery</b>](https://www.google.com/maps/place/282+S+High+St,+Sebastopol,+CA+95472/@38.400196,-122.8253864,17z/data=!3m1!4b1!4m6!3m5!1s0x808430a6b493fbe5:0x6dd995d6a36c2ffe!8m2!3d38.400196!4d-122.8253864!16s%2Fg%2F11c22svkmt?entry=ttu) -- <i>Reception: 11 May</i></span><br/>Special Artwork available only at the gallery, through June 9th: <a href="{{ site.url }}/two"><i style="font-size:20px"><b>The Two Algorithms of Life</b></i></a>
   * <span style="font-size:20px">[<b>Gallery One in Petaluma.</b>](https://petaluma-galleryone.com/) -- <i>Reception: 4 May</i></span>
-
+-->
 
 _Special Thanks to Jeweler [Barbara Harris, @BarbaraHarris_Designs](https://instagram.com/BarbaraHarris_Designs) for providing [studio gallery space!](https://www.artatthesource.org/barbara-harris) A bit like a photographer, Barbara seeks out rowdy and unusual materials to create unexpected one-of-a-kind pieces._
 
@@ -52,7 +55,7 @@ _Special Thanks to Jeweler [Barbara Harris, @BarbaraHarris_Designs](https://inst
 
 ## Related Blog Posts
 
-While I have worked as a creator in many media for years, AatS's open-studio venue is new for me. The preparation process is being documented in a series of posts:
+While I have long worked as a creator in many media, AatS's open-studio venue is new for me. The process continues to be documented in a series of posts:
 
 * [5 March: _Sonoma Sources_]({% post_url 2024-03-05-Sources %})
 * [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
@@ -60,8 +63,7 @@ While I have worked as a creator in many media for years, AatS's open-studio ven
 * [25 April: _In the Wings: Five Weeks to Go, or Today?_]({% post_url 2024-04-25-Wings %})
 * [11 May: _Orders and Deliveries: Three Weeks to Go in the Fuzzy Front End_]({% post_url 2024-05-11-Deliver %})
 * [23 May: _Elements: After the Opening Reception, but Before the Open Studio_]({% post_url 2024-05-23-Opened %})
-
-Looking forward to seeing you during Art at the Source!
+* _Upcoming: The Wrap-Up!_
 
 <!--
 <figure class="align-center">

@@ -13,12 +13,9 @@ mastless: false
 inline_nav: true
 ---
 
-As an artist, I find books to still be the best way yet invented to explore and share complex visual ideas: a whole gallery in your hand.
+As an artist, I find books to still be the best way yet invented to explore and share complete visual ideas: a whole gallery in your hand.
 
-
-These new short-run, editioned books *and prints* are currently available in-person during [_Art at the Source 2024_]({{ site.url}}/aats) presented by [Sebastopol Center for the Arts.](https://www.sebarts.org/) The SebArts Gallery show is open and the open studio event is also in Sebastopol at "Studio 16B" during the first two weekends of June, close to the gallery and the Sebastopol town center.
-
-During the studio event there will be additional surprise projects and instagrammable situations created just for [Art at the Source 2024.]({{ site.url}}/aats)
+These new short-run, editioned books *and prints* are currently available in-person during art events across Sonoma County like the just-completed [_Art at the Source 2024_]({{ site.url}}/aats), and selected titles will soon be available at book and gift stores.
 
 <center>
 <a class="btn btn--inverse btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20Books%20and%20Prints&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20your%20books%20and%20prints%20related%20to%20AATS%202024">Click Here to Receive Updates on Book and Print Availability or to Order Online</a>
