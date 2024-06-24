@@ -63,6 +63,7 @@ While I have long worked as a creator in many media, AatS's open-studio venue is
 * [25 April: _In the Wings: Five Weeks to Go, or Today?_]({% post_url 2024-04-25-Wings %})
 * [11 May: _Orders and Deliveries: Three Weeks to Go in the Fuzzy Front End_]({% post_url 2024-05-11-Deliver %})
 * [23 May: _Elements: After the Opening Reception, but Before the Open Studio_]({% post_url 2024-05-23-Opened %})
+* [21 June: _Closed_]({% post_url 2024-06-21-Closed %})
 * _Upcoming: The Wrap-Up!_
 
 <!--
