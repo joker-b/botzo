@@ -12,7 +12,7 @@ mastless: false
 inline_nav: true
 ---
 
-_CHAMPIONS_ celebrates the celebration: the joy and chaos of great Halloween victory parade after the SF Giants' legendary third World Series win. A day when everyone in the city, and especially the crowd on Market street, knew that they too were all champions.
+_CHAMPIONS_ celebrates the celebration: the joy and chaos of great Halloween victory parade after the SF Giants' legendary third World Series win. A day when everyone in the city, and especially the crowd on Market street, knew that they too were champions.
 
 _CHAMPIONS_ is available packaged with one of several editioned prints from the project. A gift for fans of the Giants Legacy and any lover of our great city.
 
