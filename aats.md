@@ -20,7 +20,7 @@ inline_nav: true
 
 <h1>Thanks for Visiting during <i>Art at the Source 2024</i></h1>
 
-[_Art at the Source 2024_](https://www.artatthesource.org/) has been Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) may still be available both at [Sebastopol Center for the Arts](https://www.sebarts.org/) or online...
+[_Art at the Source 2024_](https://www.artatthesource.org/) has been Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) may still be available both at [Sebastopol Center for the Arts](https://www.sebarts.org/), select retailers, or online.
 
 For those who visited during the Open Studio Sessions at Studio 16b in Sebastopol: thanks for your support, great conversations and ideas! Hope to see you at the next Sonoma County event (in Petaluma!) and always here online.
 
