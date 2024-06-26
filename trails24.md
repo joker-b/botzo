@@ -4,9 +4,9 @@ layout: page
 title: "Art Trails 2024"
 image:
   oldpath: https://www.botzilla.com/pix2024/aats-header-1.jpeg
-  thumbnail: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
-  path: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
-  social: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
+  thumbnail: https://www.botzilla.com/pix2024/bjorke_Cuba_KBXP6564_trails.jpg
+  path: https://www.botzilla.com/pix2024/bjorke_Cuba_KBXP6564_trails.jpg
+  social: https://www.botzilla.com/pix2024/bjorke_Cuba_KBXP6564_trails.jpg
 mastless: false
 inline_nav: true
 ---
@@ -18,7 +18,7 @@ inline_nav: true
 </figcaption>
 </figure> -->
 
-[_Art Trails 2024_](https://www.artatthesource.org/) is the latest iterntion of Sonoma County's original multi-venue art exhibition and open-studio event. My artworks and books will be available for viewing and purchase in Petaluma during the **first two weekends of October,** and at the Sebastopol Center for the Arts beginning in late September.
+[_Art Trails 2024_](https://www.artatthesource.org/) is the latest iteration of Sonoma County's original multi-venue art exhibition and open-studio event. My artworks and books will be available for viewing and purchase in Petaluma during the **first two weekends of October,** and at the Sebastopol Center for the Arts beginning in late September.
 
 
 <p>&nbsp;</p>
