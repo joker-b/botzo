@@ -4,9 +4,9 @@ layout: page
 title: "Art at the Source 2024"
 image:
   oldpath: https://www.botzilla.com/pix2024/aats-header-1.jpeg
-  thumbnail: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
-  path: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
-  social: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs.jpg
+  thumbnail: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs-post.jpg
+  path: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs-post.jpg
+  social: https://www.botzilla.com/pix2024/covers/Bjorke-Artist-Statement-thumbs-post.jpg
 mastless: false
 inline_nav: true
 ---
