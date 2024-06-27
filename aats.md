@@ -28,14 +28,14 @@ For those who visited during the Open Studio Sessions at Studio 16b in Sebastopo
 
 While I have long worked as a creator in many media, AatS's open-studio venue was new for me. The process was documented in a series of subjective posts:
 
-1. [5 March: _Sonoma Sources_]({% post_url 2024-03-05-Sources %})
-1. [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
-1. [9 April: _Sailing: Eight Weeks to Go, or Maybe Two_]({% post_url 2024-04-09-Sailing %})
-1. [25 April: _In the Wings: Five Weeks to Go, or Today?_]({% post_url 2024-04-25-Wings %})
-1. [11 May: _Orders and Deliveries: Three Weeks to Go in the Fuzzy Front End_]({% post_url 2024-05-11-Deliver %})
-1. [23 May: _Elements: After the Opening Reception, but Before the Open Studio_]({% post_url 2024-05-23-Opened %})
-1. [21 June: _Closed_]({% post_url 2024-06-21-Closed %})
-1. [24 June: _Onward_]({% post_url 2024-06-24-Onward %})
+* [5 March: _Sonoma Sources_]({% post_url 2024-03-05-Sources %})
+* [22 March: _Sprung: Ten Weeks to Go_]({% post_url 2024-03-22-Sprung %})
+* [9 April: _Sailing: Eight Weeks to Go, or Maybe Two_]({% post_url 2024-04-09-Sailing %})
+* [25 April: _In the Wings: Five Weeks to Go, or Today?_]({% post_url 2024-04-25-Wings %})
+* [11 May: _Orders and Deliveries: Three Weeks to Go in the Fuzzy Front End_]({% post_url 2024-05-11-Deliver %})
+* [23 May: _Elements: After the Opening Reception, but Before the Open Studio_]({% post_url 2024-05-23-Opened %})
+* [21 June: _Closed_]({% post_url 2024-06-21-Closed %})
+* [24 June: _Onward_]({% post_url 2024-06-24-Onward %})
 
 _Special Thanks to Jeweler [Barbara Harris, @BarbaraHarris_Designs](https://instagram.com/BarbaraHarris_Designs) for providing [studio gallery space!](https://www.artatthesource.org/barbara-harris) A bit like a photographer, Barbara seeks out rowdy and unusual materials to create unexpected one-of-a-kind pieces._
 
