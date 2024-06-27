@@ -22,7 +22,7 @@ inline_nav: true
 
 [_Art at the Source 2024_](https://www.artatthesource.org/) has been Sonoma County's largest-ever multi-venue art exhibition and open-studios event. [**New Artworks and Books**]({{ site.url}}/book24) may still be available both from [Sebastopol Center for the Arts](https://www.sebarts.org/), retailers, or online.
 
-For those who visited during the Open Studio Sessions at Studio 16b in Sebastopol: **Thank You** for your support, great conversations and ideas! Hope to see you at the next Sonoma County event (in Petaluma!) and always on the web.
+For those who visited during the Open Studio Sessions at Studio 16b in Sebastopol: **Thank You** for your support, great conversations and ideas! Hope to see you at the next Sonoma County event (October in Petaluma!) and always on the web.
 
 ### My AatS24 Experience
 
