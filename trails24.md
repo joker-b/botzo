@@ -18,7 +18,7 @@ inline_nav: true
 </figcaption>
 </figure> -->
 
-[_Art Trails 2024_](https://www.artatthesource.org/) is the latest iterntion of Sonoma County's original multi-venue art exhibition and open-studio event. My artworks and books will be available for viewing and purchase in Petaluma during the **first two weekends of October,** and at the Sebastopol Center for the Arts beginning in late September.
+[_Art Trails 2024_](https://www.artatthesource.org/) is the latest iterntion of Sonoma County's original multi-venue art exhibition and open-studio event. My artworks and books will be available for viewing and purchase in Petaluma during the **last two weekends of October,** and at the Sebastopol Center for the Arts beginning in late September.
 
 
 <p>&nbsp;</p>
