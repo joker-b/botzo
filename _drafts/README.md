@@ -1,6 +1,8 @@
 # Notes from my calendar
 
-* The Nature of Hierarchies (how nature likes them)
+* The Nature of Hierarchies (how nature likes them) -- this affects rendering, too: affect rendering, but really... are stories "data amplification" of higher-level truths, that need fine-detail narrative to be comprehensible? Is this true for narratives and art in general?
+
+* New ways of seeing mean new ways of feeling - D. Hockney
 
 * Cargo Cult Tasks -- make-work but more.
 

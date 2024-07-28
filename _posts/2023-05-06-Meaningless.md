@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/avedon_marilyn_1957.jpg
   thumbnail: https://www.botzilla.com/pix2023/avedon_marilyn_1957.jpg
 categories: [PhotoRant]
-tags: [Neurography, Essay, _Phase4, _Movies]
+tags: [Neurography, Essay, _Phase4, _Klee, _Painting, _Movies]
 ---
 
 <p class="small text-center"><i>(©1957 <a href="https://www.avedonfoundation.org/">The Richard Avedon Foundation</a>)</i></p>
