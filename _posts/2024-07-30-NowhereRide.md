@@ -37,6 +37,27 @@ Wotancraft's add-on pouches can also be [detached and used as a bag on their own
 <figcaption>Minimal Carry-On</figcaption>
 </figure>
 
+Here's all I needed to carry on-board my flight: basically just the one smallish bag, helmet, [noise-cancelling over-ear headphones](https://www.wired.com/2017/08/review-sennheiser-hd1-wireless-over-ear-headphones/) wrapped around my collar, and a sport jacket. 
+
+For departure, I packed up the bike, rode to the bus station, and started to pack it up -- only to realize that I'd left part of the bicycle kit at home!
+
+Thankfully, I'd been angling for a super-early bus, which left me enough time to unpack the bike, ride to the house, fetch the part, ride back to the bus, repack everything, and have time to meditate in the sun for a few minutes for the the 8AM-ish second airport-specific bus arrived.
+
+At this point, I knew that the bicycle and clothes were all packed and wouldn't need unpacking until they arrived at AMS from SFO. As a last task before strapping it all down, I removed the roller-caster wheels, put them in a dedicated pouch, and slipped them down between the tires insde the bag. Done!
+
+### Skidmarks 
+
+From there, everything proceeded smoothly, until the airplane lost rudder control while traveling around 120 knots during takeoff -- the pilots responded by killing the engines and slamming the brakes. Everyone and every un-strapped thing was tossed about, the halted plane was surrounded by fire engines (thankfully no fire, and no one seriousy hurt), and the flight: cancelled until tomorrow.
+
+Passengers were sent to a neighboring hotel; no luggage, just a happily-lightweight camera bag.
+
+Which also meant no tootbrush, clothes, etc.  couldn't use the hotel laundry to wash what I was wearing, since I'd be left naked in the hallways.
+
+The solution was to walk a mile or so to the nearest grocery store, buy the very smallest/cheapest liquid laundry soap I could find, then return to the hotel room. Ask for an extra bath towel (and a toothbrush!). Wash all of my clothes, one at a time in the sink with just a little soap, rinse them in the shower, then roll them up as tight as possible in the bath towels -- wringing them that way avoids severe creasing or damage to the clothes. Then I hung them up and in the case of the socks, inflated them for a few minutes using the hotel hair dryer set to "cool."
+
+
+
+For public transit, eveything goes into the Vincita
 
 Carry as little a possible on my person at airports.
 
