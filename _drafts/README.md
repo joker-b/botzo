@@ -87,3 +87,37 @@
 
 * MANY MORE STILL IN THE CALENDAR
 
+* Photographers who started as painters - just as AI artists may have started as photographers....
+
+* "pleasantly unobtrusive decor"<br/>"a full impression of _quality"_
+
+* Last years magic is this year's _yawn_
+
+* PROTECT ME FROM WHAT I WANT<br/>Jenny Holzer
+
+* ADSR Art Theory<br/>Via Elliot Earls: art experiences as<br/>Attack Decay Sustain Release
+
+* The deer collision
+
+* the curse of the single shot - flower pix one example
+
+* Thinking about a problem versus Working on a problem
+
+* THE MAIN THING<br/>The main thing is to make sure the main thing is the main thing
+
+* You cannot optimize your way to innovation
+
+* Engligh Light = English Food?<br/>📸 gray English light is like English food - bland enough to welcome anything. You wouldn't put marmite on spanish food, but you can on toast
+
+* THE MEANING OF AI'S EXISTENCE<br/>humans worry about the meaning of their lives but an AI already knows it before it is even built and it's defined by a meaningless (?) human
+
+* "Reality is always an open platform"
+
+* Never write your headline first and try to make the facts fit
+
+* To pose in a photograph is to ERASE the moment. A crime.
+
+* SCOTOPIC RECAP<br/>Two senses shared eyeballs - take a stand!
+
+* A BRIEF HISTORY OF WHO IS EXPECTED TO BE STUPID<br>american predjudices:<br/> once it was swedes<br/> or jews<br/> or blacks<br/> or poles<br/> or asians<br/> now it's a guy with a flag & maga hat<br/> tables have turned!
+
