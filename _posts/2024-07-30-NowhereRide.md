@@ -9,13 +9,13 @@ categories: [PhotoRant]
 tags: [_Phase4, _Bicycle, _HowTo]
 ---
 
-I spent the middle part of August traveling with my Brompton -- ths involved city riding, country riding, air travel, rail travel -- but no automobiles.
+I spent the middle part of August traveling internationally with my Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
 
-This was much easier than I anticipated. I response to some wueries about riding and some of my kit, here's a recap: bicycle, luggage, camera, and reflections on riding on the coast and in two European capitals: Amsterdam and London.
+This was much easier than I anticipated. I response to some queries about riding and some of my kit, here's a recap of the days and the gear: bicycle, luggage, camera, and reflections on riding along the farms, the coast, and in two European capitals: Amsterdam and London.
 
 <!--more-->
 
-## Lesson: Pack for Your Goals
+## Pack for Your Goals
 
 Originally, I planned for a month-long ride along the Welsh coast. With that in mind, I packed with a kit that could be 100% self-contained: I would depart the house by bicycle, with all my luggage, and return the same way.
 
