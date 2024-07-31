@@ -9,7 +9,7 @@ categories: [PhotoRant]
 tags: [_Phase4, _Bicycle, _HowTo]
 ---
 
-I spent the middle part of August traveling internationally with my Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
+I spent the middle part of August traveling internationally with a Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
 
 _<b>This was much easier than I anticipated.</b>_
 
@@ -233,21 +233,21 @@ Their flip-top bottles remain the best! The area touching your lips is always co
 
 ## Camera and iPad
 
-The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based _kbImport_ tool, writing the results to a Samsung SSD connected to the iPad.
+The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based [kbImport]({% post_url 2020-04-09-kbImport %})) downloader tool, writing the results to a Samsung SSD connected to the iPad.
 
-The Inateck USB-C hub is one of very few that give you a fully-functional USB-C on one side. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or the camera batteries from the same hub via a Nitecore charger.
+The Inateck USB-C hub is one of very few that give you a fully-functional powered USB-C port on one side of the hub. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or headphones or a camera battery from the same hub.
 
 I apologize to hotels and their wi-fi systems: after copying all pictures and audio files to the SSD each night, before sleeping I'd also copy them all to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud.
 
-This diligence paid off, after I left my iPad on the train returning to London (cheers to the anonymous person who later turned it in at Euston Station!). I still had all my data.
+This diligence paid off, after I left my iPad on the train when returning to London (cheers to the anonymous person who later turned it in at Euston Station!). All my data was safe.
 
 Initially, my data-backup plan had been to share the files to Google Drive rather than iCloud. This _mostly_ worked, but some files would fail. Google would tell me "some files have failed" but not _which_ files, which was unacceptable. Using iCloud was superior.
 
 I also considered, and even tried, sending backup data directly to my California-based Synology NAS -- moderately reliable but lead-footedly slow. The files need to pass through the slow hotel network and ISP, across the internet, then back to my slow home ISP. Using iCloud included only one slow route.
 
-Once back in California, all iCloud files could be copied to the NAS.
+Once back in California, all iCloud files could be copied to the NAS if needed.
 
-In this case, no need for the cloud backup -- I'd lost track of the iPad for a bit, but not the SSD! Everything was completely ready for use and the internet backup wasn't needed -- _this time._ The cloud backup meant peace of mind.
+In this case, in the end there was no need for the cloud backup -- I'd lost track of the iPad for a bit, but not the SSD! Everything was completely ready for use and the internet backup wasn't needed -- _this time._ The cloud backup meant peace of mind.
 
 As for camera gear: I could have left the 90mm lens and its finder in California. I rarely use them, I had no expected _need_ for them, and in the end only used them because I foolishly felt I _ought_ to -- that is, the "Sunk-Cost Fallacy." Unsurprisingly, almost all of the photos I made while traveling used the everyday 50mm.
 
