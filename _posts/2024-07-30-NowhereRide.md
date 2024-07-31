@@ -178,11 +178,11 @@ During those days in Wales I mixed country walks (and some muddy, trail-free for
 <figcaption>Hills of Aberstwyth</figcaption>
 </figure>
 
-At one point, I was carrying my bike up a long hillside stair -- it was the only way, no simple path. I was asked about it by a passerby coming down the stair -- why?
+At one point, I was carrying my bike up a long hillside stair -- it was the only way, no simple path. I was asked about it by a passerby coming down the stair: _why are you doing this?_
 
-They assured me: "There's Nowhere to Ride Up There."
+They assured me: "There's Nowhere to Ride Up There!"
 
-Guess they never tried?
+I guess they never tried?
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/bjorke_LLandre_MONO2591.jpg">
