@@ -21,7 +21,7 @@ What worked, what could be better?
 
 ## Pack for Your Goals
 
-Originally, I planned for a month-long ride along the Welsh coast. With that in mind, I aimed with a complete travel kit that could be 100% self-contained: I would depart the house by bicycle, with all my luggage, and return the same way.
+Originally, I planned for a month-long ride along the Welsh coast. With that in mind, I aimed for a complete travel kit that could be 100% self-contained: I would depart the house by bicycle, with all my luggage, and return the same way.
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/packing-details.jpg">
@@ -32,9 +32,9 @@ Here's the setup, then: my Brompton stuffed into a [Vincita Sightseer bag,](http
 
 Wotancraft's Brompton bag is near-identical to their regular [7L Pilot camera bag,](https://www.wotancraft.tw/en/product/pilot-travel-camera-sling-bag-7L-blackC) with the laptop sleeve on the back replaced by a receiver for a Brompton front-bracket frame.
 
-The original plan was for a cycling trip, not a "photo trip," and so I carried minimal camera gear, no fancy lenses, strobes, etc. Also in the bag: my elderly but tiny [Edirol R-09 audio recorder,](https://www.roland.com/us/products/r-09/) and _no laptop._ Instead, I carried an iPad mini, a [pocket-sized bluetooth keyboard,](Fosmon Mini Bluetooth Keyboard) an [Inateck power-pass-through USB-C hub](https://www.amazon.com/Inateck-Multi-port-Gigabit-Ethernet-compatible/dp/B07C6NBZG5/ref=cm_cr_arp_d_product_top?ie=UTF8) and a little Samsung T7 SSD for backups. More on all the electronic bits later. This gear plus wallets, passport, first aid kit, [Midori A6 notebook](https://md.midori-japan.co.jp/en/products/mdnote/) and some pens left the bag lightweight with room to spare.
+The original plan was for a cycling trip, not a "photo trip," and so I carried minimal camera gear, no fancy lenses, strobes, etc. Also in the bag: my elderly but tiny [Edirol R-09 audio recorder,](https://www.roland.com/us/products/r-09/) and _no laptop._ Instead, I carried an iPad mini, a [pocket-sized bluetooth keyboard,](Fosmon Mini Bluetooth Keyboard) an [Inateck power-pass-through USB-C hub](https://www.amazon.com/Inateck-Multi-port-Gigabit-Ethernet-compatible/dp/B07C6NBZG5/ref=cm_cr_arp_d_product_top?ie=UTF8) and a little Samsung T7 SSD for backups (more on all the electronic bits later, and the bottom of the post). This gear plus wallets, passport, first aid kit, [Midori A6 notebook](https://md.midori-japan.co.jp/en/products/mdnote/) and some pens still left the bag lightweight with room to spare.
 
-I did "modify" the bag in one respect: it comes with two detachable pouches, a drawstring lens/bottle pouch and a rectangular zip.  Swapping the drawstring pouch for another zipper pouch (I already had one) was more useful since the bag already has a built-in [water-bottle](https://shop.zojirushi.com/products/smkhe)-friendly side pouch.
+I did "modify" the bag in one respect: it comes with two detachable pouches: a drawstring lens/bottle pouch and a rectangular zip.  Swapping the drawstring pouch for another matching zipper pouch (I already had one) was more useful since the main bag already has a built-in [water-bottle](https://shop.zojirushi.com/products/smkhe)-friendly side pouch.
 
 Wotancraft's add-on Molle-based pouches can be [detached and used as a bag on their own](https://www.wotancraft.tw/en/product/molle-accessory-pouch-black-canvas) - I brought one extra strap for this purpose. Instead of toting around the large camera bag, I could carry the camera "in the open" on its own strap (wrapped snugly around my wrist), and  the small pouch could hold wallet, extra lens, recorder, batteries, pen and notebook. All discreetly tucked across my shoulder and under my jacket.
 
@@ -51,7 +51,7 @@ When flying, it's good to detach the bicycle seat -- and to push a cut tennis ba
 
 Thankfully, I'd been angling for a super-early bus, which left me enough time to unpack the bike, ride back to the house, fetch the ball, ride back to the bus, repack everything, and have a minute to meditate in the sun before the 8AM-ish second airport bus arrived.
 
-At this point, I knew that the bicycle and clothes were all packed and wouldn't need unpacking until they arrived at AMS from SFO. As a last task before strapping it all down, I removed the roller-caster wheels, put them in a dedicated pouch, and slipped them down between the tires inside the Vincita bag. Done!
+At this point, I knew that the bicycle and clothes were all packed and wouldn't need unpacking until they arrived at AMS from SFO. As a last task before strapping it all down, I removed the Vincita's roller-caster wheels, put them in a dedicated pouch, and slipped them down between the tires inside the main bag. Done!
 
 ### Skidmarks 
 
@@ -61,13 +61,13 @@ Passengers were eventually sent to a neighboring hotel; no luggage, just a happi
 
 Which meant no tootbrush, clothes, etc. I couldn't use the hotel laundry to wash what I was wearing, since I'd be left naked in the hallway.
 
-The solution was to walk a mile or so from the hotel to the nearest grocery store, buy the very smallest/cheapest liquid laundry soap I could find, then return to the hotel room. Ask for an extra bath towel (and a toothbrush!). Wash all of my currently-worn clothes, one item at a time in the sink with just a little soap, rinse them in the shower, then roll them up as tight as possible in the bath towels -- wringing them inside a towel avoids severe creasing or damage to the clothing and buttons. The clothes were then hung on regular hangers to dry. The socks were "inflated" for a few minutes using the hotel hair dryer set to a low temperature.
+The solution was to walk a mile or so from the hotel to the nearest grocery store, buy the very smallest/cheapest liquid laundry soap I could find, then return to the hotel room. Ask hotel housekeeping for an extra bath towel (and a toothbrush!). Wash all of my currently-worn clothes, one item at a time in the sink with just a little soap, rinse them in the shower, then roll them up as tightly as possible in the bath towels -- wringing them inside a towel avoids severe creasing or damage to the clothing and buttons. The clothes were then hung on regular hangers to dry. The socks were "inflated" for a few minutes using the hotel hair dryer set to a low temperature.
 
 In the morning: ready to go. Some friends living nearby came over and we shared a great bakery breakfast (and they loaned me a spare USB charging cable, since I'd packed mine) before returning to the airport, where United had found the airplane that worked: a more-spacious and largely-empty B777-300. I relaxed at a window seat and next stop: Schipol airport in Amsterdam, a day late.
 
 ### Skidmarks, Part II
 
-Amsterdam is not in Wales, even via bicycle. During planning and multi-voyage alignment the shape of the trip had altered considerably, into a much shorter art-viewing and people-visiting trip with a bit of cycling pinned onto the side.
+Amsterdam is not in Wales, even via bicycle. During planning and multi-traveler calendar alignment the shape of the trip had altered considerably, into a much shorter art-viewing and people-visiting trip with a bit of cycling pinned onto the side.
 
 Due to these new requirements, I needed more apparel options than "gray Rapha cycling jersey or blue Rapha cycling jersey." Dress shirts, shoes, slacks, jackets, ties. 
 
@@ -94,7 +94,7 @@ The second surprise was Google's insistence that I _must_ take a particular brid
 
 The manual overrides to this route added another forty minutes to the ride, along parks and canals, some of it through the rain. I had no real complaints at all!
 
-Approaching the city center, the completeness of Amsterdam's famous cycling infrastructure showed its deserved fame. Roundabouts, dedicated crossings, space on every sidewalk, terrific.
+Approaching the city center, the completeness of Amsterdam's celbrated cycling infrastructure showed its deserved fame. Roundabouts, dedicated crossings, space on every sidewalk, terrific.
 
 ### The "It" Bike
 
@@ -137,7 +137,7 @@ It's at this point that the wardrobe shifted from cycling-centered (but not cycl
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/packed.jpg">
-<figcaption>Cleaned-up to Enter the Club (They _do_ have a cycling entrance!)</figcaption>
+<figcaption>Cleaned-up to Enter the Club (They <i>do</i> have a cycling entrance!)</figcaption>
 </figure>
 
 Like most European and some few American cities, London is very walkable. Ridable, too.  If you're going to wander the shops hand-in-hand with someone wonderful, it's safest on foot. In Amsterdam I regularly saw people cycling side-by-side with hands joined. Somehow it's safe and normalized there, but it's hard to imagine following the same method on London's more crowded and chaotic alleys and motorways.
@@ -171,6 +171,8 @@ At one point, I was carrying my bike up a long hillside stair -- it was the only
 
 They assured me: "There's Nowhere to Ride Up There."
 
+Guess they never tried?
+
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/bjorke_LLandre_MONO2591.jpg">
 <figcaption>Above Clarach</figcaption>
@@ -180,7 +182,7 @@ They assured me: "There's Nowhere to Ride Up There."
 
 My return to London contained a double challenge: 32C temperatures (the annual high) combined with the Crowdstrike bug, which I hadn't known about until it halted our train from Birmingham, as rail crews busied themselves repeatedly turning on and off the power of a rail switch until they gave up and set the switch manually to at least let _one_ train pass.
 
-Another bike ride from Euston to Paddington stations, but this time to leave the bike and case etc at the station's [Left-Baggage office](https://www.left-baggage.co.uk/en) while I enjoyed having dinner and a chat with a friend and colleague nearby.
+Another bike ride from Euston to Paddington stations, but this time to leave the bike and case etc at Paddington's [Left-Baggage office](https://www.left-baggage.co.uk/en) while I enjoyed having dinner and a chat with a friend and colleague nearby.
 
 Traffic at Paddington was slow, which proved to be a good thing: when you leave bags at the office they need to scan them, airport-style, before storage. But:
 
@@ -190,7 +192,9 @@ Thankfully the fellow working the evening shift was patient and funny and willin
 
 The Crowdstrike bug had likewise paralyzed computerized payment systems, and I couldn't fetch a cab via London's FreeNow app since they couldn't connect my Visa card -- time to hoof it again!
 
-After a fine dinner with my friend, the next bit of taveling was an unremarkable zip back to Paddington, then LHR, shuttle to my hotel, sleep, bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird man multiple films watched by various neighbors). While I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and from there... home.
+After a fine dinner with my friend, the next bit of taveling was an unremarkable zip back to Paddington, then LHR, shuttle to my hotel, sleep, bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird combination of multiple films watched by various neighbors).
+
+At SFO, while I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and from there... home.
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/Llandre.jpg">
@@ -201,15 +205,17 @@ After a fine dinner with my friend, the next bit of taveling was an unremarkable
 
 ## Vincita Sightseer
 
-I like this bag a lot. Toward the end of the trip, I realized that the best way to use the outer strap, when stuffing the bag while riding, is _lengthwise,_ at right angles to the direction you should use it when the bike's inside.nThis holds-down the ends of the bag.
+I like this bag a lot. Toward the end of the trip, I realized that the best way to use the outer strap, when stuffing the bag while riding, is _lengthwise,_ at right angles to the direction you should use it when the bike's inside. This holds-down the ends of the bag, keeping it neat while you're riding.
 
-As mentioned, I suggest taking the seat off when flying, wrap it in a bag and push an old tennis ball onto the exposed seat post. This protects your seat, clothes, and luggage.
+It's possible to mount the Vincita on the front bracket of a Brompton, but that space was in use by my camera bag.
 
-When the bike is packed, there are spaces inside along the bottom, near the tires, that can carry extra shoes (and a tennis ball). Multiple bags of Hula Hoop crisps can also be safely placed there.
+As mentioned earlier, it's a safe idea to take the bike's seat off when flying with the Vincita. Wrap the seat in a plastic bag and push an old tennis ball onto the exposed seat post. This protects your seat, clothes, and luggage.
+
+When the bike is packed, there are some open spaces inside along the bottom, near the tires, that can carry extra shoes (and a tennis ball). Multiple bags of Hula Hoop crisps can also be safely placed there.
 
 ## Edirol Audio Recorder
 
-I like recording and had replaced my Edirol with a more-capable but larger/heavier Hero recorder. I went for the old Edirol on this trip mostly for the weight, despite the fact that it can't accept SD cards larger than 2GB (good luck finding a new card that size!) and the audio quality's lower. But there's been a boost:  I've been using Adobe Premiere's AI-based audio cleanup tools and they are _stellar._ It was a hunch, but I'm pretty sure the final processed quality of the audio tracks will be excellent.
+I like recording and long ago had replaced my Edirol with a more-capable but larger/heavier Hero recorder. For this trip I went back to the old Edirol mostly for the weight, despite the slightly-lower quality and the fact that it can't accept SD cards larger than 2GB (good luck finding a new card that size!). But there's been a boost:  I've been using Adobe Premiere's AI-based audio cleanup tools and they are _stellar._ It was a hunch, but I'm pretty sure the final processed quality of the audio tracks will be excellent.
 
 ## Noice-Cancelling Headphones -- Not Earbuds
 
@@ -219,21 +225,23 @@ Over-ear noise-canelling headphones are great on any flight, even if no music is
 
 Amazingly, I never did wear any of the cycle-sport kit that had been packed, dutifully stashed in the Vincita. Instead I stuck with hiking gear, again washed in hotel sinks.
 
-I have no idea why I brought and extra Tefal tire pump, whne the one attached to the Brompton is faster. Bad habit, I suppose.
+I have no idea why I brought an extra Tefal tire pump, whne the one attached to the Brompton is faster. An old habit, I suppose.
 
 ## Zojirushi Water Bottle
 
-Their flip-top bottles remain the best! The area touching your lips is always covered and clean. The size is easy to hold. The lock works, ensuring no leaks (important for a camera bag). The temperature stability is far superior to others I've tested.
+Their flip-top bottles remain the best! The area touching your lips is always covered and clean. The size is easy to hold. The lock works, ensuring no leaks (important for a bottle stored on a camera bag). The temperature stability is far superior to others I've tested.
 
 ## Camera and iPad
 
-The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based _kbImport_ tool, writing the results to an SSD connected to the iPad.
+The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based _kbImport_ tool, writing the results to a Samsung SSD connected to the iPad.
 
-The Inateck USB-C hub is one of very few that give you a fully-functional USB-C on one side. I could simultaneously connect an SD card and the Samsung SSD to the iPad while charging, and also while charging my phone or the camera batteries via a Nitecore charger.
+The Inateck USB-C hub is one of very few that give you a fully-functional USB-C on one side. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or the camera batteries from the same hub via a Nitecore charger.
 
-I apologize to hotels and their wi-fi systems: after copying all pictures and audio files to the SSD each night, before sleeping I'd also copy them all to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud. This diligence paid off, after I left my iPad on the train returning to London (cheers to the anonymous person who later turned it in at Euston Station!). I still had all my data.
+I apologize to hotels and their wi-fi systems: after copying all pictures and audio files to the SSD each night, before sleeping I'd also copy them all to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud.
 
-Initially, my plan had been to share the files to Google Drive rather than iCloud. This _mostly_ worked, but some files would fail. Google would tell me "some files have failed" but not _which_ files, which was unacceptable. Using iCloud was superior.
+This diligence paid off, after I left my iPad on the train returning to London (cheers to the anonymous person who later turned it in at Euston Station!). I still had all my data.
+
+Initially, my data-backup plan had been to share the files to Google Drive rather than iCloud. This _mostly_ worked, but some files would fail. Google would tell me "some files have failed" but not _which_ files, which was unacceptable. Using iCloud was superior.
 
 I also considered, and even tried, sending backup data directly to my California-based Synology NAS -- moderately reliable but lead-footedly slow. The files need to pass through the slow hotel network and ISP, across the internet, then back to my slow home ISP. Using iCloud included only one slow route.
 
@@ -245,7 +253,7 @@ As for camera gear: I could have left the 90mm lens and its finder in California
 
 ## Midori A6 Notepad
 
-After using Moleskine and Traveller's Company notebooks for many years, the switch to Midori A6 was prompted in large part by Wotancraft. Their larger-then-Moleskine A6 will fit in either their rectangular pouch or the back pocket of a small Wotancraft Pilot bag. It's the largest notebook that's small enough, and the quality is top. I like using these notebooks with the simple paper cover, which is light, durable, and inexpensive.
+After using Moleskine and Traveller's Company notebooks for many years, the switch to Midori A6 was prompted in large part by Wotancraft. Their larger-then-Moleskine A6 will fit in either their rectangular zip pouch or the back pocket of a small Wotancraft Pilot bag. It's the largest notebook that's small enough, and the quality is top. I like using these notebooks with the simple paper cover, which is light, durable, and inexpensive.
 
 You can also write on that cover -- I mistakenly left my notebook in the library of the [Huis Marseille Museum of Photography,](https://huismarseille.nl/) and they were able to call me right back to fetch it thanks to the scrawled-but-somehow-readable email address.
 
