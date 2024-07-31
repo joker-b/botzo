@@ -201,16 +201,18 @@ _The bike and bag did not fit into the scanner._
 
 Thankfully the fellow working the evening shift was patient and funny and willing to wait for me to disassemble the whole business while he scanned each bit individually, then watched me re-assemble the whole case from the scanned parts, there in the office.
 
-The Crowdstrike bug had likewise paralyzed computerized payment systems, and I couldn't fetch a cab via London's FreeNow app since they couldn't connect my Visa card -- time to hoof it again!
+The Crowdstrike bug had likewise paralyzed computerized payment systems, and I couldn't fetch a cab via London's FreeNow app since they couldn't connect my Visa card -- time for The Tube.
 
-After a fine dinner with my friend, the next bit of taveling was an unremarkable zip back to Paddington, then LHR, shuttle to my hotel, sleep, bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird combination of multiple films watched by various neighbors).
+After a fine dinner with my friend, the next bit of traveling was an unremarkable zip back to Paddington, then to LHR, a shuttle to my hotel, sleep, back to LHR -- bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird combination of multiple films watched by various neighbors).
 
-At SFO, while I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and from there... home.
+At SFO, while I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and in an hour: home.
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/Llandre.jpg">
 <figcaption>Above Llanfanigel Gen'eur Glynn</figcaption>
 </figure>
+
+<hr/>
 
 # The Gear Part: Hints and Screwups
 
@@ -245,6 +247,8 @@ The Edirol's big failing, of course, is memory. I kept myself to very short clip
 
 Over-ear noise-canelling headphones are great on any flight, even if no music is playing. The noise reduction alone is great for sleeping. The Sennheisers also have a small cord for use with the Edirol.
 
+But also earbuds -- I used them when riding, mostly for getting navigation instructions.
+
 ## Bike Clothes and Tools
 
 Amazingly, I never did wear any of the cycle-sport kit that had been packed, dutifully stashed in the Vincita. Instead I stuck with hiking gear, again washed in hotel sinks.
@@ -261,7 +265,7 @@ The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/
 
 The Inateck USB-C hub is one of very few that give you a fully-functional powered USB-C port on one side of the hub. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or headphones or a camera battery from the same hub.
 
-I apologize to hotels and their wi-fi systems: after copying all pictures and audio files to the SSD each night, before sleeping I'd also copy them all to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud.
+I apologize to hotels and their wi-fi systems: after saving all pictures and audio files to the SSD each night, before sleeping I'd also start all those gigabits copying to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud.
 
 This diligence paid off, after I left my iPad on the train when returning to London (cheers to the anonymous person who later turned it in at Euston Station!). All my data was safe.
 
@@ -295,11 +299,18 @@ Cable ties of different weights, both in my camera bag and in the backpack.
 
 A length of gaffer tape, wrapped several layers thick around a pencil in my camera bag.
 
-A 2-inch-wide USB-chargable Godox LED panel light.
+A 2-inch-wide USB-chargable Godox LEDM32 LED lamp.
 
-A very light mini-tripod, similar to the classic Bogen one but made of a fiberglass-like material at a fraction of the weight.
+Small and larger zip-lock bags.
+
+An Oben tabletop tripod, similar to the classic Bogen one but made of aluminum so a fraction of the Bogen's weight.
 
 I didn't _need_ another cycling jacket -- a Rapha soft-shell jacket was already packed. Never worn, but I hadn't anticipated having an alternative choice. The jacket, like my small bike lock, stayed in the bag.
 
 A first aid kit, including antacids. These _were_ used, just not by me. The world was made better.
+
+<figure class="align-center">
+<img src="https://www.botzilla.com/pix2024/brompton/bjorke_AberSF_MONO2853.jpg">
+<figcaption>Irish Sea, Heading Home</figcaption>
+</figure>
 
