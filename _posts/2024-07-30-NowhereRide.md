@@ -245,15 +245,15 @@ The Edirol's big failing, of course, is memory. I kept myself to very short clip
 
 ## Noice-Cancelling Headphones -- Not Earbuds
 
-Over-ear noise-canelling headphones are great on any flight, even if no music is playing. The noise reduction alone is great for sleeping. The Sennheisers also have a small cord for use with the Edirol.
+Over-ear noise-cancelling headphones are great on any flight, even if no music is playing. The noise reduction alone is great for sleeping. The Sennheisers also have a small cord for use with the Edirol.
 
 But also earbuds -- I used them when riding, mostly for getting navigation instructions.
 
 ## Bike Clothes and Tools
 
-Amazingly, I never did wear any of the cycle-sport kit that had been packed, dutifully stashed in the Vincita. Instead I stuck with hiking gear, again washed in hotel sinks.
+Amazingly, I never did wear any of the cycle-sport kit that had been packed and dutifully stashed in the Vincita. Instead I stuck with hiking gear, repeatedly washed in hotel sinks.
 
-I have no idea why I brought an extra Tefal tire pump, whne the one attached to the Brompton is faster. An old habit, I suppose.
+I have no idea why I brought an extra Tefal tire pump, when the one already attached to the Brompton is faster. An old habit, I suppose.
 
 ## Zojirushi Water Bottle
 
@@ -261,15 +261,15 @@ Their flip-top bottles remain the best! The area touching your lips is always co
 
 ## Camera and iPad
 
-The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based [kbImport]({% post_url 2020-04-09-kbImport %})) downloader tool, writing the results to a Samsung SSD connected to the iPad.
+The iPad-only setup worked really well. I added the [iSH shell](https://ish.app/) app, which allowed me to verrrry slowly use my regular python-based [kbImport]({% post_url 2020-04-09-kbImport %}) downloader tool, writing the results to a Samsung SSD connected to the iPad.
 
-The Inateck USB-C hub is one of very few that give you a fully-functional powered USB-C port on one side of the hub. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or headphones or a camera battery from the same hub.
+Inateck's USB-C hub is one of very few that give you a fully-functional powered USB-C port on one side of the hub. I could simultaneously connect an SD card and the SSD to the iPad while charging, and also while charging my phone or headphones or a camera battery from the same hub.
 
 I apologize to hotels and their wi-fi systems: after saving all pictures and audio files to the SSD each night, before sleeping I'd also start all those gigabits copying to iCloud. This gave me a three-way backup: the original SD card (the tiny audio recorder required daily flushing, but my camera cards are large), the SSD, and iCloud.
 
 This diligence paid off, after I left my iPad on the train when returning to London (cheers to the anonymous person who later turned it in at Euston Station!). All my data was safe.
 
-Initially, my data-backup plan had been to share the files to Google Drive rather than iCloud. This _mostly_ worked, but some files would fail. Google would tell me "some files have failed" but not _which_ files, which was unacceptable. Using iCloud was superior.
+Initially, my data-backup plan had been to share the files to Google Drive rather than iCloud. This _mostly_ worked, but some files would fail to copy. Google would tell me "some files have failed" but not _which_ files, which was unacceptable. Using iCloud was superior.
 
 I also considered, and even tried, sending backup data directly to my California-based Synology NAS -- moderately reliable but lead-footedly slow. The files need to pass through the slow hotel network and ISP, across the internet, then back to my slow home ISP. Using iCloud included only one slow route.
 
@@ -277,17 +277,17 @@ Once back in California, all iCloud files could be copied to the NAS if needed.
 
 In this case, in the end there was no need for the cloud backup -- I'd lost track of the iPad for a bit, but not the SSD! Everything was completely ready for use and the internet backup wasn't needed -- _this time._ The cloud backup meant peace of mind.
 
-As for camera gear: I could have left the 90mm lens and its finder in California. I rarely use them, I had no expected _need_ for them, and in the end only used them because I foolishly felt I _ought_ to -- that is, the "Sunk-Cost Fallacy." Unsurprisingly, almost all of the photos I made while traveling used the everyday 50mm.
+As for camera gear: I could have left the 90mm lens and its finder in California. I rarely use them, I had no expected _need_ for them, and in the end only used them because I foolishly felt I _ought_ to -- that is, the "Sunk-Cost Fallacy." Unsurprisingly, almost all of the photos I made while traveling used an everyday 50mm.
 
 ## Midori A6 Notepad
 
-After using Moleskine and Traveller's Company notebooks for many years, the switch to Midori A6 was prompted in large part by Wotancraft. Their larger-then-Moleskine A6 will fit in either their rectangular zip pouch or the back pocket of a small Wotancraft Pilot bag. It's the largest notebook that's small enough, and the quality is top. I like using these notebooks with the simple paper cover, which is light, durable, and inexpensive.
+After using Moleskine and Traveller's Company notebooks for many years, the switch to Midori A6 was prompted in large part by Wotancraft. A larger-then-Moleskine A6 notebook will fit in either Wotancraft's rectangular zip pouch or the back pocket of a small Wotancraft Pilot bag. It's the largest notebook that's small enough, and Midori's quality is top. I like using these notebooks with the simple paper cover, which is light, durable, and inexpensive.
 
 You can also write on that cover -- I mistakenly left my notebook in the library of the [Huis Marseille Museum of Photography,](https://huismarseille.nl/) and they were able to call me right back to fetch it thanks to the scrawled-but-somehow-readable email address.
 
 ## Other Stupid Oversights
 
-I forgot to pack a blower bulb for lens and sensor cleaningh. Sure enough, dust eventually fell on my sensor and I had to live with it. I'd taken the bulb out to pack it, and yet... didn't pack it. There are no camera shops in Aberystwyth.
+I forgot to pack a blower bulb for lens and sensor cleaning. Sure enough, dust eventually fell on my sensor and I had to live with it. I'd taken the bulb out to pack it, and yet... didn't pack it. There are no camera shops in Aberystwyth.
 
 Likewise, ready to pack but unpacked, any fountain pen. In this case, there are great stationers in Amsterdam and London. A moment of shopping, to find a very lightweight and inexpensive Kaweco.
 
@@ -301,7 +301,7 @@ A length of gaffer tape, wrapped several layers thick around a pencil in my came
 
 A 2-inch-wide USB-chargable Godox LEDM32 LED lamp.
 
-Small and larger zip-lock bags.
+Smaller and larger zip-lock bags.
 
 An Oben tabletop tripod, similar to the classic Bogen one but made of aluminum so a fraction of the Bogen's weight.
 
