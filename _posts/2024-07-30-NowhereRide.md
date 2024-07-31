@@ -153,17 +153,17 @@ It's at this point that the wardrobe shifted from cycling-centered (but not cycl
 
 Like most European and some few American cities, London is very walkable. Ridable, too.  If you're going to wander the shops hand-in-hand with someone wonderful, it's safest on foot. In Amsterdam I regularly saw people cycling side-by-side with hands joined. Somehow it's safe and normalized there, but it's hard to imagine following the same method on London's more crowded and chaotic alleys and motorways.
 
-A large benefit, to my mind, of traveling with your bicycle: since you must carry _everything,_ this means _you really should not be shopping._ Where will you put your new-found treasures?
+A large benefit of traveling with your bicycle: since you must carry _everything,_ this means _you really should not be shopping._ Where would you put your new-found treasures?
 
-Having a tight weight budget handily erases the urge to accumulate. I _did_ buy a cycling [jacket](https://us.brompton.com/p/536/oliver-spencer-x-brompton-hooded-jacket) and [blazer](https://www.brompton.com/p/865/brompton-blazer-by-oliver-spencer) from Brompton's London shop, both measuring far below my packing overhead (the limit: about 1.5kg total).
+Having a tight weight budget handily erases the urge to accumulate. I _did_ buy a cycling [jacket](https://us.brompton.com/p/536/oliver-spencer-x-brompton-hooded-jacket) and [blazer](https://www.brompton.com/p/865/brompton-blazer-by-oliver-spencer) from Brompton's London shop, both measuring far below my packing overhead (total limit: about 1.5kg).
 
 After two shared classical concerts, visits with friends, an expectedly good [West End play based on a manga,](https://www.londontheatre.co.uk/reviews/your-lie-in-april-review-harold-pinter-theatre) lots of fun dinners, slow walks in the parks and lots of art to be seen together, I pedaled off one morning to Euston Station to catch the Avanti West to Birmingham and from there a Transport for Wales connector train to the mouth of the River Ystwyth: Aberystwyth.
 
 ## Westward
 
-During both train rides the Brompton was packed-away in its case. I was responsible for managining it. Part of the ride was a mess because of this -- as I was ready to board I was swept-aside by a porter who insisted that I give up my front-of-the line position so that she could set up a wheelchair ramp. By the time I'd boarded, there was nowhere for my large case! Instead I spent three hours holding onto it (and moving it out of the way, occasionally) since it was left in the aisle.
+During both legs of that day's train ride the Brompton was packed-away in its case. I was responsible for managing it. Part of the voyage was a mess because of this -- as I was ready to board I was swept-aside by a porter who insisted that I give up my front-of-the line position so that she could set up a wheelchair ramp. By the time I'd boarded, there was nowhere for my large case! Instead I spent three hours holding onto it (and moving it out of the way, occasionally) since it was left in the aisle.
 
-Arrived at a rainy train station again, but Aberystwyth's not a large town and the hotel ride was brief. The new Brompton jacket and the Wotancraft bag's cover kept my gear and my self safe and dry.
+Arrived at a rainy train station again, but Aberystwyth's not a large town and the station-to-hotel ride was brief. The new Brompton jacket and the Wotancraft bag's cover kept my self and my gear safe and dry.
 
 The hotel staff at the Four Seasons in Aberstwyth (no, the other Four Seasons) were surprised at my setup -- they claimed they'd never seen anything like it?
 
