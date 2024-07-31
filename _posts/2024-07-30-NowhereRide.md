@@ -32,6 +32,11 @@ Here's the setup, then: my Brompton stuffed into a [Vincita Sightseer bag,](http
 
 Wotancraft's Brompton bag is near-identical to their regular [7L Pilot camera bag,](https://www.wotancraft.tw/en/product/pilot-travel-camera-sling-bag-7L-blackC) with the laptop sleeve on the back replaced by a receiver for a Brompton front-bracket frame.
 
+<figure class="align-center">
+<img src="https://www.botzilla.com/pix2024/brompton/frames.jpg">
+<figcaption>A standard Brompton front frame and the smaller Wotancraft version</figcaption>
+</figure>
+
 The original plan was for a cycling trip, not a "photo trip," and so I carried minimal camera gear, no fancy lenses, strobes, etc. Also in the bag: my elderly but tiny [Edirol R-09 audio recorder,](https://www.roland.com/us/products/r-09/) and _no laptop._ Instead, I carried an iPad mini, a [pocket-sized bluetooth keyboard,](Fosmon Mini Bluetooth Keyboard) an [Inateck power-pass-through USB-C hub](https://www.amazon.com/Inateck-Multi-port-Gigabit-Ethernet-compatible/dp/B07C6NBZG5/ref=cm_cr_arp_d_product_top?ie=UTF8) and a little Samsung T7 SSD for backups (more on all the electronic bits later, and the bottom of the post). This gear plus wallets, passport, first aid kit, [Midori A6 notebook](https://md.midori-japan.co.jp/en/products/mdnote/) and some pens still left the bag lightweight with room to spare.
 
 I did "modify" the bag in one respect: it comes with two detachable pouches: a drawstring lens/bottle pouch and a rectangular zip.  Swapping the drawstring pouch for another matching zipper pouch (I already had one) was more useful since the main bag already has a built-in [water-bottle](https://shop.zojirushi.com/products/smkhe)-friendly side pouch.
@@ -53,6 +58,12 @@ Thankfully, I'd been angling for a super-early bus, which left me enough time to
 
 At this point, I knew that the bicycle and clothes were all packed and wouldn't need unpacking until they arrived at AMS from SFO. As a last task before strapping it all down, I removed the Vincita's roller-caster wheels, put them in a dedicated pouch, and slipped them down between the tires inside the main bag. Done!
 
+<figure class="align-center">
+<img src="https://www.botzilla.com/pix2024/brompton/tennis-ball.jpg">
+<figcaption>The precious tennis ball.<br/>Don't lose the rubber ring below it!</figcaption>
+</figure>
+
+
 ### Skidmarks 
 
 From there, everything proceeded smoothly, until our B777-200 lost mechanical rudder control during takeoff while traveling at around 120 knots down the runway -- the pilots responded by hard-cutting the engines and slamming the brakes. Everyone and every un-strapped object was tossed about. Our halted, angled plane at the end of the runway was surrounded by fire engines (thankfully no fire, and no one seriousy hurt), and the flight: cancelled until tomorrow (on a different airplane).
@@ -63,17 +74,17 @@ Which meant no tootbrush, clothes, etc. I couldn't use the hotel laundry to wash
 
 The solution was to walk a mile or so from the hotel to the nearest grocery store, buy the very smallest/cheapest liquid laundry soap I could find, then return to the hotel room. Ask hotel housekeeping for an extra bath towel (and a toothbrush!). Wash all of my currently-worn clothes, one item at a time in the sink with just a little soap, rinse them in the shower, then roll them up as tightly as possible in the bath towels -- wringing them inside a towel avoids severe creasing or damage to the clothing and buttons. The clothes were then hung on regular hangers to dry. The socks were "inflated" for a few minutes using the hotel hair dryer set to a low temperature.
 
-In the morning: ready to go. Some friends living nearby came over and we shared a great bakery breakfast (and they loaned me a spare USB charging cable, since I'd packed mine) before returning to the airport, where United had found the airplane that worked: a more-spacious and largely-empty B777-300. I relaxed at a window seat and next stop: Schipol airport in Amsterdam, a day late.
+In the morning: ready to go. Some friends living nearby came over and we shared a great bakery breakfast (and they loaned me a spare USB charging cable, since I'd packed mine) before returning to the airport, where United had found an airplane that worked: a more-spacious and largely-empty B777-300. I relaxed at a window seat and next stop: Schipol airport in Amsterdam, a day late.
 
 ### Skidmarks, Part II
 
-Amsterdam is not in Wales, even via bicycle. During planning and multi-traveler calendar alignment the shape of the trip had altered considerably, into a much shorter art-viewing and people-visiting trip with a bit of cycling pinned onto the side.
+You may have noticed that Amsterdam is not in Wales, even via bicycle. During planning and multi-traveler calendar alignment the shape of the trip had altered considerably, into a much shorter art-viewing and people-visiting trip with a bit of cycling pinned onto the side.
 
 Due to these new requirements, I needed more apparel options than "gray Rapha cycling jersey or blue Rapha cycling jersey." Dress shirts, shoes, slacks, jackets, ties. 
 
 I'd tried -- and succeeded -- in stuffing everything into the Vincita alone, but when that was done the total weight was above the 50lb/23kg airline limit. 
 
-The solution: wear one jacket on the plane (as seen above), and add a small waterproof [Cotopaxi Allpa bag,](https://www.cotopaxi.com/products/allpa-28l-travel-pack?variant=40578700607549) which can be used as a backpack when riding to and from airports and hotels, but when flying the straps pack away to make it a simple, checkable bag.
+The solution: wear one jacket on the plane (as seen above), and add a small waterproof [Cotopaxi Allpa bag,](https://www.cotopaxi.com/products/allpa-28l-travel-pack?variant=40578700607549) which can be used as a backpack when riding to and from airports and hotels, but when flying the shoulder straps pack away inside the bag to make it a simple, checkable suitcase.
 
 At Schipol, once the bags appeared I was glad I'd gone back for that seat-post tennis ball. The new backpack was dirty and appeared to have _boot tread marks_ on it -- while the Vincita bag had two gouges piercing the outer cordura.
 
@@ -92,9 +103,9 @@ Google maps surprised me at first by warning of "steep hills" -- perhaps by Dutc
 
 The second surprise was Google's insistence that I _must_ take a particular bridge over the Nieuwemeerdijk canal: a bridge that was fenced-off and that had clearly been closed and under construction for months. Grass and weeds were growing all over it and through the pavement.
 
-The manual overrides to this route added another forty minutes to the ride, along parks and canals, some of it through the rain. I had no real complaints at all!
+The manual overrides to this route added another forty minutes to the ride, along green parks and peaceful canals, some of it through the rain -- even a functional [windmill.](https://molenvansloten.nl/) I had no real complaints at all!
 
-Approaching the city center, the completeness of Amsterdam's celbrated cycling infrastructure showed its deserved fame. Roundabouts, dedicated crossings, space on every sidewalk, terrific.
+Approaching Amsterdam city center, the completeness of Amsterdam's celbrated cycling infrastructure showed its deserved fame. Roundabouts, dedicated crossings, space on every sidewalk, terrific.
 
 ### The "It" Bike
 
@@ -104,9 +115,9 @@ I stopped other riders when I'd see a Brompton -- every single one of them were 
 
 I walked to [_Trompton,_](https://trompton.nl/) the nearest Brompton shop, and asked: _Where are the Bromptons?_
 
-The answer: _on the train._ Visit a major train station, and Bromptons abound. Commuting workers love them. But for day-to-day in-city riding, the no-lock Brompton style is less of a fit for Amsterdam. Many locations and museums lack large enough coat-check and locker space to accomodate a folded bike.
+The answer: _on the train._ Visit a major train station, and Bromptons abound. Commuting workers love them. But for day-to-day in-city riding, the no-lock Brompton style is less of a fit for Amsterdam. Most cultural locations, restaurants, and museums lack large-enough coatcheck and locker space to accomodate folded bikes.
 
-I was travelling, as is my habit when riding the Brompton, with _no real lock._ One small one stuffed into a corner of the pack, but: it was never used during the trip.
+I was travelling, as is my habit when riding the Brompton, with _no real lock._ I had one small one stuffed into a corner of the pack, but: it's more of a reminder than a real deterrent. It was never used during the trip.
 
 I considered buying and discarding a heavy Abus or similar lock, just for Amsterdam -- it would be unweildy on any leg of my flights. I opted instead for less cycling and more trams during my days there. I wasn't disappointed, and still pleased to be car-free.
 
@@ -207,15 +218,28 @@ At SFO, while I had prepared to ride back via the airporter, no need: See See ar
 
 I like this bag a lot. Toward the end of the trip, I realized that the best way to use the outer strap, when stuffing the bag while riding, is _lengthwise,_ at right angles to the direction you should use it when the bike's inside. This holds-down the ends of the bag, keeping it neat while you're riding.
 
-It's possible to mount the Vincita on the front bracket of a Brompton, but that space was in use by my camera bag.
+It's possible to mount the Vincita on the front bracket of a Brompton, but that space was in use by my camera bag - and as the illustration above shows, the Wotancraft frame is small. Too small? I don't know.
 
 As mentioned earlier, it's a safe idea to take the bike's seat off when flying with the Vincita. Wrap the seat in a plastic bag and push an old tennis ball onto the exposed seat post. This protects your seat, clothes, and luggage.
 
 When the bike is packed, there are some open spaces inside along the bottom, near the tires, that can carry extra shoes (and a tennis ball). Multiple bags of Hula Hoop crisps can also be safely placed there.
 
+<figure class="align-center">
+<img src="https://www.botzilla.com/pix2024/brompton/vincita-folded.jpg">
+<figcaption>When on the bike rear rack or stored at home, the Vincita long strap <i>sideways</i> is tidiest.</figcaption>
+</figure>
+
 ## Edirol Audio Recorder
 
 I like recording and long ago had replaced my Edirol with a more-capable but larger/heavier Hero recorder. For this trip I went back to the old Edirol mostly for the weight, despite the slightly-lower quality and the fact that it can't accept SD cards larger than 2GB (good luck finding a new card that size!). But there's been a boost:  I've been using Adobe Premiere's AI-based audio cleanup tools and they are _stellar._ It was a hunch, but I'm pretty sure the final processed quality of the audio tracks will be excellent.
+
+The Edirol's big failing, of course, is memory. I kept myself to very short clips because when recording buskers or traffic etc, "typical" and distinctive city sounds, I regularly hit the "memory is full" warning. Maybe I should scrounge EBay for some more 2GB cards.
+
+<figure class="align-center">
+<img src="https://www.botzilla.com/pix2024/brompton/edirol.jpg">
+<figcaption>Old Edirol - great for <i>short</i> memorable clips to go with travel photos</figcaption>
+</figure>
+
 
 ## Noice-Cancelling Headphones -- Not Earbuds
 
