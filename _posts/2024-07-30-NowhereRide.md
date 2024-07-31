@@ -43,19 +43,19 @@ Wotancraft's add-on Molle-based pouches can be [detached and used as a bag on th
 <figcaption>Minimal Carry-On</figcaption>
 </figure>
 
-Here's all I needed to carry on-board my flight: the one messenger bag, bike helmet, [noise-cancelling over-ear headphones](https://www.wired.com/2017/08/review-sennheiser-hd1-wireless-over-ear-headphones/) worn around my collar, and a sport jacket. 
+Here's all I needed to carry on-board my flight: the messenger bag, bike helmet, [noise-cancelling over-ear headphones](https://www.wired.com/2017/08/review-sennheiser-hd1-wireless-over-ear-headphones/) worn around my collar, and a sport jacket. 
 
-On departure day, I packed the folded Vincita onto the bike at my front door, rode from home to the bus station, and started to pack the bake into the bag -- only to realize that I'd left a key part of the bicycle kit behind!
+On departure day, I packed the folded Vincita onto the bike at my front door, rode from home to the bus station, and started to pack the bike into the bag -- only to realize that I'd left a key part of the kit behind!
 
 When flying, it's good to detach the bicycle seat -- and to push a cut tennis ball atop the seat post, so that the post wouldn't potentially smash up through the bag if it was dropped updside down. Where was my tennis ball?
 
-Thankfully, I'd been angling for a super-early bus, which left me enough time to unpack the bike, ride to the house, fetch the ball, ride back to the bus, repack everything, and have a minute to meditate in the sun before the 8AM-ish second airport bus arrived.
+Thankfully, I'd been angling for a super-early bus, which left me enough time to unpack the bike, ride back to the house, fetch the ball, ride back to the bus, repack everything, and have a minute to meditate in the sun before the 8AM-ish second airport bus arrived.
 
 At this point, I knew that the bicycle and clothes were all packed and wouldn't need unpacking until they arrived at AMS from SFO. As a last task before strapping it all down, I removed the roller-caster wheels, put them in a dedicated pouch, and slipped them down between the tires inside the Vincita bag. Done!
 
 ### Skidmarks 
 
-From there, everything proceeded smoothly, until our B777-200 lost mechanical rudder control during takeoff while traveling around 120 knots down the runway -- the pilots responded by hard-cutting the engines and slamming the brakes. Everyone and every un-strapped object was tossed about. Our halted, angled plane at the end of the runway was surrounded by fire engines (thankfully no fire, and no one seriousy hurt), and the flight: cancelled until tomorrow (on a different airplane).
+From there, everything proceeded smoothly, until our B777-200 lost mechanical rudder control during takeoff while traveling at around 120 knots down the runway -- the pilots responded by hard-cutting the engines and slamming the brakes. Everyone and every un-strapped object was tossed about. Our halted, angled plane at the end of the runway was surrounded by fire engines (thankfully no fire, and no one seriousy hurt), and the flight: cancelled until tomorrow (on a different airplane).
 
 Passengers were eventually sent to a neighboring hotel; no luggage, just a happily-lightweight camera bag.
 
@@ -121,7 +121,7 @@ Only one stumper: my two pre-checked bags received only ONE baggage ticket, so I
 ## Rejoined with My People
 
 <figure class="align-center">
-<img src="https://www.botzilla.com/pix2024/brompton/packed.jpg">
+<img src="https://www.botzilla.com/pix2024/brompton/serpentine.jpg">
 <figcaption>Serpentine, Hyde Park</figcaption>
 </figure>
 
@@ -136,17 +136,19 @@ Londoners seem to know their folders. I continued on to the next Google Maps puz
 It's at this point that the wardrobe shifted from cycling-centered (but not cycle-sport) lightweight hiking and fishing wear to something more formal, since venues in that neighborhood tend to be picky about "the gentleman's trousers and his lack of a tie." Happily, I was already just-barely kitted-out by the time See See joined and we went into our [venue.](https://en.wikipedia.org/wiki/Reform_Club) 
 
 <figure class="align-center">
-<img src="https://www.botzilla.com/pix2024/brompton/serpentine.jpg">
+<img src="https://www.botzilla.com/pix2024/brompton/packed.jpg">
 <figcaption>Cleaned-up to Enter the Club (They _do_ have a cycling entrance!)</figcaption>
 </figure>
 
-Like most European and some few American cities, London is very walkable. Ridable, too.  If you're going to wander the shops hand-in-hand with someone wonderful, it's safest on foot, despite the fact that in Amsterdam I regularly saw people cycling side-by-side with hands joined. Somehow safe and normalized there, but it's hard to imagine following the same method on London's more crowded and chaotic alleys and motorways.
+Like most European and some few American cities, London is very walkable. Ridable, too.  If you're going to wander the shops hand-in-hand with someone wonderful, it's safest on foot. In Amsterdam I regularly saw people cycling side-by-side with hands joined. Somehow it's safe and normalized there, but it's hard to imagine following the same method on London's more crowded and chaotic alleys and motorways.
 
 A large benefit, to my mind, of traveling with your bicycle: since you must carry _everything,_ this means _you really should not be shopping._ Where will you put your new-found treasures?
 
 Having a tight weight budget handily erases the urge to accumulate. I _did_ buy a cycling [jacket](https://us.brompton.com/p/536/oliver-spencer-x-brompton-hooded-jacket) and [blazer](https://www.brompton.com/p/865/brompton-blazer-by-oliver-spencer) from Brompton's London shop, both measuring far below my packing overhead (the limit: about 1.5kg total).
 
 After two shared classical concerts, visits with friends, an expectedly good [West End play based on a manga,](https://www.londontheatre.co.uk/reviews/your-lie-in-april-review-harold-pinter-theatre) lots of fun dinners, slow walks in the parks and lots of art to be seen together, I pedaled off one morning to Euston Station to catch the Avanti West to Birmingham and from there a Transport for Wales connector train to the mouth of the River Ystwyth: Aberystwyth.
+
+## Westward
 
 During both train rides the Brompton was packed-away in its case. I was responsible for managining it. Part of the ride was a mess because of this -- as I was ready to board I was swept-aside by a porter who insisted that I give up my front-of-the line position so that she could set up a wheelchair ramp. By the time I'd boarded, there was nowhere for my large case! Instead I spent three hours holding onto it (and moving it out of the way, occasionally) since it was left in the aisle.
 
@@ -180,15 +182,15 @@ My return to London contained a double challenge: 32C temperatures (the annual h
 
 Another bike ride from Euston to Paddington stations, but this time to leave the bike and case etc at the station's [Left-Baggage office](https://www.left-baggage.co.uk/en) while I enjoyed having dinner and a chat with a friend and colleague nearby.
 
-Traffic at Paddington was slow, which proved to be a good thing: when you leave bags at the office they need to scan them, airport-style, before storage.
+Traffic at Paddington was slow, which proved to be a good thing: when you leave bags at the office they need to scan them, airport-style, before storage. But:
 
 _The bike and bag did not fit into the scanner._
 
 Thankfully the fellow working the evening shift was patient and funny and willing to wait for me to disassemble the whole business while he scanned each bit individually, then watched me re-assemble the whole case from the scanned parts, there in the office.
 
-The Crowdstrike bug had likewise paralyzed payment systems, and I couldn't fetch a cab via the FreeNow app since they couldn't connect my Visa card -- time to hoof it again!
+The Crowdstrike bug had likewise paralyzed computerized payment systems, and I couldn't fetch a cab via London's FreeNow app since they couldn't connect my Visa card -- time to hoof it again!
 
-After a fine dinner with my friend, it was an unremarkable zip back to Paddington, then LHR, shuttle to my hotel, sleep, bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird man multiple films watched by various neighbors). While I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and from there... home.
+After a fine dinner with my friend, the next bit of taveling was an unremarkable zip back to Paddington, then LHR, shuttle to my hotel, sleep, bag pre-check worked almost too well (I had to scramble to get the rollers into the Vincita before it was whisked away), various in-flight movies (always watched without sound -- I enjoy seeing the weird man multiple films watched by various neighbors). While I had prepared to ride back via the airporter, no need: See See arrived with the Subaru and from there... home.
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/brompton/Llandre.jpg">
