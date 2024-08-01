@@ -193,9 +193,9 @@ I guess they never tried?
 
 My return to London contained a double challenge: 32C temperatures (the annual high) combined with the Crowdstrike bug, which I hadn't known about until it halted our train from Birmingham, as rail crews busied themselves repeatedly turning on and off the power of a rail switch until they gave up and set the switch manually to at least let _one_ train pass.
 
-Another bike ride from Euston to Paddington stations, but this time to leave the bike and case etc at Paddington's [Left-Baggage office](https://www.left-baggage.co.uk/en) while I enjoyed having dinner and a chat with a friend and colleague nearby.
+Another bike ride from Euston to Paddington stations, but this time to drop off the bike and case etc at Paddington's [Left-Baggage office](https://www.left-baggage.co.uk/en) while I enjoyed having dinner and a chat with a friend and colleague nearby.
 
-Traffic at Paddington was slow, which proved to be a good thing: when you leave bags at the office they need to scan them, airport-style, before storage. But:
+Traffic at Paddington was slow, which proved to be a good thing. They need to scan each bag, airport-style, before storage. But:
 
 _The bike and bag did not fit into the scanner._
 
@@ -301,7 +301,7 @@ A length of gaffer tape, wrapped several layers thick around a pencil in my came
 
 A 2-inch-wide USB-chargable Godox LEDM32 LED lamp.
 
-Spare inner ube, lightweight "mechanic's" gloves for clean hands, tool kit (okay, used one wrench for the seat).
+Spare inner tube, lightweight "mechanic's" gloves for clean hands, tool kit (okay, used one wrench for the seat).
 
 Smaller and larger zip-lock bags.
 
