@@ -66,7 +66,7 @@ At this point, I knew that the bicycle and clothes were all packed and wouldn't 
 
 ### Skidmarks 
 
-From there, everything proceeded smoothly, until our B777-200 lost mechanical rudder control during takeoff while traveling at around 120 knots down the runway -- the pilots responded by hard-cutting the engines and slamming the brakes. Everyone and every un-strapped object was tossed about. Our halted, angled plane at the end of the runway was surrounded by fire engines (thankfully no fire, and no one seriousy hurt), and the flight: cancelled until tomorrow (on a different airplane).
+From there, everything proceeded smoothly, until our B777-200 lost mechanical rudder control during takeoff while traveling at around 120 knots down the runway -- the pilots responded by hard-cutting the engines and slamming the brakes. Everyone and every un-strapped object was tossed about. Our halted, angled plane at the end of the runway was surrounded by fire engines (thankfully no fire, and no one seriously hurt), and the flight: cancelled until tomorrow (on a different airplane).
 
 Passengers were eventually sent to a neighboring hotel; no luggage, just a happily-lightweight camera bag.
 
