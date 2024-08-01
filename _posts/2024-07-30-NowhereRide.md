@@ -9,7 +9,7 @@ categories: [PhotoRant]
 tags: [_Phase4, _Bicycle, _HowTo]
 ---
 
-I spent the middle part of August traveling internationally with a Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
+I spent the much of July traveling internationally with a Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
 
 _<b>This was much easier than I anticipated.</b>_
 
