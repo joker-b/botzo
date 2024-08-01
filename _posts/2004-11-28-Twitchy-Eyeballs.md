@@ -5,7 +5,7 @@ image:
     path: https://www.botzilla.com/pix2004/twitchy.jpg
     thumbnail: https://www.botzilla.com/pix2004/twitchy.jpg
 categories: [PhotoRant]
-tags: [Books, _China, _Phase1]
+tags: [Books, _Travel, _China, _Phase1]
 ---
 
 It's been many days again since I've written here (though I have written a few short entries for <a href="http://www.photopermit.org/">PhotoPermit.Org</a>), a good chunk of them consumed

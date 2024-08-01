@@ -2,7 +2,7 @@
 layout: post
 title: "The Lesson"
 categories: [fStop]
-tags: [_Japan, _Ancient]
+tags: [_Travel, _Japan, _Ancient]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The Foreigner"
 categories: [fStop]
-tags: [_France, _Phase1]
+tags: [_Travel, _France, _Phase1]
 ---
 
 

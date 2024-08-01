@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/blog/pix2007/250_5071sq.jpg
   thumbnail: https://www.botzilla.com/blog/pix2007/250_5071sq.jpg
 categories: [fStop]
-tags: [_China, _Phase1, _Phase2]
+tags: [_Travel, _China, _Phase1, _Phase2]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "SP Salon Returns"
 categories: [fStop]
-tags: [_Phase1, _Japan]
+tags: [_Phase1, _Travel, _Japan]
 ---
 
 

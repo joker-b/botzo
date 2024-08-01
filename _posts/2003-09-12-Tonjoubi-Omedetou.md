@@ -2,7 +2,7 @@
 layout: post
 title: "Tonjoubi Omedetou"
 categories: [fStop]
-tags: [Film, _Ancient, _Japan, _Portrait]
+tags: [Film, _Ancient, _Travel, _Japan, _Portrait]
 ---
 
 

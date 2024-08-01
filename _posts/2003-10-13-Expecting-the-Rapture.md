@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/bpix/bjorke_tranc.jpg
   thumbnail: https://www.botzilla.com/bpix/bjorke_tranc.jpg
 categories: [PhotoRant]
-tags: [Essay, _Japan, _Ancient, _Portrait]
+tags: [Essay, _Travel, _Japan, _Ancient, _Portrait]
 ---
 
 <!-- ![Tokyo (C) 2003 K Bjorke]({{ 'https://www.botzilla.com/bpix/bjorke_tranc.jpg' | absolute_url }}){: .align-right} -->
