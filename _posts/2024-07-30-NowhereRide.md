@@ -6,7 +6,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2024/brompton/up-there.jpg
   social: https://www.botzilla.com/pix2024/brompton/up-there.jpg
 categories: [PhotoRant]
-tags: [_Phase4, _Bicycle, _HowTo, _England, _Wales, _London, _Amsterdam]
+tags: [_Phase4, _Bicycle, _Essay, _HowTo, _England, _Wales, _London, _Amsterdam]
 ---
 
 I spent the much of July traveling internationally with a Brompton bicycle -- the trip involved city riding, country riding, air travel, rail travel -- but no automobiles.
