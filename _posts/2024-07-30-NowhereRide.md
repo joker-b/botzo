@@ -291,7 +291,7 @@ I forgot to pack a blower bulb for lens and sensor cleaning. Sure enough, dust e
 
 Likewise, ready to pack but unpacked, any fountain pen. In this case, there are great stationers in Amsterdam and London. A moment of shopping, to find a very lightweight and inexpensive Kaweco.
 
-_Non-Stupid:_ at the last moment I left behind my small binoculars. Could I have looked at distant sheep? Maybe. The trip wasn't lessened.
+_Non-Stupid:_ at the last moment I deliberately left behind my small binoculars. Could I have looked at distant sheep? Maybe. The trip wasn't lessened.
 
 ## Items I Never Used But Was Glad I Had Them
 
@@ -300,6 +300,8 @@ Cable ties of different weights, both in my camera bag and in the backpack.
 A length of gaffer tape, wrapped several layers thick around a pencil in my camera bag.
 
 A 2-inch-wide USB-chargable Godox LEDM32 LED lamp.
+
+Spare inner ube, lightweight "mechanic's" gloves for clean hands, tool kit (okay, used one wrench for the seat).
 
 Smaller and larger zip-lock bags.
 
