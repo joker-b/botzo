@@ -16,6 +16,20 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   {% endif %}
 
+{% if page.image %}
+<!-- Thumbnail -->
+  {% if page.image.social %}
+  <meta property="og:image" content="{{ page.image.social }}" /> <!-- social -->
+  {% elsif page.image.thumbnail %}
+  <meta property="og:image" content="{{ page.image.thumbnail }}" /> <!-- thumb -->
+  {% elsif page.image.path %}
+  <meta property="og:image" content="{{ page.image.path }}"  /> <!-- base image -->
+  {% endif %}
+  <meta property="twitter:card" content="summary_large_image">
+{% else %}
+<!-- no social header thumbnail -->
+{% endif %}
+
   <!-- Analytics? -->
   {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
