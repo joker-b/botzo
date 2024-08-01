@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2024/brompton/up-there.jpg
   thumbnail: https://www.botzilla.com/pix2024/brompton/up-there.jpg
   social: https://www.botzilla.com/pix2024/brompton/up-there.jpg
-categories: [GearHead]
+categories: [PhotoRant, GearHead]
 tags: [_Phase4, _Bicycle, _Essay, _HowTo, _Klee, _Travel, _England, _Wales, _London, _Amsterdam]
 ---
 
