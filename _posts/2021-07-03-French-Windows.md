@@ -6,7 +6,7 @@ image:
   thumbnail: https://www.botzilla.com/pix2021/bjorke_FranceLR-18-2021.jpg
 categories: [fStop]
 published: false
-tags: [Books, _Travel, _France, _Phase4, _Sales, _Projects]
+tags: [Books, _Travel, _France, _Phase4, _Sales, _Projects, _Books]
 ---
 
 <a href="https://www.blurb.com/b/11043226-france-a-guide">Book Available</a> &mdash; complete online preview link below.

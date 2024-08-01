@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
   thumbnail: https://www.botzilla.com/pix2022/petro/bjorke_NM_DSCF7816.jpg
 categories: [fStop]
-tags: [Sketchbook, Fujifilm]
+tags: [Sketchbook, Fujifilm, _Cuba, _Travel, Books]
 slides: [
   [ pix2022/havana2017/bjorke_Cuba_HXT1A7040.jpg ],
   [ pix2022/havana2017/bjorke_Cuba_IXT1A5595b.jpg ],
@@ -44,7 +44,9 @@ Would your blooms be swept away without it?</i>
 
 </div>
 
-<a href="{% post_url 2017-03-12-Havana-Caged-Bouquet %}">Production Notes, 2017</a> 
+<center><p><a href="{% post_url 2017-03-12-Havana-Caged-Bouquet %}">Production Notes, 2017</a></p>
+
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AGracias%21">Click Here to Receive Availability Updates on the Book:<br/><i>The Caged Bouquet and the Most Famous Photograph in the World</i></a></center>
 
 {% comment %}
   [ pix2022/havana2017/bjorke_Cuba_Card2.jpg ],
