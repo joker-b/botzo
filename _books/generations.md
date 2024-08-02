@@ -12,7 +12,7 @@ mastless: false
 inline_nav: true
 ---
 
-The 1973 movie American Graffiti was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and in events throughout each year that always include NorCal Car Culture.
+The 1973 movie American Graffiti was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and events throughout each year that always include the local NorCal Car Culture.
 
 NorCal Car Culture is a bigger-than-life, partly-imaginary world with space for creative interpretation, like the Old West of cowboy movies – but in the world of Car Culture nostalgia, everyone is a Good Guy. All ages can and do join in: Dads, daughters, neighbors who in everyday life might never otherwise connect.
 
@@ -25,12 +25,11 @@ These photos celebrate some of what I’ve seen over the past few years among lo
 <figcaption><i>Graffiti Generations</i></figcaption>
 </figure>
 
-
-<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Graffiti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Graffiti Generations_ Availability</a>
-
 First Printing, 2024<!-- <br/>ISBN: 9798881455224 -->
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
+
+<a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Graffiti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Graffiti Generations_ Availability</a>
 
 <!-- <div class="btn btn--success btn--x-large">Blah</div> -->
 

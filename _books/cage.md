@@ -26,7 +26,7 @@ First Printing, 2024<br/>ISBN: 9798875465505
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
 
-<center><a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AGracias%21">Click Here to Receive Updates on _Caged Bouquet..._ Availability</a></center>
+<center><a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22The%20Caged%20Bouquet%22&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22The%20Caged%20Bouquet.%22%0A%0AGracias%21">Click Here to Receive Updates on <i>The Caged Bouquet...</i> Availability</a></center>
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2022/havana2017/bjorke_Cuba_KBXP7766.jpg">
