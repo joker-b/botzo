@@ -1,5 +1,7 @@
 # Notes from my calendar
 
+* Folk art vs mass media<br />In the United States we have, in a word, witnessed the decline of the “folk” and the rise of the “mass.” The usually illiterate folk, while unself-conscious, was creative in its own special ways. Its characteristic products were the spoken word, the gesture, the song: folklore, folk dance, folk song. The folk expressed itself. Its products are still gathered by scholars, antiquarians, and patriots; it was a voice. But the mass, in our world of mass media and mass circulation, is the target and not the arrow. It is the ear and not the voice. The mass is what others aim to reach—by print, photograph, image, and sound
+
 * The Nature of Hierarchies (how nature likes them) -- this affects rendering, too: affect rendering, but really... are stories "data amplification" of higher-level truths, that need fine-detail narrative to be comprehensible? Is this true for narratives and art in general?
 
 * New ways of seeing mean new ways of feeling - D. Hockney
