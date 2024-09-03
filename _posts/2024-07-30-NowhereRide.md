@@ -50,6 +50,8 @@ Wotancraft's add-on Molle-based pouches can be [detached and used as a bag on th
 
 Here's all I needed to carry on-board my flight: the messenger bag, bike helmet, [noise-cancelling over-ear headphones](https://www.wired.com/2017/08/review-sennheiser-hd1-wireless-over-ear-headphones/) worn around my collar, and a sport jacket. 
 
+## The Journey
+
 On departure day, I packed the folded Vincita onto the bike at my front door, rode from home to the bus station, and started to pack the bike into the bag -- only to realize that I'd left a key part of the kit behind!
 
 When flying, it's good to detach the bicycle seat -- and to push a cut tennis ball atop the seat post, so that the post wouldn't potentially smash up through the bag if it was dropped updside down. Where was my tennis ball?
@@ -211,6 +213,10 @@ At SFO, while I had prepared to ride back via the airporter, no need: See See ar
 <img src="https://www.botzilla.com/pix2024/brompton/Llandre.jpg">
 <figcaption>Above Llanfanigel Gen'eur Glynn</figcaption>
 </figure>
+
+## People are Good
+
+I lost two key items during this little trip, and _both of them were returned through the help of kind anonymous people._
 
 <hr/>
 
