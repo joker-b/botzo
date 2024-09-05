@@ -4,7 +4,7 @@ title: "Trailheads"
 image:
   path: https://www.botzilla.com/pix2024/framed-corrick.jpg
   thumbnail: https://www.botzilla.com/pix2024/framed-corrick.jpg
-categories: [fStop]
+categories: [PhotoRant]
 tags: [_Phase4, _Sonoma, _Projects, _Sales, _Exhibits, AATS24, _HowTo, ArtTrails24]
 ---
 
