@@ -34,6 +34,7 @@ Click [here for the 2024 catalog](https://www.sonomacountyarttrails.org/s/24ATgu
 ### Art Trails Posts:
 
 * [Trailheads: The First Preview Exhibition and Reception]({% post_url 2024-09-04-Trailhead %})
+* [Going Postal: Sending out Promotions]({% post_url 2024-09-19-Post %})
 
 <!--
 <figure class="align-center">
