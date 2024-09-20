@@ -20,7 +20,7 @@ inline_nav: true
 
 [_Art Trails 2024_](https://www.sonomacountyarttrails.org/) is the latest iteration of Sonoma County's original multi-venue art exhibition and open-studio event. My artworks and books will be available for viewing and purchase in Petaluma during the **last two weekends of October,** and at the Sebastopol Center for the Arts beginning from the first [preview exhibits around Sonoma County](https://www.sonomacountyarttrails.org/preview-exhibits) starting early September, through the main reception at the [Sebastopol Center for the Arts Gallery](https://www.sebarts.org/) on September 28th, and two Open-Studio weekends.
 
-### Open Studio Weekends in PETALUMA, Studio #145:
+### Open Studio Weekends in <a href="https://maps.app.goo.gl/n7iVpH6hV2J6r7yo6">PETALUMA, Studio #145</a>
 
 October 19th-20th and 26-27, from 10AM to 5PM.
 
