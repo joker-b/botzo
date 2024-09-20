@@ -16,7 +16,9 @@ _Forgotten Signs_ was begun by a pair of beloved Hong Kong guinea pigs, during t
 
 We wondered if their personalities were influenced by the calendar. And as animals without a calendar presence of their own, what might it be?
 
-The result is a collection of new, alternative and forward-looking new zodiacal animals -- or are they forgotten, and only now remembered? Readers and visitors are invited to consider that perhaps they are more than an ox or rat -- there may be a new and better sign for them. Or enjoy choosing new signs for their friends (or enemies).
+The result is a collection of new, alternative and forward-looking new zodiac animals -- new, or are they forgotten, and only now remembered?
+
+Readers and visitors are invited to consider that perhaps they are more than an ox or rat -- there may be a new and better sign for them. Or enjoy choosing new signs for their friends (or enemies).
 
 Available as an individual hardcover book or in a gallery edition, packaged with editioned prints from the set. 
 

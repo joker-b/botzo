@@ -12,7 +12,9 @@ mastless: false
 inline_nav: true
 ---
 
-As 2016 eneded in Havana: Fidel was dead. Now what? As 2017 began, it all seemed: _complicado._ Would everything normalize, would US investment storm into Cuba like a north wind, transforming it into Florida South? What might be swept away, what would be kept? Would Cuba escape its political and economic cage at last? What might the future of Cuba's young people become?
+As 2016 eneded in Havana: Fidel was dead. Now what?
+
+As 2017 began, it all seemed: _complicado._ Would everything normalize, would US investment storm into Cuba like a north wind, transforming it into Florida South? What might be swept away, what would be kept? Would Cuba escape its political and economic cage at last? What might the future of Cuba's young people become?
 
 I had a lucky opportunity to travel there in this brief period, before the new US president slammed the doors again. The photos in this book cover that journey, the sense of stopped time about to restart, and are accompanied by an essay about Cuba's lasting photographic legacies.
 

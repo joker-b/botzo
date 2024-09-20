@@ -14,6 +14,6 @@ inline_nav: true
 
 If you rearrange "Joker B" the letters can sound like "Bee Orchid" with a little less "d."
 
-_Joker Bee_ cards are available during [Art at the Source]({{ site.url}}/aats).
+_Joker Bee_ cards are available during _[Art Trails 2024.]({{ site.url}}/trails)_
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>

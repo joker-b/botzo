@@ -12,11 +12,13 @@ mastless: false
 inline_nav: true
 ---
 
-_Resting Bear Face_ cards, available during [Art at the Source]({{ site.url}}/aats) as single cards or as a set of six.
+_Resting Bear Face_ cards, available during _[Art Trails 2024]({{ site.url}}/trails)_ as single cards or as a set of six.
 
-**Caption Contest during Art at the Source:** There will be a book of caption ideas for the RBF series, enter yours to get a set of eight -- the six originals, and two new unseen cards -- sent to you if your caption truly captures the spirit! It's the only way to get those latest cards.
+_Now also available at Silk Moon Gallery in Sebastopol!_
 
-(You can enter via the link button below, too)
+<!-- <**Caption Contest during Art Trails:** There will be a book of caption ideas for the RBF series, enter yours to get a set of eight -- the six originals, and two new unseen cards -- sent to you if your caption truly captures the spirit! It's the only way to get those latest cards.
+
+(You can enter via the link button below, too)> -->
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20RBF%22&body=Please%20keep%20me%20informed%20about%20updates%20for%20sales%20availability%20of%20RBF">Click Here to Receive Updates on RBF Cards and Print Availability</a>
 

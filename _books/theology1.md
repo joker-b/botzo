@@ -22,7 +22,7 @@ _"The tao that can be named is not the tao."_
 
 Available as an individual book or packaged with editioned prints.
 
-_Prints will be available but the final book may only be in preview form for Art at the Source 2024 -- use the button below to request future updates._
+_Prints will be available but the final book may only be in preview form for [Art Trails 2024]({{ site.url}}/trails) -- use the button below to request future updates._
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Updates%20on%20%22CT1%22&body=Please%20keep%20me%20informed%20of%20updates%20on%20sales%20availability%20of%20%22Crptotheology%20%281%29%22">Click Here to Receive Updates on _CT1_ Book and Print Availability</a>
 

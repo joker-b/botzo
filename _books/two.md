@@ -23,13 +23,14 @@ This original work, in an edition of _ONE,_ offers you the rare chance to make t
 <figcaption><i>The Two Algorithms of Life</i></figcaption>
 </figure>
 
-<center>
+<!-- <center>
 <p><i>Available only at the Sebastopol Center for the Arts Gallery, 282 S High Street in Sebastopol, very near Studio 16b!</i></p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.243652784131!2d-122.82990876517862!3d38.40278469077792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808430a7b5d3f45b%3A0x541e22dabaed5fc2!2sSebastopol%20Center%20For%20the%20Arts!5e0!3m2!1sen!2sus!4v1717741273049!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<p>During the AatS Open Studio, additional <i>Algorithms</i>-themed items will be available at <a href="{{ site.url }}/aats">Studio 16B.</a></p>
-</center>
+</center> -->
+
+<p>During <a href="{{ site.url }}/trails">Art Trails 2024</a>  <i>Two Algorithms</i>-themed items will be available at <a href="{{ site.url }}/trails">Studio 145.</a></p>
 
 <a href="{{ site.url }}/book24">New Books for 2024.</a>
 
