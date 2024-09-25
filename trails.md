@@ -36,7 +36,7 @@ October 19th-20th and 26-27, from 10AM to 5PM.
 ### Art Trails Posts:
 
 * [Trailheads: The First Preview Exhibition and Reception]({% post_url 2024-09-04-Trailhead %})
-* [Going Postal: Sending out Promotional Cards]({% post_url 2024-09-19-Post %})
+* [Going Postal: Promotional Cards]({% post_url 2024-09-19-Post %})
 
 <!--
 <figure class="align-center">
