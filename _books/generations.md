@@ -31,6 +31,12 @@ First Printing, 2024<!-- <br/>ISBN: 9798881455224 -->
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Graffiti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Graffiti Generations_ Availability</a>
 
+<hr />
+
+#### Do You Appear in <i>Graffiti Generations?</i>
+
+<a href="mailto:kevin+books@vumondo.com?subject=I%20Appear%20in%20%22Grafitti%20Generations&body=Hi,%20I%20would %20love%20a%20free%20print...%0A%0AThanks%21">Let me know!</a> I'd be thrilled to touch base and to give you a free print.
+
 <!-- <div class="btn btn--success btn--x-large">Blah</div> -->
 
 <!-- <figure class="align-center">
