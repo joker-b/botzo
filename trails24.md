@@ -26,6 +26,11 @@ My artworks and [books]({{ site.url}}/book24) will be available for viewing and 
 
 October 19th-20th and 26-27, from 10AM to 5PM.
 
+<figure class="align-center">
+<a href="{{ site.url}}/generations"><img src="https://www.botzilla.com/pix2024/map-145.jpg"></a>
+<figcaption><i>Studio 45 in PETALUMA</i></figcaption>
+</figure>
+
 #### [2024 Art Trails Catalog](https://www.sonomacountyarttrails.org/s/24ATguide_PRESS-1.pdf)
 
 <p>&nbsp;</p>
@@ -38,6 +43,7 @@ October 19th-20th and 26-27, from 10AM to 5PM.
 * [Trailheads: The First Preview Exhibition and Reception]({% post_url 2024-09-04-Trailhead %})
 * [Going Postal: Promotional Cards]({% post_url 2024-09-19-Post %})
 
+<i>Map data © Google</i>
 <!--
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
