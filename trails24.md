@@ -44,6 +44,7 @@ October 19th-20th and 26-27, from 10AM to 5PM.
 * [Going Postal: Promotional Cards]({% post_url 2024-09-19-Post %})
 
 <i>Map data © Google</i>
+
 <!--
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2024/Bjorke-AATS-BizCard-sRGB-web.jpg">
