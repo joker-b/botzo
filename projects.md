@@ -112,7 +112,7 @@ mastless: true
     </div>
    <div class="entry h-entry">
         <header class="entry-header">
-            <h3 class="entry-title p-name">W.I.P.: Chinese Sonoma</h3>
+            <h3 class="entry-title p-name">W.I.P.: <a ref="{{ site.url }}/fstop/2025/01/01/Chinese-Sonoma.html">Chinese Sonoma</a></h3>
             <div class="entry-image-container">
                 <img class="entry-image u-photo"
                         src="https://www.botzilla.com/pix2023/reca-thumb.jpg" alt="">
