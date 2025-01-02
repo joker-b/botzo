@@ -14,9 +14,7 @@ _Photos from my ongoing "Chinese Sonoma" project will be on display at Santa Ros
 
 I began making photographs of [RECA](http://www.recacenter.org/) performances for a dancer in our family. Then rehearsals, then more. The collection has grown.
 
-In the 1800's, Chinese hands created the first great Sonoma County wineries -- Chinese immigrants provided [nearly all of the labor](https://thisdayinwinehistory.com/forgotten-history-of-chinese-immigrants-sonoma/) -- but they built no lasting Chinese settlement. Those early immigrants weren't allowed to own land, and in less than a generation they'd mostly departed. A century later new Chinese families arrived, and today three+ generations of modern Chinese Sonomans have built homes, families, connections and careers here -- a community in motion across every aspect of our county.
+In the 1800's, Chinese hands created the first great Sonoma County wineries. Chinese immigrants provided [nearly all of the labor](https://thisdayinwinehistory.com/forgotten-history-of-chinese-immigrants-sonoma/) -- but they built no lasting Chinese settlement, no persisting "Sonoma Chinatown." Those early immigrants weren't allowed to own land, and in less than a generation they'd mostly departed. A century later, new Chinese families arrived, and today three+ generations of modern Chinese Sonomans have built homes, families, connections and careers here -- a community in motion across every aspect of the county.
 
-The joys of shared music and dance continue, and these photos have helped this Norwegian American to feel a part of our ever-richer shared Sonoma Life.
-
-
+The joys of shared music and dance continue, and these photos have helped this Norwegian American to also feel part of our ever-richer shared Sonoma Life.
 
