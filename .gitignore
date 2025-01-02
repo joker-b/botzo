@@ -6,6 +6,7 @@ _site
 _posts/botzo-win.sublime-workspace
 *.tar.gz
 *.swp
+vendor
 .DS_Store
 Gemfile.lock
 pix2022
