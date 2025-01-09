@@ -2,13 +2,24 @@
 layout: post
 title: "RECA in Motion"
 image:
-  path: https://www.botzilla.com/pix2025/bjorke_Yin__KEV1685.jpg
-  thumbnail: https://www.botzilla.com/pix2025/bjorke_Yin__KEV1685.jpg
+  path: https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg
+  thumbnail: https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg
 categories: [fStop]
-tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _China, _SeeSee]
+tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _Slides, _China, _SeeSee]
+slides: [ 
+  [ https://www.botzilla.com/pix2025/RECA/h-bjorke_Fair__KEV2775.jpg ],
+  [ https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg ],
+  [ https://www.botzilla.com/pix2025/RECA/j-bjorke_RECA__KEV1039.jpg ],
+  [ https://www.botzilla.com/pix2025/RECA/a-bjorke_RECA22_MO280970c.jpg ],
+  [ https://www.botzilla.com/pix2025/RECA/g-bjorke_RECA__KEV1428.jpg ],
+  [ https://www.botzilla.com/pix2025/RECA/p-_KEV4845b.jpg ]
+]
+
+slideDelay: 6000
+picless: true
 ---
 
-_Selected photos from my ongoing "Chinese Sonoma" project will be on display at Santa Rosa's [Finley Center](https://www.srcity.org/2110/Finley-Community-Center) throughout January 2025._
+_Sixteen selected photos from my ongoing "Chinese Sonoma" project are on display at Santa Rosa's [Finley Center](https://www.srcity.org/2110/Finley-Community-Center) throughout January 2025._
 
 <!--more-->
 
