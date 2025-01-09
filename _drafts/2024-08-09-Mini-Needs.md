@@ -82,8 +82,7 @@ If you are addicted to your Nik filters when using Lightroom or Photoshop, consi
 
 If you don't have adequate iCloud capacity, try copying instead to Google Drive of DropBox -- I've tried all, and settled on iCloud because it was the most stable and could deal with wi-fi dropping-out, the iPad goinf to sleep, etc.
 
-Don't skimp on your power adapter. Get a good one with a little headroom for running the SSD (and maybe even charging your phone and/opr camera batteries at the same time).
-
+Don't skimp on your power adapter. Get a good one with a little headroom for running the SSD (and maybe even charging your phone and/or camera batteries at the same time).
 
 
 <figure class="align-center">
