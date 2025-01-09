@@ -7,12 +7,12 @@ image:
 categories: [fStop]
 tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _Slides, _China, _SeeSee]
 slides: [ 
-  [ https://www.botzilla.com/pix2025/RECA/h-bjorke_Fair__KEV2775.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/j-bjorke_RECA__KEV1039.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/a-bjorke_RECA22_MO280970c.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/g-bjorke_RECA__KEV1428.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/p-_KEV4845b.jpg ]
+  [ pix2025/RECA/h-bjorke_Fair__KEV2775.jpg ],
+  [ pix2025/RECA/n-bjorke_Yin__KEV1685.jpg ],
+  [ pix2025/RECA/j-bjorke_RECA__KEV1039.jpg ],
+  [ pix2025/RECA/a-bjorke_RECA22_MO280970c.jpg ],
+  [ pix2025/RECA/g-bjorke_RECA__KEV1428.jpg ],
+  [ pix2025/RECA/p-_KEV4845b.jpg ]
 ]
 
 slideDelay: 6000
