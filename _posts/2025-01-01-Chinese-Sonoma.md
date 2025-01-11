@@ -7,15 +7,15 @@ image:
 categories: [fStop]
 tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _Slides, _China, _SeeSee]
 slides: [ 
-  [ https://www.botzilla.com/pix2025/RECA/h-bjorke_Fair__KEV2775.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/j-bjorke_RECA__KEV1039.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/a-bjorke_RECA22_MO280970c.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/g-bjorke_RECA__KEV1428.jpg ],
-  [ https://www.botzilla.com/pix2025/RECA/p-_KEV4845b.jpg ]
+  [ pix2025/RECA/h-bjorke_Fair__KEV2775.jpg, The County Fair ],
+  [ pix2025/RECA/n-bjorke_Yin__KEV1685.jpg, The Barn ],
+  [ pix2025/RECA/j-bjorke_RECA__KEV1039.jpg, The Classroom ],
+  [ pix2025/RECA/a-bjorke_RECA22_MO280970c.jpg, The Museum ],
+  [ pix2025/RECA/g-bjorke_RECA__KEV1428.jpg, The Auditorium ],
+  [ pix2025/RECA/p-_KEV4845b.jpg, The University ]
 ]
 
-slideDelay: 6000
+slideDelay: 4500
 picless: true
 ---
 
