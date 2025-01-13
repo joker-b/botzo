@@ -7,5 +7,6 @@ _posts/botzo-win.sublime-workspace
 *.tar.gz
 *.swp
 vendor
+.bundle
 .DS_Store
 pix2022
