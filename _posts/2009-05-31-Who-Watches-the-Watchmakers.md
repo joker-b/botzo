@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/blog/pix2009/P1040773.jpg
   thumbnail: https://www.botzilla.com/blog/pix2009/P1040773.jpg
 categories: [Desk]
-tags: [_Phase2, Essay]
+tags: [_Phase2, Essay, _xfer]
 ---
 
 <!-- ![P1040773.jpg]({{ 'https://www.botzilla.com/blog/pix2009/P1040773.jpg' | absolute_url }}) -->

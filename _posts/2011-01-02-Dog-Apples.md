@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg
   thumbnail: https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg
 categories: [PhotoRant]
-tags: [_Phase2, Essay, _Painting, _Exhibits]
+tags: [_Phase2, Essay, _Painting, _Exhibits, _xfer]
 ---
 
 <!-- ![bjorke_P1110968cr.jpg]({{ 'https://www.botzilla.com/blog/archives/pix2010/bjorke_P1110968cr.jpg' | absolute_url }}) -->

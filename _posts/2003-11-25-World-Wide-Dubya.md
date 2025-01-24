@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/bjorke_VS0095_2003_11-redux4-2023.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_VS0095_2003_11-redux4-2023.jpg
 categories: [Desk]
-tags: [Essay, _Ancient, _England, _Iraq, _Amreeka, _Portrait]
+tags: [Essay, _Ancient, _England, _Iraq, _Amreeka, _Portrait, _xfer]
 ---
 
 <i>(Explaining US Foreign Policy, London)</i>

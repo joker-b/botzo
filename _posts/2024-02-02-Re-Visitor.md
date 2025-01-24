@@ -5,7 +5,7 @@ image:
   path: https://botzilla.com/pix2024/bjorke_Fair__KEV2466r.jpg
   thumbnail: https://botzilla.com/pix2024/bjorke_Fair__KEV2466r.jpg
 categories: [fStop]
-tags: [_Phase4, _Mono, _Portrait, _Projects, _Exhibits]
+tags: [_Phase4, _Mono, _Portrait, _Projects, _Exhibits, _xfer]
 ---
 
 A winnah!

@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg
   thumbnail: https://www.botzilla.com/pix2025/RECA/n-bjorke_Yin__KEV1685.jpg
 categories: [fStop]
-tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _Slides, _China, _SeeSee]
+tags: [Sketchbook, _Phase4, _Sonoma, _Projects, _Exhibits, _Slides, _China, _SeeSee, _xfer]
 slides: [ 
   [ pix2025/RECA/h-bjorke_Fair__KEV2775.jpg, The County Fair ],
   [ pix2025/RECA/n-bjorke_Yin__KEV1685.jpg, The Barn ],

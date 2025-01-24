@@ -2,7 +2,7 @@
 layout: post
 title: "Billy-Jacked: Mortensen's Stand Method"
 categories: [PhotoRant]
-tags: [Film, Darkroom, _Phase1, _Mono, _Portrait]
+tags: [Film, Darkroom, _Phase1, _Mono, _Portrait, _xfer]
 ---
 
 

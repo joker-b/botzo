@@ -6,7 +6,7 @@ image:
   path: https://www.botzilla.com/pix2024/bjorke_Napa_KBXF2468.jpg
   thumbnail: https://www.botzilla.com/pix2024/bjorke_Napa_KBXF2468.jpg
 categories: [Hacking]
-tags: [_Phase4, Essay, Software, _Bicycle]
+tags: [_Phase4, Essay, Software, _Bicycle, _xfer]
 ---
 
 Five or six years ago, I found a simple way to squash social-media addiction, one that I haven't seen among the many 240+ page self-help books offering paths to escape from the modern internet Attention Machine.

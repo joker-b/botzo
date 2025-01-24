@@ -2,7 +2,7 @@
 layout: post
 title: "Camera technology and photo style"
 categories: [PhotoRant]
-tags: [_Ancient, _Phase1, Essay]
+tags: [_Ancient, _Phase1, Essay, _xfer]
 ---
 In reading Bill Jay's and David Hurn's <a href="http://www.lenswork.com/obp.htm" target="rantframe"><i>On Being a Photographer,</i></a> I was struck by Hurn's comments about shooting many photos of a <i>static</i> subject, but fewer of a moving one, which was much harder to get balanced and well-formed for the camera.
 

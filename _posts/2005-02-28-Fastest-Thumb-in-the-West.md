@@ -2,7 +2,7 @@
 layout: post
 title: "Fastest Thumb in the West: The Story of the Contax Kid"
 categories: [GearHead]
-tags: [Contax, Zeiss, Film, _Phase1]
+tags: [Contax, Zeiss, Film, _Phase1, _xfer]
 ---
 
 ![Contax G2 the RIGHT way]({{ 'https://www.botzilla.com/pix2005/thumb.jpg' | absolute_url }})

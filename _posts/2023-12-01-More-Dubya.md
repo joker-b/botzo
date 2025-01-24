@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2023/bjorke_VS0095_2003_11-redux4-2023.jpg
   thumbnail: https://www.botzilla.com/pix2023/bjorke_VS0095_2003_11-redux4-2023.jpg
 categories: [Desk]
-tags: [Essay, _England, _Iraq, _Amreeka, _Portrait, _Press, _Bush]
+tags: [Essay, _England, _Iraq, _Amreeka, _Portrait, _Press, _Bush, _xfer]
 ---
 
 <div class="notice">

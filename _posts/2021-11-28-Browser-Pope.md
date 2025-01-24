@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
   thumbnail: https://www.botzilla.com/pix2021/westphalia-labberton-1884.jpg
 categories: [Hacking]
-tags: [Featured, Software, Neurography, Essay, _Phase4]
+tags: [Featured, Software, Neurography, Essay, _Phase4, _xfer]
 ---
 
 The excitement of 2021 about "the metaverse" hinges on hardware, but probably not in the way you think.
