@@ -39,3 +39,9 @@ gem "rexml", "~> 3.4"
 gem "jekyll-tagging", "~> 1.1"
 
 gem "webrick", "~> 1.9"
+
+gem "csv", "~> 3.3"
+
+gem "base64", "~> 0.2.0"
+
+gem "bigdecimal", "~> 3.1"
