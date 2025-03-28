@@ -18,9 +18,9 @@ inline_nav: true
 </figcaption>
 </figure> -->
 
-<h1>Coming in June:<br/>Art at the Source 2025</i></h1>
+<h1>Coming to Petaluma in June 2025</h1>
 
-Coming up in Petaluma, I'll be showing new work for Art at the Source 2025 -- prints, books, and maybe even a robot or two. Watch this space!
+I'll be showing new and existing work for Art at the Source 2025 -- prints, books, and maybe even a robot or two. Watch this space!
 
 <!--
 
