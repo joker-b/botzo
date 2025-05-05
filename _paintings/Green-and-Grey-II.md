@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Green and Grey II"
 mastless: true
-rank: 54
+rank: 48
 image:
   path: "https://www.botzilla.com/pix_ssl/Green-and-Grey-II.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Green-and-Grey-II.jpg"

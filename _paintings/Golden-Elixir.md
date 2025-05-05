@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Golden Elixir"
 mastless: true
-rank: 42
+rank: 58
 image:
   path: "https://www.botzilla.com/pix_ssl/Golden-Elixir.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Golden-Elixir.jpg"

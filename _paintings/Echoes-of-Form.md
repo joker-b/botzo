@@ -1,6 +1,6 @@
 ---
 layout: seesee/post-coll
-title: "Inspired"
+title: "Echoes of Form"
 mastless: true
 rank: 100
 image:
