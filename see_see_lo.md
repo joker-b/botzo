@@ -22,10 +22,10 @@ image:
 <tr>
 <td><img src="https://www.botzilla.com/pix_ssl/Embrace.jpg" class="entry-feature-image u-photo"></td>
 <td style="text-align:center;">
-<h2 class="ss-page-subtitle"><span class="ss-crunch">Open Studio</span><br/>
-June&nbsp;7-8 &amp; June&nbsp;14-15<br/>
+<h2 class="ss-page-subtitle ss-crunch">Open Studio</h2>
+<h2 class="ss-page-subtitle">June&nbsp;7-8 &amp; June&nbsp;14-15<br/>
 10:00-17:00</h2>
-<h2 class="ss-page-subtitle">401 7th Street #15<br/>
+<h2 class="ss-page-subtitle">401 7th St #15<br/>
 Petaluma CA 94952</h2>
 <h2 class="ss-page-subtitle">IG: <a href="https://www.instagram.com/seeseeloca/">seeseeloca</a><br/>
 SeeSeeLo.com</h2>
