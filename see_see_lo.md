@@ -14,13 +14,9 @@ image:
 
 <!-- 6 May 2025 -->
 
-<div >
-<center>
-<hr>
-<h1 class="ss-page-subtitle ss-crunch" style="color: #9d9">Art at the Source 2025</h1>
-<table style="width: 80%;">
-<tr>
-<td><img src="https://www.botzilla.com/pix_ssl/Embrace.jpg" class="entry-feature-image u-photo"></td>
+<div style="padding: 5%;">
+<h1 class="ss-page-subtitle ss-crunch" style="color: #7d7">Art at the Source 2025</h1>
+<table><tr><td><img src="https://www.botzilla.com/pix_ssl/Embrace.jpg" class="entry-feature-image u-photo" style="padding:2%"></td>
 <td style="text-align:center;">
 <h2 class="ss-page-subtitle ss-crunch">Open Studio</h2>
 <h2 class="ss-page-subtitle">June&nbsp;7-8 &amp; June&nbsp;14-15<br/>
@@ -29,12 +25,7 @@ image:
 Petaluma CA 94952</h2>
 <h2 class="ss-page-subtitle">IG: <a href="https://www.instagram.com/seeseeloca/">seeseeloca</a><br/>
 SeeSeeLo.com</h2>
-</td>
-</tr>
-</table>
-</center>
-</div>
-
+</td></tr></table></div>
 
 My artwork draws inspiration from the everyday beauty of life and wonders of nature. Color is my voice, a vibrant language I use to evoke emotions in my viewers. The greatest reward is when my art resonates with someone, creating a connection through shared experience.
 {: .ssText }
