@@ -2,14 +2,39 @@
 layout: seesee/post-unlinked
 date: 2022-05-16
 title: "See See Lo"
-image:
-  old_path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
-  path: https://www.botzilla.com/pix2024/ss-card-2024.jpeg
 mastless: true
 inline_nav: false
 ---
 
-<!-- 2 May 2024 -->
+<!--
+image:
+  old_path: https://www.botzilla.com/pix2021/bjorke_Tele_LKAB7850c.jpg
+  path: https://www.botzilla.com/pix2024/ss-card-2024.jpeg
+-->
+
+<!-- 6 May 2025 -->
+
+<div >
+<center>
+<hr>
+<h1 class="ss-page-subtitle ss-crunch" style="color: #9d9">Art at the Source 2025</h1>
+<table style="width: 80%;">
+<tr>
+<td><img src="https://www.botzilla.com/pix_ssl/Embrace.jpg" class="entry-feature-image u-photo"></td>
+<td style="text-align:center;">
+<h2 class="ss-page-subtitle"><span class="ss-crunch">Open Studio</span><br/>
+June&nbsp;7-8 &amp; June&nbsp;14-15<br/>
+10:00-17:00</h2>
+<h2 class="ss-page-subtitle">401 7th Street #15<br/>
+Petaluma CA 94952</h2>
+<h2 class="ss-page-subtitle">IG: <a href="https://www.instagram.com/seeseeloca/">seeseeloca</a><br/>
+SeeSeeLo.com</h2>
+</td>
+</tr>
+</table>
+</center>
+</div>
+
 
 My artwork draws inspiration from the everyday beauty of life and wonders of nature. Color is my voice, a vibrant language I use to evoke emotions in my viewers. The greatest reward is when my art resonates with someone, creating a connection through shared experience.
 {: .ssText }
