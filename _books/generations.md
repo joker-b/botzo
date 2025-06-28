@@ -12,7 +12,7 @@ mastless: false
 inline_nav: true
 ---
 
-<p class="notice">Signed copies of <i>Graffiti Generations</i> are now available during Sonoma County art events, and at the <a href="https://www.petalumaartscenter.org/" target="_blank">Petaluma Arts Center</a> -- you can now also <a href="https://www.magcloud.com/browse/issue/2824167?__r=97979" target="_blank">buy the print or digital editions online.</a></p>
+<p class="notice"><i>Graffiti Generations</i> is <a href="https://www.magcloud.com/browse/issue/2824167?__r=97979" target="_blank">now available online!</a><br /><br />You can also get a signed copy during Sonoma County art events, and at the <a href="https://www.petalumaartscenter.org/" target="_blank">Petaluma Arts Center,</a> or included with any purchase of a <i>Graffiti Generations</i> art print.</p>
 
 The 1973 movie _American Graffiti_ was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and events throughout each year that always include the local NorCal Car Culture.
 

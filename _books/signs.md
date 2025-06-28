@@ -12,6 +12,8 @@ mastless: false
 inline_nav: true
 ---
 
+<p class="notice"><i>Forgotten Signs</i> is <a href="https://www.blurb.com/b/11960095-forgotten-signs" target="_blank">now available online!</a> 64 pages of illustrations and interpretation.<br /><br />You can also get a signed copy of the paper back or the original hardcover edition in person during Sonoma County art events or included with any purchase of a <i>Forgetten Signs</i> art print.</p>
+
 _Forgotten Signs_ was begun by a pair of beloved Hong Kong guinea pigs, during the season of the annual lunar new year.
 
 We wondered if their personalities were influenced by the calendar. And as animals without a calendar presence of their own, what might it be?
@@ -26,7 +28,13 @@ Available as an individual hardcover book or in a gallery edition, packaged with
 
 First Printing, 2024<br/>ISBN 9798881425265
 
-<a href="{{ site.url }}/book24">New Books for 2024.</a>
+---
+
+<!--
+<iframe id="data-blurb-bookshare-11960095" data-bindattr-87="87" height="100%" data-bindattr-88="88" width="100%" data-bindattr-89="89" src="https://www.blurb.com/bookshare/app/index.html?bookId=11960095" data-bindattr-90="90" frameborder=0 allowfullscreen='' onload='this.focus()' scrolling='no'> </iframe>
+-->
+
+<a href="{{ site.url }}/book24">More Books.</a>
 
 <!--
 <figure class="align-center">
