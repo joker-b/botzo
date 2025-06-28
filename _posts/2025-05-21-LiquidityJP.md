@@ -10,9 +10,11 @@ tags: [_Phase4, _Travel, _Japan, AATS25, _xfer, _Projects, _Liquidity, _Portrait
 
 <center><i>Station, April 2025.</i></center><br/>
 
-I'm reluctant to call this a _Liquidity_ portrait since it's not part of that project, nor is it, like _<a href="{{ site.url }}/liquiditysf/" rel="bookmark">LiquiditySF,</a>_ about the banking district. And yet.
+I'm reluctant to call this made-in-Japan a _Liquidity_ portrait since it's not part of that project, nor is it, like _<a href="{{ site.url }}/liquiditysf/" rel="bookmark">LiquiditySF,</a>_ about the banking district. And yet.
 
 I guess there are umbrellas? What I aim for in a "liquidity" is the flow of people, the tension between identity, collective motion, presence and a sense of being carried along by an impatient world. Finding moments in the flow, usually driven by urgent commerce.
+
+<!--more-->
 
 Not long ago I discovered from <a href="https://joelpulliam.substack.com/p/36-moment">Joel Pulliam</a> that photographer <a href="https://iypc.moak.jp/?lang=en">Yasuhiro Ishimoto</a> had included some similar-looking portraits in his 2004 book _Moment._  I had to see them.
 
