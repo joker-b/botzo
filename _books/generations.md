@@ -12,11 +12,11 @@ mastless: false
 inline_nav: true
 ---
 
-<p class="notice"><i>Graffiti Generations</i> is <a href="https://www.magcloud.com/browse/issue/2824167?__r=97979" target="_blank">now available online!</a><br /><br />You can also get a signed copy during Sonoma County art events, and at the <a href="https://www.petalumaartscenter.org/" target="_blank">Petaluma Arts Center,</a> or included with any purchase of a <i>Graffiti Generations</i> art print.</p>
+<p class="notice--info"><i>Graffiti Generations</i> is <a href="https://www.magcloud.com/browse/issue/2824167?__r=97979" target="_blank">now available for purchase online!</a><br /><br />You can also get a signed copy during Sonoma County art events,  at the <a href="https://www.petalumaartscenter.org/" target="_blank">Petaluma Arts Center,</a> or included with the purchase of any size <a href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations%20Prints&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20%22Graffiti%20Generations%22%20prints.%0A%0AThanks%21"><i>Graffiti Generations</i> art print.</a></p>
 
-The 1973 movie _American Graffiti_ was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated in an annual parade and events throughout each year that always include the local NorCal Car Culture.
+The 1973 movie _American Graffiti_ was set in a vaguely-1962 everytown. The location chosen to film most of this pre-Vietnam-era idyll was the small city of Petaluma, in southern Sonoma County. Those cruising streets are still here, celebrated ovr the decades since in an annual parade and civic events throughout each year that always include classics and hotrods.
 
-NorCal Car Culture is a bigger-than-life, partly-imaginary world with space for creative interpretation, like the Old West of cowboy movies – but in the world of Car Culture nostalgia, everyone is a Good Guy. All ages can and do join in: Dads, daughters, neighbors who in everyday life might never otherwise connect.
+NorCal Car Culture is a bigger-than-life, slightly-imaginary world with plenty of space for creative interpretation,not unlike the Old West of cowboy movies – but in the world of Car Culture nostalgia, everyone is a Good Guy. All ages can and do join in: Dads, daughters, neighbors, people who in everyday life might never otherwise connect.
 
 Truly great show cars are never preserved in factory-fresh condition. Like a perfectly-tattooed arm, a true show car rises above its original manufacture to be a work of art.
 
@@ -24,14 +24,12 @@ These photos celebrate some of what I’ve seen over the past few years among lo
 
 <figure class="align-center">
 <a href="{{ site.url}}/generations"><img src="https://www.botzilla.com/pix2024/covers/generations-digest-1.jpg"></a>
-<figcaption><i>Graffiti Generations</i></figcaption>
+<figcaption>Sample pages from <i>Graffiti Generations</i></figcaption>
 </figure>
-
 
 Second Printing, 2025<!-- <br/>ISBN: 9798881455224 -->
 
-
-<a href="{{ site.url }}/book24">More Books</a>
+<a href="{{ site.url }}/books">More Books</a>
 
 <a class="btn btn--info btn--large" href="mailto:kevin+books@vumondo.com?subject=Please%20Keep%20Me%20Updated%20about%20%22Grafitti%20Generations&body=Let%20me%20know%20about%20updates%20on%20sale%20and%20availability%20of%20your%20book%20%22Graffiti%20Generations.%22%0A%0AThanks%21">Click Here to Receive Updates on _Graffiti Generations_ Availability</a>
 
