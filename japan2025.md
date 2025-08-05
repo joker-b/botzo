@@ -20,9 +20,15 @@ inline_nav: true
 
 プロジェクトが進展するにつれ、進行中の写真やページが最初にこちらに掲載されます。最新情報をご希望の方は、ぜひご登録ください。ご連絡をお待ちしております。
 
+<embed src="https://www.botzilla.com/pix2025/Digest-W-July25-i.pdf" type="application/pdf" width="100%" height="768px">
+
+<!--
+<div style="display: flex; justify-content: center;"><iframe src="https://www.botzilla.com/pix2025/j25/Digest-W-July25/index.html" width="100%" height="378"></iframe></div>
+-->
+
 <hr/>
 
-Thank you for visiting this page.
+Thank you for visiting this on-going project page.
 
 I am working on a photo project inspired by the legends and folk tales of the Minamata area and the Shiranui Sea. The project will continue through at least 2026.
 
