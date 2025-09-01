@@ -5,7 +5,7 @@ image:
   path: https://www.botzilla.com/pix2025/bjorke_LKEV4074_reco.jpg
   thumbnail: https://www.botzilla.com/pix2025/bjorke_LKEV4074_reco.jpg
 categories: [fStop]
-tags: [_Phase4, Elements, _xfer]
+tags: [_Phase4, _Elements, _Projects, _xfer]
 ---
 
 I've been in crunch mode between multiple projects, here and abroad. All of them, directly or not, are about the materials of the current era: the elements of a man-made world. More as these projects continue -- I thought I'd add a tiny slice to the site today.
