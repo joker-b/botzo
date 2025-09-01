@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Materialist"
+title: "Materialist Crunch"
 image:
   path: https://www.botzilla.com/pix2025/bjorke_LKEV4074_reco.jpg
   thumbnail: https://www.botzilla.com/pix2025/bjorke_LKEV4074_reco.jpg
@@ -23,7 +23,7 @@ A little arithmetic shows that the global mean consumption is a little under 50k
 
 It's hard to imagine a recognizable future without plastics, a class of material that carries our food, protects our medications, clothes and protects our bodies, entertains our kids. Plastics contribute to nearly every manufactured item. Most of it is thrown away after use. 
 
-Our local Sonoma County recycling plant is one of the most effective in the US, as measured in terms of successful "diversion" percentage -- redirecting plastic wastes to be reused today, rather than slowly disintegrating into a mass of microplastics filtering through the strata of a landfill for the next hundred centuries or more.
+Our <a href="https://www.wastedive.com/news/recology-sonoma-marin-mrf-expansion/705958/">local Sonoma County recycling plant</a> is one of the most effective in the US, as measured in terms of successful "diversion" percentage of 85% -- redirecting plastic wastes to be reused today, rather than slowly disintegrating into a mass of microplastics filtering through the strata of a landfill for the next hundred centuries or more.
 
 <figure class="align-center">
 <img src="https://www.botzilla.com/pix2025/bjorke_LKEV3991_reco.jpg">
