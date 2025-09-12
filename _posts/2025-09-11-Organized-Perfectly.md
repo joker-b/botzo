@@ -12,6 +12,6 @@ I'm working on <a href="https://kevinbjorke.com/japan2025/">a project</a> far fr
 
 <!--more-->
 
-But also: <i>the plan.</i> The real plan. To let the local gods have their way, and to simply be their herald. The research and expectations provide ideas of what could be, while the mud on my boots from the seven waterfalls of Yude tell me a truth that's not available from my desk. The research just helps open my eyes a little to see past my over-organized location and shot lists.
+But also: <i>the plan.</i> The real plan. To let the local gods have their way, and to simply be their herald. The research and expectations provide ideas of what could be, while the mud on my boots from the seven waterfalls of Yude tells me truths unavailable from my desk. The research just helps open my eyes a little to see past my over-organized location and shot lists.
 
 As Eisenhower's often quoted: "plans are worthless. But planning is essential." The chaos <i>is</i> the organization.
