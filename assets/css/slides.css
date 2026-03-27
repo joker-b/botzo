@@ -142,6 +142,16 @@
   to {opacity: 0}
 }
 
+.sold-painting {
+  color: red;
+}
+
+.sold-painting::after {
+  content: "  🔴 SOLD";
+  font-size: smaller;
+  color: red;
+}
+
 
 /** for images used as thumbnails in entries etc **/
 

@@ -8,6 +8,11 @@
 {% else %}
   {% assign slideclass = "" %}
 {% endif %}
+{% if entry.sold %}
+  {% assign soldclass = "sold-painting" %}
+{% else %}
+  {% assign soldclass = "" %}
+{% endif %}
 
 <article class="entry h-entry">
   <header class="entry-header">
@@ -27,12 +32,12 @@
       <div class="entry-image-container">
           <a href="{{ entry.url | relative_url }}" class="u-photo" rel="bookmark">
         {% if entry.link %}
-          <a class="u-bookmark-of" href="{{ entry.link }}"><img class="{{ slideclass }} entry-link u-photo" src="{{ entry_image }}" alt=""></a>
+          <a class="u-bookmark-of" href="{{ entry.link }}"><img class="{{ slideclass }} {{ soldclass }} entry-link u-photo" src="{{ entry_image }}" alt=""></a>
         {% else %}
-          <a href="{{ entry.url | relative_url }}" class="{{ slideclass }}" rel="bookmark"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
+          <a href="{{ entry.url | relative_url }}" class="{{ slideclass }} {{ soldclass }}" rel="bookmark"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
         {% endif %}
         {% if entry.slides %}
-        <p class="slide-play"><a href="{{ entry.url | relative_url }}" class="slide-link">▶</a></p>
+        <p class="slide-play"><a href="{{ entry.url | relative_url }}" class="slide-link {{ soldclass }}">▶</a></p>
         {% endif %}
       </div>
     {% endif %}
