@@ -147,9 +147,9 @@
 }
 
 .sold-painting::after {
-  content: "  🔴 SOLD";
-  font-size: smaller;
-  color: red;
+  content: "  🔴";
+  /* font-size: smaller;
+  color: red; */
 }
 
 
