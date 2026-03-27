@@ -3,7 +3,6 @@ layout: seesee/post-coll
 title: "Listen"
 mastless: true
 rank: 300
-sold: true
 image:
   path: "https://www.botzilla.com/pix_ssl/Listen.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Listen.jpg"
