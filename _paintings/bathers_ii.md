@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Bathers II"
 mastless: true
-rank: 22
+rank: 27
 image:
   path: "https://www.botzilla.com/pix_ssl/bathers_ii.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/bathers_ii.jpg"
