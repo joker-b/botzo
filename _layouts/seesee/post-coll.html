@@ -5,9 +5,11 @@ layout: seesee/default
 
 {% assign nameless = page.nameless | default: false %}
 {% if page.sold %}
-  {% assign soldclass = "sold-painting" %}
+  {% assign soldclass = "sold-painting-text" %}
+  {% assign soldtext = "&nbsp;&nbsp;&nbsp;&nbsp;🔴 (SOLD)" %}
 {% else %}
   {% assign soldclass = "" %}
+  {% assign soldtext = "" %}
 {% endif %}
 
 <!-- seesee/post-coll -->
@@ -20,9 +22,9 @@ layout: seesee/default
             <header class="page-header">
                 {% assign title = page.title | markdownify | strip_html %}
                 {% if page.link %}
-                    <h1 id="page-title" class="ss-page-subtitle p-name {{ soldclass }}"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+                    <h1 id="page-title" class="ss-page-subtitle p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a><span class="sold-painting-text">{{ soldtext }}</span></h1>
                 {% else %}
-                    <h1 id="page-title" class="ss-page-subtitle p-name {{ soldclass }}">{{ title }}</h1>
+                    <h1 id="page-title" class="ss-page-subtitle p-name">{{ title }}<span class="sold-painting-text">{{ soldtext }}</span></h1>
                 {% endif %}
             </header>
         {% endunless %}
