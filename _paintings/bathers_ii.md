@@ -1,6 +1,6 @@
 ---
 layout: seesee/post-coll
-title: "Bathers II, (Homage to Picasso)"
+title: "Bathers II (Homage to Picasso)"
 mastless: true
 rank: 80
 image:
