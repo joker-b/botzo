@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Embrace"
 mastless: true
-rank: 52
+rank: 210
 image:
   path: "https://www.botzilla.com/pix_ssl/Embrace.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Embrace.jpg"

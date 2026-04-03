@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "A Gift"
 mastless: true
-rank: 470
+rank: 750
 image:
   path: "https://www.botzilla.com/pix_ssl/A Gift.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/A Gift.jpg"

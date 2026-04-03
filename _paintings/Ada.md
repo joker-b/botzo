@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Ada"
 mastless: true
-rank: 140
+rank: 390
 image:
   path: "https://www.botzilla.com/pix_ssl/ada.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/ada.jpg"

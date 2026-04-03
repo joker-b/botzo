@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Echoes of Form"
 mastless: true
-rank: 100
+rank: 350
 image:
   path: "https://www.botzilla.com/pix_ssl/musee-national-picasso.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/musee-national-picasso.jpg"

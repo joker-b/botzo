@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Flying"
 mastless: true
-rank: 33
+rank: 110
 image:
   path: "https://www.botzilla.com/pix_ssl/flying.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/flying.jpg"

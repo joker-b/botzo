@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Cuddles"
 mastless: true
-rank: 380
+rank: 650
 image:
   path: "https://www.botzilla.com/pix_ssl/Cuddles.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Cuddles.jpg"

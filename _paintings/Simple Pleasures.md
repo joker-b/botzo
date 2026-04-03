@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Simple Pleasures"
 mastless: true
-rank: 270
+rank: 610
 image:
   path: "https://www.botzilla.com/pix_ssl/Simple Pleasures.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Simple Pleasures.jpg"

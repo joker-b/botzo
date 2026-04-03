@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Concentration"
 mastless: true
-rank: 30
+rank: 90
 image:
   path: "https://www.botzilla.com/pix_ssl/concentration.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/concentration.jpg"

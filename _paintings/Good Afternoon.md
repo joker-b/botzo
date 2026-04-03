@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Good Afternoon"
 mastless: true
-rank: 360
+rank: 620
 sold: true
 image:
   path: "https://www.botzilla.com/pix_ssl/Good Afternoon.jpg"
