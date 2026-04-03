@@ -1,6 +1,6 @@
 ---
 layout: seesee/post-coll
-title: "Concentration"
+title: "Concentration (Homage to Picasso)"
 mastless: true
 rank: 90
 image:
