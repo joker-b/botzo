@@ -45,3 +45,9 @@ Jekyll options include `show_drafts` `future` and `unpublished` in the config --
 You can also add `--incremental` (aka `-I`) to get incremental builds -- still not an "official" feature but fine for local editing.
 n
 Be very careful about file permissions on Mac, they often come through as 600 so be sure to 666 them before sending to the server.
+
+To extract the ranking of the paintings files, try
+```
+grep 'rank:' * | sed -e s/rank:// | sort -n -t: -k 2 | sed -e 's/.md.*//'
+```
+
