@@ -1,8 +1,8 @@
 ---
 layout: seesee/post-coll
-title: "Bathers II"
+title: "Bathers II (Homage to Picasso)"
 mastless: true
-rank: 27
+rank: 80
 image:
   path: "https://www.botzilla.com/pix_ssl/bathers_ii.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/bathers_ii.jpg"

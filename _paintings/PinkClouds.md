@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Pink Clouds"
 mastless: true
-rank: 86
+rank: 330
 image:
   path: "https://www.botzilla.com/pix_ssl/PinkClouds.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/PinkClouds.jpg"

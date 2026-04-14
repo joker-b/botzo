@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Joy"
 mastless: true
-rank: 50
+rank: 200
 image:
   path: "https://www.botzilla.com/pix_ssl/Joy.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Joy.jpg"

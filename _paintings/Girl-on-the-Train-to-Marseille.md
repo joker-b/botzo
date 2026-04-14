@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Girl on the Train to Marseille"
 mastless: true
-rank: 120
+rank: 360
 image:
   path: "https://www.botzilla.com/pix_ssl/girl-on-the-train-to-marseille.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/girl-on-the-train-to-marseille.jpg"

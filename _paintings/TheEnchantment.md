@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "The Enchantment"
 mastless: true
-rank: 84
+rank: 310
 image:
   path: "https://www.botzilla.com/pix_ssl/TheEnchantment.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/TheEnchantment.jpg"

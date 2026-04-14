@@ -2,7 +2,8 @@
 layout: seesee/post-coll
 title: "Good Morning"
 mastless: true
-rank: 36
+rank: 130
+sold: true
 image:
   path: "https://www.botzilla.com/pix_ssl/good_morning.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/good_morning.jpg"

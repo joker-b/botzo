@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Pottery Soul"
 mastless: true
-rank: 60
+rank: 230
 image:
   path: "https://www.botzilla.com/pix_ssl/Pottery-Soul.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/Pottery-Soul.jpg"

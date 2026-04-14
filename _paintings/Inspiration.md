@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Inspiration"
 mastless: true
-rank: 330
+rank: 570
 sold: true
 image:
   path: "https://www.botzilla.com/pix_ssl/Inspiration.jpg"
