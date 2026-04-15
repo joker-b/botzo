@@ -9,14 +9,14 @@ layout: seesee/default
   {% assign soldtext = "&nbsp;&nbsp;&nbsp;&nbsp;🔴 (SOLD)" %}
 {% else %}
   {% assign soldclass = "" %}
-  {% assign soldtext = "" %}
+  {% assign soldtext = "<!--unsold-->" %}
 {% endif %}
 
 <!-- seesee/post-coll -->
 <main id="main" class="main-content" aria-label="Content">
+  <!-- seesee/post-coll -->
   <article class="h-entry">
     <!-- rank: {{ page.rank }} -->
-    <!-- post -->
     <div class="page-wrapper">
         {% unless nameless %}
             <header class="page-header">
@@ -30,7 +30,7 @@ layout: seesee/default
         {% endunless %}
             
       <div class="page-content">
-        {% include page-image-smaller.html %}
+        {% include page-image-smaller.html %} <!-- no such include? -->
         {% include slideshow.html %}
         <div class="e-content ssText" style="text-align: center">
           {{ content }}

@@ -9,11 +9,14 @@
   {% assign slideclass = "" %}
 {% endif %}
 {% if entry.sold %}
+{% assign soldtext = "<!--sold-->" %}
   {% assign soldclass = "sold-painting" %}
 {% else %}
+  {% assign soldtext = "<!--unsold-->" %}
   {% assign soldclass = "" %}
 {% endif %}
 
+<!-- seesee/entry -->
 <article class="entry h-entry">
   <header class="entry-header">
     <h3 class="ss-entry-title p-name">
@@ -22,6 +25,7 @@
       {% else %}
         <a href="{{ entry.url | relative_url }}" class="ssText {{ soldclass }}" rel="bookmark">{{ title }}</a>
       {% endif %}
+      {{ soldtext }}
     </h3>
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
