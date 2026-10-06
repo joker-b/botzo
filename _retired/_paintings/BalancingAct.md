@@ -2,6 +2,7 @@
 layout: seesee/post-coll
 title: "Balancing Act"
 mastless: true
+publish: false
 rank: 340
 image:
   path: "https://www.botzilla.com/pix_ssl/BalancingAct.jpg"
