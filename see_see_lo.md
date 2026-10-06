@@ -3,42 +3,41 @@ layout: seesee/post-unlinked
 date: 2026-03-26
 title: "See See Lo"
 image:
-  old_path: https://www.botzilla.com/pix_ssl/April-2026-Open-Studio-Flyer.jpg
-  path: https://www.botzilla.com/pix_ssl/April-2026-Open-Studio-Flyer.jpg
+  old_path: https://www.botzilla.com/pix2026/ss-art-trails-2026.png
+  path: https://www.botzilla.com/pix2026/ss-art-trails-2026.png
 mastless: true
 inline_nav: false
 ---
 
 <!-- 26 March 2026 -->
 
-<!-- 
+<!--
 <div style="padding: 5%;">
-<h1 class="ss-page-subtitle ss-crunch" style="color: #7d7">Art at the Source 2025</h1>
+<h1 class="ss-page-subtitle ss-crunch" style="color: #7d7">Art Trail 2026</h1>
 <table><tr><td><img src="https://www.botzilla.com/pix_ssl/Embrace.jpg" class="entry-feature-image u-photo" style="padding:2%"></td>
 <td style="text-align:center;">
 <h2 class="ss-page-subtitle ss-crunch">Open Studio</h2>
-<h2 class="ss-page-subtitle">June&nbsp;7-8 &amp; June&nbsp;14-15<br/>
+<h2 class="ss-page-subtitle">October&nbsp;10-11 &amp; October&nbsp;17-18<br/>
 10:00-17:00</h2>
 <h2 class="ss-page-subtitle">401 7th St #15<br/>
 Petaluma CA 94952</h2>
 <h2 class="ss-page-subtitle">IG: <a href="https://www.instagram.com/seeseeloca/">seeseeloca</a><br/>
 SeeSeeLo.com</h2>
 </td></tr></table></div>
-
 -->
 
-<!--
+<p> </p>
 
 My artwork draws inspiration from the everyday beauty of life and wonders of nature. Color is my voice, a vibrant language I use to evoke emotions in my viewers. The greatest reward is when my art resonates with someone, creating a connection through shared experience.
 {: .ssText }
 
-As a creative, I like to explore all kinds of creating techniques and styles. For my studio work, I focus on oil & acrylic paintings, exploring a variety of surfaces to paint on, from traditional canvases to upcycled cigar boxes.
+In my studio work, I focus on oil & acrylic paintings, exploring a variety of surfaces to paint on, from traditional canvases to upcycled cigar boxes.
 {: .ssText }
 
--->
 
-
+<!--
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d100295.6301766402!2d-122.636712!3d38.227574!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085b6afce3ca169%3A0xc87a42786446934!2s401%207th%20St%20%2315%2C%20Petaluma%2C%20CA%2094952!5e0!3m2!1sen!2sus!4v1717094309947!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+-->
 
 **Studio**<br/>The Art Hatchery<br/>401 7th St. Ste. 15<br/>Petaluma CA 94952
 {: .ssAddress }
