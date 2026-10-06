@@ -125,6 +125,13 @@ author:
       url: https://github.com/joker-b
       icon: fab fa-github-square
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
+
 # Footer Links
 footer_links:
   - title: Twitter
