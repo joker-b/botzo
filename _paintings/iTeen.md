@@ -1,8 +1,8 @@
 ---
 layout: seesee/post-coll
-title: "Progress IV"
+title: "iTeen"
 mastless: true
-rank: 8
+rank: 840
 image:
   path: "https://www.botzilla.com/pix_ssl/ProgressIV.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/ProgressIV.jpg"

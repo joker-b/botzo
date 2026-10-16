@@ -1,6 +1,6 @@
 ---
 layout: seesee/post-coll
-title: "Walk with Me"
+title: "The Healing Path"
 mastless: true
 rank: 160
 image:
