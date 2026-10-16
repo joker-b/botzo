@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Petals And Shadows"
 mastless: true
-rank: 6
+rank: 16
 image:
   path: "https://www.botzilla.com/pix_ssl/PetalsAndShadows.jpeg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/PetalsAndShadows.jpeg"

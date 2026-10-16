@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "iBaby"
 mastless: true
-rank: 740
+rank: 7
 image:
   path: "https://www.botzilla.com/pix_ssl/iBaby.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/iBaby.jpg"

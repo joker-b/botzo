@@ -46,6 +46,22 @@ You can also add `--incremental` (aka `-I`) to get incremental builds -- still n
 n
 Be very careful about file permissions on Mac, they often come through as 600 so be sure to 666 them before sending to the server.
 
+## See See Related
+
+resizing thms:
+'''
+magick input.jpg -resize 1024x1024 -background white -gravity center -extent 1024x1024 output.jpg
+'''
+
+reviewing order:
+'''
+grep '^rank:' * | sort -n +1 
+'''
+
+this only works right if no `.md` files have spaces in their names, or use the more complcated scheme below:
+
+(old)
+
 To extract the ranking of the paintings files, try
 ```
 grep 'rank:' * | sed -e s/rank:// | sort -n -t: -k 2 | sed -e 's/.md.*//'

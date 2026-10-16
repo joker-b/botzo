@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "The Long View"
 mastless: true
-rank: 9
+rank: 30
 image:
   path: "https://www.botzilla.com/pix_ssl/TheLongView.jpeg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/TheLongView.jpeg"

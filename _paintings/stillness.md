@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Stillness"
 mastless: true
-rank: 10
+rank: 35
 image:
   path: "https://www.botzilla.com/pix_ssl/stillness.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/stillness.jpg"

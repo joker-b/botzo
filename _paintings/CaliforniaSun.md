@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "California Sun"
 mastless: true
-rank: 5
+rank: 15
 image:
   path: "https://www.botzilla.com/pix_ssl/CaliforniaSun.jpeg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/CaliforniaSun.jpeg"

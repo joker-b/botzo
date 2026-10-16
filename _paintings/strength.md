@@ -2,7 +2,7 @@
 layout: seesee/post-coll
 title: "Strength"
 mastless: true
-rank: 30
+rank: 45
 image:
   path: "https://www.botzilla.com/pix_ssl/strength.jpg"
   thumbnail: "https://www.botzilla.com/pix_ssl/thm/strength.jpg"
