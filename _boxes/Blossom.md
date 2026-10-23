@@ -2,6 +2,7 @@
 layout: seesee/post-coll
 title: "Blossom"
 mastless: true
+sold: true
 rank: 85
 image:
   path: "https://www.botzilla.com/pix_ssl/Blossom.jpg"

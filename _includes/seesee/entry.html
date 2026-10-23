@@ -38,7 +38,7 @@
         {% if entry.link %}
           <a class="u-bookmark-of" href="{{ entry.link }}"><img class="{{ slideclass }} entry-link u-photo" src="{{ entry_image }}" alt=""></a>
         {% else %}
-          <a href="{{ entry.url | relative_url }}" class="{{ slideclass }}" rel="bookmark"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
+          <a href="{{ entry.url | relative_url }}" class="{{ slideclass }}" rel="bookmark"><img class="entry-image ss-image u-photo" src="{{ entry_image }}" alt=""></a>
         {% endif %}
         {% if entry.slides %}
         <p class="slide-play"><a href="{{ entry.url | relative_url }}" class="slide-link">▶</a></p>

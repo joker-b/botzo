@@ -2,6 +2,7 @@
 layout: seesee/post-coll
 title: "Homage to Dali"
 mastless: true
+sold: true
 rank: 110
 image:
   path: "https://www.botzilla.com/pix_ssl/Homage to Dali.jpg"
